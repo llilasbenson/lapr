@@ -131,17 +131,9 @@
           "type": "column",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "image",
-              "url": "https://curio.lib.utexas.edu/assets/DAMS/utblac/utblac_8a8e5229-53c2-416c-a19f-9f83371b5dc6/TN/utblac_8a8e5229-53c2-416c-a19f-9f83371b5dc6.jpg",
-              "size": "large",
+              "url": "https://utexas.box.com/shared/static/ztdn59dms51hjfnneolwyutsny35fywu.jpg",
+              "size": "medium",
               "children": [
                 {
                   "text": ""
@@ -214,7 +206,7 @@
   "created_by": "rpr88",
   "title": "LAPR1973_03_22",
   "slug": "lapr19730322",
-  "updated_at": "2025-03-11T18:54:00.772Z",
+  "updated_at": "2025-03-11T19:00:25.830Z",
   "updated_by": "rpr88",
   "parent": "957fbd39-5a56-4e7c-8771-31b4af8623c6",
   "autogenerate": {
