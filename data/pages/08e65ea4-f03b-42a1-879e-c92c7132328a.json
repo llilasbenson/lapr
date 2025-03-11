@@ -36,10 +36,19 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "The following segment summaries were generated using ChatGPT. Part I: Panama exerts diplomatic pressure on US through the UN Security Council meeting in 1971 regarding Panamanian sovereignty and jurisdiction over the Canal Zone; Internal struggles and ideological divisions within Chile's Popular Unity government; Brazilian Bishops denounce human rights violations and discrimination under military government; Upcoming Chile-US talks on financial disputes; Latin American nations oppose Britain's Organization of American States observer status. Part II: This week's feature delves into the ongoing conflict between multinational corporations and Latin American nationalist governments, using the case of ITT's involvement in Chile as a focal point. The recent resurgence of ITT's secret memorandums has underscored the immense influence these corporations wield in the region. Senate hearings revealed ITT's extensive efforts to protect its investments in Chile, including lobbying the Nixon Administration and potentially supporting a coup against President Allende. Despite these efforts, ITT failed to prevent Allende's election. The situation highlights the complex dynamics between corporations and governments in Latin America, with nationalist sentiments often challenging corporate interest."
+                  "text": "The following segment summaries were generated using ChatGPT. Part I: Panama exerts diplomatic pressure on US through the UN Security Council meeting in 1971 regarding Panamanian sovereignty and jurisdiction over the Canal Zone; Internal struggles and ideological divisions within Chile's Popular Unity government; Brazilian Bishops denounce human rights violations and discrimination under military government; Upcoming Chile-US talks on financial disputes; Latin American nations oppose Britain's Organization of American States observer status. "
                 }
               ],
               "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "Part II: This week's feature delves into the ongoing conflict between multinational corporations and Latin American nationalist governments, using the case of ITT's involvement in Chile as a focal point. The recent resurgence of ITT's secret memorandums has underscored the immense influence these corporations wield in the region. Senate hearings revealed ITT's extensive efforts to protect its investments in Chile, including lobbying the Nixon Administration and potentially supporting a coup against President Allende. Despite these efforts, ITT failed to prevent Allende's election. The situation highlights the complex dynamics between corporations and governments in Latin America, with nationalist sentiments often challenging corporate interest."
+                }
+              ]
             }
           ]
         },
@@ -47,26 +56,9 @@
           "type": "column",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "PLACE HOLDER IMAGE",
-                  "highlight": "#907f6f"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "image",
               "url": "https://utexas.box.com/shared/static/ztdn59dms51hjfnneolwyutsny35fywu.jpg",
-              "size": "thumbnail",
+              "size": "medium",
               "children": [
                 {
                   "text": ""
@@ -77,7 +69,8 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "highlight": "#bda927",
+                  "text": "PLACE HOLDER IMAGE "
                 }
               ]
             }
@@ -218,7 +211,7 @@
   "created_by": "rpr88",
   "title": "LAPR1973_03_22",
   "slug": "lapr19730322",
-  "updated_at": "2025-03-11T19:10:34.596Z",
+  "updated_at": "2025-03-11T19:16:23.624Z",
   "updated_by": "rpr88",
   "parent": "957fbd39-5a56-4e7c-8771-31b4af8623c6",
   "autogenerate": {
