@@ -16,7 +16,7 @@
                 {
                   "bold": true,
                   "underline": true,
-                  "text": "Event Summary"
+                  "text": "Summary"
                 }
               ],
               "align": "justify"
@@ -71,7 +71,8 @@
                     {
                       "text": " Panama exerts diplomatic pressure on US through the UN Security Council meeting in 1971 regarding Panamanian sovereignty and jurisdiction over the Canal Zone."
                     }
-                  ]
+                  ],
+                  "align": "left"
                 },
                 {
                   "type": "list-item",
@@ -83,7 +84,8 @@
                     {
                       "text": " Internal struggles and ideological divisions within Chile's Popular Unity government."
                     }
-                  ]
+                  ],
+                  "align": "left"
                 },
                 {
                   "type": "list-item",
@@ -95,7 +97,8 @@
                     {
                       "text": " Brazilian Bishops denounce human rights violations and discrimination under military government."
                     }
-                  ]
+                  ],
+                  "align": "left"
                 },
                 {
                   "type": "list-item",
@@ -107,7 +110,8 @@
                     {
                       "text": " Upcoming Chile-US talks on financial disputes."
                     }
-                  ]
+                  ],
+                  "align": "left"
                 },
                 {
                   "type": "list-item",
@@ -119,7 +123,8 @@
                     {
                       "text": " Latin American nations oppose Britain's Organization of American States observer status."
                     }
-                  ]
+                  ],
+                  "align": "left"
                 },
                 {
                   "type": "list-item",
@@ -131,7 +136,8 @@
                     {
                       "text": " International Telephone and Telegraph Company's (ITT) interference in Chile's political landscape and US foreign policy to protect corporate investments."
                     }
-                  ]
+                  ],
+                  "align": "left"
                 }
               ]
             }
@@ -172,14 +178,6 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "event",
       "uuid": "c5b89397-9a5a-4ed2-aa4b-8b6b3351c72d",
       "includes": [
@@ -205,7 +203,7 @@
   "created_by": "rpr88",
   "title": "LAPR1973_03_22",
   "slug": "lapr19730322-2",
-  "updated_at": "2025-03-12T03:35:14.210Z",
+  "updated_at": "2025-03-12T03:36:54.433Z",
   "updated_by": "rpr88",
   "parent": "957fbd39-5a56-4e7c-8771-31b4af8623c6",
   "autogenerate": {
