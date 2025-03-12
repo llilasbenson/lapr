@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Here there will be an explanation on the 'countries' and 'communities' tags. How to use and view"
+        }
+      ]
+    }
+  ],
+  "title": "Tags Included",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "tags-included",
+  "created_at": "2025-03-12T02:19:38.157Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-03-12T02:19:38.157Z",
+  "updated_by": "rpr88"
+}
