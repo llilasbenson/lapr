@@ -193,19 +193,6 @@
       ]
     },
     {
-      "type": "event",
-      "uuid": "bca832b2-729a-4708-b3dc-fec3c8da0d77",
-      "includes": [
-        "media",
-        "annotations"
-      ],
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "children": [
         {
@@ -223,6 +210,6 @@
   "slug": "lapr19730419",
   "created_at": "2025-03-14T04:17:40.625Z",
   "created_by": "rpr88",
-  "updated_at": "2025-03-14T04:17:40.625Z",
+  "updated_at": "2025-03-14T04:24:56.507Z",
   "updated_by": "rpr88"
 }
