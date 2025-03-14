@@ -1,5 +1,1836 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome to Latin American Press Review, a weekly selection and analysis of important events and issues in Latin America as seen by leading world newspapers, with special emphasis on Latin American press. This program is produced by the Latin American Policy Alternatives Group."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "dbb88f16-af43-4f46-a1fb-7a7efc065fa7"
+    },
+    {
+      "start_time": 18,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Question, what were the Watergate defendants doing 12 years ago? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "5df34d0e-afd4-49ff-9daf-da5cf21ffc93"
+    },
+    {
+      "start_time": 22,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Answer, invading Cuba. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "21d1c803-8803-499f-8ef3-e781ccbbd7ef"
+    },
+    {
+      "start_time": 24,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That from Tricontinental News Service, which reminds us that at 2300 hours on the night of April 16th, 12 years ago this month, the CIA was somewhat involved in the Bay of Pigs invasion. So was Richard Nixon, who was directly involved in the effort while Vice President. So were other now familiar persons. Namely, the man in charge of the actual invasion, was Everette Howard Hunt Jr. One of his planning aids was Bernard L. Barker, a high ranking Central Intelligence Agency officer, and one of the organizers of the invasion was James McCord. Other operatives included Frank Sturgis, Virgilio Gonzalez, and Eugenio Martinez. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "916e30be-d550-4f0a-b869-e42f525d9e0d"
+    },
+    {
+      "start_time": 59,
+      "end_time": 82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tricontinental continues that, in contrast to Nixon's current well-noted reticence about his relations to these men, Nixon then insisted, in his book, \"Six Crises\", on taking credit for having a direct and substantial part in planning the Bay of Pigs invasion that was carried out by Hunt, McCord, Sturgis, Barker, and others. That from Tricontinental News Service. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "3d96cbc6-32e4-44a8-8b21-959c0926ef41"
+    },
+    {
+      "start_time": 82,
+      "end_time": 96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Moving on to news of other less covert diplomacy by the United States. Opinião of Brazil reports that the United States Department of Defense has announced that General Creighton Abrams, Chairman of the Joint Chiefs of Staff, will soon visit several countries in Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        }
+      ],
+      "uuid": "80576e44-cb1d-4f51-a5f6-3cc96908b1b2"
+    },
+    {
+      "start_time": 96,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Opinião reports from Rio de Janeiro that Brazil will be one of the nations visited by Abrams, and says that there are two theories in diplomatic circles to explain the reasons for the trip. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        }
+      ],
+      "uuid": "a76a034f-4ee9-429b-bd87-cff7cda88176"
+    },
+    {
+      "start_time": 108,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The first and simpler one is that Abrams is laying the groundwork for President Nixon's visit to Brazil later this year. The Brazilian press has reported rumors of this trip for some time now, and Opinião feels it is certain that Nixon will visit Brazil to consolidate political, economic, and financial ties between the two countries."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        }
+      ],
+      "uuid": "4e848317-3095-4260-a0ee-d786ba2205ac"
+    },
+    {
+      "start_time": 127,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Opinião continues, explaining that the second interpretation of Abrams visit is more complex. Some see it as the start of a diplomatic counteroffensive on the part of the United States against the growing ideological pluralism in Latin America, represented especially by Argentina, Chile, Peru, and Panama. Observers feel that Spanish American nations are trying to cut the economic ties which make them dependent on the United States. And that the US and the person of General Abrams will be trying to stem the rising tide of anti-Yankee feeling, probably with the help of Brazil, which feels itself more and more isolated from its Spanish-speaking neighbors, that from Opinião. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        }
+      ],
+      "uuid": "a8a82b36-5a97-4221-bb7b-7111e7be57ea"
+    },
+    {
+      "start_time": 168,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unfortunately, that may be our last report from Opinião. This independent weekly has been shut down by the Brazilian regime and the publisher arrested for editorial speculation on the military regime's succession, a theme currently forbidden in the press. Brazil has a recent history of severe press censorship, started by the military after their coup in 1964. Just prior to the shutdown of Opinião, the Miami Herald reported concerning two other papers from Brazil that- "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jamaica"
+        }
+      ],
+      "uuid": "5aaf9b10-ab23-4628-b662-80f657497418"
+    },
+    {
+      "start_time": 135,
+      "end_time": 215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Censors struck the newspaper Oestado de São Paulo, and its afternoon sister paper, Journal da Tarde, prohibiting three stories in each. Oestado covered up the censored items with letters to the editor, while Journal da Tarde used kitchen recipes. Had the papers printed the vetoed stories, federal police would've seized all the issues as they came off the press."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jamaica"
+        }
+      ],
+      "uuid": "694ad7c7-743b-4942-a3bd-195a2bae5177"
+    },
+    {
+      "start_time": 215,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Herald continues that censors are assigned by Brazil's military run government are on permanent duty at the Oestado building. The censored items were a story from the Inter American Press Association meeting in Jamaica, saying that there was press censorship in Brazil. Also, a critical quote from a federal congressman from the only political opposition party allowed in the country and testimony in a case of alleged corruption in the Army. Two days later, according to the Miami Herald, the state government withdrew its advertising from the same two newspapers. It should be noted that Oestado and the Journal da Tarde are Brazil's principle daily newspapers. We know that Brazil is the US government's major ally in South America, with Nixon having expressed the hope that other Latin American countries would follow Brazilian leadership."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jamaica"
+        }
+      ],
+      "uuid": "086b1d62-ca3b-4791-9e78-1dbc93ee8a61"
+    },
+    {
+      "start_time": 258,
+      "end_time": 287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continuing our coverage of a US diplomatic offensive, or counter offensive in Latin America, The Guardian reports that preceding General Abram's planned visit, United States General Vernon Walters, second in command of the Central Intelligence Agency, visited Brazil last month. After his visit, Brazilian General Mello declared that the United States and Brazil, \"Will continue their struggles against communism, which is showing its claws in South America.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "eb7f9f2e-5aa0-4df6-91ce-cd39f44dfb3d"
+    },
+    {
+      "start_time": 287,
+      "end_time": 305,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In another view of impending diplomatic developments and especially Nixon's possible trip to Latin America, Excélsior of Mexico reports that Nixon would encounter considerable hostility. Nixon, Excélsior reports, will encounter a Latin America radically different from that of 15 years ago when he made his last state visit there. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "b334daeb-0134-4a06-a74b-d545776e5c20"
+    },
+    {
+      "start_time": 305,
+      "end_time": 334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The hostility with which he was received in touring several countries as Vice President reflected an anti North American sentiment that had at the time barely taken hold among the students and workers. A decade later in several nations, Excélsior says, the sentiment has spread reaching even official levels. In addition, the internal situation of most countries has changed. Only in Paraguay where Alfredo Stroessner remains dictator is the political atmosphere unchanged. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "57574ca7-4279-4ae7-93f8-5c87be55dbe6"
+    },
+    {
+      "start_time": 334,
+      "end_time": 367,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Peru, 15 years ago, Nixon was welcomed by protests and stones, but he received an official apology from the government. Now, the government there itself has had several serious run-ins with the US foreign investment policies. In Venezuela, 15 years ago, Nixon was bombarded by eggs, tomatoes, and rocks, and the army was forced to intervene to literally save Nixon's life from a so-called mob. Now, while there are officially amicable relations between the two governments, Venezuela has imposed severe restrictions on the US companies operating in the region, and a humorist there suggests that Nixon had better keep a low profile."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "9e463f79-a477-44c0-a091-0cbeb6a45263"
+    },
+    {
+      "start_time": 367,
+      "end_time": 414,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior also reported that in evident disregard for Latin American needs and opinions, Nixon made a speech, April 10th, asserting that, \"Multinational corporations are a viable source of world prosperity,\" and asking the US Congress not to pass reform legislation attempting to curb their power. In addition, Nixon's new foreign trade proposals have been described by the Mexican ambassador as posing an enormous threat to Mexico. Nixon announced that if he had his way, the US would help Latin American countries only if they helped the United States. That poses a problem for Latin American countries since they are already running a major trade unbalance that is in the favor of the United States, that from Excélsior."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "67f3bb92-358f-4acb-9487-99336e6444fa"
+    },
+    {
+      "start_time": 414,
+      "end_time": 456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In addition to the trip of General Vernon Walters, second in command of the Central Intelligence Agency, the announced trip of General Creighton Abrams of the joint Chiefs of staff and the possible trip of Nixon to Latin America, William Rogers of the State Department has announced some plans for a trip. The Miami Herald reports that Secretary of State, William Rogers, will visit a half a dozen key countries in a two-week trip through Latin America next month. The 14-day trip, tentatively set from May 5th to 20th, will include stops of between one and two days in at least five Latin American nations, Mexico, Brazil, and Argentina before the inauguration there of the new Peronist government on May 25th are certainties. Columbia and Venezuela are likely stops and Peru is a possible one. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "18784e07-8521-4cb6-9275-0e940f3b5486"
+    },
+    {
+      "start_time": 456,
+      "end_time": 515,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Miami Herald continues noting that Chile, where the United States faces some of its most difficult bilateral issues, will not be included on the Roger's itinerary. Nor will Panama, where the United States has come under increasing pressure over the canal. Among bilateral issues to be raised are those of trade and tariffs, petroleum, the law of the sea, the changing role of the United States and a Latin America anxiously asserting political and economic self-determination. No high ranking US official has systematically visited Latin America since New York Governor Rockefeller undertook a protest marred country by country tour in 1969. The Nixon administration has consistently ranked Latin America near the bottom of its foreign policy priorities, but President Nixon, in a recent message to Latin American leaders, promised to accord inter-American affairs priority consideration during this, his second term. That from the financial section of the Miami Herald. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "f4ac6423-5e9d-4422-9185-5cb6b79e5faf"
+    },
+    {
+      "start_time": 515,
+      "end_time": 554,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Meanwhile, as US diplomats plan their trips, Latin American officials are not exactly waiting around. Excélsior reports that Mexican President Echeverria was visiting Moscow. President Echeverria also announced during his trip to Europe, Moscow, and Peking that he definitely will not establish relations with General Franco, the US ally who has been ruling Spain since the fascist victory there in the 1930s. Excélsior further reported that Echeverria did meet in Paris with Perón and cordial relations between Mexico and Argentina are expected to develop after the popularly elected Peronist candidate takes office when the military steps down. That report from the Mexican daily Excélsior."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "02021eb4-b9ef-493f-8803-efd007797313"
+    },
+    {
+      "start_time": 554,
+      "end_time": 572,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shifting from diplomatic moves by diplomats returned to the activities in Argentina, where the lame duck military regime of President Lanusse, having finally allowed elections and lost to the Peronist candidate Cámpora is having difficulties. Latin American Newsletter reports. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "a87bc307-0f19-40e6-a698-9d3ecd01b433"
+    },
+    {
+      "start_time": 572,
+      "end_time": 601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The shooting of the head of the military intelligence in Córdoba, the kidnapping of the former Chief of Naval Intelligence and the kidnapping of three executives of foreign companies were merely the most noteworthy items in a guerrilla offensive, which shook all of Argentina during the first weeks of April. The present escalation of guerrilla activity began at the end of March with the occupation of the partially built atomic power station of Atucha, an event which scared some officials with the implication of what might've been had the nuclear reactor been operational. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "c4bf84f5-c72c-41d5-bfa3-475e9804a5cd"
+    },
+    {
+      "start_time": 601,
+      "end_time": 630,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Atucha raid and most of the activity in March were the work of the Trotskyist, Ejército Revolucionario del Pueblo (ERP), and this was to be expected in view of the ERP, independence of the Peronist government elect. The subsequent operation of the Montoneros and the Fuerzas Armadas Revolucionarias (FAR), were less predictable as many had expected, a truce by these pro Peronist guerrillas until after the handover of power on the 25th of May at least. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "1c552a7e-d54f-4517-88b4-66b2c36f57d1"
+    },
+    {
+      "start_time": 630,
+      "end_time": 678,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are probably a number of different considerations which the Fuerzas Especiales have had to take into account. In the first place they could not allow the ERP to appear as the only armed vanguards still operating. This would've created the impression that the Trotskyists were the only authentic revolutionaries. The second motive was probably the need to obtain funds now before the new government is formed at the end of May to meet future contingencies without having to embarrass the incoming Peronist administration. The third element is an overt desire to maintain the tension, to signal to both the Peronist leadership and the armed forces that the guerrillas have the guns, as well as the popular support to back the demands for revolutionary changes in June. Once the new government is in power. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "bf896e9e-c572-488b-91d4-6644cf7be4b9"
+    },
+    {
+      "start_time": 678,
+      "end_time": 734,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It seems likely, Latin American news continues, that the successful kidnapping of the former Chief of Naval Intelligence, Admiral Aleman and the attempt to kidnap Colonel Iribarren, who was killed when he resisted, were prompted by the needs to guarantee the safety of guerrilla prisoners, while the question of an amnesty is debated. President Lanusse completely denied the possibility of an amnesty at the end of last month. In a formal statement on the subject. Allaman's kidnappers were new formed part ERP 22nd of August, a section of the ERP which had actively supported the election of Hector Cámpora on the 11th of March. One curious detail of the kidnapping was that the admiral's nephew, a young militant of the ERP, took part in the operation. A communique said that all of the election results had raised hopes for the freedom of political prisoners, \"The only way to guarantee their liberty is the massive mobilization of the people and the action of the armed vanguards.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "2a899fce-6308-464e-b470-cecd7412d69c"
+    },
+    {
+      "start_time": 734,
+      "end_time": 763,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Colonel Iribarren, the chief of intelligence of the third Army in Córdoba, Latin American newsletter reports was shot close to his home last week when he refused to accompany a group of Montoneros who held up his car. Iribarren was promoted general posthumously and the news attended the funeral in Buenos Aires. Following Iribarren's death, there were long meetings of the high command of the Army to decide on new anti-guerrilla tactics and provisions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "502256a1-06bd-41b8-9827-b8955116d58f"
+    },
+    {
+      "start_time": 763,
+      "end_time": 818,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In comparison with the attacks on senior military personnel, kidnappings of foreign executives are now routine, Latin American continues, the most noteworthy facts about the latest batch are that Kodak paid a million and a half dollars in ransom a near record to another new guerrilla organization, the Fuerzas Argentinas de Liberacion Nacional, a Maoist group for the release of a United States executive. The Bank of Boston had to pay rather less $750,000 for the release of the manager of the Rosario branch office of it's bank who had been held by the ERP. The latest kidnapping of the British Head of Nobleza Tobacco Company, a subsidiary of British American Tobacco, seems to fit neatly into the pattern and provided his employers [inaudible 00:13:24] to pay for his release. There is no reason why any executive should fear kidnapping. On the other hand, there must come some limit to the ransoms which the companies are willing to pay, and soon it will be some companies turn to pay up for the second time. When that happens, there may be trouble. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "dbbdcd21-84e7-4bfe-91e1-19f660b4b6d0"
+    },
+    {
+      "start_time": 818,
+      "end_time": 867,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The implications of the present guerrilla campaign for the future are undoubtedly important. Perón and Cámpora in particular are going to have to decide on what line to take. Cámpora has said slightly unconvincingly that the problem will disappear when his government is installed in May. This is unlikely, even though a temporary truce is possible. It would not be easy for the Peronist leadership now to turn on their guerrilla supporters who contributed in many ways to the Peronist victory, but nor will management of the armed forces be easy if the guerrillas continue to grow in strengthen prestige. The situation might be manageable if all the guerrillas were Peronists, but with Trotskyists and Maoists also in the field, it seems likely that the capitalist principle of competition will ensure continuing turbulence. This from Latin American newsletter. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "7838f308-3a8b-473e-bd1b-47726b9ed164"
+    },
+    {
+      "start_time": 867,
+      "end_time": 895,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are listening to Latin American Press Review, a weekly selection and analysis of important events and issues in Latin America. This program is produced by the Latin American policies alternatives groups. Comments and suggestions about the program are welcome and may be sent to us at 2205 San Antonio Street, Austin, Texas. This program is distributed by the Communication Center, at the University of Texas at Austin. This week's feature is on the politics of ecology with an emphasis on the special case of Brazil. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d606ce6c-e271-4b57-8784-c18adf52aaa9"
+    },
+    {
+      "start_time": 895,
+      "end_time": 921,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The ecology movement has recently captured the public's attention in industrialized countries. As the deterioration of the environment becomes more evident and the scientific evidence on the dangers of pollution accumulates, it is to be hope that Western Europe, Japan, and the United States will begin to implement policies to protect the ecosystem, but the programs proposed while popular at home are being seen as a threat to development in many parts of the world. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "14a16793-76cb-4893-a817-5f70177233b7"
+    },
+    {
+      "start_time": 921,
+      "end_time": 974,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some underdeveloped countries view ecological concerns as yet another obstacle created by the developed countries to their economic growth and are refusing to defer their dreams of industrialization because of the dangers to the ecology. The conflict between industrialized nations and the Third World over ecology is in its early stages, but important political, legal and moral questions have been raised, and these questions are of such a fundamental nature that there is some doubt as to whether they can be solved peacefully. Today we will describe the position Brazil took at the United Nations Conference on the human environment in Stockholm last year and then discuss some of the implications of their position. Though we feel that the issues advanced are of extreme importance, ironically, it seems to us that it will not be Brazil, but other poorer countries that will find themselves immersed in these conflicts. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "9f83f4a5-ada5-4df2-993c-acd62d17f022"
+    },
+    {
+      "start_time": 975,
+      "end_time": 1026,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Brazil's position in Latin America is most unique. Brazil has neither been resigned to the status of a non-developing satellite of the developed world, but neither is it moving in the direction of attaining development according to socialist models, nor is it moving towards an economics of cooperation with other underdeveloped nations. Instead, Brazil's governing military group is attempting rapid growth in industrialization similar to the developed mental methods followed by Western capitalist countries earlier in their histories. Brazil is one of the few Third World countries, perhaps the last, that has a chance of making it into the ranks of the so-called developed countries under this model of western, i.e. Capitalist development. Brazil's development seems to look favorably upon by the United States, Japan, and Western Europe, and it will presumably assume a place alongside these economically, politically and militarily. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "0e8caa63-45a3-4149-816b-ff3c5b021bb6"
+    },
+    {
+      "start_time": 1026,
+      "end_time": 1071,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We do, however, in the more general case, agree strongly with these articles' concerns over impending conflicts between developed and undeveloped nations over the usage of world resources. For given the disproportionately enormous resource usage patterns of the developed capitalist countries, it is reasonable to speculate that the development of most of the Third World will indeed be opposed by the economic elites of the developed nations as these powerful nations vie for control of limited resources. The following then is the Brazilian administration's arguments for its right to develop without regard to ecological considerations. The arguments are those developed in a series of articles from Brazil's daily Journal do Brazil, and it's weekly, Realidad. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "99b9bf45-c3d8-4050-851c-e5463f71a7f1"
+    },
+    {
+      "start_time": 1071,
+      "end_time": 1101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Brazilians were unusually blunt in Stockholm, arguing that the worst form of pollution was human poverty and that the industrial nation's concerns about the quality of air and water were luxuries the poor countries could not afford. Brazil's Minister of the Interior told the Assembly on Environment that quote, \"For the majority of the world's population, the bettering of conditions is much more a question of mitigating poverty, having more food, better clothing, housing, medical attention and employment than in seeking atmospheric pollution and its reduction.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "3cfc4115-0fef-4d8b-bab5-9d60312a51b7"
+    },
+    {
+      "start_time": 1101,
+      "end_time": 1142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Brazil's Minister of the interior's argument is open to criticism because rapid industrialization in the Third World without income redistribution often does not improve conditions for the vast majority of the population. Certainly the so-called Brazilian economic miracle has caused widespread suffering among the lower classes. In fact, it has decreased the proletarian share of goods because capital accumulation for industrialization is being achieved by a reduction in workers' real wages. In fact, the situation is so appalling that even Brazil's President Médici remarked publicly last year that, \"The economy is doing well and the people are doing poorly.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "c470f80d-16ec-4674-8f9e-57871c49dbcc"
+    },
+    {
+      "start_time": 1142,
+      "end_time": 1164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yet the Brazilians press on with their policies, justifying them with the convictions that at some point in the future, industrialization will indeed produce great benefits for all classes. This may or may not be true, but from an ecological viewpoint, the important thing is that urgent attempts to industrialize will continue under this model of development. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "6ccbc01a-6a2d-4782-a0ae-eefa44394a2b"
+    },
+    {
+      "start_time": 1164,
+      "end_time": 1190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Basically, the issue as Brazil sees it, revolves around how new ecological concerns will affect their rates of development. Brazilians want to close the enormous and widening gap between themselves and the industrialized nations. While they recognize that ecological problems are not illusory, they feel that a concern for the environment is a trap which may frustrate their desires for rapid development, and they cite three reasons for that fear. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "40231922-9bbd-41ea-938c-a29cf83f8460"
+    },
+    {
+      "start_time": 1190,
+      "end_time": 1250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "First, devices to reduce chemical and thermal pollution will be expensive and may in addition require lowering production to levels where the environment can absorb the waste generated. It's also observed that precious investment funds would become tied up in non-productive anti-pollutant devices which do not generate new capital. Perhaps most importantly, an anti-pollution campaign would increase the prices of each item produced. The consequences of a jump in prices would be disastrous for a developing economy because it would reduce the already small market for manufactured goods and create a structural block to any further economic growth. Therefore, the Brazilians do not want to take on the economic burdens of protecting the environment. They argued in Stockholm that the rich nations never had such a burden during the 19th century when they were industrializing, and that if the Third World is ever to catch up, it must now have all the advantages the developed world once did."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "aa9a2efb-cdaf-400a-bb32-afdde2a63e28"
+    },
+    {
+      "start_time": 1250,
+      "end_time": 1294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A second fear expressed by the Brazilians was that the issue of ecology will be used by the industrialized nations as a rationalization to block the Third World's development. They are afraid that rich consumer countries unable or unwilling to control pollution at home and conscious of rendering resource supplies will use these as a justification for keeping a large percentage of the species in underdevelopment and poverty. Ecological concerns have already had an effect, in fact on loan practices from the developed world. As Kalido Mendez, a delegate to the Stockholm Conference pointed out, \"It is no accident that the only contributions from the industrialized world that have not declined in the past few years have been military funds and funds designated for population control.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "8eef681e-ddf2-41cf-9241-a366b88bd180"
+    },
+    {
+      "start_time": 1294,
+      "end_time": 1314,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kalido Mendez's fears, \"Namely that the developed countries will act to block development of most of the Third World, seem very real to us. It is however, our perception of the political map that Brazil's development will be permitted even aided by the first world in an effort to make her a partner in maintaining the current power distribution.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "205af4e3-bd4f-45a4-b64d-3d241b772052"
+    },
+    {
+      "start_time": 1314,
+      "end_time": 1348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The third fear Brazil expressed in the Stockholm conference was that the ecological issue may sometime be used as an entering wedge by the industrialized nations to interfere in the internal affairs of the Third World. While this possibility seems remote at the moment, the situation could become extremely explosive if there were an ecological crisis, such as an oil shortage. Brazilians are especially sensitive to any infringement on their sovereignty because of a developing conflict over their usage of the Amazon River basin and a not dissimilar argument with Argentina over the Parana river. Both of these questions were raised at Stockholm. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "992c6f92-b641-4ec5-ad5e-546dbbbef80b"
+    },
+    {
+      "start_time": 1348,
+      "end_time": 1389,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The particulars of the Amazonian basin argument are as follows, the consequences of tampering with the ecology of the Amazon may have a very serious ramification for all people. Some scientists estimate that as much as one half of the world's oxygen supply may be generated by the foliage of this huge tropical forest. Also, that the tropical forest ecosystem is a very fragile one. Misuse of the areas such as caused by heavy mining and timbering and the concomitant erosion could convert that area of extremely thin soil layers into a desert within a generation. This may be an overstatement, but it is clear that the area plays a very important role in the world's ecosystem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "dac6a782-ee6a-43d1-a7d9-392909c265a2"
+    },
+    {
+      "start_time": 1389,
+      "end_time": 1422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Brazilians, on the other hand feel that for their successful development, they need to be able to exploit these frontier lands much as the United States used the West as a vast reservoir of untapped natural resources for population relocation and to be meted out as incentives for investment. Thus, through expensive governmental programs like the construction of the Trans-Amazonian Highway and grants of millions of acres to multinational corporations, the Brazilians are trying to develop the virgin area quickly. Brazilian army engineers have cut huge swaths through the jungle to open roads."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "e252d87e-2146-48fe-b637-2a1b477a029c"
+    },
+    {
+      "start_time": 1422,
+      "end_time": 1442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The international corporations, mostly United States based, have begun to exploit timber and mineral resources and plan to turn thousands of square miles of forest into pasture land. All of this is being done very rapidly with only a superficial knowledge of the Amazon's ecosystem and with the hope that these disruptions of the forest will not touch off an ecological disaster."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "df1619db-caac-4c85-bf79-d1da3bf7fc76"
+    },
+    {
+      "start_time": 1442,
+      "end_time": 1482,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It should be noted as an important aside that the involvement of multinational corporations are an aggravating element in this conflict between rapid development and ecological soundness. Because they remit large profits to their headquarters, usually in the United States, they increase the extent of ecological exploitation necessary to produce the desired level of development for Brazil itself. Finally, international corporations seem to be beyond the control of any nation and try to maximize profits without regard for the wellbeing of any single country. It appears doubtful that these companies will adopt policies which follow sound ecological principles. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "0f6313eb-3596-4b8a-a3e6-fbf12d632505"
+    },
+    {
+      "start_time": 1482,
+      "end_time": 1516,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Western environmentalists criticize the opening of the Amazon because it is being done too quickly without sufficient consideration for ecological consequences. The Brazilians answer quite simply, the Amazon is theirs and they will broke no interference, or to state the matter more sympathetically to the Brazilians, they have no intention of maintaining the Amazon as a pollution free zone so that the industrial nations can keep their industrial economies and consumption levels at the current high polluting levels. In effect, the Brazilians are claiming the right to develop at the cost of nature as the US did and continue to do so. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "3b7a2913-23e2-4b76-8527-33b9fe97a759"
+    },
+    {
+      "start_time": 1516,
+      "end_time": 1548,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A similar and equally unbending position is taken by the administration on the question of an enormous hydroelectric plant it's building on the Parana River, the Argentinians through whose country this river also flows, argue that the project will wreck havoc with the ecology of the entire area harmfully affecting fishing and farming. The Argentinians during the conference in Stockholm unsuccessfully lobbied for an agreement that would've required a nation to supply information to its neighbor about any project which might cause damage to the neighboring country. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "d0be0854-e191-4674-b029-94fa1c4f70e5"
+    },
+    {
+      "start_time": 1548,
+      "end_time": 1588,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Argentina is not in good economic or political shape at this time, so a military confrontation over the Parana does not seem likely. However, the problem certainly illustrates the explosiveness of the entire question of developmental projects and their effects on the ecology of neighboring countries. One can imagine, for example, how the US might react if the Canadians set about implementing a developmental plan that affected the entire Mississippi Valley. Argentina believes it is facing just such a situation now, and most other Third World nations will probably be in similar positions in the coming decade as competition for materials, energy, and the use of the environment increases. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "7f491c74-4285-4a36-8de6-ab2caed837fe"
+    },
+    {
+      "start_time": 1588,
+      "end_time": 1628,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this report, we have emphasized the fears that underdeveloped nations feel about the ecological issue, and how it might slow their development and compromise their sovereignty. There is no doubt that if they followed the industrialized country's advice and took better care of the environment, their rate of development would be slowed. Furthermore, their assertion that the rich nations industrialized without considering the ecological balance is historically accurate, and it is also correct to say that almost all pollution comes from Europe, Japan, and the United States, but all the arguments in the world do not change certain grim realities, which must be faced by rich and poor nations alike, for there is an ecological crisis and it does involve all of humanity. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "7e8af003-bd69-4935-b078-c5717058e256"
+    },
+    {
+      "start_time": 1628,
+      "end_time": 1676,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If there is a solution at all to this problem, it must fly with the richer nations. It was the industrialized nations which created the environmental crisis in the first place through decades of dumping waste into the biosphere. It was their non-rational, indeed wasteful usage of energy and natural resources that hastens us towards scarcity. The developed countries have accustomed themselves to using grossly and equitable shares of the world's limited resources, and it is a continuance of this policy, which will absolutely prohibit Third World development and make clashes between poor and rich nations over resource usage inevitable. As these practices continue, it is hardly realistic to ask the undeveloped world, not to pollute and to remain undeveloped while the developed world continues it's high pollution and consumption rates."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "56264d6a-e7bd-4fea-9caa-ef871248be3a"
+    },
+    {
+      "start_time": 1676,
+      "end_time": 1711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So the industrialized nations must cease polluting and bear the economic burden for cleaning up their own territories. More importantly, the general high level of industrial activity must be controlled. To achieve this, the richer nations must stop expanding their economies so rapidly. In other words, the industrialized nations must be willing to reduce their standards of resource use and energy use, while helping to raise the economies of other countries out of their current conditions of abject poverty. They must make a serious attempt to redistribute their wealth, which would allow the Third World countries to be industrialized in an environmentally sound way. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "683dab77-c9d2-446a-aac8-eb9cf2e2a6bb"
+    },
+    {
+      "start_time": 1711,
+      "end_time": 1753,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unfortunately, we do not expect this to happen because we see no way it could be done given the present political, economic, and military structures of the richer nations. Perhaps an ecological disaster will be necessary to awaken people to the need for fundamental change on a global scale. Our hope is that such a disaster will not do irreparable harm to the biosphere. Perhaps wars for the control of natural resource and the usage of energy will be inevitable before people become enlightened as to the consequences of so, does equal a distribution of the world's wealth. Here to, we can only hope and plead that somehow reason and a sense of human solidarity can spare humanity this sort of bloodbath. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "2a8f3c70-eb97-4376-a59c-2633df9a0279"
+    },
+    {
+      "start_time": 1753,
+      "end_time": 1780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to Latin American Press Review, a weekly selection and analysis of important events and issues in Latin America, as seen by leading world newspapers with special emphasis on the Latin American Press. This program is produced by the Latin American Policies Alternatives Group. Comments and suggestions about the program are welcome and may be sent to us at 2205 San Antonio Street, Austin, Texas. This program is distributed by the Communication Center, University of Texas, of Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ad8a57bf-9e4b-4f14-8689-ff78bb5c2df1"
+    }
+  ],
   "set": "Default",
   "event_id": "cc11f3f8-f666-4030-a761-f86c879ce18c",
   "source_id": "ce271098-fe03-443b-926b-0e23c4636e3d"
