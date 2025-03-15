@@ -1,5 +1,1403 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome to Latin American Press Review, a weekly selection and analysis of important events and issues in Latin America as seen by leading world newspapers, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "604a0c9d-a938-4ef9-abec-36d7b876eac0"
+    },
+    {
+      "start_time": 17,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior reports from Mexico City that, on May 1st, while workers' demonstrations were taking place in all parts of the republic, mass political murder again struck the Mexican democratic struggle. The scene was Puebla, traditional bastion of the Mexican right, noted traditionally for its numerous churches and, more recently, for its ferocious politics. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "415b7630-ca9c-414d-970c-7fd56c9ca749"
+    },
+    {
+      "start_time": 37,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to Excélsior, five students were gunned down and a dozen others, including four police, were injured when members of the student movement attempted to distribute leaflets at the local Mayday parade. According to police, the students had attempted to alter the direction of the parade. The official statement of the student organization claimed that the students were killed at a meeting called to discuss and protest the imprisonment of students passing out literature to the workers. Police open fired at the meeting from nearby rooftops and a number of students were shot down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "9b87a3b8-35c2-450d-90e6-bd33e4b2e7b4"
+    },
+    {
+      "start_time": 69,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior continues, the following day, as President President Luis Echeverría ordered an investigation of the incident, Puebla's governor stated that the killings ought to be a lesson to the students. Days later, the governor himself was in turn deposed due to a growing nationwide reaction, including a national university protest strike and numerous protests from students and worker organizations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "13c194ec-41c5-4605-8bef-1c7903254fab"
+    },
+    {
+      "start_time": 92,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Puebla industrialists and businessmen organize a transportation and service stoppage to protest the deposition of the governor, while students and workers attempted to organize a mass meeting, later prohibited, to protest the stoppage. 20,000 sympathizers attended the funeral of the murdered students. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "b2ddf5cf-d52c-475b-950a-2d3e5789ef09"
+    },
+    {
+      "start_time": 109,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to Punto Crítico, Puebla has been the scene of political assassination for nearly a year now. Ever since the student movement under left wing, including communist party, leadership attained a strong measure of influence in university affairs in 1972. The students attempted to carry out reforms widening the social base of the university. They set up service brigades to supply medical aid, social services, and general information to local peasants and workers unemployed in the crisis-ridden textile industry of Puebla."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "d51f837f-434e-4758-9b5c-94fc19fa37ef"
+    },
+    {
+      "start_time": 139,
+      "end_time": 181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In July, a young architect and director of the Free People's High School was gunned down in the streets of Puebla apparently by members of a national fascist political organization. Despite demands for a thorough investigation and government promises to comply, to this date, no one has been accused of the crime. In October, the right organized an anti-communist and pro-religious demonstration. Amid growing labor and peasant solidarity and demonstrations of support from other universities, the reaction continued to grow. Last winter, the organizer of the service brigades was also killed in Puebla. According to reports, this investigation has also gone un-investigated by the authorities. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "f38bb69e-e0f8-4e65-9a07-b18a92b1f065"
+    },
+    {
+      "start_time": 181,
+      "end_time": 233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As Punto Critico and Siempre! describe it, Puebla is at the heart of an attack on the universities by organized elements associated with industry and the labor union bureaucracy who wish to discourage mounting student participation in the worker and peasant movements growing noticeably since 1968. The university have recently been the scene of what the government calls an educational reform designed to depoliticize the university. Puebla has now become the symbol to many of this policy. During the weeks, students in Mexico City attempted to demonstrate in solidarity with the Puebla victims. The demonstration was prohibited by government officials, and those students who persisted were violently dispersed according to Excélsior. As yet, no one has been arrested for the murders in Puebla. This report on Puebla was from Excélsior, Siempre!, and Punto Critico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "32051638-f31c-4730-a025-64185e9f9ff5"
+    },
+    {
+      "start_time": 233,
+      "end_time": 281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The London News Weekly Latin America reports that the dramatic new initiatives launched by President Nixon in Europe and Asia this year and last are not to be matched in the region nearest to the United States, Latin America. This is the only conclusion that can be drawn from the Latin American section of his annual policy review to Congress last week, which was significant for what it did not say than for what it did. The only major positive move to be announced was that the president himself is to make at least one trip to Latin America this year, preceded by his Secretary of State, William Rogers. In the light of the Watergate scandal and of the current bad relations between the US and Latin America, it may be doubted whether President Nixon's trip would be any more successful than his disastrous tour of Latin America as General Eisenhower's vice president in 1958."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "ab1badc7-c588-4cb9-ab70-004dfa279e57"
+    },
+    {
+      "start_time": 281,
+      "end_time": 332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin America continues, certainly, there is little enough in the policy review for Latin Americans to welcome. An assertion of the president's desire to underscore our deep interest in Latin America through closer personal contacts was not accompanied by any concession to Latin American interests or aspirations. Only, perhaps, the Mexicans can find some satisfaction in Nixon's promise of a permanent, definitive and just solution to the problem of the high salinity of Colorado River waters diverted to Mexico, but there was no give it all in the United States position on many of the other broader disputes with Latin America. On the Panama Canal issue, he appealed to Panama to help take a fresh look at this problem and to develop a new relationship between us, one that will guarantee continued effective operation of the canal while meeting Panama's legitimate aspirations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "0c6e515d-0691-4a1b-84b6-36821937614e"
+    },
+    {
+      "start_time": 332,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Panama's view, however, is that its effort to persuade Washington to take a fresh look at the problem had been frustrated for so long that its only recourse was to make this matter an international issue at the United Nations Security Council. On this, President Nixon merely noted disapprovingly that an unfortunate tendency among some governments and some organizations to make forums for cooperation into arenas for conflict, so throwing the blame back on Panama."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "818b0f4b-575a-4760-ade5-2814dfa6fc35"
+    },
+    {
+      "start_time": 360,
+      "end_time": 414,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin America's report continues that, in a clear reference to the dispute with Chile over compensation for the copper mines taken over from United States companies, the president said adequate and prompt compensation was stipulated under international law for foreign property nationalized. There was no sign of any concessions there nor did Nixon envisage any reconciliation with Cuba, which he still saw as a threat to peace and security in Latin America. Furthermore, his proposal that any change of attitude towards Cuba should be worked out when the time was ripe. With fellow members of the Organization of American States, OAS, came at a moment of deep disillusion with the OAS on the part of many Latin American governments. The review displayed no understanding in Washington of why nearly all Latin American and Caribbean governments sympathize with Chile and Panama and many, if not most, want to reestablish relations with Cuba. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "12e7fe8c-dd21-4c2a-91b8-524247b4431c"
+    },
+    {
+      "start_time": 414,
+      "end_time": 443,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nixon's undertaking to deal realistically with Latin American governments as they are, providing only that they do not endanger peace and security in the hemisphere, merely begs the question that Latin Americans have been posing for years nor did the review reflect in any way the Latin American feeling expressed with a unanimous vote at last month's meeting of the United Nations Economic Commission for Latin America, ECLA, in Quito that the countries of the region are helping to finance the rise in United States' standard of living at the cost of their own impoverishment. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "f2c57d57-53c4-4a94-946a-9ceac263f2c0"
+    },
+    {
+      "start_time": 443,
+      "end_time": 490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin America concludes that there is some satisfaction at President Nixon's call to Congress to revise the legislation that imposes penalties on countries which arrest United States' fishing vessels in territorial waters the USA does not recognize, but many Latin Americans see this merely as a recognition that the existing policy hurts United States' interests, but the failure of Washington to appreciate Latin America's views may not be the main feature of the United States' policy towards Latin America this year. Unless the White House can overcome the Watergate scandal and revive its decision-making process, the United States will be quite unable to react to the new Peronist government in Argentina or exert any influence over the selection of Brazil's new president. This report was taken from the London News Weekly Latin America."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "d9f1acfd-ed12-4782-ad48-d25e5dfe1cb7"
+    },
+    {
+      "start_time": 490,
+      "end_time": 517,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From Santiago, Chile Hoy reports the May 1st speech of Cuban Prime Minister Fidel Castro in which Castro stated that there will not be any improvement in the relations between the United States and Cuba as long as the US tries to be the policeman with respect to the people of this Latin American continent. Cuba reasserts its rights to Guantanamo and, until it is returned, there will not be a dialogue with the United States. This speech was reported in Chile Hoy, The Santiago Weekly. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "b156ba2a-27eb-496f-a277-21ec14c114d1"
+    },
+    {
+      "start_time": 517,
+      "end_time": 570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Miami Herald reports on one US policy which is causing dissatisfaction in Latin America—Caracas. Suspension of hemispheric trade preferences on imports of an additional 50,000 barrels per day of fuel oil will not affect Venezuela according to the minister of mines. He said, however, that the suspension of requirements that the additional fuel oil be imported from hemispheric sources shows the domestic character of the North American oil policy which absolutely does not take into account hemispheric decisions or interests. \"This is perfectly clear,\" the minister told newsmen, \"when a few assignations for the hemisphere that existed for the importation of fuel oil have been eliminated by the US government.\" It was reported unofficially that the Venezuelan government had handed the US government its informal objections to the new US oil policy announced by President Nixon, this from the Miami Herald."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "8e0b50b6-1ce2-4d38-8eb6-6d8ec082557c"
+    },
+    {
+      "start_time": 570,
+      "end_time": 607,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior reports more details on the recent kidnappings of the American consulate in Mexico. Suspects were rounded up in the kidnapping of American Consulate, Terrence Leonhardy, in Guadalajara. The kidnappers released Leonhardy unharmed after four days of detention in exchange for the freeing of 30 political prisoners from seven Mexican jails around the country, along with the ransom of $80,000. The Revolutionary Armed Forces of the People, branded as nothing more than common criminals by President Echeverría, forced the government to publish their political statement in major Mexican newspapers, radio and television. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "a4a871c8-b824-40aa-b514-2542ae42fc45"
+    },
+    {
+      "start_time": 607,
+      "end_time": 654,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The statement printed in Excélsior read in part, \"With all the means of communication at its disposal, the government of the wealthy tries to hide the true significance and origin of the bank robberies, kidnappings and acts of justice realized by revolutionary groups who operated all over the country. They have unleashed a propaganda offensive trying to convince the people that we are common criminals, paid assassins, thieves, enemies of the country. Today, for the first time and not voluntarily, the means of communication serve the proletarian cause. We direct ourselves to our exploited brothers, to all the working people so that they may know why we struggle, why we choose the path of armed struggle as the only one through which it is possible to defeat the wealthy and their government of exploiters.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "4fa0b89d-94c8-4772-b67f-8eba338f4e63"
+    },
+    {
+      "start_time": 654,
+      "end_time": 711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The statement of the Revolutionary Armed Forces of the People goes on to say that, \"As long as one privilege social class exploits and enriches itself with the work of other classes, the class struggle will necessarily continue to exist and, with it, violence, the violence of the exploiters to maintain their economic and political interest and the violence of the exploited to liberate themselves to win the right to enjoy the product of their labor. The concentration of the country's wealth in the hands of a very few, the suctioning off of great quantities of this wealth to the exterior, the exploitation of the workers and peasants by wealthy nationals and foreigners are the fundamental causes of the poverty of the working people. The wealthy in power, not satisfied with the hundreds of billions that they have accumulated, thanks to the exploitation of the workers and peasants, have delivered the country to foreign capital. Factories, industries, the best land, mineral deposits are all in the hands of foreigners, principally wealthy North Americans.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "2ce83356-e7a9-4038-803c-87c2167cefaf"
+    },
+    {
+      "start_time": 711,
+      "end_time": 726,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The statement went on to outline a revolutionary strategy led by Vanguard Proletariat utilizing many forms of struggle. This statement appeared in Excélsior and other Mexican newspapers. Excélsior also reported later that all suspects arrested have been released. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "5cf4d5f3-a48e-41b1-ab70-5690e9883161"
+    },
+    {
+      "start_time": 726,
+      "end_time": 764,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin America reports that even more severe censorship and other signs of repression in Brazil are believed to stem from conflict over the presidential succession. Although July 15th, the day when candidates for election to the presidency must reveal their candidacy, is still a long way away, the problem of presidential succession appears to have become a very live issue in official circles in the last few weeks. In the view of some observers, the military are rapidly dividing into two clear-cut camps, the supporters of President Médici on the one hand and those of General Ernesto Geisel, supported by his brother and minister of the army, Orlando, on the other. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "ab6befe6-f32a-409f-adf7-fba3f431a294"
+    },
+    {
+      "start_time": 764,
+      "end_time": 777,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Although until recently, the election of Ernesto Geisel was considered practically a foregone conclusion, there are now straws in the wind which could indicate that Médici himself does not support Geisel and that he may be seeking ways to continue his term in office."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "3a09a5d0-ee0d-4bab-9227-b6f7ca0f3032"
+    },
+    {
+      "start_time": 777,
+      "end_time": 814,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whatever the ins and outs of the presidential succession stakes, the last week or two has revealed increasing nervousness and near hysteria on the part of the authorities toward the press, apart from the government's continued campaign against the Liberal Weekly Opinião, whose publisher and staff have been constantly in and out of police headquarters for questioning while their paper has been butchered by the censors and almost complete censorship of any comment has fallen over the country. One reason for this is to be found in the appointment of a new censor for Rio de Janeiro to replace the former one who was dismissed by the justice minister for not being tough enough. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "220ae865-57e6-4e92-ad65-fecb13e0b44a"
+    },
+    {
+      "start_time": 814,
+      "end_time": 851,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin America notes that the censor's regime extends to well-known cartoonists whose contributions have been banned and even extraordinarily to the full text of the press law which was published in the weekly O Pasquim in a censored form. The Newsweek's style weekly, Veja, is reported to have a spy on the staff who informs the police about everything, including cover layouts, and has had sudden police raids as a result. The prestigious Oestado de São Paulo has a wallpaper in its offices composed entirely of pieces censored from the day before and its evening edition, Jornal da Tarde, has been forced to publish cake-making recipes instead of editorials."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "603e8d05-1ef0-4fee-a187-f558a66f1fd0"
+    },
+    {
+      "start_time": 851,
+      "end_time": 881,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The censorship has been extended to foreign newspapers and magazines. These will be reviewed before going on sale since certain overseas publications are offensive to morality and proper habits. The list of such offensive magazines ranges from stern to the monthly review, and one commentator has remarked that, \"Soon only Batman, Dick Tracy and Superman comic books will be uncensored in Brazil. As to the television and radio, all live broadcasts have been banned for fear that something might be said that went against the image of our Brazil.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "f4ee7989-36b1-4ff5-807f-07a021b39828"
+    },
+    {
+      "start_time": 881,
+      "end_time": 905,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are listening to Latin American Press Review, a weekly selection and analysis of important events and issues in Latin America. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions about the program are welcome and may be sent to us at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, the University of Texas at Austin."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "577ff1ab-b38e-409d-9bd0-61fcdd89f61d"
+    },
+    {
+      "start_time": 905,
+      "end_time": 916,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This week's feature taken from The Guardian provides the historical background to the inauguration of Peronist Hector Campora as president of Argentina on May 25th."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "efbac158-aa2c-4f9f-b2f0-f5f744bf09a9"
+    },
+    {
+      "start_time": 916,
+      "end_time": 949,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Argentina's struggle for national independence spans 150 years. The Argentinian people fought first against the Spanish colonialist, later against the British and, finally, against US domination. The victory of the Peronist presidential candidate, Hector Campora, in the March 11th elections is an integral part of that struggle and an important step forward for it. After almost two decades of oppression and anti-Peronist propaganda, the majority of the Argentinian people have continued to support the nationalist and anti-imperialist ideals of Peronism. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "8558eae5-f2e8-4dc6-b854-ee080d9935e3"
+    },
+    {
+      "start_time": 949,
+      "end_time": 969,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To understand this, it is necessary to analyze the political economic program of Peronism in its first period of power, 1944 to 1955, the developmentalist or demo-liberal politics that overthrew him and the continuing struggle of the workers' movement against the pro-imperialist military and civilian governments that followed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "73a9507c-ec22-4e2e-a3bf-81ca83522726"
+    },
+    {
+      "start_time": 969,
+      "end_time": 1004,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Guardian goes on to say that the rise of Peronism took place at a time of important structural changes in the Argentine economy. During the 1930s, under the control of the most conservative groups, industrialization of the country began. The coming to power of the military in 1943 marked the end of Argentina's dependency on British capitalism which had been based on its exploitation of the country's raw materials. A new era, accelerated by World War II, consolidated a new kind of economic dependency based on control by multinational corporations of industry and control of Argentina's domestic markets."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "c456e594-8498-471e-aaa1-890031791772"
+    },
+    {
+      "start_time": 1004,
+      "end_time": 1040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Peron participated in the 1943 military coup and gained popularity through his position as minister of labor and welfare, but the very activities which made him popular with the people, his support of their struggles, brought him the antagonism of the more conservative forces in the government which demanded his resignation and imprisonment. They were faced, however, with an unheard-of situation, the mobilization on October 17th, 1945, of thousands of Argentinian workers. The main organizer of this march was Maria Eva Duarte, later, Peron's wife and the key figure in Peron's election to the presidency one year later. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "b0c4f1fb-1e78-45a0-a56c-1964ffd4643c"
+    },
+    {
+      "start_time": 1040,
+      "end_time": 1061,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In office, according to The Guardian, Peron's policies were characterized by programs to regain the national wealth, to strictly control the agro exporting sector of the economy, to institute protectionist policies, to encourage the development of Argentinian industries, to improve the salary and working conditions of the country's workers, and to generally heighten the national consciousness."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "e0620507-df80-431d-a19a-5d7d1f80da0f"
+    },
+    {
+      "start_time": 1061,
+      "end_time": 1106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As a result of Argentina's large volume of exports during World War II, Argentina's gold reserves had increased considerably. Peron utilized these funds in order to promote industry and, since Great Britain refused to pay its war debts immediately unless Argentina would accept used war materials, the Peronist government opted for nationalizing the railroads, telephone and transportation systems throughout the country to pay the debt. The politics of state investment enabled the country to build up a merchant fleet and a commercial air fleet and the improvement of social services, gas and electricity and, had it not been interrupted by the reactionary 1955 coup, the metallurgical and oil policies of the government would've put Argentina in a position to meet its own national needs. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "ba5825b3-3588-41ca-ac75-4119b3673493"
+    },
+    {
+      "start_time": 1106,
+      "end_time": 1158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"In 1950,\" says The Guardian, \"the Peronist government faced the beginnings of several crises, a shortage of funds for capital investment, crop failures and declines in exports, underlying these problems with a growing strength of US influence in South America and the decision of a large sectors of the national ruling class to abandon their alliance with a working class and to join the monopolies and foreigners in opposition. This was prompted by a number of factors. One was the limitations placed by the government on corporate profits through its full employment policy and support for high wages and unionization. A law on foreign investment enacted in 1953 sought the decline of foreign investments in the auto, petrochemical, and other industries. A shortcoming of this law was that it forced Argentinian capitalists to invest in industries not particularly suitable for the Argentinian economy.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "67ef28e1-2eb8-4a7a-96eb-b76367d8b77d"
+    },
+    {
+      "start_time": 1158,
+      "end_time": 1211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The military's second coup attempt in its September 1955 succeeded in overthrowing the government with their liberating revolution. The triumph of this coup brought about a factional struggle within the military which led in November 1955 to the victory of the most reactionary wing led by General Aramburu. A period of repression ensued against loyal Peronist. Hundreds of people were imprisoned, assassinated or driven into exile. Progressive social laws were abolished. Political parties were dissolved, and workers' rights were removed, but the popular opposition to the government, the resistance period, had only begun. Much of the working class was still loyal to Peronism. The Peronist government had represented an important experiment, an anti-imperialist government, which supported mass mobilizations and had given a tremendous amount of political consciousness to the Argentinian workers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "22e73e6b-76a2-4bb3-839c-8c30e53b2c95"
+    },
+    {
+      "start_time": 1211,
+      "end_time": 1265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"After 1955,\" The Guardian continues, \"the anti-national and anti-pop forces held the reins of government, an alliance of those most closely tied to imperialism, the big companies and those involved in the export industry and those sectors of the national ruling class most hostile to the pro-working class reforms of the government. Once the constitutional Peronist government was overthrown, the armed forces and the civilian governments that followed put forward two solutions to the problem of Argentina, developmentalism and demo-liberalism. Demo-liberalism is the expression of those economic sectors which are the most conservative and powerful. It seeks monetary stability and maintenance of the status quo. The developmentalist model prefers development to monetary stability and, in order to achieve its ends, it supports the massive participation of foreign monopoly capital. Both schools recommend unemployment as a means of increasing profits.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "ece88ead-97a7-4b86-91c6-3d3d3e049223"
+    },
+    {
+      "start_time": 1265,
+      "end_time": 1319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between 1955 and 1958, the armed forces ruling, through Aramburu, concentrated on destroying the defenses against foreign penetration implemented during the Peronist government and followed the developmentalist economic policies. Foreign investment was again encouraged. The political economy of this period was primarily based on the Prebisch plan which had two main objectives. Through the manipulations of statistics, it tried to discredit the Peronist government. Secondly, it put forward a reconstruction program for the Argentine economy, the transfer of large amounts of national income to the agricultural sector by increasing agricultural prices, by the removal of foreign controls and the freezing of all salaries. It also emphasized foreign investment. This plan was formulated mainly in response to the demands of US-controlled organizations, particularly the International Monetary Fund."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "c854df03-eb3c-48dc-9808-c30aec3e7f50"
+    },
+    {
+      "start_time": 1320,
+      "end_time": 1378,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"In 1958,\" explains The guardian, \"when the military decided to return to civilian rule, the Peronist supported the developmentalist politician Arturo Frondizi. The developmentalists, as opposed to the demo-liberals, believe that rapid economic development is preferable to the maintenance of the status quo, but the developmentalists also favor large-scale use of foreign aid and investment. This led to rapid inflation, international debt and greater US control. Important in this process was a 1958 law which put forward the following points, that foreign capital would have the same rights as national capital, that the investments would be used in building new plants and expanding old ones and, finally, that the profits could be taken out of the country although only under certain conditions. As far as the military was concerned, though Frondizi's mistake was that he allowed the Peronist to operate with some freedom. After a Peronist won a gubernatorial election, the army again took power and began a new wave of repression.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "f8520333-be99-43dc-bf87-2d2f55f8b171"
+    },
+    {
+      "start_time": 1378,
+      "end_time": 1421,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With the Peronist and the masses again safely suppressed, the military again organized elections in 1963, and Arturo Illia became president. The civilians were unable, however, to stabilize the situation to the satisfaction of the foreigners, besides mass pressure had forced the government to take some nationalistic acts. At the end of 1963, Illia nullified oil contracts favorable to international monopolies at the expense of Argentinian companies. The next year, the central bank increased restrictions on the export of profits by multinational companies, forcing them to reinvest. These measures, along with the revival of the mass movement, provided the military with the excuse for their 1966 coup. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "458fda7c-2d70-4a2a-9cb2-1f70c8df15d1"
+    },
+    {
+      "start_time": 1421,
+      "end_time": 1463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Since then,\" The Guardian points out, \"the military has ruled Argentina under General Juan Carlos Ongania in 1966 to '70, Roberto Levingston in 1970 and Alejandro Lanusse in 1970 to the present. The monopolies and foreign companies were again brought to power. Ongania's economic minister, for example, was Krieger Vasena, who was a director of more than 12 US subsidiaries. Vasena instituted many pro-foreign measures, a 40% devaluation, wage cuts for workers, reduction of import taxes by up to 50%, and denationalization of some state-owned companies. With such policies, nearly 3,000 Argentine companies became bankrupt during 1970 alone.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "8382d8a1-92a0-45e2-b855-3186f9c75b99"
+    },
+    {
+      "start_time": 1463,
+      "end_time": 1493,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But resistance developed on a stronger basis than ever before. One of the most important of the popular struggles of 1964 was the uprising in Córdoba over inflation and the freezing of workers' wages. The conflict began in the northeastern city of Corrientes where students, campus workers and faculty protested against increases in food prices in the student cafeteria. Two days later, in Rosario, the struggle was escalated, and police killed a student. The agitation spread to Tucuman and Córdoba."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "2ecde4a7-a8e6-4289-adaf-30740b968d40"
+    },
+    {
+      "start_time": 1493,
+      "end_time": 1524,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The two union confederations existing at that time joined forces and waged an effective general strike. Army units in Córdoba were harassed by snipers who utilized barricades and rooftops, the most important aspects of the uprising called the Cordobazo. With a mass participation of the working class and the establishment of real unity between the workers and students, the people supported the actions with food for strikers, providing refuges for pursued demonstrators and by harassing the army and the police."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "06ac1cdc-15aa-41a8-b2b9-e917cbb3bbfa"
+    },
+    {
+      "start_time": 1524,
+      "end_time": 1574,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Guardian states that, \"As a result of the uprising, Minister Vasena, the architect of the government's economic program, was removed from office and General Ongania had to resign. This period also saw the beginning of the present armed urban groups like the Peronist Montoneros who kidnapped former Director General Aramburu who was executed in May 1970. The Montoneros and other Peronist groups also participate politically within the Peronist movement itself in which they formed part of the left wing. Even with repression, armed actions continued. The Revolutionary Armed Forces, another Peronist group occupied the town of Garin, only 43 miles from Buenos Aires. A platoon of 46 people occupied police, railroad and telecommunication stations, isolating Garin from the rest of the country, carrying out political meetings and broadcasting information of the resistance.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "6c2ca202-afa2-4e81-91e9-14e78a0909da"
+    },
+    {
+      "start_time": 1574,
+      "end_time": 1614,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The continuation of the popular struggle forced Lanusse to begin negotiations with Peron who understood the corner in which the military found itself. While Peron took his time talking, Lanusse desperately juggled ministries and plans. While agricultural prices went up 25%, wages were cut and meat was rationed. Caught between the escalating actions of the armed groups and the collapse of Argentina's economy, Lanusse was forced to meet most of Peron's terms in calling the March 11th elections this year. The Peronist coalition received 52% of the votes compared to the radical party, the ruling class' major hope, which won only 21% of the vote. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "3c77328f-0941-4a1f-aa8c-a0310601057f"
+    },
+    {
+      "start_time": 1614,
+      "end_time": 1661,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Guardian continues, \"The task of the new Campora government will certainly not be an easy one because of the poor economic condition that Argentina finds itself in today. While the annual inflation rate has run at 70%, wages have increased by only 42%. While large amounts of resources are transferred to the agricultural and exporting sectors of the economy, the country's purchasing power is constantly declining. There are an estimated 1 million people unemployed with an equal number of underemployed. While production went up 44% between 1960 and 1969, employment increased by only 13% and the relative wealth held by the working class decreased. Finally, official statistics indicate that Argentina has a foreign debt of about $6 billion dollars, of which almost half will have to be paid this year.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "a515aeeb-bcea-435e-ae45-6b3121c3b3aa"
+    },
+    {
+      "start_time": 1661,
+      "end_time": 1698,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Campora government's plans in dealing with these problems will be shaped largely by the way the Peronist movement overcomes internal contradictions In its coalition. The Peronist left consists of the most militant unions and workers, the youth movement and the armed organizations. They're opposed particularly by the union bureaucrats and politicians. Peron, while maintaining his position of overall leader of the movement, has sided with the left on a number of occasions recently. One of the most important questions facing the government will be whether it will conduct mobilizations of the workers and peasants or whether it will take a mildly reformist top-down route."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "06c31f47-740e-4d17-a06f-b9e82db4e6a5"
+    },
+    {
+      "start_time": 1698,
+      "end_time": 1724,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Peronist left and many of the country's independent radicals believe that they must participate within the context of this developing struggle. As a document of the Peronist Youth Group of Córdoba stated, we have to create the conditions that will enable us to implement the government that we won through the ballot. The government's long-term strategy should become clear shortly after Campora's inauguration. As Peron himself has said, \"We will first take the presidency and, a month later, we will assume power.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "de1e8e2d-ceea-4ccc-a698-fdc1b75d63f4"
+    },
+    {
+      "start_time": 1724,
+      "end_time": 1751,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This story was taken from The Guardian. You have been listening to Latin American Press Review, a weekly selection and analysis of important events and issues in Latin America as seen by leading world newspapers, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions about the program are welcome and may be sent to us at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, University of Texas at Austin."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "37c6cbc5-f422-420e-ba6c-bf8c088d0c3f"
+    }
+  ],
   "set": "Default",
   "event_id": "8efb06dc-c8b9-4901-a49a-a475dbe5ef6a",
   "source_id": "6b919ade-f95b-4387-9c31-a37179508f82"
