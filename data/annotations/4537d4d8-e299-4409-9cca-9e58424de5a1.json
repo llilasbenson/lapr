@@ -1,5 +1,1797 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome to Latin American Press Review, a weekly selection and analysis of important events and issues in Latin America as seen by leading world newspapers, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8ef8f85b-bdd2-4095-8247-f9a45e4c8069"
+    },
+    {
+      "start_time": 20,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For many years, one of the major complaints of underdeveloped countries has been that they did not receive a fair price for their raw materials. Another complaint was that the prices for raw materials fluctuated so much, it was impossible to plan investments in their economies. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ivory Coast"
+        }
+      ],
+      "uuid": "2b1619a1-1259-49e4-a264-6f5077f20d35"
+    },
+    {
+      "start_time": 36,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Over the past decade, the answer to these complaints has been international agreements which stabilized prices on raw materials. The International Coffee Agreement was one such accord. It was first signed in 1963 between the United States and other coffee consumers and 41 coffee producers, including Brazil and Colombia. The agreement fixed prices and assured a steady supply to consumer nations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ivory Coast"
+        }
+      ],
+      "uuid": "2dcf1c3f-3df4-450a-bc47-76df0c944f4c"
+    },
+    {
+      "start_time": 63,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As Opinião of Rio de Janeiro notes, the agreement has now collapsed. The basic reason is that the supplier nations wanted a higher price to compensate for the losses suffered when the United States devalued the dollar last year. The United States refused to agree to this price hike and the agreement lapsed last October. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ivory Coast"
+        }
+      ],
+      "uuid": "9ff99186-2aa0-4699-9075-551d0646a182"
+    },
+    {
+      "start_time": 81,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The coffee-producing countries are now trying to take matters into their own hands. Brazil, Colombia, the Ivory Coast, and the Portuguese colonies will soon establish a multinational corporation which will control prices and supplies on the world market. The corporation statutes were written in Brazil. As Opinião notes, the purpose of the new multinational company will be to keep the price of coffee up, ensure a supply to consumers, and prevent manipulation of prices by the huge importing firms in the United States, such as General Foods. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ivory Coast"
+        }
+      ],
+      "uuid": "1c5f73f8-10b8-45cf-b7ee-90319a6b02eb"
+    },
+    {
+      "start_time": 111,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Opinião concludes that the new corporation could result in an important modification in the international coffee market which will favor the underdeveloped world. This report from Opinião in Rio de Janeiro. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ivory Coast"
+        }
+      ],
+      "uuid": "496bfaee-940b-40be-b329-cfa0b75fa82c"
+    },
+    {
+      "start_time": 125,
+      "end_time": 171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In its continuing coverage of the Watergate affair and the ensuing investigations, the Mexican daily Excélsior has shown special interest in linking Watergate conspirators to clandestine activities in Latin America. Excélsior reported last week that John Dean, Counsel to the President until April 30th of this year, and a prime witness in the ongoing Senate Watergate investigation, revealed to news sources a plot to assassinate the Panamanian chief of state Omar Torrijos. According to Dean, Howard Hunt, convicted Watergate conspirator, was in charge of organizing an action group in Mexico for the purpose of assassinating the Panamanian general. The plot was apparently in response to Torrijos' lack of cooperation in revising the Panama Canal Treaty with the US and to his alleged involvement in drug traffic. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        }
+      ],
+      "uuid": "9e69fb42-ad21-42ed-a000-25bec0aa9a45"
+    },
+    {
+      "start_time": 171,
+      "end_time": 190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dean said that the certain operation was discussed at government levels beneath the presidency. He did not reveal exactly when the assassination plot had been under discussion, but he made it clear that it had not been approved, although Hunt and his group were apparently ready and waiting in Mexico. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        }
+      ],
+      "uuid": "37d62135-6f8c-42db-8217-9d72ac681bcf"
+    },
+    {
+      "start_time": 190,
+      "end_time": 213,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the course of the investigations of the Watergate scandal, several witnesses, among them former CIA members, declared that on at least one other occasion Hunt was involved in clandestine CIA operations in Mexico, presumably around the Bay of Pigs invasion of Cuba in 1961. This from Excélsior in Mexico City. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        }
+      ],
+      "uuid": "7b353a31-0bdf-4e69-b068-b33169e87cdb"
+    },
+    {
+      "start_time": 213,
+      "end_time": 255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The work of the opposition parties in Chile continues full strength this week as the Christian Democratic sectors among the miners and white-collar workers of the nationalized El Teniente copper mine remain on the strike that began in late April. In May, the Christian Democratic workers burned cars, fought with police, and seized a Socialist Party radio station in the city of Rancagua. The strike is costing Chile a million dollars a day. Though the strike demands are economic, its political character is seen in the rejection of any government solution, as well as the firm support given by the newspapers, radios, and political organizations of Chile's extreme right, which has been built up over a period of years only by being able to repress the labor movement. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "f9d26627-560c-401d-a80c-af859d33cef1"
+    },
+    {
+      "start_time": 255,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The London Weekly Latin America comments that early in June, the state-owned Chilean Copper Corporation declared a freeze on all June deliveries from the El Teniente mine where some of the miners have been on strike for the past two months. For July, 50% of deliveries from El Teniente and all deliveries from Chuquicamata mine, where white-collar workers have struck in sympathy with the El Teniente strikers, are similarly affected. Between them, the two mines produce two-thirds of Chilean copper production. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "66b2418b-d41e-41b9-8dcd-0a2a686c5231"
+    },
+    {
+      "start_time": 285,
+      "end_time": 324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The strike has political overtones, claims Latin America. Only the most highly paid workers are involved in the strike, which concerns a dispute over production bonuses. Young Christian Democrats have organized marches of support for the strikers. Outbreaks of violence between strikers and the security forces have increased sharply since an employee of the mine was shot dead last week when he started to drive his vehicle over a patrol guarding miners who were still working. Several people on both sides have been injured and 33 arrested. The halt in copper exports will further aggravate the country's economic difficulties. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "f7023846-9634-4e15-a16f-9357e07d6316"
+    },
+    {
+      "start_time": 324,
+      "end_time": 372,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Santiago weekly, Chile Hoy, gives an analysis of the crippling copper miner strike which lays the blame on the opposition Christian Democratic Party. The miner strike at El Teniente mine has just completed its second month. Until now, its result has been a loss of $40 million in expected copper revenue, the suspension of copper shipments to Britain and Germany with the accompanying deterioration of the image of Codelco, the state-run copper enterprise in terms of its ability to complete its contracts, a congressional censure of two government ministers, and a climate of explosive tension in the northern city of Rancagua. For much less reason than this, ex-president Eduardo Frei ordered the Army in 1966 to violently repress the striking miners at El Salvador Mine, killing six miners. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "992989e0-92da-4e18-a888-3031652e98fa"
+    },
+    {
+      "start_time": 372,
+      "end_time": 407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The most painful aspect of the situation for the Chilean working class is a fragmentation caused by the strike within the copper workers who manage one of the most vital industries in Chile. For years, the Christian Democrats worked to divide Chilean workers and its Catholic unions were the worst enemy of the Central Workers Federation. As in all sectors which the Christian Democrats are not able to actually control, they promote fractionalism and division inside the Federation. This is the purpose of the El Teniente strike. It is strictly an economist struggle. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "6eec521d-bb99-47ac-880d-e1d07331cfc8"
+    },
+    {
+      "start_time": 407,
+      "end_time": 436,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chile Hoy goes on to say the progressive sectors of the miner's union resolved this time to sacrifice their immediate needs for a higher living standard, viewing the strike issue as a question of political conscience. The strike vote at Chuquicamata mine demonstrated this new \"conciencia\", 1,750 against the strike in 1,450 in favor. This increasingly class-conscious attitude was expressed last week in Rancagua during a demonstration of solidarity with the two censured cabinet ministers. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "bc10b220-ad65-4839-b52b-1d045bcc19d9"
+    },
+    {
+      "start_time": 436,
+      "end_time": 466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A union leader advised the miners that the strike was characterized by the eagerness of the right-wing Christian Democrats to impose the minority's wishes upon the majorities and thus destroy the base of union democracy. He said that this method was an old tactic of the Christian Democrats and that the El Teniente strike was one more move designed to destroy the popular unity government. This report on the copper miner strike in Chile is from the weekly, Chile Hoy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "c4cae78b-3d5d-4706-a3c4-f040ff4127d7"
+    },
+    {
+      "start_time": 466,
+      "end_time": 485,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior, the Mexico City daily, gives a more recent account of the increasing unrest and tension caused by the strike in Chile. Excélsior reports from Santiago that last week, public forces used armored cars and tear gas to disperse striking miners concentrated in front of the Christian Democratic Party barricades in Santiago. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "2ddd2773-6715-4d91-accb-963fe5d7e1de"
+    },
+    {
+      "start_time": 485,
+      "end_time": 519,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Carlos Latorre, one of the youth leaders of the Christian Democratic Party, called out to the militants to unite rapidly and repel the police aggression but the police forces were able to dismantle further concentration. Speakers for the state-owned copper corporation, Codelco, announced that Allende had made the same offer to the striking copper miners, which weeks ago was refused. Namely, a subsidy of $240 monthly to compensate for the rise in the cost of living, which has been 238% in the past 12 months. The strikers asked for a 41% raise in salary. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "bbee78e8-ca2a-413d-ad1e-fac79d1487e8"
+    },
+    {
+      "start_time": 519,
+      "end_time": 549,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sub-Secretary of the Interior, Daniel Vergara, announced that he had drafted orders to arrest the director of La Segunda, the afternoon edition of the newspaper El Mercurio, and to arrest the director of Radio Agricultura. Vergara said these medias broadcasted false news. After the disturbances, Allende emphasized that the doors of the palace are open to the workers, whoever they may be. This from Excélsior of Mexico City. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "fbdb561a-6cba-4f22-abc6-ac3476ad8489"
+    },
+    {
+      "start_time": 549,
+      "end_time": 593,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right-wing provocation seems to be on the rise in Chile. Besides the Right's involvement in the current miner strike, Chile Hoy reported last week evidence of a plot against the popular unity government. Roberto Thieme, a Chilean Fascist, declared to the Paraguayan press last week that to bring down the government of Salvador Allende is the only way to destroy the Marxism that pervades Chilean society. Thieme is presently on a tour of Paraguay, Bolivia, and Brazil, openly plotting against the government of Chile. He abandoned his political asylum in Argentina to seek support for his conspiracy. Brazil and Bolivia are the primary training grounds for the leadership of \"Patria y Libertad\", the Chilean Fascist organization of which Thieme is a leader. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "e5b9a72a-7ba2-4a09-ac35-da393034d0d0"
+    },
+    {
+      "start_time": 593,
+      "end_time": 614,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thieme is seeking economic and military aid from Paraguay, Bolivia, and Brazil, three countries which speak loudly in the international arena of the principle of non-intervention and which are good examples of the undemocratic dictatorship that the burning patriot Thieme proposes for Chile. This report from Chile Hoy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "aa6a4d38-3ec3-4cfa-8532-bb399d6dcede"
+    },
+    {
+      "start_time": 614,
+      "end_time": 663,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On June 21st, 1955, Juan Perón was deposed by the military in Argentina and sent into exile. For this reason, he chose June 21st, 1973 as the date of his triumphant return to Argentina. Opinião of Rio de Janeiro comments on what Perón's role will be in the new Peronist administration. On the domestic front, Perón will play the father figure trying to keep peace in the movement and balancing the demands of the older technocrats in the established labor bureaucracy against those of the younger radicals who want to mobilize the population for deep social change immediately. Opinião quotes Perón as saying, \"I have to reconcile the two groups. I cannot favor one or the other, even if one of them is correct.\" Perón will be the final arbitrator of domestic issues when conflicts arise between factions. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        }
+      ],
+      "uuid": "d0170b1c-f05d-46c6-a1dd-4fd545d36f45"
+    },
+    {
+      "start_time": 663,
+      "end_time": 703,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Opinião continues by noting that in foreign affairs, Perón will also have a crucial role as a super diplomat. In a few weeks, he will visit China to sign a trade agreement. He also intends to travel throughout Latin America to capture the leadership position for Argentina in the new wave of nationalism sweeping the continent. Finally, it is expected that he will appear at the coming UN General Assembly. Opinião concludes that the new administration in Argentina is making Perón the indispensable man in the government. This is dangerous, however, since Perón is 78 years old. This from Opinião of Rio de Janeiro. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        }
+      ],
+      "uuid": "aa57bdc6-d5ea-41bb-bf36-e4d20639d7c7"
+    },
+    {
+      "start_time": 703,
+      "end_time": 738,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Despite the careful formulations of the new Peronist government's economic team in Argentina, the continuing effective agitation by leftist organizations suggest serious confrontations for Perón to deal with after his return to Buenos Aires this month. Latin America Newsletter comments on the strategies of some of the Argentine guerrilla groups. In open press conferences last week, leaders of the Ejército Revolucionario del Pueblo, ERP, the Fuerzas Armadas Revolucionarias, FAR, and the Montoneros described to reporters their policies with regard to the new government."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        }
+      ],
+      "uuid": "c4ca568a-2145-415d-acc3-539e0a6602e4"
+    },
+    {
+      "start_time": 738,
+      "end_time": 760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Despite their differences, the Marxist ERP, which now rejects the label Trotskyist, and the various Peronist organizations, seem likely to follow similar tactics. The ERP will need to fund itself by further kidnappings of foreign businessmen, but both groups are likely to concentrate on building support at a base level in factories and the working class districts of the large cities."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        }
+      ],
+      "uuid": "4798c96b-7a45-476b-8f72-b0175f763dcd"
+    },
+    {
+      "start_time": 760,
+      "end_time": 796,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to Latin America, both the ERP and the Peronist guerrilla leaders described foreign monopolists, local oligarchs, and the armed forces as the principal enemies of the change in Argentina. The ERP, which split shortly before the March elections over the attitude the movement should adopt towards Héctor Cámpora's electoral campaign seems to have modified its position. The movement's best-known leader told reporters that the ERP would not attack the government directly, and last week it released its two political prisoners, both of whom were military officers. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        }
+      ],
+      "uuid": "b031a863-e82a-44ad-bb27-a4cedbd21aaa"
+    },
+    {
+      "start_time": 796,
+      "end_time": 824,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pressure on the government is being brought in a number of ways, according to Latin America. Government buildings and hospitals are occupied by militants demanding better working conditions and pay for nurses and cleaners. Butchers' shops are invaded by housewives determined to enforce official price controls. Student mobilization led to the appointment of new university authorities. The release of 400 guerrillas has led to a widespread movement for an improvement in prison conditions. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        }
+      ],
+      "uuid": "56dc7226-8c6d-4567-b755-dc206d6bd4f4"
+    },
+    {
+      "start_time": 824,
+      "end_time": 842,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At some point, there will be a military reaction to the present popular triumph, but when that moment comes, the army will face far more determined, popular opposition than has been possible during the past six years, even though the present atmosphere of revolutionary carnival will not persist. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        }
+      ],
+      "uuid": "4b140c00-8c5a-4e0e-b82c-c6ba4c7998ae"
+    },
+    {
+      "start_time": 842,
+      "end_time": 853,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Of course, very much depends on Perón, says Latin America, who returned last week and doubtless feels his well-proven political skills will enable him to handle turbulence from any quarter, left or right. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        }
+      ],
+      "uuid": "ee8bf929-31de-4cf7-bfc1-3a4e69bcdfd1"
+    },
+    {
+      "start_time": 853,
+      "end_time": 873,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But Argentina is not the same as it was when he left involuntarily 18 years ago. And although he may be counting on the popular mobilization by young revolutionaries to avoid any recurrence of the disaster that occurred in 1955, it remains to be seen whether he can hold them in check today. This analysis is from the London Weekly Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        }
+      ],
+      "uuid": "b9c42bf8-6d9d-46af-b694-2224a1008688"
+    },
+    {
+      "start_time": 873,
+      "end_time": 901,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are listening to Latin American Press Review, a weekly selection and analysis of important events and issues in Latin America. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions about the program are welcome and may be sent to us at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, the University of Texas at Austin."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a8e20c1a-71c2-4c80-9706-e6bb2fb46497"
+    },
+    {
+      "start_time": 902,
+      "end_time": 932,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This week's feature concerns the military dictatorship in Brazil. The following interview with Brazilian exile, Jean Marc von der Weid was made while he was on a national speaking tour sponsored by the Washington-based Committee Against Repression in Brazil. Von der Weid was a student leader in Rio when he was imprisoned and tortured in 1969. He was subsequently released from prison in 1971 along with 69 fellow prisoners in exchange for the kidnapped Swiss ambassador to Brazil. We asked Jean Marc von der Weid about his involvement in the student movement in Brazil."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "38f20e78-10f4-47d0-99cd-f57e902c8f62"
+    },
+    {
+      "start_time": 932,
+      "end_time": 971,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I was president of the National Union of the Brazilian Students, and I was elected in 1968 in an underground congress. The student movement was strongly opposed to the Brazilian dictatorship that came to power in 1964 by the overthrow of the constitutional government of João Goulart. The National Union was banned, was out-ruled in 1965, and it went underground, but it had a normal support the support of the overwhelming majority of the university students in Brazil, and I was elected with the participation of 200,000 students. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "c5ddbc77-9da6-45de-b847-b9b9ef2f18e0"
+    },
+    {
+      "start_time": 971,
+      "end_time": 1013,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The university students in Brazil were fighting for some specific goals, at the beginning against the repression on university, and again, the banishment—the decree that closed the National Union of Brazilian Students and fighting for the right of a free association. And also, they began to fight against the whole system of dictatorship and oppression, not only on students, but also on all the Brazilian society. So, we criticized the repression on the working class and the trade unions and on the peasant leagues and all the imprisonments and everything. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "4b18ae76-d979-4248-b5b2-b8befdcffffc"
+    },
+    {
+      "start_time": 1013,
+      "end_time": 1061,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And also, we had a specific problem in terms of the university that was the military government proposed university reform based on a US aid program that should transform the public university in Brazil in a private foundation. And already, two American foundations were proposing to invest on that. Those foundations were the Rockefeller and the Ford Foundation. And so we strongly opposed to that and for two reasons. One is that in general, the middle class student has not the money to pay for the university so lots of us would have to quit. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "85a14084-cc5e-4eeb-83e7-381ff68b93f5"
+    },
+    {
+      "start_time": 1061,
+      "end_time": 1089,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And another point that we didn't want the American foundations, that means foreign foreign enterprises, to control the universities in Brazil. We thought this would be against the national interest of the Brazilian people. And so we fought against this reform in a very successful way. In a way, until today, they could not, let's say, completely impose it. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "5fde21c1-5817-4647-afbe-7956dafe499f"
+    },
+    {
+      "start_time": 1089,
+      "end_time": 1134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And finally, in general, in a very general analysis, we knew that our specific problem in terms of university reform or freedom of association at university was closely linked with the problems of the Brazilian society in general. So, we were fighting for the liberation of the Brazilian people from foreign domination. So, we saw that, for example, that if it was necessary for the American money to dominate the Brazilian university, that exist because they dominated already the Brazilian industry so they needed to adapt the university to their needs on the industry. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "b611f230-c749-407b-a734-ce253f96950f"
+    },
+    {
+      "start_time": 1134,
+      "end_time": 1160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, we began a very strong anti-imperialistic campaign in Brazil. And this campaign, one of the big points of it was the 1969 demonstrations against the visit of Governor Rockefeller to Brazil. And this was one of the charges on my trial in 1970."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "b0d3e0f9-aa72-46b2-977a-afa023c76b36"
+    },
+    {
+      "start_time": 1160,
+      "end_time": 1163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could you describe your imprisonment and torture and then later release? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "3072bb0a-726b-4309-88d6-48300c15e912"
+    },
+    {
+      "start_time": 1163,
+      "end_time": 1202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, in 1969, the end of '68 and during 1969, well, I was already—how do you say this in English?—being searched by the Brazilian political police because of my role as student leader. And they took 24 hours to identify me as a student leader, as the person they were searching. And when they did so, they transported me to the Island of Flowers. That was the Marine battalion headquarters where the Navy information service worked. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "7d29697f-b93f-44c8-9055-014e43077e3e"
+    },
+    {
+      "start_time": 1202,
+      "end_time": 1242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then I was submitted to a continuous torture during four days and four nights. And this torture consisted on electric shocks, beatings on the kidneys, well, almost—on the whole body, on the head, very strongly on the head in the kind of torture they call telephone. And also, I was all the time suspended by hands and feet from a rope and then spanked and received electric shocks in that position. There were also some other things like drowning or a false firing squad. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "d46f4f28-49e3-4ee2-989a-aa7fef7ec14d"
+    },
+    {
+      "start_time": 1242,
+      "end_time": 1263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, then I spent almost one year and a half in prison in the Island of Flowers and then in the air force base of Rio, and in very bad conditions. We were threatened several times to be shot, those they considered irrecuperable? Yeah. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "eaf5d64b-0c0c-4d8d-ab00-361c6315f7bd"
+    },
+    {
+      "start_time": 1263,
+      "end_time": 1287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I was released in January '71 in exchange of the release of the kidnapped Swiss ambassador who was kidnapped by a revolutionary organization in Rio. And then I was sent to Santiago with 69 other political prisoners. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "c95f450d-53c2-4232-98fb-69fb275bb0e2"
+    },
+    {
+      "start_time": 1287,
+      "end_time": 1291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what's been your activity since then? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "b3c9953c-7efd-420a-a84c-463cf01803a0"
+    },
+    {
+      "start_time": 1291,
+      "end_time": 1324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I have been traveling around in North America, mainly in Canada, and Europe and also Santiago, Chile, to denounce the violations of human rights and the crimes of the Brazilian dictatorship and to develop a consciousness, an awareness on the international public opinion to that and to develop pressure on the Brazilian dictatorship, at least to limit the level of violence they're using today. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "62c24979-520a-4a3e-b082-cc9f27731b8a"
+    },
+    {
+      "start_time": 1324,
+      "end_time": 1325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who supports the military? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "087b9932-4cbc-4084-8cf4-111ae578ff93"
+    },
+    {
+      "start_time": 1325,
+      "end_time": 1373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the support of the Brazilian dictatorship is a very narrow one. They just have the military forces, and even the military forces are divided in different factious groups. And they have the support of a very small strata of the Brazilian upper class, perhaps 5% of the Brazilian population. And these people are those who are profiting from the exploitation of the 95 million Brazilians who are suffering this economic miracle. And these are, let's say, the Brazilian supporters of the military dictatorship. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "72cb668e-1f77-42dc-90c3-1e122c22df2e"
+    },
+    {
+      "start_time": 1373,
+      "end_time": 1429,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But the main supporters of the military dictatorship or the foreign powers, like the United States and other investors in Brazil, like Germany, Japan, Switzerland, France, Italy, Belgium, Holland, Sweden, England. All them—Canada, are big investors in Brazil. And the US are the most important investors. The American money controls, let's say it's 55% of the whole foreign investment. And they control 75% of the capital goods production and the durable goods production and 52% of the non-durable goods. So, our economy is completely controlled by foreign investment and mainly US investment. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "5f6a2921-cdff-4b13-b727-bd0bae66a5b1"
+    },
+    {
+      "start_time": 1429,
+      "end_time": 1477,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To guarantee these investments, the American policy in Brazil is to support the military dictatorship with the Military Assistance Act and with the public safety program of the US aid. And that even a direct, let's say, diplomatic support for the General Médici, who is the current dictator. So, it's very clear that the American strategy for Brazil is to make Brazil the privileged satellite of the United States in economic, political, and military terms."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "03622c2f-0afc-41e8-8c4c-6c053962133c"
+    },
+    {
+      "start_time": 1477,
+      "end_time": 1518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the Brazilian army is being prepared, as the Brazilian generals say themselves, to face the internal and external war at the same time, if necessary. That means to oppress the Brazilian people and people from other nations in the continent. So, there's a kind of Vietnamization of Latin America, if we can say so. The Brazilian armed forces are being prepared to fight for the American interest in the whole Latin America. And this can provoke in this next 10 years, let's say, a general conflict and a general struggle in Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "c369bd6d-2bdc-4f3d-bf1c-d2b7d629d1da"
+    },
+    {
+      "start_time": 1518,
+      "end_time": 1524,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can you give some incidents of how Brazil has played this gendarme role in Latin America? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "01492e4a-9f42-4c62-afdb-af2b47e6e592"
+    },
+    {
+      "start_time": 1524,
+      "end_time": 1589,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, there are two good examples. One is Bolivia. Brazil has prepared the Colonel Banzer's coup d'état of 1971 since the '70s, since the General Torres came to power in 1970. And in the first attempt of the coup d'état that failed, the one that failed at the beginning of '71, a Brazilian brigade invaded the border of Bolivia and had to come back when the coup failed. Then, they prepared it better and giving weaponry and money and a kind of base, let's say, a Rio guard base to the reactionary rebels of Colonel Banzer. And so Banzer's government is a satellite from Brazil right now, and the Brazilian troops has received order to invade and occupy Santa Cruz if the coup d'état not work in La Paz. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "408e7556-cd33-4448-8db2-0cde13f6b795"
+    },
+    {
+      "start_time": 1589,
+      "end_time": 1604,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was an interview with Brazilian exile Jean Marc von der Weid. You have been listening to Latin American Press Review, a weekly selection and analysis of important events and issues in Latin America, as seen by leading world newspapers, with special emphasis on the Latin American press. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "f4beb8f7-3c5b-4a44-92ad-b81abb6acdf8"
+    },
+    {
+      "start_time": 1604,
+      "end_time": 1621,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions about the program are welcome and may be sent to us at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, University of Texas at Austin."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2db29139-50c4-4e5d-a694-f4029e794944"
+    }
+  ],
   "set": "Default",
   "event_id": "035038f3-62f7-4108-9446-469ca1c6b1a4",
   "source_id": "8117ca20-b262-4e22-85c3-05ef88e89b88"
