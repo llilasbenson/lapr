@@ -1,5 +1,1317 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome to Latin American Press Review, a weekly selection and analysis of important events and issues in Latin America, as seen by leading world newspapers, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8cd2a7c1-4cb6-4cdd-9eb8-3df3880e8fe9"
+    },
+    {
+      "start_time": 20,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The series of revelations about illegal actions on the part of political and governmental officials in the United States, known as the Watergate affair, has received wide coverage in the Latin American press. Rio de Janeiro's Jornal do Brasil, for example, devotes a full page to it daily. The editorial comment has also been extensive. Today, we will review some of this commentary on Watergate, and also describe how the scandal is having political consequences in one Latin American country, namely Costa Rica."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "1fb60918-fe07-49d5-8464-3c605f70a907"
+    },
+    {
+      "start_time": 52,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "President Nixon has never been a popular figure in Latin America and the Latin press has shown little sympathy for his plight because of Watergate. Most papers clearly doubt that Nixon knew nothing of the break-in plans or the coverup. Rio de Janeiro's Opinião, for example, asks if Nixon can honestly maintain himself as President. The Weekly sees Nixon retreating from one strategic position to another in his statements as new facts emerge. Opinião concludes by wondering if Nixon's defenses will be strong enough to resist whatever facts are revealed next. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "c851316c-30d0-4351-80dc-69aa6f298837"
+    },
+    {
+      "start_time": 84,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La Prensa of Lima also sees Watergate as Nixon's Waterloo. If Nixon is getting a bad press in Latin America, the same cannot be said for American institutions. The Congress, courts, and especially the American press, has received wide praise in Latin America for pursuing the investigation. As La Prensa of Lima notes, \"This may be Nixon's Waterloo, but nobody is talking about a Waterloo of democracy. It is precisely thanks to democracy,\" La Prensa continues, \"That the secret sins have been unveiled.\" The Lima daily then concludes that only through a free press and enlightened public opinion can a democracy remain healthy and this is the most positive sign of Watergate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "499e9a60-f308-4618-8845-44ee23b303ff"
+    },
+    {
+      "start_time": 128,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Siempre! Of Mexico City says one of the characteristics of a representative democracy is that the authorities are not immune to punishment for crimes which they commit in the performance of their duties. Siempre! sees Watergate as proof that American institutions function well. Opinião of Rio de Janeiro also sees the scandal as a sign of the strength of American institutions. However, some of the revelations which have come from the Senate investigations have infuriated Latin Americans. This is especially true in Mexico since the congressional hearings have revealed that the Central Intelligence Agency has been operating there. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "8b30300b-0454-487a-8f59-ce826c77a7ea"
+    },
+    {
+      "start_time": 164,
+      "end_time": 216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior of Mexico City notes that the White House asked the FBI not to investigate certain aspects of the transfer of campaign contributions from Mexico because it would lead to disclosures of clandestine operations of the CIA. Excélsior thinks that fact deserves Mexico's protest and immediate change in United States policy, which flagrantly violates the principle of nonintervention. Excélsior continues the participation of the CIA in the internal affairs of Chile, the sending of Green Berets to Bolivia to combat Che Guevara, the aggression against the Dominican Republic, the case of the Bay of Pigs invasion, the invasion of Guatemala in 1954 to overthrow the Arbenz regime, are only some of the precedents of the intervention of Watergate in the affairs of Latin America."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "5bbbc3a5-30bb-4cf4-98f4-5fdf1e08fa8c"
+    },
+    {
+      "start_time": 216,
+      "end_time": 261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior continues by noting that the CIA, a White House spokesman, and President Nixon himself have denied any connection of the CIA with Watergate in Mexico, but all have implicitly admitted that the CIA previously carried out operations there. Excélsior concludes that the Mexican government may not make a formal protest because of the friendship which unites the United States to Mexico. However, it will be necessary to employ firmness to demand that Mexico's political sovereignty is no longer violated by the CIA. While secret CIA activities are highlighted in the Mexican press, a different sort of problem faces the government of Costa Rica, which has been splashed with some of the mud of the Watergate scandal. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "3819469b-0620-464f-9d36-0680f7fdb122"
+    },
+    {
+      "start_time": 261,
+      "end_time": 307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin America reports that several days ago serious charges were leveled at the President of Costa Rica, Jose Figueres, claiming that $325,000 had been deposited in his New York Bank account through a Vesco-linked company. Vesco, a wealthy Wall Street financier, has recently been indicted of embezzlement and has been linked to the Watergate scandal. The Costa Rican President vigorously denied the allegations and defended Vesco's conduct saying that in Costa Rica, if nowhere else, it had been honest. As in so many other areas of the Watergate scandal, a great deal of questions concerning the high level involvement remained to be answered, this from the British News Weekly Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "38055db1-bd67-4e4e-b1e8-20f20ce2f24e"
+    },
+    {
+      "start_time": 307,
+      "end_time": 354,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Several significant events in the continuing political struggles in Chile have been reported by Excélsior. In Santiago, the government of President Salvador Allende has rejected any kind of mediation in the two-month-old strike at the huge copper mine known as El Teniente. The statement reaffirmed the position of the government to hold down large wage increases which would heighten the serious inflation the country now faces. A previous announcement had indicated the government's opposition to the strikers' suggestion of mediation by the National Confederation of Copper Workers. This is consistent with a Allende's announced intention of ending special privileges enjoyed by certain sectors of the Chilean labor force, which have enjoyed higher pay than other sectors. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "85cdfdbd-dbe4-4793-953b-1bc1e700a6a0"
+    },
+    {
+      "start_time": 354,
+      "end_time": 384,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Meanwhile, eight opposition radio stations advised the government that they would not comply with the new law designed to integrate the stations into a national network and that they would refuse to pay any fines imposed. This declaration follows the government's order that all stations must broadcast a daily program of official government announcements. It is thought that the order was given largely in response to the failure of many stations to broadcast an important speech by the Minister of Housing, that from Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "a76f756e-69eb-430f-aa6e-20429dadc5f6"
+    },
+    {
+      "start_time": 384,
+      "end_time": 436,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On another matter, Excélsior reports that the mafia illegally passes to the United States 50,000 Mexicans a month. The illicit importation of Mexican workers to the United States in Tijuana alone produces for the mafia between 250 and 300 million pesos a month. An agent of the Public Federal Ministry in Tijuana told the Excélsior that, \"The brains of the organization which traffics in migrant workers live in the United States, as do those who obtain the major economic benefits.\" Asked what authority or political person in the United States he was accusing directly, the lawyer answered that he could not reveal directly who in the United States intervenes as an individual or as an authority, but that the United States government should investigate it. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "e5a17532-fbe5-4e9f-b355-da7a34281f45"
+    },
+    {
+      "start_time": 436,
+      "end_time": 472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior continues, reporting that in many cases the illegal migrants were provided with counterfeit green cards, as the legal papers for immigration are called. It has been proved that these cards are authentic and that the materials used, paper, ink, printing plate, and the stamps of US machines were genuine. This implies either the direct involvement of immigration authorities who have access to such materials or total penetration of the Treasury Department printing offices by organized crime. This from Excélsior, Mexico City. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "6fbec004-3165-44a9-9c62-7808a7da89b0"
+    },
+    {
+      "start_time": 472,
+      "end_time": 512,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another report from Excélsior concerning Paraguay reports that the major opposition party of Paraguay, the Radical Liberal Party, issued a statement opposing the Treaty of Itaipu with Brazil in which it denounced the secrecy of the terms and the condescending attitude of Brazil. The treaty, signed in Brasilia, calls for the construction of a jointly owned hydroelectric plant. In condemning the Paraguayan government for accepting terms which the opposition party says are highly favorable to Brazil, the Radical Liberals said the treaty, \"Opens the dangerous doors of Brazilian domination.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "30c2deb3-b3b2-472a-adf1-6d39b126382d"
+    },
+    {
+      "start_time": 512,
+      "end_time": 542,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin America has interpreted the signing of this treaty as a significant turning point in the struggle between the two relative superpowers, Brazil and Argentina, over the \"buffer\" state of Paraguay. The issue of the hydroelectric project and dam may appear minor, but on close examination has a great deal of significance. There are strong indications that the environmental effects of the dam will adversely affect the Argentinian port of Rosario, which is not far downstream. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "e491395d-92db-444f-abb1-2e8b40ac65a8"
+    },
+    {
+      "start_time": 542,
+      "end_time": 580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin American Newsletter reports from Argentina that the most important political facts of President Cámpora's first week in office were the unease with which the trade unions greeted new plans for social reforms. The enthusiasm of the working class itself, however, is very strong, and when former popular leader Juan Peron returns to Buenos Aires accompanied by the new President, he will be greeted by at least a million happy Argentinians. Their delight at the complete surrender of the former military rulers will not have worn off and the real difficulties involved in the transition will not yet have been faced. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "6c63af40-7be5-467e-a260-5e8b28b08710"
+    },
+    {
+      "start_time": 580,
+      "end_time": 617,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The real question is the price that powerful middle class industrialists may have to pay for the new liberal government. As Latin America puts it, \"Nothing less than a real transfer of income to the poorest 40% of the community will really eliminate the possibility of a revolution.\" Current economic plans involve holding down both prices and wages, but are also aimed at reversing the decline in the working class's share of national income, which has dropped from 55% in 1955 to less than 43% today. This from the British News Weekly, Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "f6d3d208-be2e-48ce-868f-cd0548b67943"
+    },
+    {
+      "start_time": 617,
+      "end_time": 661,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The continuing threat of Argentinian guerillas poses yet another problem for the new government. The Miami Herald reports that an action similar to a one last month, where Ford Motor Company was forced to donate enormous sums to charity. Four armed men abducted British-born financier, Charles Lockwood. At the same time a spokesman for General Motors said the company had received a telephone kidnap threat unless it rehired 1000 laid off workers, but said, \"We are not complying.\" Witnesses said Lockwood, 63, was seized shortly after leaving his home and that his chauffeur was wounded in the abduction. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "825a8dda-5854-4e7c-b1f8-d36dfa025111"
+    },
+    {
+      "start_time": 661,
+      "end_time": 681,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unconfirmed reports said kidnappers were demanding $1 million for his safe return. A spokesman for the guerilla organization said the caller who demanded that the company rehire all the people laid off in the past two years said that the company's principle executives would be kidnapped unless they complied. \"We are not complying,\" the spokesman said. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "cee5689d-f395-455c-9fbc-8ba6e41eae31"
+    },
+    {
+      "start_time": 681,
+      "end_time": 708,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Meanwhile, there appeared to be little substance to a report that 21 prominent Communist party officials have been kidnapped by supporters of the new Peronist government, according to United Press International. United Press, which had reported the kidnapping on Tuesday, said Wednesday the report had been based on an unconfirmed press release release from members of a Supreme Security command that backs new Peronist President, Hector J. Cámpora. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "6bfd6d09-9aef-4fca-9944-e45c4cccb7e2"
+    },
+    {
+      "start_time": 708,
+      "end_time": 754,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Miami Herald reports on Puerto Rican opposition to a refinery there. Two Puerto Rican Independence leaders have asked a UN group to help prevent American oil interests from building a giant refining port in Puerto Rico. Senator Ruben Berrios of the Puerto Rico Independence Party and Juan Mari Bras, Secretary General of the Socialist Party, asked the UN Colonialism Committee to demand that the United States government block the plans. Berrios and Mari Bras said that the port would upset the ecology, harm the agriculture and fishing, and turn Puerto Rico into, \"An appendage of international oil cartels.\" That from the Miami Herald. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        }
+      ],
+      "uuid": "80515766-b171-4269-8fe3-57d8e9337255"
+    },
+    {
+      "start_time": 754,
+      "end_time": 791,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin America reports on Brazil. The forthcoming goodwill visits by the Brazilian foreign minister to Venezuela this month, and later to Colombia, have served to remind Brazil's neighbors of Brazilian wariness and strategic caution. There are fears that the liberalization of certain regimes will be a threat to the Brazilian military dictatorship and upcoming elections in Venezuela may bring a liberal Christian Democrat into power. However paranoiac and unrealistic some of these fears may seem, the fact remains that the military nervousness is reflected in an extraordinary arms buildup."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "d638888d-f0f7-42ed-a253-da22394104a4"
+    },
+    {
+      "start_time": 791,
+      "end_time": 827,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the end of last month, it was announced that Brazil was buying 58 fighter bombers at a cost of $100 million from the United States to join the 16 Mirage Jets and four other planes bought last year, in addition to Brazil's own production of fighter bombers made under an Italian patent. This re-equipment of the air force is coupled with similar re-equipment of the Army, which recently bought a large number of self-propelled guns from the United States and increased production of small arms. Last year, Brazil's military expenditure formed 18.7% of the national budget."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "6b6fb554-eb9b-4307-9267-729cbe162393"
+    },
+    {
+      "start_time": 827,
+      "end_time": 871,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A short from the Miami Herald reports on yet another step in the continuing breakdown of the blockade against Cuba. From Caracas, Venezuela, according to official government announcement, Cuban and Venezuelan officials have begun exchanging impressions on educational matters. A delegation from the Ministry of Education in Cuba met with a Venezuelan group headed by the Venezuelan Minister of Education who said, \"The meeting will serve to strengthen the mutual cooperation between both countries in cultural, educational, and sports matters.\" It should be noted that the meeting had special significance since it was Venezuela, which, under US pressure, introduced the motion to the Organization of American States to blockade Cuba in the first place. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "4cb1d1ab-e91c-475b-9737-7b1bd301c7e2"
+    },
+    {
+      "start_time": 871,
+      "end_time": 896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are listening to Latin American Press Review, a weekly selection and analysis of important events and issues in Latin America. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions about the program are welcome and may be sent to us at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, the University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "68bc37ae-8d7b-464b-bf3b-a8b4c1fa8de6"
+    },
+    {
+      "start_time": 896,
+      "end_time": 934,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our feature this week is a report by German anthropologist Mark Munzel on the Indian situation in Paraguay. In South America, unlike most other areas of the world, indigenous tribes subsist in some primitive areas. However, they are fast-disappearing because of the advance of urban civilization and the repressive policies of certain governments. The purpose of this report is to demonstrate how the basic human rights, described in the United Nations Charter of Human Rights, are denied to the Aché Indians of Paraguay. Not through indifference or neglect, but by deliberate government policy of genocide disguised as benevolence. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "7db7208e-b471-48dc-a028-e51cd9f556c2"
+    },
+    {
+      "start_time": 934,
+      "end_time": 980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There has never been any particular respect for Indian lives. An early account describes the situation, \"In 1903, Paraguayans shot several Aché and even cut one of the bodies into pieces and put him in a cage trap as jaguar bait.\" Munsusin saw a settler pull out of his hunting bag the finger of an Aché and boast about it. Then again in 1907, \"They had followed the traces of the Aché, and when they reAchéd the Indians the very first evening of the journey, they slaughtered seven women and children and caught seven small children.\" This report by the Brazilian Ethnologist, Baldus, is neither the first nor the most cruel one concerning the inhumane treatment of the Aché over the centuries. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "481ae4f7-3f39-4b41-afa3-e1e40ad5e6f4"
+    },
+    {
+      "start_time": 980,
+      "end_time": 1015,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unlike the sedentary Guarani Indians, their neighbors and linguistic relatives, the majority of the nomadic Aché never surrendered to the white man. Without being exactly aggressive, they attempted to defend their territory against incursions and withdrew deeper into the forest when they could not resist. On the other hand, captive Achés, once separated from their people, proved to be of extreme tameness and have a lack of aggression against their captors and the white Paraguayans soon learned to appreciate their aptitude for any kind of agricultural labor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "a257c0b8-dda4-41b0-80d2-3732ab8fc225"
+    },
+    {
+      "start_time": 1015,
+      "end_time": 1048,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Ethnologist Clastres notes the sharp contrast between the two kinds of relations the Aché know. For an Aché tribe, there is no kind of relation to strangers other than hostility. This is in astonishing contrast to the perceptible constant effort to eliminate all violence from relations between comrades. The most extreme courtesy always prevails, the common will to understand each other, to speak with each other, to dissolve in the exchange of words all the aggression and grudges which inevitably arise during the daily life of the group."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "d94c066d-4bc6-4083-a777-5f15a6d778ae"
+    },
+    {
+      "start_time": 1048,
+      "end_time": 1081,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So it seems that the captive Aché, once they realized that they have to stay among the whites forever, decided it is wiser to use their non-aggressive approach, hence the softness for which they are liked. The author says, \"I have only known captive Aché, no free forest Indians, and all I can say is that I have never met any other people who are so tame and obedient. I also happen to meet at Aché's who have been captured just three days previously. They were desperately unhappy but ready to do anything they were commanded to do.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "9b1c2c80-335e-4bf1-bc86-1b4b0ca2170f"
+    },
+    {
+      "start_time": 1081,
+      "end_time": 1101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thus, war against the Acha since colonial days has served not only to conquer new territories, but also to obtain captives as a cheap and appreciated labor force. The hunting and selling of Achés became, and still is, an important branch of the economy in areas close to the lands of the wild Aché."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "ea296b1a-292c-4598-b6d2-7bc5c427d266"
+    },
+    {
+      "start_time": 1101,
+      "end_time": 1133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The extermination of these Indians is very much related to the economic development of the country. If the remotest parts of the country were to be open to foreign investment and to international roads, as is the government's intention, the anachronism of slavery may have to be eliminated in order to make the country exhibitable to foreign eyes. But at the same time, commercial penetration is bound to render the situation of the Indians more difficult. Since 1958, and especially since 1968, their situation has indeed become worse. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "c4f1d113-92a3-44c0-be2c-4373461cab78"
+    },
+    {
+      "start_time": 1133,
+      "end_time": 1170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This coincides with the foundation of the Native Affairs Department of the Ministry of Defense, which meant that Indian affairs were put under military control as a part of the general transfer of power from civilians to the military and with the subsequent retirement of an official in 1961. But there are also deeper reasons. Paraguay has in recent years experienced a slight economic boom. The international road through Eastern Paraguay, from Asuncion to Puerto Presidente Stroessner, was completed in 1965. An additional road, which cuts the forests of the northern Aché into two parts, was completed in 1968."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "e374ec82-42ea-4e13-9ba3-6e58de2483ec"
+    },
+    {
+      "start_time": 1170,
+      "end_time": 1210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Land prices are rising in the areas which have become more accessible through the improved system of communications, as well as the price of forest products; timber, palmito, and [inaudible 00:19:41]. And most especially that of cattle, which means that less land is reserved for the Indians. Commercial penetration means, from the Aché point of view, that the forest, the indispensable basis for their hunting life, is cut down. Or at least crossed by roads that frighten away the game. There have been slight Indian efforts at resisting, especially attacks on woodcutters who were destroying trees that bore beehives. Honey is a very important element in the Aché diet. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "eb1cc0b6-6023-46f2-ba71-5163812391e5"
+    },
+    {
+      "start_time": 1210,
+      "end_time": 1259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But more frequently, the Achés try to adapt to the new situation. If they neither wish to die from hunger on their reduced hunting grounds, nor enter the of working for Paraguayan masters, their only way out is to steal food from the Paraguayans. This is the reason for the frequent, but normally non-violent raids on white men's cattle and fields. The Achés also steal iron implements in order to compensate for their loss of territory by the intensification of subsistence technology. Those who live on the Indian frontier are thus confirmed in their hatred of Aché and so the new invaders of the forest, wood cutters, palmito collectors, and landowners, want to have the forest cleaned of Achés for they are bothered by the presence of the ancient owners of the forest."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "852c0864-e8dd-4b79-b883-3dda23d9115e"
+    },
+    {
+      "start_time": 1260,
+      "end_time": 1300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Most sources agree that manhunts for the Aché have increased in volume and in violence during recent years. In 1968, a member of the armed forces and of the ruling political party, then vice director of the Native Affairs Department of the Ministry of Defense, wrote that the Acha were close to extinction due to repressive actions that follow any of their efforts to resist the occupation of their lands. In December, 1971, the reporter Jay Mesa of ABC Color, an important newspaper in Asuncion Paraguay, wrote of murders of fathers and mothers as the only way of seizing Aché children who are then sold and brought up as servants."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "abfe9736-b7c2-4876-bdb7-a3b6a5ceba7d"
+    },
+    {
+      "start_time": 1300,
+      "end_time": 1332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They even tell of prizes for those who managed to kill the Indians. The Paraguayan anthropologist, Chase Sardi, confirmed this in an interview in the same newspaper in 1972. \"They're hunted. They're pursued like animals. The parents are killed and the children sold and there is no family of which a child has not been murdered. I was told by Paraguayan country people that the price of Aché children is falling due to great supply. It is said to be presently at about the equivalent of $5 for an Aché girl of around five years of age.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "272db34d-27e6-4904-aa21-05ff8e151533"
+    },
+    {
+      "start_time": 1332,
+      "end_time": 1385,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The following recently documented cases are rather typical. In 1970, [inaudible 00:22:20] learned in Itakyry of a raid that had been organized there. The killers kidnapped three children, all of whom died thereafter. On another incident, in about June of 1970, on the river Itambay, approximately 52 kilometers up river from Puerto Santa Teresa, several Indians were killed in a raid according to the claims of a palmito collector, an Indian hunter, who says he killed several Indians before he was wounded. Two kidnapped girls were given to the organizer of the raid. In February, 1972, close to San Joaquin, Munzel himself reports being told by several people of an Aché hunt in the area southeast of Itakyry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "67a4ce32-9bfd-4c84-bd05-682ec717bda5"
+    },
+    {
+      "start_time": 1385,
+      "end_time": 1417,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"We were not able to gather any concrete or detailed evidence,\" he says, \"but I believe that an inquiry commission sent to the area could easily gain this information.\" The massacre seems to have taken place about the middle of 1971. Various children of slain Aché parents were then deported. The kidnappers were said to have declared that the only reason why they did not take more children was that they were not able to carry off more at one time and that they were forced to leave several children with their dead parents, but that they would return to the forest later on to seize them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "ade99c77-3c75-49e0-af65-5d3a6a866335"
+    },
+    {
+      "start_time": 1417,
+      "end_time": 1455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Despite documentation and reports to government authorities, very little is being done about the problem. Recently, the director of the Native Affairs Department declared that there were no concrete indications of massacres of Indians in Paraguay. General Bejarano, president of the Indigenous Association of Paraguay, described massacres as problems that were normal in any part of the world. The officially recommended solution of this problem does not include the limitation of the massacres by means of legal pressure, but the installation of a reservation to which the Aché, who were a problem elsewhere, may be deported."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "1b334442-34f2-457d-8c28-5d1b5b34d525"
+    },
+    {
+      "start_time": 1455,
+      "end_time": 1495,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A well-known hunter and seller of Achés in 1950s was Manuel Jesus Pereda, a junior partner of the biggest manhunter in the area. In 1959, a band of Aché whose hunting possibilities had been reduced too much to permit the continuation of their free existence, and who were suffering strong pressure from the manhunters surrounding them, surrendered to Pereda at Torin. This was at the time when the authorities had taken some measures against the slave hunters. Afraid of legal prosecution, Jesus Pereda did not dare sell his new Indians, but used them instead as a cheap labor force on his farm at Torin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "8008f879-3673-4cb0-b087-b2a32dce66aa"
+    },
+    {
+      "start_time": 1495,
+      "end_time": 1517,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The story he told the authorities was that the Indians had sought his protection because they loved him. Pereda was shortly thereafter nominated as a functionary of the Native Affairs Department of the Ministry of Defense. And his farm transformed into a reservation called the Indian Assistance and Nationalization Post Number One."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "d6aefc43-38b1-40a7-bab9-eab185a17595"
+    },
+    {
+      "start_time": 1517,
+      "end_time": 1548,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Extensive documentation at the Aché reservation shows this to have been the scene of criminality of the grosses sort. Jesus Pereda's first administrative act was to plunder the goods of his wards in order to sell them as tourist souvenirs. There's also extensive documentation of sexual abuse of women and of very young girls by the reservation administration. And very numerous acts of gratuitous violence, including murders of Aché. Food allocated for the Indians is often sold instead to local farmers for profit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "54bf5d17-1a84-4c9f-9979-789b2b6b12c5"
+    },
+    {
+      "start_time": 1548,
+      "end_time": 1567,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also, the resources, land, and water of the reservation itself are very far from generous. Furthermore, virtual manhunts through the forest are still used to round up Indians and forcibly bring them to the reservation. Captured, domesticated Indians are encouraged to participate in this activity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "e1241b76-46e6-42a4-8ab0-796f9557df7a"
+    },
+    {
+      "start_time": 1567,
+      "end_time": 1614,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In June of 1962, the reservation of Aché numbered about 110, at least 60 of whom had been brought there by direct violence. In July of 1968, only 68 Indians were left. This demographic reduction becomes more spectacular if we take into account that the Aché are a very fertile people. Anthropologist, Chase Sardi in 1965, pointed out the absolute lack of any type of preventative medicine on the Aché reservation. Officially in 1968, the absence of medical and sanitary assistance was admitted as one of the reasons for the deaths. Other evidence shows that the oft cited biological shock of the first contact with the microbes of the white man cannot be the main reason for the disappearance of so many Indians."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "f84b639d-771f-41e2-aac2-6e99abfd763b"
+    },
+    {
+      "start_time": 1614,
+      "end_time": 1640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Many of them had been in contact with whites before, having been captured by the Paraguayans and having escaped again before finally coming to the reservation. Besides, the greatest reduction of population took place, not when the reservation was first established, but later on. The main reasons for the reduction of the Aché population seem to be hunger and hunger related diseases, as well as the selling or giving away of reservation Indians to outsiders. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "35f948ba-73ae-4a81-b649-b97d6c0107b1"
+    },
+    {
+      "start_time": 1640,
+      "end_time": 1672,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An element of psychological importance is the brutal destruction of the cultural inheritance of these Indians. This is not the place to discuss whether primitive cultures should be preserved or modernized. What has taken place in the case of the Aché is not modernization, but the destruction of the identity and even the self-respect of the Achés as human beings. Munzel recorded on tape many songs lamenting the end of the Aché, in which the singer regards himself as no longer an Aché, not even as a human being, but as half dead. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "508f8782-b7bc-46b6-bb0c-0896d9195e54"
+    },
+    {
+      "start_time": 1672,
+      "end_time": 1703,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A French ethnologist, Clastres, describes a song he recorded on the reservation. \"[inaudible 00:28:00] on a sound of deep sadness and nausea,\" he said, \"ended in a lamentation that was then prolonged by the delicate melancholy of the flute. They sang that day of the end of the Aché and of his despair in realizing that it was all over. The Aché, when they were real Aché, they hunted the animals with bow and arrow, and now the Aché are no more. Woe is us.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "c13a63a6-4f9a-4b81-bbca-968cf8f9935d"
+    },
+    {
+      "start_time": 1703,
+      "end_time": 1732,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Especially since 1972, the Aché situation turned into a public scandal yet still no action has been taken against those who, outside the reservation, continue to hunt the Aché like animals. Still there are Aché slaves all over Eastern Paraguay. Still, countless Aché families remain separated through slavery or through the deportation of some of them to the reservation. Still, the reservation is located on such ungenerous soil that one can foresee its bitter end."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "2c0c08c9-311a-47e7-88ba-1949d56c8cc1"
+    },
+    {
+      "start_time": 1732,
+      "end_time": 1745,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This has been a report by Mark Munzel of the International Work Group for Indigenous Affairs. The International Work Group for Indigenous Affairs is a non-political, non-religious organization concerned with the oppression of ethnic groups in various countries."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "3ebb3592-de35-434f-9056-b33be40da655"
+    },
+    {
+      "start_time": 1745,
+      "end_time": 1773,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You've been listening to Latin America Press Review, a weekly selection and analysis of important events and issues in Latin America as seen by leading world newspapers, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions about the program are welcome and may be sent to us at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7011122c-6c10-46ae-939f-cff1ee193dab"
+    }
+  ],
   "set": "Default",
   "event_id": "b0048e4b-35e2-4fb2-b9ce-9a6163bd4650",
   "source_id": "4b093897-e964-4384-9455-0bdec627cfab"
