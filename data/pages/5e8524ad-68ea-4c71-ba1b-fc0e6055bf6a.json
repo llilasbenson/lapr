@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "LAPR1973_07_05",
+  "parent": "957fbd39-5a56-4e7c-8771-31b4af8623c6",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "lapr19730705",
+  "created_at": "2025-03-17T02:48:24.323Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-03-17T02:48:24.323Z",
+  "updated_by": "rpr88"
+}
