@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "644a7ba6-e8a6-4954-bd6c-156938a416b4": {
+      "label": "LAPR1973_07_05",
+      "is_offline": false,
+      "file_url": "https://utexas.box.com/shared/static/tk9c1lz5wreqqa3d9nyn1e7i5jk9o54k.mp3",
+      "duration": 1785,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "LAPR1973_07_05",
+  "created_at": "2025-03-17T02:42:11.144Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-03-17T02:42:11.144Z",
+  "updated_by": "rpr88"
+}
