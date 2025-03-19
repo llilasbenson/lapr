@@ -1,5 +1,1424 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome to Latin American Press Review, a weekly roundup of news and events in Latin America as seen by leading world newspapers, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions about the show are welcome and may be sent to us at 2205 San Antonio Street, Austin, Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5008a014-1f86-45f1-b508-c01e8288d730"
+    },
+    {
+      "start_time": 24,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Puerto Rican Weekly, Claridad, reports from Santiago, Chile that only a few weeks after the frustrated attempt by the Chilean army to overthrow the government of President Salvador Allende, the popular government appears strengthened by it. Within hours of the attack, the civilian accomplices of the mutiny, flushed out by their failure, began to run for cover. Five top leaders of the right-wing Fatherland and Freedom Organization released a statement from Ecuador where they'd received political asylum admitting their participation in the coup attempt and calling on all their members to go underground. The document was published in the Daily, Ultima Hora, and is signed by Pablo Rodriguez and other Fatherland and Freedom leaders. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        }
+      ],
+      "uuid": "90b0d11d-bc16-4f7e-9acf-7a6145efc0bb"
+    },
+    {
+      "start_time": 64,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ultima Hora on June 30th said the coup was part of a vast plot, which apparently included the entry into Chile of fascists trained abroad. On the same day as statement made by the government declared that the hands of foreign governments, fascism and all Chilean rightists are involved in this. Vigilance committees of the workers have been formed in work centers all over the country to defend the nation from further right-wing actions. A deputy of the coalition that brought Allende to power, Unidad Popular, was quoted as saying that, \"There are hundreds of parliaments in the factories and they're more genuine and democratic than the traditional one.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        }
+      ],
+      "uuid": "840c56a3-83cd-49b5-a77f-6b0c13781dd0"
+    },
+    {
+      "start_time": 102,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These parliaments, the workers' councils, have full political freedom of expression for Christian Democratic workers as well, many of whom took part in the anti-coup preparations. President Allende and the government have called for a dialogue with the opposition, except for the Fatherland and Freedom and the National Party, which was also responsible for the coup attempt. This has put the conservative leadership of the Christian Democratic Party in a tough spot. To refuse the negotiations would alienate much of the party's working-class membership."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        }
+      ],
+      "uuid": "ea409b76-f137-4442-94bc-5e1f29abf79d"
+    },
+    {
+      "start_time": 130,
+      "end_time": 166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One important economic development is the ending of the two-month-long strike at El Teniente Copper Mine, which had cost Chile some $80 million. The strikers, made up of one fourth of the miners and three-fourths of the white collar workers at the mining complex, accepted the new terms proposed by President Allende. The right wing had used the strike as a rallying point for demonstrations, marches, sabotage, propaganda, and attacks on government leaders and officers. Meanwhile, serious strikes plaguing the trucking and transportation industries remain unsettled."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        }
+      ],
+      "uuid": "195f317c-ada2-4cf4-8e5f-f2c7d43e7c3e"
+    },
+    {
+      "start_time": 166,
+      "end_time": 191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Puerto Rican weekly, Claridad, also reports from Guatemala City that the death toll of peasants shot down by the army troops here now totals 67. A May dispatch published in the New York Times reported 17 dead, adding that the death toll could go higher because all the bodies of those slain might not have been discovered. More than 3000 peasants participated in the land occupations that led to the massacre in the region near the town of Sanarate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "1220abd4-7fbf-4e4b-aebb-8ad555a43e19"
+    },
+    {
+      "start_time": 191,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Landowners called on the army to oust the invaders from the land, which in most cases is owned by absentee landlords and often not cultivated. This region was also the scene of agrarian reform measures taken by the government of Jacobo Árbenz, overthrown by the CIA in 1954. Much of the land distributed to small farmers was returned to the landlords after the oust of Árbenz. The massacre, in which three students and a union leader were also killed, emphasized the determination of the government to continue the terrorist campaign that was first launched against the Guerrilla movement and which has claimed 1000 lives a year since 1966."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "36a21313-3feb-41d1-9f4e-2681a45a24a6"
+    },
+    {
+      "start_time": 232,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Meanwhile, the government has begun to campaign for the March, 1974 presidential elections. Official candidates tour the country under heavily armed military escort. The main theme of the campaign was founded recently by the military man chosen to succeed current President Carlos Arana. \"My historic mission,\" intoned the official candidate, \"Is to carry out the second phase of the pacification of the country by wiping out the left.\" This from the Puerto Rican weekly, Claridad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "8db1f9ce-9ce6-466a-b480-f9865f442afa"
+    },
+    {
+      "start_time": 258,
+      "end_time": 304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marcha, of Montevideo Uruguay, reports the future president of the Republic of Brazil has been selected. The official party selected General Earnest Geisel, whose nomination will be officially ratified by an electoral college in which the official party has a rather large majority. The Brazilian people, denied for nine years the right to elect their own rulers, has only one liberty left - that of speculating about the future president. Of course, this luxury must be kept to themselves since it is dangerous to actually talk about such things. At the same time, a thoroughly domesticated Brazilian press is trying to popularize the general, who is an illustrious nobody in the eyes of 99% of the population who can't even pronounce his German surname."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "32b0a4b2-2dff-4ba8-997e-8a389ffcac5f"
+    },
+    {
+      "start_time": 304,
+      "end_time": 334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Geisel, the designated successor to Médici, is still an unknown to several political observers. Some call him a liberal, some a conservative. It is said that he's a nationalist and anti-American, but no one denies that he is a staunch army man. There are several reasons to believe that he is a conservative. When he was head of the military cabinet of Branco, he was sent to Brazil's northeast to investigate claims of government torture. He concluded that there was absolutely no torture despite common knowledge that The Fourth Army was conducting a reign of terror in the Northeast. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "d2f4e245-abe4-4f14-8940-417936e6b318"
+    },
+    {
+      "start_time": 334,
+      "end_time": 366,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "His sponsors within the country are also proof of his conservatism. Both ex-President Branco and General Golbery are well-known reactionaries. Golbery is the author of a work proclaiming that Brazil's domination of the South American continent is manifest destiny. But, Marcha writes, \"He doesn't spend all his time formulating Brazilian imperialist strategy, but works at something far more lucrative. He is president of the Brazilian branch of Dow Chemical, which has a great deal of political influence in Brazil today since the country has been transformed into a virtual colony of large multinational corporations.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "7d4df7c1-4fed-419b-aa7e-799c3ecb03ac"
+    },
+    {
+      "start_time": 366,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As president of the Brazilian state oil industry, Petrobras, General Geisel took no steps to recover control of the petrochemical industry, the filet mignon of the petroleum business. Under his leadership, Petrobras, once a symbol of Brazilian nationalism, has provided lucrative investments for Phillips Corporation and Dow Chemical. It has also made some very suspicious moves overseas, investing in many other countries, including the Middle East. Marcha concludes that the nationalism of Geisel, if it does exist, is merely an imperialist nationalism that is aimed at transforming Brazil into a superpower. In short, the repressive situation in Brazil will most likely continue. The power of the Army remains supreme and not even a pretense of democracy or civilian control seems necessary anymore. This from the Uruguayan weekly, Marcha. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "ba8863c3-e427-4689-be34-6b3a332406bc"
+    },
+    {
+      "start_time": 419,
+      "end_time": 461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In further news of Brazil, the Cuban Press Agency, Prensa Latina, reports that Uruguayan National Party Senator Wilson Ferreira, exiled in Buenos Aires, has claimed that Brazilian troops have violated Uruguayan territory on several occasions. This follows a series of reports of ominous preparations by the Brazilian dictatorship. Troops and armored units of the Brazilian Army's Third Core, its biggest and best equipped military outfit, are reported to have penetrated Uruguay by one of the four major highways which Brazil has built on the border between the two countries. The construction of the highways and the rapid buildup of troops along the border came under fire from the Montevideo press in 1971 when the existence of this operation was revealed on the eve of Uruguayan presidential elections. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "02ca3c5c-8ce1-4ed8-880d-94e56e6f0529"
+    },
+    {
+      "start_time": 461,
+      "end_time": 487,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to some sources, the Brazilian regime had prepared an invasion plan which was to culminate with the total occupation of Uruguay within 30 hours if the left-wing broad front coalition won the elections. Although the operation was seen at the time as little more than an intimidation measure at a time when the Uruguayan working class was able to offer much stronger resistance than it can under the present dictatorship conditions, the resilience have established a history of strong arm methods. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "1551ee3c-4e42-4de0-a0b8-2228bbb3d943"
+    },
+    {
+      "start_time": 487,
+      "end_time": 515,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Meanwhile, in Uruguay, the Guardian reports the Uruguay working class is back on the job this month, but discontent against the new dictatorship boils beneath the surface. The National Workers' Confederation called off its two-week general strike, July 11th, vowing to continue the struggle through different routes and methods. The strike ended four days after a militant demonstration of some 50,000 workers, students and housewives against the Bordaberry government. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "fa51175e-95fc-4c19-9fb8-b433d563104d"
+    },
+    {
+      "start_time": 515,
+      "end_time": 540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dozens were wounded by police. The strike lasted 15 days, despite heavy armed repression and government efforts to divide workers. Military units forced refinery workers to return to their jobs. Some 1500 union leaders were jailed. Thousands of workers were arrested and herded into sports stadiums for lack of prison space. Two deaths were reported in demonstrations by students and women. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "7eb8f303-1707-40f7-b713-b550640730ae"
+    },
+    {
+      "start_time": 540,
+      "end_time": 573,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Repression against the workers is likely to increase. The dictatorship has declared that it will regulate strikes and control union elections in order to promote a free, strong and Uruguayan syndicalism. Brazil's heavy-handed intervention in the right wing coup included a $30 million loan to the Bordaberry government plus military equipment. In accord with the Brazilian formula, President Bordaberry may be replaced by a military junta. Armed forces occupied the presidential mansion July 28th, claiming that Marxist subversion threatened to smash the government. This from the Guardian. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "b700ac1e-5a54-4bd7-b8cc-12ab380c9ec1"
+    },
+    {
+      "start_time": 573,
+      "end_time": 606,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior of Mexico City adds that Uruguayan police opened fire on a thousand demonstrators at the National University in Montevideo last week while armed troops patrolled the nation's capitol. Dozens were injured by police gunfire and many were arrested. Police reportedly searched the homes of university students and professors, but authorities declined to say if any arrests were made. Last month, university demonstrations were accompanied by showers of homemade bombs thrown at the police from rooftops in the city. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "424d3745-1d36-4310-abbc-b970dabeca3d"
+    },
+    {
+      "start_time": 606,
+      "end_time": 623,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These demonstrations are only a part of the political upheaval which has raged in Uruguay since President Juan Bordaberry dissolved the National Congress on June 18th and set up a military dictatorship. Soon after the coup, the National Workers Union called a general strike which paralyzed the country, but this was brutally repressed by the government. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "6775a896-6345-4462-93f2-7c963701f973"
+    },
+    {
+      "start_time": 623,
+      "end_time": 645,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Many observers feel that the way was cleared for the June military takeover in April of last year when the government waged an all-out war on the Tupamaros, an urban guerrilla group. While many of the more moderate figures in the previous Uruguayan government found the Tupamaros leftist politics too extreme, it has felt that the strength of the Tupamaros guerrillas kept the right wing military from taking over the government completely. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "1c93d47a-9859-4aed-a710-bed8abc46740"
+    },
+    {
+      "start_time": 645,
+      "end_time": 689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now that the Tupamaros have been defeated and the military has indeed taken over, many moderates perhaps now regret that they did not object to the military's brutal campaign against the Tupamaros last year. But while the Tupamaros were defeated, they were not exterminated. They issued a statement recently calling for a reorganization of the popular forces for a war against the fascist dictatorship. While admitting that they were defeated last year because they underestimated the Uruguayan military and overestimated their own strength, the Tupamaros said they would increase their organizing of the working classes and pledged to continue the revolutionary struggle. This from the Mexico City daily, Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "30866b71-dc2e-4abc-8c49-247da16b8454"
+    },
+    {
+      "start_time": 689,
+      "end_time": 718,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Barry Rubin, the New York Guardian staff correspondent, writes that the July 13th resignations of Argentine President Héctor Cámpora and Vice President Vicente Lima were seen by many leftist Argentinians as a move to the right by the Peronist government. In choosing a new president, the left wanted Argentine leader, Juan Perón, to agree to run with Campora as vice president, but an August 4th national meeting of the Peronist movement put forward the candidacy of Isabel Martinez, Perón's wife. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "1089a298-7512-4fb6-b62b-cebe11ebcec5"
+    },
+    {
+      "start_time": 718,
+      "end_time": 740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The 200 Peronist party delegates at the meeting are generally believed to have acted at Perón's request. Perón will run for the president in the September 23rd election and will almost certainly win. His main opponent will be Ricardo Balbin, leader of the Radical Party. Balbin, the candidate favored by the United States, will have the support of a rightist anti-Perón front. This report from The Guardian. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "22ed9217-2513-49fa-8879-c6a8dc674774"
+    },
+    {
+      "start_time": 740,
+      "end_time": 776,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Mexico City Daily, Excélsior, reports from the United Nations, Mexico, Switzerland, and Brazil vehemently attacked the United States and the Soviet Union, who continue to conduct underground nuclear testing despite the fact that they signed a treaty 10 years ago to bring such nuclear testing to an end. There is particular concern over a new type of nuclear weapon known as the mini nuke, which is a small-tonnage nuclear weapon. It can be aimed with absolute precision and has a small concentrated effect. Critics feel that its production could easily lead to a new and dangerous arms race."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Soviet Union"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        }
+      ],
+      "uuid": "c690fcd7-70ba-4492-9461-a7bf48fbe708"
+    },
+    {
+      "start_time": 776,
+      "end_time": 817,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A United Nations representative pointed out that the nuclear potential of the superpowers is already equivalent to 15 tons of TNT for every single inhabitant of the planet. Mrs. Alva Myrdal, the Swedish representative, said that the majority of nations who do not possess nuclear arms consider continued testing a breach of promise and an insult to the will of the majority of nations at the United Nations Assembly. Meanwhile, in Lima, Peruvian doctor, Louis Patetta declared that French nuclear testing in the Pacific had raised the incidences of respiratory, eye and skin diseases. He also claimed that radioactivity in Lima had reached alarming proportions. This from Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Soviet Union"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        }
+      ],
+      "uuid": "23803bcc-7c7b-4876-88f1-70227d058a18"
+    },
+    {
+      "start_time": 817,
+      "end_time": 854,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In further news of the UN, Excélsior reports that a United Nations report has recommended that legal and economic controls be imposed on multinational corporations in order to avoid monetary crises, the weakening of the sovereignty of nations, or the blocking of the development of poor nations. The UN study, compiled by 20 experts, was authorized by a resolution adopted last year by the UN Social and Economic Council. The report states that multinational corporations have direct overseas investments of over $165 million, and that in 1971, each of the 10 largest multinationals made more than the gross national product of 80 underdeveloped countries combined. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4021b49d-6ffc-4d50-8136-fc8fa9da5b3d"
+    },
+    {
+      "start_time": 854,
+      "end_time": 875,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're listening to Latin American Press Review, a weekly roundup of news and events as seen by leading world newspapers with special emphasis on the Latin American press. Our feature this week is an interview with Dr. David Barkin of Lehman College of City University. He has written a book and several articles on problems of agrarian development in Mexico."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c14200d6-97ca-42a0-a733-b09e556c311e"
+    },
+    {
+      "start_time": 875,
+      "end_time": 894,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Professor Barkin was recently interviewed in a series of articles in Mexico's most important daily newspaper, Excélsior. Professor Barkin, I've noticed that Mexico City's Excélsior has published a number of articles about your work on the problems of Mexican agriculture. Could you tell us something about this? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "1e2fb17d-e7c9-42fa-95de-c7b8f20e9b41"
+    },
+    {
+      "start_time": 894,
+      "end_time": 929,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Right now, there's a very serious problem in Mexico because agricultural production has not been going up in line with demand, and during the past few years, Mexico has been forced to import substantial quantities of wheat and corn, Mexico's basic food stuffs. Unfortunately, Mexico's had to do this at the same time as world prices for these commodities have been going up, and therefore, this has meant a substantial drain on the balance of payments."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "d67e13ee-f06f-4c20-9fd8-4b1418851913"
+    },
+    {
+      "start_time": 929,
+      "end_time": 970,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What happened was the Mexicans have right now just discovered the agrarian crisis, which has been in the making for 30 or 40 years. During the past few decades, Mexico has postponed its crisis by having substantial increases in agricultural production from the extension of irrigation, especially in the northwestern part of the country that is bordering on the United States areas which has been the grainery of Mexico. At the same time, they've had substantial increases on exports of important agricultural crops, most notably cotton, but also sugar. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "6af8063e-5db2-4c25-b0db-54d9187f8d48"
+    },
+    {
+      "start_time": 970,
+      "end_time": 1019,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This agricultural production has all been concentrated in the hands of 3% of Mexican farmers. There are two and a half million different farm units in Mexico, and only 3% of those have produced more than four fifths, more than 80% of all of the increase in agricultural production during the past two decades. As a result, the majority of Mexican farmers and farm families, which is perhaps as much as one half of Mexico's population - that is 25 million people - have been isolated from Mexico's agricultural progress. As a result of this isolation, living standards have actually declined in the countryside. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "6fc07bd0-2dbc-45a1-bd27-efc786bc58c3"
+    },
+    {
+      "start_time": 1019,
+      "end_time": 1069,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, the reason for this is very easy to identify with government statistics, Mexican government statistics. The reason for it is a very successful program of irrigation which has been given to a very small proportion of Mexican farmers. This 3% of the Mexican farmers that I mentioned control 70% of all irrigated land in Mexico. This 3% of Mexican farmers control 75% of all machinery in Mexico, and as a result, the rest of the people have been completely left out of progress. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "89e99f63-9f5d-49d7-9716-25120a3786f2"
+    },
+    {
+      "start_time": 1069,
+      "end_time": 1097,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is creating lots of social problems throughout Mexico, and in the first six months of 1973, the Mexican army has been reported to have taken military action in 70 different instances against land takeovers by peasants trying to get some improvement in their living standards as a result of the impoverishment which has come about through years of neglect. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "549e75c3-cf15-4c41-899e-c54782af4eee"
+    },
+    {
+      "start_time": 1097,
+      "end_time": 1114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I understand that the Mexican economy has been an extremely dynamic one, especially when compared to some other Latin American economies. Do we really have some genuine evidence that the majority of the population, and especially the rural population, hasn't really been benefiting from this economic growth?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "ef358e5d-c96f-4f3a-bc84-7ebe24ad0a7d"
+    },
+    {
+      "start_time": 1114,
+      "end_time": 1161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We certainly do. Mexico's dynamic growth has a history of 35 years of 6% a year real growth. That is after taking away for effects of price changes, inflation, which we know a lot about now. But the real problem is that this growth has come about exactly following the models which we, that is our government, is asking the underdeveloped countries to follow - heavy investment in new industries and in agriculture. You had the heavy investment in agriculture which got Mexico into very important export crops but did not affect over 2 million farm families, which is 15 million people. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "550f26f1-df97-4206-82ab-6fde564e1da8"
+    },
+    {
+      "start_time": 1161,
+      "end_time": 1215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, in addition to that, in industry, you've had exactly the same thing happen. Mexico has been very successful in getting increases in production, but the policy, which the Mexicans call stabilizing development -- the treasury secretary who invented this policy called his policy stabilizing development -- might be better called growth for growth's sake. Growth for growth's sake means let's just raise the product. It's reminiscent of what happened in the United States when we were just trying to raise our national product without worrying whether we were producing pollution or terrible cities or mass transportation, or any of the other things which have caused the social and economic ills which we're now suffering in our own country. Well, the Mexicans have it much worse. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "a3e9450d-e362-4bf7-be0b-e61b1c259634"
+    },
+    {
+      "start_time": 1215,
+      "end_time": 1264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Mexicans have it much worse because 1% of all the industrial firms in Mexico, that's 938 companies out of 35,000, control two thirds of everything that are produced in the manufacturing sector of the Mexican economy. Two banks, which own many of those 938 firms which are Mexican owned, control a large proportion -- I'm sorry, I don't know the exact figure -- of all the banking. Two banks, and they have offices in New York also. During the past years, American foreign investment has virtually poured into Mexico to such an extent that it now controls 90% of the modern food industry of Mexico. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "65f87f49-d2dc-46bd-9bef-f6f9ac25d190"
+    },
+    {
+      "start_time": 1264,
+      "end_time": 1300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, these sorts of figures are creating large problems all over the Mexican economy. During the past year, for example, the Mexican government, for the first time in its history, admitted an unemployment problem, but when they admit an unemployment problem, they do it in grand style because they are estimating the unemployment rate at 25% now. I conservatively estimate that they're wrong. I think that the real rate is between 30 and 40% unemployment, in real terms. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "07ea8c67-d745-4161-878e-6caf626e400a"
+    },
+    {
+      "start_time": 1300,
+      "end_time": 1319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you think that this trend towards industrial and agricultural concentration, which seems to be taking place, is going to be reversed at any time in the near future? Or are the policies of the Mexican government not concerned with this issue, not directing any efforts towards trying to correct it? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "ce232d13-4092-463f-be3b-b019aaca4e44"
+    },
+    {
+      "start_time": 1319,
+      "end_time": 1356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Mexican government's very concerned about concentration, but the problem is that the Mexican government is incapable of doing anything about it because the very dynamic of the Mexican economy depends upon that concentration. In the same way that concentration in the United States economy is creating a problem in the United States when the transnational corporations are making their influence felt in the United States. As we heard about, we regularly hear about the ITT affair, but in Mexico, such concentration creates a very peculiar problem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "13eaa8b0-c375-4e8a-ae15-749889b353a6"
+    },
+    {
+      "start_time": 1356,
+      "end_time": 1410,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The dynamics of 6% plus growth every year depends upon the fact that they continue to produce automobiles, electric dishwashers, electric dryers, and all the other sorts of appliances which we consider part of middle-class living. But in Mexico, only 30% of the population can even aspire to get a non-electric washing machine, and a very small proportion of the population can consider the possibility of getting electrical appliances and consumer durables like automobiles. The automobile is having a banner year in Mexico, but only because during the past 20 years, almost half of every dollar increase in Mexico's income has gone to the upper 10% of the population. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "a37649ad-9a3b-4b61-94e0-3e53cfe47db6"
+    },
+    {
+      "start_time": 1410,
+      "end_time": 1427,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Professor Barkin, you mentioned the issue of transnational corporations, which has been one of a great deal of concern to very many scholars and policymakers. Are there any other aspects of United States economic policy that affect Mexico very strongly? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "a960c7b6-7176-44d2-92cd-daef8c3d2a83"
+    },
+    {
+      "start_time": 1427,
+      "end_time": 1476,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Almost every one. Every American policy affects Mexico. Mexico depends upon the United States for its markets and Mexico imports from the United States almost all of its capital equipment. Inflation is a tremendous problem in Mexico now. The Mexican government at the end of July admitted that inflation in the first six months of this year had been at 11% a year. That's only because the people who estimated the inflation only go to government stores. The housewives think that inflation must be in the order of 25% this year, which means that inflation is a huge problem in Mexico and is creating lots and lots of repercussions throughout the whole society. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "f743bebe-1632-4be5-a8c1-12b2bc545358"
+    },
+    {
+      "start_time": 1476,
+      "end_time": 1519,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The problem is faced from the United States' point of view because Mexico tries to export more to the United States. For example, tomatoes, which the Mexicans have now, quote, voluntarily, unquote, agreed to an export quota so that the Florida tomato growers using their chemical processes and their artificial mechanisms can have the American market and keep prices of tomatoes high in the American market and keep out the Mexican tomatoes, which would permit farm prices to come down in the United States. The same is true for other agricultural products. Textiles are also affected by import quotas imposed by the United States. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "028ea7b4-7c4c-46a5-939c-42377911d66b"
+    },
+    {
+      "start_time": 1519,
+      "end_time": 1554,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Other sorts of problems are created in the border areas because Mexico is trying to create border industries, but the American Trade Union movement is trying to prevent that because they claim that jobs are lost. These sorts of conflicts are a daily occurrence between Mexican and American governments, and every policy decision from phase one to phase five, which I guess will be coming soon, will affect the way in which the Mexican economy continues to have growth for growth's sake. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "2e86b0cb-5c91-4fec-ac5e-a34a21962412"
+    },
+    {
+      "start_time": 1554,
+      "end_time": 1583,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It seems very interesting to me that the same sort of economic problems that the United States is having are also causing Mexico a great deal of problems, particularly this inflation. It seems as though all these economic problems occur almost on a hemispheric level rather than on a national level, which is how we're accustomed to thinking of them. Do you think that these problems with inflation in Mexico will affect the tourist—the United States tourist who's trying to get away from it all in Mexico? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "8dffd1da-8a46-4024-bd44-10f6a06f520e"
+    },
+    {
+      "start_time": 1583,
+      "end_time": 1616,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, for the tourist who's trying to get away from it all and going to the lost village in the mountains, it will affect it relatively little, but for the tourist who's interested in the attractions of touristic Mexico, as the guidebooks would have it, that is Mexico City in the central part of Mexico and Acapulco, prices have been going up but it's still a lot cheaper to take a vacation in Mexico than it is to take a similar one in the United States, and airfares are not going up to Mexico City. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "dcb42a7e-3515-4dec-a339-d289dfa2e11b"
+    },
+    {
+      "start_time": 1616,
+      "end_time": 1656,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the Mexican governments doing something else, which is very interesting. They're developing tourism very quickly because it's an important export earning in the face of restrictions on exports of other goods to the United States, so that there are two new tourist areas - one in the Caribbean called Cancun, and one in the Pacific called Zihuatanejo, which are being developed for large scale jumbo jet type tourism. And I guess in that sense, the Mexican government is trying to stimulate tourism and going to try to control prices in doing so, because it depends upon that to keep up the consumption standards of the upper classes. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "d91d8af2-2622-46aa-98e4-09b73a77eb7d"
+    },
+    {
+      "start_time": 1656,
+      "end_time": 1664,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thanks very much. We've been discussing the recent economic situation in Mexico with Dr. David Barkin of Lehman College of City University of New York."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "050fb205-c7bc-498b-8918-d6abaf39ef96"
+    },
+    {
+      "start_time": 1664,
+      "end_time": 1692,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You've been listening to Latin American Press Review, a weekly roundup of news and events about Latin America as seen by leading world newspapers with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions about the show are welcome and may be sent to our office at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0737b472-ae54-4d38-a401-ec5a2a85bedb"
+    }
+  ],
   "set": "Default",
   "event_id": "109e7b07-af37-417a-bc8c-7215d054a656",
   "source_id": "32c12c51-9279-4bd4-a73c-d94e332c9b5d"
