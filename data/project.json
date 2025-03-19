@@ -1,1 +1,285 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"llilasbenson","is_private":false,"title":"Latin American Press Review Radio Collection","description":"Collection at Benson","language":"en","slug":"lapr","creator":"llilasbenson","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[{"login_name":"rpr88","avatar_url":"https://avatars.githubusercontent.com/u/158184412?v=4","admin":false}],"tags":{"tagGroups":[{"color":"#C195DB","category":"Countries"},{"color":"#FF9A6F","category":"Communities"},{"category":"_uncategorized_","color":"#A3A3A3"}],"tags":[{"category":"Countries","tag":"Panama"},{"category":"Countries","tag":"Mexico"},{"category":"Countries","tag":"Colombia"},{"category":"Countries","tag":"United States"},{"category":"Countries","tag":"Vietnam"},{"category":"Countries","tag":"Chile"},{"category":"Countries","tag":"Peru"},{"category":"Countries","tag":"Brazil"},{"category":"Countries","tag":"Argentina"},{"category":"Countries","tag":"Guatemala"},{"category":"Countries","tag":"Venezuela"},{"category":"Countries","tag":"Portugal"},{"category":"Countries","tag":"Costa Rica"},{"category":"Countries","tag":"Haiti"},{"category":"Countries","tag":"Bolivia"},{"category":"Countries","tag":"Paraguay"},{"category":"Countries","tag":"Dominican Republic"},{"category":"Communities","tag":"Working class (rural)"},{"category":"Communities","tag":"Working class (urban)"},{"category":"Communities","tag":"Indigenous people"},{"category":"Communities","tag":"Black people"},{"category":"Communities","tag":"Women"},{"category":"Countries","tag":"England"},{"category":"Countries","tag":"Cuba"},{"category":"Countries","tag":"Uruguay"},{"category":"Countries","tag":"Ecuador"},{"category":"Countries","tag":"France"},{"category":"Countries","tag":"Puerto Rico"},{"category":"Countries","tag":"Sweden"},{"category":"Countries","tag":"Japan"},{"category":"Countries","tag":"Jamaica"},{"category":"Countries","tag":"Canada"},{"category":"Countries","tag":"Honduras"},{"category":"Countries","tag":"Spain"},{"category":"Countries","tag":"China"},{"category":"Countries","tag":"Russia"},{"category":"Countries","tag":"Guyana"},{"category":"Countries","tag":"Germany"},{"category":"Countries","tag":"South Vietnam"},{"category":"Countries","tag":"Switzerland"},{"category":"Countries","tag":"Italy"},{"category":"Countries","tag":"Bahamas"},{"category":"Countries","tag":"Netherlands"},{"category":"Countries","tag":"Senegal"},{"category":"Countries","tag":"South Africa"},{"category":"Countries","tag":"Mozambique"},{"category":"Countries","tag":"Angola"},{"category":"Countries","tag":"Nicaragua"},{"category":"Countries","tag":"Soviet Union"},{"category":"Countries","tag":"Suriname"},{"category":"Countries","tag":"Netherlands Antilles"},{"category":"Countries","tag":"Curaçao"},{"category":"Countries","tag":"Ivory Coast"},{"category":"Countries","tag":"Iceland"},{"category":"Countries","tag":"Australia"},{"category":"Countries","tag":"Guinea-Bissau"},{"category":"Countries","tag":"Guinea"},{"category":"Countries","tag":"Cabo Verde"},{"category":"Countries","tag":"New Zealand"}]},"created_at":"2025-02-10T21:14:32.888Z","updated_at":"2025-03-19T20:13:46.555Z","generate_pages_site":true},"is_private":false}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "llilasbenson",
+    "is_private": false,
+    "title": "Latin American Press Review Radio Collection",
+    "description": "Collection at Benson",
+    "language": "en",
+    "slug": "lapr",
+    "creator": "llilasbenson",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [
+      {
+        "login_name": "rpr88",
+        "avatar_url": "https://avatars.githubusercontent.com/u/158184412?v=4",
+        "admin": false
+      }
+    ],
+    "tags": {
+      "tagGroups": [
+        {
+          "color": "#C195DB",
+          "category": "Countries"
+        },
+        {
+          "color": "#FF9A6F",
+          "category": "Communities"
+        },
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Vietnam"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Haiti"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Countries",
+          "tag": "Jamaica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Canada"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        },
+        {
+          "category": "Countries",
+          "tag": "Russia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guyana"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "South Vietnam"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bahamas"
+        },
+        {
+          "category": "Countries",
+          "tag": "Netherlands"
+        },
+        {
+          "category": "Countries",
+          "tag": "Senegal"
+        },
+        {
+          "category": "Countries",
+          "tag": "South Africa"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mozambique"
+        },
+        {
+          "category": "Countries",
+          "tag": "Angola"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nicaragua"
+        },
+        {
+          "category": "Countries",
+          "tag": "Soviet Union"
+        },
+        {
+          "category": "Countries",
+          "tag": "Suriname"
+        },
+        {
+          "category": "Countries",
+          "tag": "Netherlands Antilles"
+        },
+        {
+          "category": "Countries",
+          "tag": "Curaçao"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ivory Coast"
+        },
+        {
+          "category": "Countries",
+          "tag": "Iceland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Australia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guinea-Bissau"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guinea"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cabo Verde"
+        },
+        {
+          "category": "Countries",
+          "tag": "New Zealand"
+        }
+      ]
+    },
+    "created_at": "2025-02-10T21:14:32.888Z",
+    "updated_at": "2025-03-19T20:24:26.975Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
+}
