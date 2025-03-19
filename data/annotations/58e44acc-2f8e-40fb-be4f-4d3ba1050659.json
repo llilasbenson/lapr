@@ -1,5 +1,2300 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome to Latin American Press Review, a weekly selection and analysis of important events and issues in Latin America as seen by leading world newspapers with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4a0b35f0-c826-47e9-9248-41dc2ca545ae"
+    },
+    {
+      "start_time": 18,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is growing opposition by Puerto Ricans to announce plans for the construction of a petrochemical super port on their island. Juan Mari Brás, secretary General of the Puerto Rican Socialist Party, was interviewed this month by The Guardian in New York City. The Guardian asked, \"Mr. Mari Brás, I believe you are in the US to discuss several questions with the United Nations. One of the main ones being on the construction of a new super port in Western Puerto Rico. Could you discuss the political and economic significance of this project?\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "8b2511d2-7a80-470f-9d24-5a95317cd8e4"
+    },
+    {
+      "start_time": 50,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"There's a project presented by the government development company to install in the western part of Puerto Rico, a super port and refinery complex, with an initial investment of about $1 billion and to eventually reach about $16 billion. That super port would be a station for embarkment and disembark for crude oil coming to the US from the Persian Gulf and other areas of the Middle East. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "fe2eca96-3ae6-47cc-b012-ffe7afefb23c"
+    },
+    {
+      "start_time": 72,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is talk in the US of an energy crisis and the US oil companies want to install a refineries in the loading facilities in North American territory so as to avoid balance of payment problems. They want to have their oil refined and stored somewhere within the US economic framework, but at the same time export the pollution outside the US. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "a2214c4b-96ea-4bc1-b6c9-5207907b1716"
+    },
+    {
+      "start_time": 91,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This super port is conceived and planned to receive supertankers of 200,000 to 1 million tons. The port would threaten human and marine life. That's why the governments of several East Coast states have decided not to allow the installation of such a port in the states. And that's why they're thinking of the Caribbean islands For the establishment of those ports. They seek to take advantage of the fact that there are natural super port facilities in several places in the northwestern part of Puerto Rico, near Aguadilla and the island of Mona, an island 42 miles west of Puerto Rico.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "bfc7b581-b155-4d2d-b3fb-25b3486def7b"
+    },
+    {
+      "start_time": 123,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Guardian then asked Mari Brás, \"What will be the environmental effects of the proposed super port in Puerto Rico?\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "e5487f32-7b17-47cc-86d5-137e654f142f"
+    },
+    {
+      "start_time": 130,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The establishment of such a super port would be disastrous to the agricultural production and life in the western part of Puerto Rico. It would take something like 20,000 to 50,000 acres in the first stage of the project. Eventually, it would absorb the whole water production of Puerto Rico. It would signify also the replacement of communities that live in all the places where the super port would be installed. It would destroy completely the fishing industry in the western part of the island, and it would prevent the development of light industry in that part of the island. Thus, opposition to this project has been developing in the last few weeks in Puerto Rico.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "43ba720b-8352-4d8c-b1fe-27e2207abf14"
+    },
+    {
+      "start_time": 164,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Why are you appealing to the UN on this issue?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "8fee442d-d1c6-4d74-9c87-4b5b99a77c39"
+    },
+    {
+      "start_time": 168,
+      "end_time": 186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"We have come to the UN to denounce the project as an attempt to destroy completely the self-determination of the Puerto Rican people. Once the international oil companies established their complexes on Puerto Rico, it is obvious that they will have much greater interest in maintaining the colonial status quo of the island, in view of the large investments of that project. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "731a7beb-310b-495a-bfbd-e1cf411c8eee"
+    },
+    {
+      "start_time": 186,
+      "end_time": 219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We believe this project violates several international principles which are contained in resolutions of the United Nations General Assembly. Such resolutions prohibit administering powers of colonial territories from taking any steps that could undermine the territorial integrity of the colonial territory. That is why we have asked the UN Decolonization Committee to intervene in this question. And specifically to ask the US that while the case of Puerto Rico is being discussed by the Decolonization Committee, it should abstain from establishing that super port and oil complex.\" This interview by The Guardian from New York."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "eb6d5e75-a184-455d-8c88-272f4b9a38cc"
+    },
+    {
+      "start_time": 219,
+      "end_time": 249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thousands of workers from Puerto Rico marched in mid-July to La Fortaleza, headquarters of Puerto Rico's colonial government, to demand the withdrawal of 3,100 National Guard troops occupying fire stations, power plants, and waterworks throughout the island. As the demonstration reached its destination, colonial Governor, Hernández Colón, was lifted out of La Fortaleza by helicopter and military reinforcements were sent into the area."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "5c515614-0e7b-4925-a7de-5936992da585"
+    },
+    {
+      "start_time": 249,
+      "end_time": 265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Cuban News Agency, Prensa Latina, reported from Puerto Rico that Governor, Hernández Colón, declared a state of emergency in the face of strikes by sanitary workers, firemen, electric power and water service employees. And had ordered the National Guard to break through the picket lines and maintain the service. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "e1bd05f2-683c-4c68-aa4e-31ce97ed00a2"
+    },
+    {
+      "start_time": 265,
+      "end_time": 297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In a later dispatch, the Puerto Rican weekly Claridad stated that the colonial government has begun to withdraw the nearly 5,000 National Guardsmen called in to break strikes by 9,000 public service workers here. Striking firemen and electrical power and water workers returned to the job last week. Their nine-day strike coincided with dozens of other labor conflicts that nearly paralyzed the island's economy and required the government to call in the National Guard for the first time since 1950. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "86974dd4-6802-42ed-81c9-698ad341cad5"
+    },
+    {
+      "start_time": 297,
+      "end_time": 321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Claridad claims that scores of guard officers, noncoms and soldiers will be tried for failure to take their post during the recent mobilization. The guard command also announced that about 1500 soldiers will remain on active duty for several more days in different tasks. The firemen returned to work with a number of their demands having been met. All criminal charges and court orders against the firemen and their militant leadership have been dropped. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "ad31b14d-8d70-4613-ad1d-8f561d5a8362"
+    },
+    {
+      "start_time": 321,
+      "end_time": 344,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The government also agreed to commit $230,000 for personal safety equipment and to replace firetruck more than 10 years old. A special commission to study the workers' demands was set up and must report within three months. A spokesman for the union said, \"If the commission comes back with a report adverse to the demands of the workers, then we'll go out on strike again.\" This report from the Puerto Rican Weekly Claridad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "fb2235ae-aa3a-4761-ab48-4f3c797de08c"
+    },
+    {
+      "start_time": 344,
+      "end_time": 375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Political analysts were surprised when Bolivia's President Banzer announced that his country would return a constitutional rule in 1974 and hold free elections. Panorama of Buenos Aires, Argentina interpreted the announcement from two sides. According to the government, the call for elections was spontaneous and did not arise from political pressures. However, the opposition seized the action as a mere opportunist attempt to prevent a coup by younger members of the bureaucracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        }
+      ],
+      "uuid": "d36e184f-39e6-4b6d-8a7a-164f70853eb1"
+    },
+    {
+      "start_time": 375,
+      "end_time": 399,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If this last hypothesis is accepted, Banzer's announcement reflects the growing weakness of his government. Everything indicates that the government, which took over after the feat of the Nationalist General Torres, has not been able to stabilize itself. This was a result of the resistance created by the repressive policies, which bonds are instituted as soon as he announced himself President. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        }
+      ],
+      "uuid": "f7211726-9b81-4ca7-9e45-fed156770863"
+    },
+    {
+      "start_time": 399,
+      "end_time": 436,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Panorama says, \"The regime was threatened in October of last year when the government approved a monetary devaluation of 66% causing a severe fall in wages and salaries.\" Because of this devaluation, the opposition struggle was joined by some middle class sectors, those which during the previous regime had been pushed to the right. Ever since the beginning of the year, the younger members of the bureaucracy have objected to the repressive methods of the generals and colonels that were running the country. When an army official caught in what was apparently an upper echelon power struggle was killed by agents, in the course of interrogation, the government's position became even more vulnerable. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        }
+      ],
+      "uuid": "9fc52189-4fd1-4ab8-8fb3-d41876a3357b"
+    },
+    {
+      "start_time": 436,
+      "end_time": 461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The elections concludes Panorama will be difficult to monitor, and enormous frauds will be possible because of the large distances and the lack of communication between election districts. Nevertheless, one concrete gain has been made. The opposition has forced Banzer to free a great many political prisoners and allow many exiles to return. This from Panorama, in Buenos Aires. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        }
+      ],
+      "uuid": "c19aaf9e-a528-4c90-a42f-258d9c73a94f"
+    },
+    {
+      "start_time": 461,
+      "end_time": 503,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A view even more critical of the Banzer regime was published this week in an interview by the weekly Chile Hoy. Ruben Sanchez was the only high Bolivian official that remained faithful until the end of the leftist nationalist government of general J.J. Torres. Sanchez fought on the front lines with the Colorado regiment against the 1971 military coup launched with the support of Brazil and the United States that brought Hugo Banzer to power. Even in exile after August of 1971, he contributed to the formation of the anti-imperialist front, the present government's exiled military opponents. In Buenos Aires, he was interviewed by Chile Hoy, the Santiago Weekly, \"What do you think of the announced elections of Banzer?\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "b6c23d4f-300c-4789-866c-e29b0b763491"
+    },
+    {
+      "start_time": 503,
+      "end_time": 521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"It seems to be a desperate maneuver. It's a cover to hide their contradictions and to distract from the popular discontent generated by the poor economic situation and the unending military repression. It is characteristic of the irresponsible mishandling of domestic and foreign policies.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "e15437fe-53bc-4cf2-95f1-edf55cf43b9c"
+    },
+    {
+      "start_time": 521,
+      "end_time": 526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Do you believe there are minimum conditions for realization of normal elections in Bolivia?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "42f18844-78db-4bf8-a668-eb92ed6d050e"
+    },
+    {
+      "start_time": 526,
+      "end_time": 552,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Absolutely not. You can't talk of elections with the jails full of patriots. You can't talk of elections when all of the popular organizations are exiled by the regime. The general amnesty and the removal of restrictions upon the trade unions and political parties are the basic conditions for solving the crisis that grips the country. For many people, their only dream is to have the right to participate in the national debate.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "5f33a6fc-bd93-497a-bce8-c4de6363d9fd"
+    },
+    {
+      "start_time": 552,
+      "end_time": 556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"In your opinion, what is the actual situation of the Banzer regime?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "bef08eb1-e291-42cd-b971-fd78e4a59f66"
+    },
+    {
+      "start_time": 556,
+      "end_time": 579,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The regime has no real popular base. The two parties that actually wield the power fight against each other. The internal divisions within the ruling parties are more obvious every day. The regime is set up by, maintained by and financed by the CIA and the Brazilian military.\" This interview with a leader of the Bolivian opposition from Chile Hoy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "c4497a9b-ad5c-4b8e-8cb3-d865f83a8f1a"
+    },
+    {
+      "start_time": 579,
+      "end_time": 613,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A complex series of electronic devices similar in nature to the ill-fated McNamara Line in Vietnam is being implanted along the 2000-mile border between the United States and Mexico, according to sources in the border patrol and immigration and naturalization service. The Mexican government has asked the United States for an official explanation of the new border security program, which the US apparently plans to begin soon. The Mexican chancellor said in an interview with the Mexican daily Excélsior that his government voiced certain points of disagreement with the plan and that he expects a prompt reply from the US. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Vietnam"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "6111d293-1014-42b4-8b85-c57bd6103165"
+    },
+    {
+      "start_time": 613,
+      "end_time": 647,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Employed sophisticated military technology, the detection units contain noise sensors which are to be buried underground. The only thing showing will be a small antenna, which can detect footsteps at a range of 38 feet. There will also be infrared sensors to detect human body heat as well as metal detectors to register the appearance of money, keys or other items which might be in the pockets of illegal entrance. Although the sensors will not cover the entire border, they will be installed at commonly used entry points and will be moved frequently. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Vietnam"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "9bce369d-cb60-46c1-ba46-0d9a4a7ed266"
+    },
+    {
+      "start_time": 647,
+      "end_time": 684,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The new detection system comes in the wake of statements by immigration service officials that the border situation has gotten out of hand. The director of the Chula Vista office of the Immigration Service said recently that, \"The situation grows worse every year because there is no law to prevent American companies from hiring illegal Mexican immigrants.\" In testimony before a special grand jury in San Diego, federal officials said that they had evidence which showed direct ties between groups dealing in illegal immigrant labor and certain industrial enterprises in southern California which employ day laborers. The proceeding story from Excélsior of Mexico City. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Vietnam"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "6637fc97-dfb3-4e66-919e-aa227065d3e4"
+    },
+    {
+      "start_time": 684,
+      "end_time": 718,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reaction to the electronic fences has not been universally favorable. Representative Henry B. Gonzalez, Democrat from Texas, was quoted as saying, \"The concept of a barrier is repugnant to me because I felt there would be some inherent international psychological repercussions that should be evaluated before any commitment is made. I believe techniques now available such as helicopter surveillance and other normal procedures would be more than adequate if the Border Patrol is staffed at a sufficient level, which it hasn't been.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Vietnam"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "d569378c-d1e3-484d-ad21-9f1c4af97472"
+    },
+    {
+      "start_time": 718,
+      "end_time": 754,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The unsuccessful attempt at a military coup against the Chilean government June 29th has provoked a series of responses in this country that still totters on the brink of generalized violence. The Santiago Weekly Chile Hoy reports that as a court-martial continues investigating the rebellion, hundreds of factories are presently being occupied by the one-million-strong Chilean Workers Federation. Rumors of more unrest in the military abound and the opposition Christian Democrats and National Party members are claiming that the workers have been armed by the government and organized into a Marxian people's army. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "82bc4b2b-dbf9-4b10-b711-064de588055b"
+    },
+    {
+      "start_time": 754,
+      "end_time": 795,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"On the morning of June 29th,\" says Chile Hoy, \"as rebel tank units were firing on the presidential palace, President Allende called upon the workers to occupy all the country's industrial enterprises. This call was immediately carried out as worker committees organized a seizure and administration of factories throughout the country. The occupation order is still in effect, and as this is being written, it is fair to say that every major industry in Chile is now in the hands of the workers with only a few exceptions. Before the attempt attempted coup, some 285 companies were in state hands. Today, approximately 600 are being occupied and nationalized.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "39fbbadd-9e54-4423-bdd6-c12db6fd2ab5"
+    },
+    {
+      "start_time": 795,
+      "end_time": 820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Allende was asked in a July 6th press conference what the government was planning to do with hundreds of illegally occupied factories, he replied that, \"Each case would be studied by the workers and the Ministry of Labor and an individual decision would be reached in each case.\" \"Without exaggerating the situation,\" says Chile Hoy, \"it is fair to say that the Chilean ruling class was dealt their heaviest economic blow, yet as this leaves them very little industry.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "f845d546-7807-41b8-884f-0300eacc8a83"
+    },
+    {
+      "start_time": 822,
+      "end_time": 834,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Needless to say, the right wing opposition has not sat still and calmly watched these events. They have been very active and quite vocal in their attempts to incite the armed forces to engage in a coup. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "9b50863e-338d-4e84-be68-7cccf848708f"
+    },
+    {
+      "start_time": 834,
+      "end_time": 853,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "However, in many ways, the Chilean armed forces are different than those of other Latin American countries. They have a long tradition of respect for the Constitution and for established government and are hesitant to intervene. It would be illusory though to deny that there are sectors of the military who would collaborate with the right in another coup or to crush the workers' movement. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "4ec0615b-6435-4ca1-8584-7fc9e9b4cdf3"
+    },
+    {
+      "start_time": 853,
+      "end_time": 870,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the days following the coup attempt, it was known that certain officers groups were meeting and indirectly trying to make demands on the government to force it to give in to an invisible coup. The two basic demands of these groups were to return the factories and to include Christian Democrats in the new cabinet. This from Chile Hoy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "89d0a95a-d23a-4e9e-802e-0eaa8478929b"
+    },
+    {
+      "start_time": 870,
+      "end_time": 899,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are listening to Latin American Press Review, a weekly selection and analysis of important events and issues in Latin America. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions about the program are welcome and may be sent to us at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, the University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "94a08bdc-4a1f-4ae4-94b9-1e41e5b16be1"
+    },
+    {
+      "start_time": 900,
+      "end_time": 924,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On July 26th of this year, Cuba celebrates the 20th anniversary of the attack on the Moncada army barracks. This insurrection led by a young lawyer named Fidel Castro was by any military standards a failure. More than half of the 167 attackers were killed during the attack or as a result of the tortures to which they were later submitted. Almost all the survivors, including the leaders, went into prison and when released into exile. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "0d90a254-7025-4740-869a-588e91acaed9"
+    },
+    {
+      "start_time": 924,
+      "end_time": 950,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was from their exile in Mexico that some of them returned three years later to begin the guerrilla actions in the mountains of Cuba's easternmost province. A guerrilla campaign in which small victories alternated with severe setbacks until popular support increased. The fronts multiplied and the tide of victory mounted. On New Year's Day 1959, Batista's hated regime was replaced by revolutionary government. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "1b89dab2-9f08-46de-9f9f-c80e500502de"
+    },
+    {
+      "start_time": 950,
+      "end_time": 973,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "During its brief 14 years of power, that revolutionary government has transformed the face of Cuba and has transformed the Cuban people as well. One of the major goals of the Cuban Revolution has been to incorporate all its citizens into active participation in national life. Development of rural areas has been encouraged in preference to urban centers as a means of eliminating the marginalization of the peasant sector of the population. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "7e2b77a4-47b4-4711-a450-006738d6891f"
+    },
+    {
+      "start_time": 973,
+      "end_time": 1003,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another front in the battle to break down the distinction between city and countryside has been the policy of bringing the cultural advantages of the city to the rural peasantry. The first campaign of this nature continues to be the most famous. The literacy campaign of 1961 reduced illiteracy from 27% to 2% in the space of one year. In Cuba, universal literacy was seen as a prerequisite for revolutionary change because it set the stage for the spread of revolutionary culture throughout the entire country. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "5ed3df2f-5259-4877-a7c3-de077c298aea"
+    },
+    {
+      "start_time": 1003,
+      "end_time": 1027,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Any appraisal of revolutionary culture in Cuba should look at three areas of artistic production. First, the performing arts, music, dance, theater, and especially film. Second, the plastic arts, poster, design, painting, sculpture, and architecture. The third category that of literary production is too vast to be included in this brief survey. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "74ac221b-ac36-4902-a496-3810d8e1ccb6"
+    },
+    {
+      "start_time": 1027,
+      "end_time": 1048,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It should be noted however that there has been a virtual explosion in Cuban letters since the revolution, in the novel and short story, poetry, essay and creative nonfiction, as well as in the publication of many influential periodicals. In fact, the literary coming of age apparent throughout Latin America is attributed by many literary critics to the inspiration and example of the Cuban Revolution. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "8a9bd051-02ba-4ff4-b320-1b6383563011"
+    },
+    {
+      "start_time": 1048,
+      "end_time": 1069,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Even during colonial times, the island of Cuba was famous for its music, for its seductive blend of African and European rhythms. For the style and verb of its tropical dancers, alongside this showy strain, which to some extent came to be associated with the vice and exploitation that flourished when Cuba was the brothel of the Caribbean."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "86467629-f2a3-46f2-b69f-8be252c581a0"
+    },
+    {
+      "start_time": 1069,
+      "end_time": 1097,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There also existed a more intimate folk song tradition derived from the Spanish than the African. It was these popular folk musicians, for example, who set Jose Martí verses to a traditional melody, thus creating the well-known \"Guantanamera\". Both the Afro-Cuban rhythms and the simpler folk melodies still coexist in revolutionary Cuba, but it's primarily the latter that has been recruited into the service of the revolution. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "66d4bb59-093b-448b-beea-1a7aa3d65c9e"
+    },
+    {
+      "start_time": 1097,
+      "end_time": 1122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Carlos Puebla, Cuba's best known songwriter, composes songs celebrating the lack of discrimination in the revolutionary society, satirizing the organization of American states, which expelled Cuba from its membership, urging the Cubans to cut that cane and eulogizing Che Guevara. Cuba has organized festivals of popular and protest music enabling musicians and singers from all over Latin America to share their music and learn from one another. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "dd6e494c-8394-4959-b38e-26a92793a137"
+    },
+    {
+      "start_time": 1122,
+      "end_time": 1139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The island famous for the Rumba and the Mamba also boasts one of the world's leading ballerinas, Alicia Alonso. Now almost completely blind, she continues her dancing and continues to direct Cuba's ballet troop as they perform in Cuba and countries around the world. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "f280991b-9685-4fd3-93e2-dbe3973827a3"
+    },
+    {
+      "start_time": 1139,
+      "end_time": 1167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuban theatrical companies are semi-autonomous collectives of varying styles and aims all operating out of the National Cultural Council. Like the other art forms in Cuba, the theater remains very open to influences from abroad in content as well as technique, but they managed to impart a particularly Cuban flavor to everything they produce. Cuba has produced several excellent playwrights since the revolution, but the playbills boast names of plays all over the modern world, including the US. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "c0eac58a-fb47-47ee-9210-07e70422285a"
+    },
+    {
+      "start_time": 1167,
+      "end_time": 1187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some companies have their home base in rural areas on the theory that the troops should interact with the segments of the population least contaminated or deformed by capitalist culture. All theatrical performers spend two years performing in the countryside in lieu of military service, and most companies make annual tours to the rural areas. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "3992efed-0b4e-4df3-90a4-453469c9e28b"
+    },
+    {
+      "start_time": 1187,
+      "end_time": 1210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is, however, the Cuban film industry, which is generally credited with having developed the greatest revolutionary art form. The Cubans believe that of all the 20th century art forms, cinema is the most significant with the greatest revolutionary potential. Within that medium, the revolution is striving to develop its own forms and cultural values to free itself from the techniques and values which commercial interests have placed on film. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "0932bcc7-5293-4c04-ab7f-3a14f36ffbf8"
+    },
+    {
+      "start_time": 1210,
+      "end_time": 1238,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Film in Cuba, before the revolution, has a long and not so exciting history. In the early part of the century, when the film industry was in the infancy, Cuban entrepreneurs imported films from France and Italy, but with the advent of the talkies, US influence began. The attempts of early Cuban filmmakers to develop a national cinema drawing from Cuban history and folklore were overpowered by the efforts of those interested in films for quick exploitation and profit. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "be8faa58-9cd7-4e9f-b853-4d1345540613"
+    },
+    {
+      "start_time": 1238,
+      "end_time": 1261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From 1930 until the Triumph of the Revolution in 1959, the Cuban film industry mimicked US models incorporating Cuban music and dance into the thin and melodramatic plots of musicals and detective stories. Because of the setup of international film production and distribution chains, Cuba had no access to an international audience except through co-production with Mexico or some other country. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "843eefd7-9d53-445e-917b-ebd3cc8ac1c9"
+    },
+    {
+      "start_time": 1261,
+      "end_time": 1278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Domestic audiences preferred films from the US or Mexico, anyway. So on the eve of the revolution, the Cuban film industry was primarily dedicated to the production of commercial advertising shorts, technical and scientific films, and newsreels for domestic consumption. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "16393925-6883-4977-8b1e-8f20d518f49e"
+    },
+    {
+      "start_time": 1278,
+      "end_time": 1306,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the course of the guerrilla struggle against the dictatorship, a few newsreels and documentaries were made by revolutionaries in the Sierra and the Urban Underground. Though of rudimentary film quality, these films were a concrete step in the process of converting a traditional tool of the dominating classes into a tool for the defeat of those classes. One of those bearded filmmakers in fatigues was Alfredo Guevara. Fidel called on him shortly after the triumph of the revolution to draft a law founding the Cuban Film Institute. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "176b892a-088a-4281-bcc6-84208aecac87"
+    },
+    {
+      "start_time": 1306,
+      "end_time": 1337,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In March of 1959, only two months after the revolutionaries came to power, the first law in the field of culture was proclaimed. It founded the ICAIC, Cuban Institute of Film, Art and Industry. In effect, the Institute is sort of a ministry of film with Alfredo Guevara as its head. It oversees all aspects of the Cuban film industry, the training of film students, the production of newsreels, documentaries, and features, the supervision of Cuban theaters, the import and export of films. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "25b19b86-ed70-4d39-9933-2aaea8a89c6c"
+    },
+    {
+      "start_time": 1337,
+      "end_time": 1355,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuba has some 500 movie theaters, but 25% of them are concentrated in Havana. In deciding upon its economic priorities, the Cuban Film Institute has invariably sacrificed sophisticated equipment which would improve the technical quality of their films in favor of what they see as more necessary expenditures. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "9013caba-e968-41dd-b04b-3fdcd1895919"
+    },
+    {
+      "start_time": 1355,
+      "end_time": 1378,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The first priority was consistently been securing the necessary equipment and operators to expose the widest possible audience to the experience of film. Cuban now has over 100 mobile theaters, redesigned trucks equipped with 16 millimeter projectors, and driven by a single projectionist who wanders through the remote Cuban countryside, giving free film showings on the spot. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "86d2255a-54c3-4cfa-b3fc-adca600955ce"
+    },
+    {
+      "start_time": 1378,
+      "end_time": 1394,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These shows invariably consist of a newsreel, a feature, and one or more documentaries. One of the most engaging Cuban documentaries called \"Por Primera Vez\", For the First Time, simply records the joyful response of a peasant audience as they view a moving picture for the first time. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "3d46e80d-7a88-4a83-8297-e30c757b5142"
+    },
+    {
+      "start_time": 1394,
+      "end_time": 1418,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Despite several technical and financial limitations, Cuban documentaries span a wide geographical and cultural range. The most famous of the Cuban documentary filmmakers, Santiago Alvarez, uses montages of still photographs, pen and ink drawings and cartoons to compose brilliant film essays on the Indochina War, events in the US, and the Third World, as well as Cuban topics. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "9308b056-54ea-4e95-b9bd-323f94991775"
+    },
+    {
+      "start_time": 1418,
+      "end_time": 1435,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was not until 1968 that Cuban feature film production really began to flourish. That year saw the release of two of the finest Cuban feature films to date. \"Memories of Underdevelopment\" views the revolution through the eyes of an intellectual of upper middle class background whose family and friends have fled to Miami. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "c54e7b05-4015-4fca-8918-f5c4eeffc87d"
+    },
+    {
+      "start_time": 1435,
+      "end_time": 1456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The film and the novel on which it is based both confront the problems of creating a revolutionary consciousness in a culture long convinced of its own inferiority and imitative of the dominating culture imported from the US. \"Lucia\", another award-winning Cuban feature looks at three revolutionary periods in Cuban's history through the lives of three Cuban women. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "4ad7b9c9-77be-48c8-9601-d8b01d418fc9"
+    },
+    {
+      "start_time": 1456,
+      "end_time": 1475,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The current rate of feature film production in Cuba indicates a new period of growth. The success of one particular film, \"The Adventures of Juan Quin Quin\", may spark a trend towards more humorous films, which explore revolutionary themes in a lighthearted vein. Others forecast a greater use of third world solidarity themes and a new look at contemporary revolutionary conflicts. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "92397445-6df9-4f14-bbf9-191445de1a35"
+    },
+    {
+      "start_time": 1475,
+      "end_time": 1513,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Painting sculpture as traditional plastic arts have undergone relatively little change in Cuba since the revolution. Architecture and poster design, on the other hand, have changed significantly for economic as well as ideological and social reasons. In architecture, as in the other arts in Cuba, there has been a continuing dialogue as to the responsibility of the architect in answering and shaping the needs of the new revolutionary society. The fact of socialism in the country, de-emphasizes large private houses in favor of community centers, apartment complexes, group recreational facilities, schools, and the like. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "a375377d-26e5-4271-9d88-421858f21281"
+    },
+    {
+      "start_time": 1513,
+      "end_time": 1540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entire community complexes called micro cities, which include necessary public services and recreational facilities are springing up in the countryside further, helping to break down the distinction between urban and rural areas. Like other less substantial art forms, revolutionary Cuban architecture too is compelled to innovate because of the shortage of building materials produced by the US sponsored blockade. The blockade doesn't succeed however, in keeping out inspiration from various sources around the world. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "88784cf0-2344-4646-b97c-96546fe4459f"
+    },
+    {
+      "start_time": 1540,
+      "end_time": 1577,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the field of the plastic arts, it is the work of the graphic artists that has received the greatest acclaim. Before the revolution, poster art like the film, was virtually non-existent in Cuba. It has now come to be along with the film, one of the two primary revolutionary art forms. With a demise of the profit system in Cuba, advertising as it has been known, becomes instantly obsolete. But instead of disappearing, billboards and wall posters began to multiply. Instead of exhorting consumers and sparking private appetites, Cuban poster art concentrates on building shared ideals, sympathies and responsibilities. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "28f10a83-0178-4151-ad85-131d1c02b540"
+    },
+    {
+      "start_time": 1577,
+      "end_time": 1600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The posters testified to Cuba's current struggle to claim her place in history among the self-determining nations of the world. They commemorate Che's death in Bolivia, urge solidarity with the struggle of the peoples of Indochina, encourage Cubans to get polio vaccinations and join volunteer work brigades, announce films and other cultural events, and spark public debate on such issues as whether or not to raise the price of rum and cigarettes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "e246f522-035f-47d8-845a-b285f4030f7d"
+    },
+    {
+      "start_time": 1600,
+      "end_time": 1624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Cuban artists are not purists. They borrow images from everywhere, never hesitating to expropriate, the most recent produce of Bourgeois culture, if it can be turned to meet their needs. For a government attempting to revolutionize the consciousness of its people to fundamentally alter human nature and create a new man, all of society is transformed into a school, and posters are an important method of public education. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "6b3a49e4-8de7-4912-8070-099e13593696"
+    },
+    {
+      "start_time": 1624,
+      "end_time": 1666,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As even this brief summary indicates Cuba possesses a rich national culture, diverse, and developing. The economic and ideological blockade against Cuba has had no visible success in stunting Cuba's cultural growth. In fact, in cultural terms, the principle result of the US blockage has been the cultural impoverishment of the American public. US citizens who are interested in contemporary Cuban literature find that Cuban books are only available here after the lengthy process of being reprinted in Spain or another Latin American country. Cuba's world renowned ballet troop will never dance before North American audiences as long as the blockade continues to stand. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "cbc13016-21ef-4934-9358-77c6728b03be"
+    },
+    {
+      "start_time": 1666,
+      "end_time": 1697,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Film goers find it impossible to see Cuban films of international acclaim and the few films which managed to enter this country are subject to mysterious disappearance or illegal confiscation. More important still, as long as the blockade continues, there can never be any sustained and open exchange between culture workers from Cuba and the United States; painters, graphic artists, architects, poets and novelists, teachers, critics, songwriters, and popular musicians, all those people whose work and existence helps build national and international culture. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working Class (urban)"
+        }
+      ],
+      "uuid": "5f833132-7856-4528-a09a-ce6147825d28"
+    },
+    {
+      "start_time": 1697,
+      "end_time": 1730,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to Latin American Press Review, a weekly selection and analysis of important events and issues in Latin America, as seen by leading world newspapers, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions about the program are welcome and may be sent to us at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a4379620-655f-4f57-8bf0-02f9603386c5"
+    }
+  ],
   "set": "Default",
   "event_id": "cff89df7-f94c-47f4-afca-f8137be30781",
   "source_id": "37e3f961-e62e-473a-ab7f-0a58f17aa46f"
