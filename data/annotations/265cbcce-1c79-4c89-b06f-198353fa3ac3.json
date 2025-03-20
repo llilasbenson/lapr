@@ -1,5 +1,2342 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 4,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome to Latin American Press Review, a weekly selection and analysis of important events and issues in Latin America, as seen by leading world newspapers with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4179dcff-ff40-4cc9-9cf4-005d9784de39"
+    },
+    {
+      "start_time": 20,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The military Junta seems firmly in control in Chile after staging a successful overthrow of the government of President Salvador Allende on September 11th. The following report on recent events in Chile and world reaction to the coup is compiled from the New York Times, the Associated Press, the Miami Herald, the Mexico City daily, Excélsior, NACLA, Prensa Latina, and The Guardian. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "ac2d4a95-e7af-4955-9897-23ea17b7961d"
+    },
+    {
+      "start_time": 44,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Junta headed by General Augusto Pinochet issued a communique recently in which he said that the armed forces were searching the country to put down extremist forces. The military said they would expel from the country all of the Latin American leftists who had taken refuge there during Allende's rule. At the same time, relations were broken with Cuba and the entire Cuban diplomatic mission was put in a plane to Havana. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "ac9b5a11-c449-443f-a3b2-0bc229a7699a"
+    },
+    {
+      "start_time": 70,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Junta's interior minister, General Óscar Bonilla said the military took over the government because more than 10,000 foreign extremists living in Chile, including exiled guerrillas from Uruguay and Brazil, posed a threat to the country. The armed forces had to intervene in order to safeguard the destiny of the country, seriously threatened by extremist elements, Bonilla said. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "89ec1965-3ffd-4396-a7de-ea19073f006f"
+    },
+    {
+      "start_time": 94,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Organizations in the United States, which have been expressing concern about the fate of the foreign exiles in Chile, also estimated their number at 10,000. Other sources have indicated that an equal number of Chileans were left dead in the wake of the coup. The military said that many Chileans and foreigners were being detained at the Ministry of Defense, the Military Academy, various military posts, and the dressing rooms of the national soccer stadium. A television station broadcast films of 60 prisoners in the dressing rooms, their hands clasped behind their heads. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "6920d209-e856-4002-9a36-5feaae4d0818"
+    },
+    {
+      "start_time": 126,
+      "end_time": 167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There were widespread reports that could not be confirmed that many former officials and supporters of Allende's popular Unity Coalition had been executed by the military. The North American Congress in Latin America, NACLA, a research group on Latin American affairs in the United States, monitored reports from Cuba and Inter Press News Service. They said that these sources and ham radio reports from Santiago all reported widespread fighting and the execution of many of Allende's associates and supporters. NACLA quoted Inter Press Service as saying that at least 300 foreign exiles were killed during and after the military takeover. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "6c3519d5-1596-4fb7-be20-d6b54fc4ccda"
+    },
+    {
+      "start_time": 167,
+      "end_time": 190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NACLA also said the coup was an attack not only on the popular government of Chile, but the entire anti-imperialist movement in Latin America. Censorship was imposed on the Chilean media and foreign journalist dispatches. The Junta announced that 26 newspapers and magazines were told to suspend publication indefinitely because they were opposed to the Junta's goal of depoliticizing Chile. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "69b7f87b-2908-4370-8f4a-f26a5e896bf5"
+    },
+    {
+      "start_time": 190,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While the extent of resistance in Chile is uncertain due to conflicting reports, much of the rest of the world has raged in protest. An estimated 30,000 protestors filed past the Chilean embassy in Paris, brandishing red flags and banners and shouting \"Coup makers, fascists, murderers!\" and \"Down with the murderers in the CIA!\" Thousands of demonstrators marched in Rome, where a group calling itself the International Militant Fellowship claimed responsibility for a pre-dawn fire bombing of the Milan office of Pan-American World Airways. The group said the attack was in retaliation for participation in the coup by US imperialists. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "718de3f5-9d17-4d44-9ff1-8fc8b28388dd"
+    },
+    {
+      "start_time": 232,
+      "end_time": 256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The West German government withheld recognition of the new Chilean regime for the time being, and in protest of the coup, canceled credits of 35 million marks, which it had agreed to extend to Chile. The World Council of Churches asked the Junta to respect the rights of political exiles in Chile, and the secretary general of that organization expressed the council's concern over the brutal rupture of Chilean democratic traditions. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "db17286a-7222-408b-aa57-80f0fbf35ef7"
+    },
+    {
+      "start_time": 256,
+      "end_time": 281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Latin America, reactions were much stronger. The Argentine government declared three days of national mourning for the death of President Allende, and 15,000 marched in a demonstration in that nation's capital protesting the coup. Telecommunications workers in Buenos Aires staged a one-hour strike in solidarity with the Chilean workers who were killed by the troops of the military Junta. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "4b17559c-f666-4ce8-9676-8377b2dff2fc"
+    },
+    {
+      "start_time": 281,
+      "end_time": 308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also in Buenos Ares, the movement of third-world churches condemned the coup and exhorted all Christians to fight the military dictatorship. Juan Perón, who will soon be elected president of Argentina, said that while he does not have the evidence to prove it, he believes that the United States engineered the coup. Venezuelan president Raphael Caldera called the military takeover a backward step for the entire continent. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "0628871c-9d2c-42b5-8924-40bde1b56432"
+    },
+    {
+      "start_time": 308,
+      "end_time": 330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Costa Rica, thousands of students marched in protest of the coup and in solidarity with Chilean resistance fighters. While the Costa Rican government offered political asylum to Chilean political refugees. One of the loudest protests came from Mexico City where 40,000 joined in a protest march shouting anti-US slogans and burning American flags. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "1c07ddf2-9d74-43db-af68-5bd798caac2c"
+    },
+    {
+      "start_time": 330,
+      "end_time": 364,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An indictment of the type of economic colonialism, which had Chile in its yoke was voiced by Osvaldo Sunkel, a noted Chilean economist when he appeared last week before a United Nations panel investigating the impact of multinational corporations. The panel was created largely because of Chile's charges that the International Telephone and Telegraph Corporation had tried to block the election of Dr. Allende in 1970. United Nations officials maintained that there was a strong sentiment for such an inquiry apart from the ITT case. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "60c59aa1-924a-4c83-8754-564592865105"
+    },
+    {
+      "start_time": 364,
+      "end_time": 391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In his remarks, professor Sunkel charged that foreign corporations were bent on siphoning off resources of the developing countries. He heatedly disputed testimony by five corporate officers that their concerns had contributed to the health and welfare of the countries where they operated. He said, \"I get scared, really scared when I hear such individuals speak of social responsibility. Who has appointed a small group of individuals to decide the fate of so many?\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "89d70ce3-4256-44db-b6ea-89a6824350c3"
+    },
+    {
+      "start_time": 391,
+      "end_time": 409,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sunkel said, \"The government of President Allende made an attempt at changing the structure of underdevelopment and dependence in Chile. It may have had many failings and committed many errors, but nobody can deny that it attempted to redress the unjust economic and social structure by fundamentally democratic means.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "0ea8d018-0dfc-466c-899a-72095d9776cc"
+    },
+    {
+      "start_time": 409,
+      "end_time": 440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While much of the anger and protest around the world seems directed at the United States, State Department and White House officials have consistently denied that the US was involved in the coup in any way. Nevertheless, critics of the Nixon Administration's policy in South America blamed the United States for helping create the conditions in which military intervention became an ever stronger likelihood. Joseph Collins of the Institute for Policy Studies said the tactics were economic chaos. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "900c37bf-e271-413d-819d-dfae064ad20b"
+    },
+    {
+      "start_time": 440,
+      "end_time": 470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Collins said that Chile had become the first victim of the Nixon-Kissinger low profile strategy in which credits are withheld while military assistance continues to pro-American armed forces. Military assistance to the Chilean regime continued throughout the three-year presidency of Allende, however development loans were halted. Collins said US companies had put pressure on their subsidiaries and on foreign associates not to sell vitally needed equipment and spare parts to Chile. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "50d3f9fb-8111-41db-a12d-d660e5d0c673"
+    },
+    {
+      "start_time": 470,
+      "end_time": 502,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The following commentary on the role of the United States in the Chilean coup comes from The Guardian. \"US involvement could be seen on several levels. US Ambassador Nathaniel Davis went home to Washington per instructions September 6th, returning to Santiago September 9th, only two days before the coup. Davis was a high-ranking advisor in the National Security Council from 1966 to '68 and later served as US Ambassador to Guatemala during the height of the pass pacification program against leftist forces there. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "6d506d10-f146-4db6-ba59-96c03c1873d6"
+    },
+    {
+      "start_time": 502,
+      "end_time": 517,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Davis came from Guatemala to Chile in 1971, he brought a number of aides with him who had helped run the repression there. The State Department trains people for special jobs, and Davis seems to have specialized in these kinds of operations,\" says The Guardian. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "a9915422-6d86-452e-ba8b-215dc185f867"
+    },
+    {
+      "start_time": 517,
+      "end_time": 546,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to The Guardian, Davis's philosophy of international relations was expressed in a speech in Guatemala in 1971. \"Money isn't everything,\" he said, \"love is the other 2%. I think this characterizes the US' policy in Latin America.\" The New York Times reported that the US was not at all surprised by the coup and that US diplomats and intelligence analysts had predicted a coup would come three weeks earlier. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "6c9f31b8-3ff8-4a65-b65c-f6af5dd512b4"
+    },
+    {
+      "start_time": 546,
+      "end_time": 569,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"In another interesting possible prediction,\" claims The Guardian, \"the State Department called back four US Navy vessels, which had been heading into Chilean waters for annual naval maneuvers scheduled to begin September 13th. The State Department claims that this was done when news of the revolt came, but some sources say that the order came before the beginning of the coup indicating prior knowledge.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "c1d897ac-1232-4da3-aeee-726ada58c44f"
+    },
+    {
+      "start_time": 569,
+      "end_time": 607,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Guardian claims that US corporations were clearly pleased by Allende's overthrow. When news of the coup came, copper futures rose 3 cents on the New York Commodity Exchange, but the US government is cautioning against too optimistic a view on the part of expropriated companies since a too rapid return of nationalized properties would only heighten antagonisms and further reveal the coup's motivation. The preceding report on recent events in Chile was compiled from the New York Times, the Associated Press, the Miami Herald, the Mexico City Daily Excélsior, NACLA, Prensa Latina, and The Guardian. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "893493b3-afd4-4bcc-b760-1a54c19ecc6f"
+    },
+    {
+      "start_time": 607,
+      "end_time": 636,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuba has made headlines in the Latin American press recently due to Fidel Castro's participation in the Non-Aligned Nations Conference in Algiers last month, and to Cuba's loud protest to the Chilean coup in the United Nations. The Mexico City Daily Excélsior reports that Henry Kissinger has announced that the US will begin consultations with other member countries of the Organization of American States to determine the possibility of reestablishing relations with Cuba. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Algeria"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Barbados"
+        },
+        {
+          "category": "Countries",
+          "tag": "Jamaica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Trinidad and Tobago"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guyana"
+        }
+      ],
+      "uuid": "8d9022ea-0b80-45f5-bba4-fe8aabb33068"
+    },
+    {
+      "start_time": 636,
+      "end_time": 676,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kissinger stated that the US will not act, as he put it, \"unilaterally\", but in accordance with the other member countries. He has not, however, stated when and in what form the first steps will be taken. Seven members of the OAS have already broken with the US supported attempt to isolate Cuba. They're Mexico, which never accepted the decision of rupture, Chile until the overthrow of the government there, Peru, Barbados, Jamaica, Trinidad and Tobago, and Argentina. A number of these countries maintain that the OAS should allow its members the liberty to decide in diplomatic relations with Cuba. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Algeria"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Barbados"
+        },
+        {
+          "category": "Countries",
+          "tag": "Jamaica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Trinidad and Tobago"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guyana"
+        }
+      ],
+      "uuid": "14e11c14-7fbc-488f-b80b-5f9289de0315"
+    },
+    {
+      "start_time": 676,
+      "end_time": 720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fidel Castro's Summit meeting two weeks ago with four leaders of the independent Commonwealth Caribbean is part of Cuba's continuing effort to eliminate any possible threat from its immediate neighbors. The British News Weekly Latin America reports that although it lasted barely three hours and was a stopover en route to the non-aligned nations conference in Algiers, Fidel Castro's meeting with four prime ministers of the English-speaking Caribbean was highly significant for an area still divided and ruled as efficiently as ever by the great powers. The four meeting Castro at Port of Spain's airport were Eric Williams of Trinidad and Tobago, Forbes Burnham of Guyana, Michael Manley of Jamaica, and Errol Barrow of Barbados. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Algeria"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Barbados"
+        },
+        {
+          "category": "Countries",
+          "tag": "Jamaica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Trinidad and Tobago"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guyana"
+        }
+      ],
+      "uuid": "804a33a4-0ded-4c5f-8272-dfeb9a1935d0"
+    },
+    {
+      "start_time": 720,
+      "end_time": 763,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is too early says Latin America to say what park Cuba would be willing to play in the region's economic and other groupings, but since the four independent Anglo-Caribbean states opened diplomatic relations with Havana 10 months ago, the Cubans have worked steadily to build up contacts. Cuban sugar technicians have visited the islands to offer advice and aid about the commodity which dominates the economies of all of them. Cuban fisheries experts will soon go to Guyana under an agreement signed two weeks ago. Ministerial delegations from all four states have been to Cuba and Castro's journey from Havana to Trinidad via Guyana inaugurated a regular air service between Cuba and the islands. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Algeria"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Barbados"
+        },
+        {
+          "category": "Countries",
+          "tag": "Jamaica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Trinidad and Tobago"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guyana"
+        }
+      ],
+      "uuid": "2e10ecbd-f4fe-4f8e-b76b-858abc8fb0ff"
+    },
+    {
+      "start_time": 763,
+      "end_time": 794,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Apart from the basic wisdom of making friends with one's smaller neighbors when under threat from the US only 90 miles away, the four states could be a source of economic relief to Havana. The recent major oil strikes off Trinidad and the prospect of others off the coast of Guyana would be a useful way to lessen dependence on Eastern Europe, which currently supplies all Cuba's oil needs. As for regional solidarity, Cuba might be instrumental in encouraging more effective use of bauxite as a weapon against the rich nations. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Algeria"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Barbados"
+        },
+        {
+          "category": "Countries",
+          "tag": "Jamaica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Trinidad and Tobago"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guyana"
+        }
+      ],
+      "uuid": "746bdca4-78e1-45d0-bf4c-0ea9d468920f"
+    },
+    {
+      "start_time": 794,
+      "end_time": 828,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin American newspaper concludes that even in Central America, traditionally the hardcore of the right wing, pro-Washington resistance to Cuba, Honduras became the first country of the group formally to renew trade relations with Havana by signing a $2 million agreement to buy Cuban sugar. But all these advances have been overshadowed by Argentina's billion dollar credit to Cuba to buy machinery and other equipment. This is the most important step so far towards reducing Cuba's dependence on the Soviet block. This from the weekly Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Algeria"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Barbados"
+        },
+        {
+          "category": "Countries",
+          "tag": "Jamaica"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Trinidad and Tobago"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guyana"
+        }
+      ],
+      "uuid": "b6436844-5cc4-4bbd-bb0d-cae90221611a"
+    },
+    {
+      "start_time": 828,
+      "end_time": 853,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're listening to Latin American Press Review, a weekly selection and analysis of important events and issues in Latin America. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions about the program are welcome and may be sent to us at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, the University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "57bb2773-7b4b-456e-9888-a83594e4c19b"
+    },
+    {
+      "start_time": 853,
+      "end_time": 882,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Chilean coup has captured headlines for the past three weeks. For today's feature, we'll be talking with someone who's just returned from two years spent traveling and doing research in Chile. Alan Marks worked for a year in a research capacity for the Institute of Training and Research of the Chilean Agricultural Reform Agency. Alan, it must be hard for many North Americans to imagine what it's like to live in Chile under the Allende government. What were your initial impressions of the Chilean society and culture? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "5406b73b-b584-469c-ad52-df9c7c8cfa5c"
+    },
+    {
+      "start_time": 882,
+      "end_time": 916,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The first two things that I noticed was the incredible freedom of the press and the political sophistication of the people. The press ran articles all the way from the extreme right to the extreme left. It seemed as though any kind of newspaper at all was permitted there. There was no press censorship whatsoever. As far as the political sophistication, anyone from a store owner to a factory worker would have their own political ideas, very well formulated as to Chile, the United States, and the whole world. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "1909058b-fdac-46c3-900d-d94a8b46dfeb"
+    },
+    {
+      "start_time": 916,
+      "end_time": 919,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could you describe your work in the Agrarian Reform Agency? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "65e0c97b-7fcc-44ba-a11d-f6a12d3d7d0d"
+    },
+    {
+      "start_time": 919,
+      "end_time": 949,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. The agrarian reform was initiated under the government of Fray in 1968. Its intention was to expropriate from the very large landowners, big ranches and farms, latifundios, which were not producing and which were needed very much to produce in Chile. The land was first of all not well cultivated, and secondly, the workers who were working for these large landowners were not receiving a wage that was livable. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "77ffabb9-cc17-4cee-a3f8-133953839316"
+    },
+    {
+      "start_time": 949,
+      "end_time": 988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They lived in extreme poverty and many times were starving. Therefore, the intent was to expropriate these large latifundios and turn them over to the campesinos, to these poor families, to work themselves. I went out to work in a collective farm unit called \"asentamiento\" in the south of Chile. From this point of view, I was able to observe some of the reforms in the very important areas that Allende had promised. These were in the areas of medicine, of housing, of education, and of work. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "4060aaa8-2854-4114-85fc-62c47f96fce8"
+    },
+    {
+      "start_time": 988,
+      "end_time": 1021,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "First of all, Allende promised that each infant and school-aged child would receive a half a pint of milk a day. The National Health Service undertook to get milk to each child, to each cooperative, to each farm in all of Chile. Furthermore, it saw to it that each child had all of his inoculations against the dread diseases, thereby wiping out dread diseases in Chile. The second point was housing. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "16a90ddc-d5b1-41f3-8f3a-d3734d6a42b7"
+    },
+    {
+      "start_time": 1021,
+      "end_time": 1046,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On this collective farm unit, each family got to have their own house, whereas before there had been five or six families in one house. Now each had their own house. Some of the people would work, they would form one committee of the working committee, which would go and construct houses for everyone. The rest of the people would carry on the work in the fields. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "ec1cd473-5cdc-4617-b684-1663638a7e1c"
+    },
+    {
+      "start_time": 1046,
+      "end_time": 1060,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here in the US, for the past six months, we've been hearing of strikes, food shortages and antigovernment demonstrations, and yet we also have heard that the Unidad Popular, Allende's party, strength was increasing at the polls. How can this be? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "ce5cd75d-56b8-47ca-9b94-a38deb148675"
+    },
+    {
+      "start_time": 1060,
+      "end_time": 1096,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, this worried me also. I was in the United States in December and I was reading the articles in the press, which indicated that they were anticipating the opposition to get 67% of the congressional seats and thereby impeach Allende, and furthermore they intimated that there were food shortages, that people were starving and so forth. Quite concerned for the friends I'd made down there, I returned in January with some anxiety. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "0d162912-c9e5-485b-8bbe-01f84cc01b58"
+    },
+    {
+      "start_time": 1096,
+      "end_time": 1134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Upon arriving, I realized that this was largely myth. In the first place, there was as much food as you could possibly want. All of the fruits and vegetables were in abundance and were being sold everywhere. There was a shortage of meat. This was due to two causes. The first and fundamental cause was that the poorer people, the lower class of people in Chile, had never been able to afford meat before. Since Allende's government, everyone in Chile has been eating meat and therefore it wasn't in as great of quantities. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "ea62f838-2a6b-4d48-b45e-15a56828c41c"
+    },
+    {
+      "start_time": 1134,
+      "end_time": 1186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A second point was that at different times in Chile, some of the rightest landowners who had chicken farms or in some cases cattle would either drown all their chickens or would send their cattle away secretly to Argentina trying to create an artificial shortage. Another important point was that when Allende first took over and the right decided that they wanted to begin some sort of a panic, the very rich people, all of whom had big storehouses and refrigerators went to the stores and bought in abundance all of the essential items. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "1aaebede-ecca-48a5-884c-1295573b2aab"
+    },
+    {
+      "start_time": 1186,
+      "end_time": 1205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, even in this country, I think that would create a panic and would deplete the basic inventories. Well, this was especially so in Chile, and consequently there have been times when things were not available immediately and people had to form lines to wait for them to be distributed. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "15f4a2e6-16dd-4f7f-87df-eca33e2e0212"
+    },
+    {
+      "start_time": 1205,
+      "end_time": 1244,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another very important point is that Allende always moved very slowly as he was an enabled to by the Constitution, and he made no attempt to expropriate the basic industries of distribution of foods. Now, this created a very real problem. The government owned only 28% of this distribution, and this 28% quite naturally went to the areas of the most need of the poorer people in the poblaciones all around the city of Santiago and the major cities. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "ed8bd1c6-efa0-4734-9dff-ae85aaf81ad9"
+    },
+    {
+      "start_time": 1244,
+      "end_time": 1270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The 72% that was controlled by the right somehow didn't very often make it into the markets. It seemed to go directly into people's backyards and into storehouses. There were scandals where hundreds and thousands of gallons of cooking oil were discovered in vats and warehouses where people had been storing them trying to create an artificial problem. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "6b4384f6-012e-41cb-8849-bd23cef22d5e"
+    },
+    {
+      "start_time": 1270,
+      "end_time": 1306,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Furthermore, what would happen is there was a black market whereby since there was a shortage, the people who did have the things hoarded could then go and sell them at 10 to 50 times their normal value, thus producing an inflation as well as maintaining the shortage for all practical purposes so that in fact, it was largely a losery, this shortage in this discontent, the strikes sometimes were three or four people and were in very small groups of opposition, people that would go on strike."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "4acf79ee-88ac-4839-ada0-067309baca3f"
+    },
+    {
+      "start_time": 1306,
+      "end_time": 1323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whereas the Popular Unity party and the majority of the people continued working and continued living well, in fact living better perhaps than they ever had before in their lives. This was reflected, I think, very well in the March elections. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "60507ac1-8f8a-41ef-b689-278e35ff0a19"
+    },
+    {
+      "start_time": 1323,
+      "end_time": 1362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In spite of all of the sabotage by the right, in spite of all of the economic problems in Chile due to the credit blockade of the United States, which deprived them of many basic raw materials, the people were going without certain things, the major portion of the Chilean people did understand who was responsible, what were the causes of the shortages of the problems, and voted accordingly. In 1970, Allende got 36% of the vote. In 1973, in these very difficult times, he got support of 44%. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "19b39c4e-ce97-460c-9c6c-df6b3fdf4909"
+    },
+    {
+      "start_time": 1362,
+      "end_time": 1372,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We know there was a truck owner strike in October of '72, which was very similar to the strikes which precipitated the coup. Can you tell us something about the events of last October? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "9696d1c6-5476-4de4-8d6a-1702f36cfcc3"
+    },
+    {
+      "start_time": 1372,
+      "end_time": 1400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. Last October was a very important time for Chile. The truck owners decided to strike thereby paralyzing the 3000 mile long country. Distribution of the agricultural products, raw materials and minerals is carried on chiefly by trucking and Chile, and whereas one product may be grown in the South, it may have to be distributed to the north and so forth. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "9e812182-f47e-4e65-abb9-a9a5e742f073"
+    },
+    {
+      "start_time": 1400,
+      "end_time": 1438,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Furthermore, in a very well orchestrated campaign to force Allende into submission, the right called on all shop owners, called on all owners of any kind of stores to close their shops, called on all the people not to go to work. This was an attempt to force the government forces into returning all of the factories to the owners and returning some of the large latifundios to the original owners. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "36fca92f-794d-43c6-b7c0-f9aa03994c71"
+    },
+    {
+      "start_time": 1438,
+      "end_time": 1481,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It met with very, very significant failure, this policy of the right, because the left, the Popular Unity party continued to work, refused to shut down, worked even though they didn't have all the necessary food, got to work even though a lot of the buses were not running because they had been sabotaged with tacks or one thing or another. Above all, they kept the basic industries and the basic factories open and functioning so that Chile was not paralyzed. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "e24a6f0e-535e-44c4-80b7-89638424a2cc"
+    },
+    {
+      "start_time": 1481,
+      "end_time": 1508,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The most important industries were in fact carrying on. The other very important thing that developed out of this was that there was a belt formed around Santiago. The factories in Santiago are all in the outskirts of the town along the major thoroughfares, along the major highways in and out of Santiago. They went to their factories. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "5c00ce44-8821-4f64-81ea-1b68ae7ac892"
+    },
+    {
+      "start_time": 1508,
+      "end_time": 1548,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They remained on vigil at the factories, protected them, and furthermore, effectively controlled any of the transportation in and out of Santiago, a force very important to them for the future, and certainly we know that these factories have been kept open and the only way that these people could be vanquished would actually be by killing them all because these people were prepared to fight to the death for the factories that now had a very real meaning to them, had a very real power for them. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "7616f7c6-011c-4d09-bae3-2673f11d5a12"
+    },
+    {
+      "start_time": 1548,
+      "end_time": 1560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alan, some have said that Allende moved too quickly and boldly with nationalizations and other measures. Do you feel that Allende could have avoided a clash with the US by moving more slowly or being more diplomatic? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "75e2cb2e-e1ce-414d-bc6d-8c5591a0c466"
+    },
+    {
+      "start_time": 1560,
+      "end_time": 1596,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that Allende was very diplomatic. In fact, phrase proposals when on his campaign in 1964 were almost as far-reaching as anything that Allende ever got to do. Nationalizing basic industries had been promised to the Chilean people for years, and it's something that everyone was in agreement with. I don't think any Chilean would ever say that they shouldn't nationalize the copper industry, but Fray didn't fulfill his promises in a large number of areas. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "325f5753-9d86-4e5e-9b36-71e9de842353"
+    },
+    {
+      "start_time": 1596,
+      "end_time": 1622,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was very important for Allende's credibility for him to move directly in affecting these reforms that he had promised. Now, as far as moving quickly, there are certain limitations to how quickly you can move when you are a candidate or are a president like Allende, who has promised very strictly to remain within the constitutional framework. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "e7080087-dadc-45b8-b348-2fb08c6ed19c"
+    },
+    {
+      "start_time": 1622,
+      "end_time": 1642,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He was so much more of a constitutionalist than any other figure I've ever seen, and given the conservative constitution of Chile, all of his actions, all of his proposals, always had to go for review before the Congress, so that really Allende moved very slowly. There were very few factories that were touched. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "3ade94dd-14b8-415c-a6f0-e81c5de1f2b7"
+    },
+    {
+      "start_time": 1642,
+      "end_time": 1665,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The important latifundios were expropriated and were given over to the farm workers, but the owners still maintained their own little farm off of this, and I would say that that Allende did anything but move quickly. This was the main criticism of him by the left and Chile was that he moved too slowly. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "e0005707-8a28-4c5b-9f71-1673d0ca9ed7"
+    },
+    {
+      "start_time": 1665,
+      "end_time": 1675,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We've been talking today with Alan Marks who worked for a year in research capacity for the Institute of Training and Research at the Chilean Agrarian Reform Agency. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "e839240e-398d-45bd-ab6a-978431bc7de9"
+    },
+    {
+      "start_time": 1675,
+      "end_time": 1703,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You've been listening to the Latin American Press Review, a weekly roundup of news and events in Latin America, as seen by leading world newspapers with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions about the program are welcome and may be sent to us at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "71a8491b-ab76-4d1b-a5be-0f6f979c8a70"
+    }
+  ],
   "set": "Default",
   "event_id": "8da0fc61-40ca-4c31-b414-c5bb4f3a749f",
   "source_id": "dfa4f5cb-4a2c-4c49-85b8-06c1cdcfa144"
