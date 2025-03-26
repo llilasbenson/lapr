@@ -148,16 +148,6 @@
                 }
               ],
               "align": "justify"
-            },
-            {
-              "type": "image",
-              "url": "https://utexas.box.com/shared/static/ztdn59dms51hjfnneolwyutsny35fywu.jpg",
-              "size": "thumbnail",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
             }
           ]
         }
@@ -197,7 +187,7 @@
   "created_by": "rpr88",
   "title": "LAPR1973_03_22",
   "slug": "lapr19730322-2",
-  "updated_at": "2025-03-15T20:00:40.945Z",
+  "updated_at": "2025-03-26T20:24:54.413Z",
   "updated_by": "rpr88",
   "parent": "957fbd39-5a56-4e7c-8771-31b4af8623c6",
   "autogenerate": {
