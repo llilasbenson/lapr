@@ -26,7 +26,8 @@
                   "bold": true,
                   "underline": true
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -50,15 +51,6 @@
                 },
                 {
                   "text": " This analysis scrutinizes the US press coverage of President Allende's speech at the United Nations in December 1972, pointing out biases and omissions. Mr. John Pollock critiques the portrayal of political violence, the neglect of right-wing activities, and the failure to report economic and social progress under Allende. Additionally, multinational corporate influence in Chile, particularly by companies like Anaconda, Kennecott Copper, and ITT, is largely ignored in the coverage, creating a distorted image of Chilean politics."
-                }
-              ],
-              "align": "justify"
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "*Summaries were generated using ChatGPT and were reviewed for accuracy."
                 }
               ],
               "align": "justify"
@@ -200,6 +192,6 @@
   "slug": "lapr19730913",
   "created_at": "2025-03-20T21:58:38.732Z",
   "created_by": "rpr88",
-  "updated_at": "2025-03-20T21:58:38.732Z",
+  "updated_at": "2025-03-26T21:05:20.851Z",
   "updated_by": "rpr88"
 }
