@@ -1,5 +1,2119 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the Latin American Press Review, a weekly selection and analysis of news and events in Latin America, as seen by leading world news sources, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group of Austin, Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "56f9853e-da83-49b8-bfad-4f205ebd6690"
+    },
+    {
+      "start_time": 21,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We begin today's program with a roundup of events and developments in Chile. The political repression of the military junta is still one of the most consistent themes of press coverage on Chile. The New York Times quotes the new Chilean interior minister as saying, \"What this country needs now is political silence.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "549450d9-a47b-494e-a34c-6b512f6c55ee"
+    },
+    {
+      "start_time": 39,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The guardian reports that sniper activity and battles between workers in the military are subsiding in Santiago, Chile, but reports of deaths and brutality are still prevalent. In La Granja, a working class community, an eyewitness that a woman who argued with soldiers attempting to enter her home was killed on the spot. On the same morning, a 14-year-old boy standing in a bread line talked back to a soldier and was shot down in cold blood as soldiers shouted, \"We're the ones in power now.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "a7a745b8-3e24-45ce-b29e-46f659435868"
+    },
+    {
+      "start_time": 68,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An entire section of the middle class San Borja apartment buildings and homes was roped off on September 23rd in Santiago as some 3,000 troops carried out Operation Roundup. The apartment by apartment raid, which took 14 hours, may be the model for a neighborhood by neighborhood search of the entire capital. The Black Berets, the Army's special forces backed up by tanks, armored vehicles, and bazookas carried out the raids. Several apartments where leftist literature was discovered were destroyed and dozens of prisoners were taken. All foreigners caught in the apartments without legal documents were arrested. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "709a78cf-b51e-4297-97ce-26a20e65e81b"
+    },
+    {
+      "start_time": 104,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Prisoners' documents are taken away in police stations, making it virtually impossible for reporters and relatives to locate missing persons. Hundreds of foreigners are among those arrested. A list of the 10 most wanted men in Chile was published last week along with pictures of the criminals. They include the leaders of the Socialist Party and other leftist groups. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "9c7501e3-bc4f-49ad-8c1c-33a56a554ac5"
+    },
+    {
+      "start_time": 125,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eyewitness reports reveal that truckloads of corpses leave the stadium every night and that bodies are dumped in trash heaps around the city and in the Mapocho River. After arresting or killing many key labor leaders, the junta proceeded to outlaw the Workers' Central, the Trade Union Federation, because it was \"under the influence of foreign tendencies\". All direct or indirect reference to workers' control has been strictly forbidden. To replace the CUT, the junta has imposed a craft union style of organization on workers in many firms. That from The Guardian. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "6281a98c-4b6b-430b-ae77-11b0bbb4b6a9"
+    },
+    {
+      "start_time": 159,
+      "end_time": 182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior of Mexico City announced last week that representatives of three international organizations sent by the United Nations to investigate the situation in Chile have accused the Chilean military junta of systematic violation of human rights by submitting political prisoners to treatment so humiliating and degrading that they had never seen such treatment in any country. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "d554d1f7-ace3-4d0f-b9e7-feb68373a4bc"
+    },
+    {
+      "start_time": 182,
+      "end_time": 207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This group, which included representatives of the International Movement of Catholic Jurists, the International Federation of Human Rights, and the International Association of Democratic Jurists issued a statement in Santiago before leaving for New York to make its official report. And it said that it had irrefutable cases proving mass executions in workers' communities, tortures of men and women, and outright military attacks on streets filled with people. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "f7748a80-4d2b-43ba-87bc-49e1086c3fd4"
+    },
+    {
+      "start_time": 207,
+      "end_time": 230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the same time in Rome, the secretary of the International Bertrand Russell Tribunal denounced the arrest by the junta of a Brazilian mathematician whose tongue he said was cut out by the military. Also, the secretary general of the Organization of American States said in Columbia that the committee and human rights of that organization will investigate the violation of human rights in Chile. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "3006e7ae-c096-4ddd-9771-97385ea38405"
+    },
+    {
+      "start_time": 230,
+      "end_time": 268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In response to this international outcry, the military junta has imposed strict censorship on the diffusion of information on executions, death tolls and political prisoners. Newspapers and radio and TV stations were ordered not to release anything except officially authorized bulletins on these matters. Excélsior also reports that the junta has been feeling other types of international pressure as well. At the same time that it announced the executions of nine more civilians, the junta expressed its profound concern and disagreement with the statement issued by Pope Paul VI when he criticized the violent repression being conducted by the junta. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "58666a01-8671-417e-b063-abe5f398373c"
+    },
+    {
+      "start_time": 268,
+      "end_time": 297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The head of the junta, Augusto Pinochet, expressed concern about the possibility that the United States Congress might pass a bill sponsored by Senator Edward Kennedy, which calls for suspension of all aid to Chile until the junta ceases its campaign of political repression. General Pinochet insinuated that Senator Kennedy was under the influence of communists. Senator Kennedy's measure has passed the Senate and is currently under consideration by a House-Senate conference committee. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "51b471ff-e74a-460f-a6ac-775b1c2fcc4f"
+    },
+    {
+      "start_time": 297,
+      "end_time": 318,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And further coverage of Chile last week, Excélsior reports that the junta has announced a series of austerity measures for the Chilean economy, which according to the junta will affect all Chileans, but the burden will fall most heavily in the poor of Chile. The goal of the new measures, say the generals, is to be sure that Chile produces more than it consumes. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "b61bacef-1c73-4a10-9d14-8597aca2381f"
+    },
+    {
+      "start_time": 318,
+      "end_time": 348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A late bulletin by the Asia News Service, which has been monitoring events in Chile, reports that in Chile, a wave of price increases was announced over the weekend by the ruling military junta. According to Prensa Latina, price hikes effective October 15th varied between 200 and 1,800%, and it affects products like rice, sugar, oil, feeds, shoes, clothes, and 70 other items. Sugar was brought up by more than 500%, while bread and milk are up more than 300%. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "c1810a07-4093-4233-a5db-5424d5593f81"
+    },
+    {
+      "start_time": 348,
+      "end_time": 371,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The junta has eliminated the popular program initiated by Allende of providing a half liter of milk free to all children. The largest price increase was for tea, a popular item, which was brought up nearly 2,000%. Excélsior reports that one of the first steps taken by the junta was the cancellation of wage and salary increases, which had been granted by the Popular Unity government to keep up with price increases. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "95cd9a22-448d-4a8c-8c42-eeb6a1374c99"
+    },
+    {
+      "start_time": 371,
+      "end_time": 398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another subject which Chile watchers are concerned about is resistance to the junta. The London Weekly, Latin America, notes that the calling up of Air Force reserves last week and the announcement that the Army was considering a similar measure combined with the linked-in curfew suggests that resistance to the junta was persisting. Excélsior talked with Luis Figueroa, one of the highest leaders of the now outlawed Central Workers' Union, the communist led Chilean trade union syndicate. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "8f3ea5f0-2a38-4cac-ac20-14e7e3ef6e0e"
+    },
+    {
+      "start_time": 398,
+      "end_time": 425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"We communists,\" said Figueroa, \"Have always enjoyed peaceful means of struggle in Chile, and we would like to continue in that way, but the military junta through its brutality and repression have forced us to use other methods, and we must now continue our struggle clandestinely.\" This report on Chile was compiled from reports from The New York Times, The Guardian, the London Weekly, Latin America, and the Mexico City Daily, Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "90febfb3-0d70-4874-bd35-2ef4c52fce49"
+    },
+    {
+      "start_time": 425,
+      "end_time": 454,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Both Latin America and Mexico City's Excélsior report on the Peruvian government's decision to nationalize Cerro Corporation, a North American mining enterprise. In a recent statement, the government reiterated its intention to expropriate Cerro, but stated that it will wait for an opportune moment. This decision is a likely reflection of the Peruvian president Juan Velasco Alvarado's accusation that Cerro is trying to provoke the Peruvian government into actions which could then be used against it. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        }
+      ],
+      "uuid": "3686aa9c-bebc-4384-b8c5-bb2daf276bfa"
+    },
+    {
+      "start_time": 454,
+      "end_time": 470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Velasco said counter-revolutionary elements had previously described the military government as communist, but their current term of abuse was Marxist. He repeated his familiar assertion that the Peruvian revolution was neither Marxist nor capitalist. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        }
+      ],
+      "uuid": "0837b80e-9a96-4c72-a6bd-852dc4a635a8"
+    },
+    {
+      "start_time": 470,
+      "end_time": 497,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin American continues that quite apart from the international considerations, which are very real and weigh particularly heavy with Peru's finance minister, Velasco faces internal problems if he goes ahead with the nationalization of Cerro. The deportations at the beginning of this month of three conservative politicians had been linked by some observers to their criticisms of the projected social property law, but Velasco made it clear that they were involved in Cerro's political offensive. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        }
+      ],
+      "uuid": "a4493ea0-9a08-47e3-879f-074ee6530f3a"
+    },
+    {
+      "start_time": 497,
+      "end_time": 528,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cerro's political importance in Peru stems in part from its large shareholdings in many national mining enterprises. Following the expropriation of all important latifundios under agrarian reform and the collapse of the national banking sector with the downfall of the Prado family, mining is the one sector of the economy in which private domestic capital still remains powerful in alliance with Cerro. If Cerro falls, these interests will feel directly and immediately threatened. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        }
+      ],
+      "uuid": "86856364-bc75-40c7-a1e3-e1a0165614fd"
+    },
+    {
+      "start_time": 528,
+      "end_time": 551,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If Cerro, now feeling that it has little to lose, escalates its campaign still further, it is hard to see how the government is to avoid joining battle. Velasco said that Peru was ready for any confrontation which might be forced upon it. But at present, the battle remains centered on public opinion, and mining sources in Peru were discounting the possibility of any early expropriation of Cerro. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        }
+      ],
+      "uuid": "2cc3452c-dd18-489a-a27b-9ece9333fa7a"
+    },
+    {
+      "start_time": 551,
+      "end_time": 579,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The enormous discrepancy between the government's valuation of Cerro's worth, $12 million, and the company's own estimate, 175 million, derives in large part from the fact that the company expects compensation for reserves of ore still in the ground, even when there has been no investment in developing the ore body. Under the Peruvian constitution and law, ever since the country's independence from Spain, such minerals remain the property of the state until they are mined. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        }
+      ],
+      "uuid": "88da8f36-a4a6-44f4-816d-c4cc66f66a8d"
+    },
+    {
+      "start_time": 579,
+      "end_time": 592,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Previous negotiations with Cerro, which is the major mining complex in Latin America, were interrupted in mid-September when the company accused the government of acting in bad faith. That report from the London Weekly, Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        }
+      ],
+      "uuid": "28d8033e-3899-4c26-b24e-6d2dfff3aaa0"
+    },
+    {
+      "start_time": 592,
+      "end_time": 601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For an outsider's view on the Agnew resignation, we turn to Mexico City's Excélsior. Their editorial of October 11th voices this opinion. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "f25dd935-9b3e-4ba0-a5f2-8dccde95c636"
+    },
+    {
+      "start_time": 601,
+      "end_time": 629,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The climate of corruption and lack of confidence that impregnated the executive power in the last year have conducted Spiro Agnew to his resignation. It is not surprising that this has occurred. It is only surprising that it didn't happen sooner.\" The editorial goes on to note that the existence of a vigorous free press, which embodies the right to examine and obtain information on the conduct of public officials, produces a public opinion that is manifest not only in the polls, but expressed daily. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "4b365fb6-ebc3-413e-abdb-1925d73ad019"
+    },
+    {
+      "start_time": 629,
+      "end_time": 649,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior states that it was this public pressure which finally led Agnew to accept the charges brought against him and resign his post. The editorial concludes by saying that Agnew now should confront the other charges against him, which perhaps will make him deserving of penal sanctions. That editorial opinion from the Mexico City Daily Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "aefbb5c8-e5a4-4e94-a90b-9494ea51eeaf"
+    },
+    {
+      "start_time": 649,
+      "end_time": 679,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mexico's Excélsior also reports that on October 15th, the band of urban guerrillas known as The 23rd of September League had freed Anthony Duncan Williams, honorary British consul, after holding him captive for five days. The group announced that they freed Williams after a guerrilla tribunal determined that he did not belong to the exploiting class and that he was poor. No mention was made of Luis Fernando Aranguren, the industrialist who was kidnapped along with Williams on Wednesday, October 10th. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "North Korea"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        }
+      ],
+      "uuid": "a0bcee0f-08ac-4c63-b77b-157fd5a60751"
+    },
+    {
+      "start_time": 679,
+      "end_time": 714,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shortly after the kidnappings, the guerrilla left a statement in a mailbox in Mexico City saying that Williams and Aranguren had been condemned to death by a guerrilla tribunal for being representatives of the bourgeoisie. The group listed several conditions to be met in order to prevent the carrying out of the sentence, including the release of 51 political prisoners, an airplane to transport the released prisoners to North Korea, $200,000 ransom, and distribution of the guerrillas' message by all the major news media. The Cuban ambassador was designated as intermediary by the kidnappers. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "North Korea"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        }
+      ],
+      "uuid": "5c54d882-be51-426c-b28d-e6d95c66f0fd"
+    },
+    {
+      "start_time": 714,
+      "end_time": 750,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The government apparently refused to release any political prisoners, but agreed to provide safe conduct out of Mexico for the kidnappers along with the $200,000. After his release, Williams told the story of his kidnapping to the press. Shortly after 8:00 AM on Wednesday, he was taken from his home by five armed men who blindfolded him and forced him to lie in the rear seat of his own car. After driving for a while, the group abandoned Williams' car and transferred him to a light truck. Williams was then taken to a home, presumably in the country, where he was kept in the small room while wallpapered with newspaper to keep him from identifying his surroundings later. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "North Korea"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        }
+      ],
+      "uuid": "a65923f3-efce-4a88-9954-7ea015edcbcc"
+    },
+    {
+      "start_time": 750,
+      "end_time": 778,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The kidnappers provided him with good food and his favorite kind of brandy. They told him that they were familiar with his habits because they had kept him under surveillance for the last six months. His captors told him that a guerrilla tribunal had sentenced him to death for being rich and belonging to the class that oppresses and exploits people. Their plan was to use Williams and Aranguren to secure the release of political prisoners held by the Mexican government. They said that Williams' status as a diplomat would ensure the government's cooperation. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "North Korea"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        }
+      ],
+      "uuid": "7ce90409-6973-4ca3-bbda-de0c4a8fa67a"
+    },
+    {
+      "start_time": 778,
+      "end_time": 812,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Williams explained to them that his position as consul was merely an honorary one and paid nothing. He promised to relinquish his position if released, insisting that he had to work for a living. After several days of interrogation, the guerrilla informed him that he would be released. Immediately after being freed, Williams resigned his position as consul. According to the police, the 23rd of September League is a band of urban guerrillas formed by the remaining members of several other leftist groups, including the Armed Revolutionary Movement and Zapatista Urban Front. That from Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "North Korea"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        }
+      ],
+      "uuid": "fda46550-c90a-4d0c-8ad3-0cd4e52c5467"
+    },
+    {
+      "start_time": 812,
+      "end_time": 848,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Miami Herald reports that Mexican president, Luis Echeverría, in addressing the 14th annual United Nations conference of editors and publishers called on US newspaper executives to give greater coverage to third world efforts to achieve some economic balance with the rich industrialized nations. President Echeverría, arguing that three fourths of the world is presently prevented from even taking care of its basic needs, suggested, \"You should promote a system of world cooperation that would correct the imbalance and lack of proportion between those few nations and the rest of humanity.\" That from the Miami Herald. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "50def9f5-eb53-4300-a31f-9093604ebfcb"
+    },
+    {
+      "start_time": 848,
+      "end_time": 880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are listening to the Latin American Press Review, a weekly selection and analysis of news and events in Latin America, as seen by leading world news sources, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions are welcome and may be sent to the group at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, the University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5611237f-7f5f-49d1-b5b8-04498a0ec06d"
+    },
+    {
+      "start_time": 880,
+      "end_time": 891,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The views expressed are solely those of the Latin American Policy Alternatives Group and its sources and should not be considered as being endorsed by UT Austin or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "641cf165-1d58-4684-8116-00af11f75553"
+    },
+    {
+      "start_time": 891,
+      "end_time": 918,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our feature today is an interview with Ms. Elizabeth Burgos, who spent most of last year in Chile working on a book with her husband, Régis Debray. Ms. Burgos, originally from Venezuela, has spent many years studying Latin American politics and has visited Chile several times. Our subject today is the coup in Chile and its effects. Tell us, Ms. Burgos, we've heard a great deal about what's happening in Chile. We've heard many conflicting stories. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "b22a9b4a-7d14-43c2-a573-92708420b78e"
+    },
+    {
+      "start_time": 918,
+      "end_time": 940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There have been a lot of reports of a lot of brutality, repression, mass arrests and executions, while the military junta in Chile has been telling us that things are relatively stable and that there's really not a great deal to worry about. Based on your experiences in Latin America and your experiences in Chile and your knowledge of contacts and informational sources, what do you think the situation is in Chile? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "b047c21e-34ba-418c-b51a-8bdd7ca2c520"
+    },
+    {
+      "start_time": 940,
+      "end_time": 986,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The situation in Chile is that the repression is going on. Maybe they don't kill people like in the first day of the coup, but they do still kill people, and it's very—Witness say that in the morning, it's very usual to find bodies of people killed in the street very early in the morning. They use the coup to do this work, the junta. And the repression is going on. In the stadium, for instance, there are 8,000 prisoners in very bad conditions. And there are two islands where they have concentration camps. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "d0745ebd-9472-42df-a6f6-ff6201576cee"
+    },
+    {
+      "start_time": 986,
+      "end_time": 1014,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So the repression is going on in Chile. It's not finished. The life in Chile is completely changed after the coup. Chile was the most liberal country in Latin America, and now you have a country where the schools and the universities are leading by military, directors and people who direct the schools and university have been fine. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "b302d3c5-80cb-4f71-9ff5-490528b9a423"
+    },
+    {
+      "start_time": 1014,
+      "end_time": 1075,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is no possibility to have library. People who were known that having good library, those books have been burned. The bookshops, books from bookshops have been burned too. So it is not only a repression against people, but it's a repression against culture and minds. The junta ask people to—They give money to people, they pay them in order to inform about people who had sympathy with Allende's government. And by this way, they arrest every day more and more people without any proof, only because if a neighbor wants to denounce to say that you were involved with Allende's government, only having sympathy is enough for them to arrest people. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "9e854134-377f-4539-9dfc-70bf8ffed00c"
+    },
+    {
+      "start_time": 1075,
+      "end_time": 1106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One thing we've heard particularly a lot about is the question of foreign political exiles in Chile. We were told that there were a lot of people who had escaped repression from military governments, particularly those in Uruguay and in Bolivia and Brazil who were living in Chile at the time of the coup. And there's been a lot of concern expressed about that. Could you tell us, do you feel that's a serious problem? And do you know of any steps that are being taken either by the United Nations or the US government or any other groups to intervene on behalf of these political exiles? What's the situation with them? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "b0a2d3e7-f887-404c-801e-258710413aa3"
+    },
+    {
+      "start_time": 1106,
+      "end_time": 1142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. We have to say that Chile has always been the country where exiles used to go because it was a very liberal country, even before Allende's government. Even when the Christian Democrat were in power, Chile had always this politic of receiving exile from other countries. So it is true that they were about, maybe 5,000 to 10,000 people from several countries from Latin America, especially from Bolivia, Brazil, and Uruguay. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "a1714fa5-d3a7-4480-8d10-0ddb72fa4c1e"
+    },
+    {
+      "start_time": 1142,
+      "end_time": 1180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the junta start a campaign against them from the beginning, saying that they were Jews, because they couldn't say that only because they weren't from those countries and they knew that they weren't fascists. So it was to prepare the Chilean and the world public opinion to the fact that they were going to send them to their countries. It happened in the very few first day of the coup that several Bolivians have been sent to back to Bolivia. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "8e6f3013-1986-4f04-9189-7da7dafb1cc4"
+    },
+    {
+      "start_time": 1180,
+      "end_time": 1184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To be prosecuted there by the Bolivian government for their political— "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "ac69179c-0bc5-4b76-8d62-25bb68febd9a"
+    },
+    {
+      "start_time": 1184,
+      "end_time": 1233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, they are persecuted from the Bolivian government, which is a fascist government too. And those people have been sent from there to Bolivia, and when the United Nations knew this situation, they have made interventions. And now, it seems that the United Nations, we can see that maybe they could avoid this. They have several centers in Santiago now where those people are, but we still don't have new about all those people. We know that some of them are there safe. But I hope the United Nations is going to take really this responsibility to send those people to other countries where their life could be safe. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "5b2b5706-4174-405d-af7f-ae364f1e51c9"
+    },
+    {
+      "start_time": 1233,
+      "end_time": 1255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another thing that's been particularly talked about a lot here in the United States is the question of resistance to the military junta. Before the coup in Chile, a lot of people predicted that there would be a lot of armed resistance. And indeed, when the coup broke out, we did hear some reports of scattered resistance, and since then there's been a lot of conflicting reports about that. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "702c3e9d-b8a0-4e3d-9c10-8d6e8db0b9b2"
+    },
+    {
+      "start_time": 1255,
+      "end_time": 1278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The junta, of course, claims that now that things are quiet and they have things in control. What are your opinions about, first of all, the degree of any resistance now or the possibilities that the left might be laying back now and organizing themselves for a more concerted effort at armed resistance later on? What's the status there? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "af3f2f6a-b102-423b-acd1-0d287f25c760"
+    },
+    {
+      "start_time": 1278,
+      "end_time": 1301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "During the coup, after the coup, there was a lot of resistance, especially in the factories where workers fought very hard. They had been bombed, especially the two factories, Yarur and [inaudible 00:21:34], and then lot of workers have been killed. There was also resistance in the south of Chile. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "52b22538-85ac-474b-aed3-35dcb77e99b7"
+    },
+    {
+      "start_time": 1301,
+      "end_time": 1328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And in Valparaiso were reported 2,000 people killed only in one day. But now, I don't think there is what we can say resistance. Now, it is resistant to save the life of people because the repression is so hard, that the army is searching house to house during the night, during the coup—it's why this coup is still going on. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "4b55f371-8a15-4cff-b409-70e8450abea3"
+    },
+    {
+      "start_time": 1328,
+      "end_time": 1373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because they need every day, some few hours to search for guns and for people, especially for people that they know that they are not in prison and that they are not dead. Especially leader of the Socialist Party, of the Communist Party, of the MIR and of the MAPU and Workers' leader. Because what the junta had decide, and it's very clear, is to kill all people who could make resistance against this, the fascist men, Bolivia. I don't believe that there is still resistance in the way that we could think. Maybe there are—I guess they're organizing themselves for a future resistance. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "6ac2a028-3ecb-4fd4-bace-176920f90cf9"
+    },
+    {
+      "start_time": 1373,
+      "end_time": 1391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One thing that was said, particularly that the junta was well-prepared for the coup and that they anticipated particularly that there might have been resistance among workers in factories. And that in the month or so preceding the coup, that they went about disarming workers in factory. Was this the case? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "2f92120f-481f-49ac-a742-6407ab5adff9"
+    },
+    {
+      "start_time": 1391,
+      "end_time": 1442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, yes. Since last year, because the coup was going to happen last year. Last year, we had the same strike, lorry strike, shop striked. All was prepared. But it seemed that the ruling class in Chile wasn't prepared for the coup, so it took a year to prepare more and more this coup. And during this year they used this law of controlling of arms that the Congress had vote, but they used this law only against the unions and against the left. So the searching for guns start six months before. And so they control it. They knew all the houses or people who were involved in the Unidad Popular. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "0857f438-08e3-400d-a724-88eea75a052a"
+    },
+    {
+      "start_time": 1442,
+      "end_time": 1473,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do you think the effects will be of the coup, both on the continent of Latin America and internationally? One thing we've heard, there seems to be some rumblings of the increase of repression in Uruguay, Argentina, Brazil perhaps, Bolivia. And another question in line with that is the question, generally, internationally, among communist socialists and leftist people of the question of electoral strategy, what about those international repercussions? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "b45e5be7-f69b-4b0e-a40b-4ecf543c130d"
+    },
+    {
+      "start_time": 1473,
+      "end_time": 1513,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The significance of the coup in Chile is very wide internationally, and especially for Latin America. I think imperialism is using Brazil in Latin America as their sort of agents because they don't want to make the same mistake that they have done in Vietnam. I mean, direct intervention. So they can't agreed with the fact that there could be a sort of block, a block of country like Peru, Chile, Argentina, and Bolivia. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "3906bb88-3f30-4413-8133-5ebebe337515"
+    },
+    {
+      "start_time": 1513,
+      "end_time": 1541,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The first country, which four who felt is Bolivia. So fascism was imposed in Bolivia by the Brazilian government. Then the country in which the situation was the most explosive after Bolivia was Chile. So now Chile felt too. So we have now Peru and Argentina, which are in danger of coup. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "854abdd2-041f-47c9-a999-a9cf8a92edf8"
+    },
+    {
+      "start_time": 1541,
+      "end_time": 1570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And at the same time in other countries in Latin America where there are sort of Democrat representative governments or even military, this could reinforce the right fraction of the armies of those countries. So it seemed that Latin America is now facing a new period of dictatorship, military dictatorship, like before '68—before the Cuban Revolution. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "f3685c39-a427-4c7c-a34a-25713196a357"
+    },
+    {
+      "start_time": 1570,
+      "end_time": 1608,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And in the other hand, in the question of taking power by election, I mean a socialist movement, Chile was a sort of process, very important for those people who say that it's possible. Chile showed that it's possible, but it seemed that it's not possible to keep the power, taking power by elections with and—keeping the same army and the same security service—I mean police and so, of the former regions. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "43687242-1b46-4f5a-addf-10f05972675c"
+    },
+    {
+      "start_time": 1608,
+      "end_time": 1626,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fairly briefly, what do you think will be the policy of the United States towards the no Chilean junta, either on the question of a political exiles or just generally the question of foreign aid and foreign aid and assistance in general? Do you think it'll be significantly different from their policy toward the Allende regime? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "c9f8068b-a26a-4b46-babe-188d83730a10"
+    },
+    {
+      "start_time": 1626,
+      "end_time": 1651,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. At first, the United States cut off the aid to the Allende's government when Allende took power. And I believe that now they are going to give them to the junta, millions and millions of dollars, to improve immediately the economical situation in which the United States put the Allende's government. That is clear. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "59d51551-ec56-4ac3-923b-032fefa45c1a"
+    },
+    {
+      "start_time": 1651,
+      "end_time": 1687,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I knew that the Senate last week vote against the resolution to cut all aids to Chile until the civil rights are restored. This resolution are very important because the junta, they are aware that they couldn't do all what they're doing without international campaign against this. So it was very important what the American Senate has done. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "26652058-59a3-4678-8fcd-14c159db74b8"
+    },
+    {
+      "start_time": 1687,
+      "end_time": 1697,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to an interview with Ms. Elizabeth Burgos, a woman who has spent the last year in Chile and who has spent many years studying politics in Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "0c9831aa-a81e-41ba-a635-70e5bcf96be5"
+    },
+    {
+      "start_time": 1697,
+      "end_time": 1730,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to the Latin American Press Review, a weekly selection and analysis of news and events in Latin America, as seen by leading world news sources, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions are welcome and may be sent to the group at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, the University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2f5868a4-e283-4a9b-9ac3-186ec2d87e77"
+    },
+    {
+      "start_time": 1730,
+      "end_time": 1741,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The views expressed are solely those of the Latin American Policy Alternatives Group and its sources, and should not be considered as being endorsed by UT Austin or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5744a4aa-c413-41ac-bcf3-7fd463679ebc"
+    }
+  ],
   "set": "Default",
   "event_id": "574322db-c830-4325-84ac-6cba1b28281d",
   "source_id": "9c7bcbec-ad84-4128-891b-e2b4002b8bab"
