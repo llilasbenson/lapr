@@ -26,7 +26,8 @@
                   "bold": true,
                   "underline": true
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -34,7 +35,8 @@
                 {
                   "text": "Part I: In Guatemala, tensions escalate as squatters clash with troops in Eastern Guatemala, resulting in fatalities. The squatters, claiming historical grievances over seized grazing lands, engage in armed resistance against military intervention. In the Netherlands, the socialist prime minister expresses intentions to grant full independence to Suriname and the Netherland Antilles, signaling a shift in colonial policies. Meanwhile, Secretary of State William P. Rogers concludes a diplomatic tour of Latin America, emphasizing cooperation with growing nationalist sentiments in the region. However, criticisms emerge in the Latin American press regarding the perceived continuity of US policies. In Brazil, tensions between the military government and the Catholic Church escalate, with prominent clergy openly criticizing the government's policies, potentially signaling a new phase of confrontation. "
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -42,15 +44,8 @@
                 {
                   "text": "Part II: Latin America provides an in-depth analysis of various political and economic developments across the region. In Brazil, a significant declaration on May 6th condemned the government for repression, torture, and socioeconomic issues such as poverty, unemployment, and illiteracy. The church in Brazil appears to be increasingly vocal in demanding a return to democratic governance. In Peru, the military rulers face scrutiny over their revolutionary credentials amid labor disputes and doubts about their economic policies. Meanwhile, Uruguay witnesses the establishment of a new civic-military regime under President Juan Bordaberry, characterized by measures to combat subversion and limit political dissent. In Venezuela, while guerrilla movements decline, student protests in secondary schools highlight underlying issues such as overcrowding, outdated curricula, and lack of resources. Additionally, Chile Oye reports on the repression under Venezuela's Christian Democratic government, including political imprisonments, assassinations of leftist leaders, and censorship of media outlets like the newspaper Punto. These reports underscore the complex political and socioeconomic dynamics shaping Latin America's current landscape."
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "*Summaries were generated using ChatGPT and were reviewed for accuracy."
-                }
-              ]
+              ],
+              "align": "justify"
             }
           ]
         },
@@ -65,7 +60,8 @@
                   "bold": true,
                   "underline": true
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -77,7 +73,8 @@
                 {
                   "text": " Gun battle in Eastern Guatemala leaves 17 dead as troops confront land-seizing peasants."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -89,7 +86,8 @@
                 {
                   "text": " The new socialist Dutch prime minister plans independence talks for Suriname and the Netherland Antilles."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -101,7 +99,8 @@
                 {
                   "text": " Secretary of State William P. Rogers observed strong nationalism in Latin America, sparking mixed media reactions."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -113,7 +112,8 @@
                 {
                   "text": " Archbishops and bishops denounce Brazil's government, advocating for democracy and social justice."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -125,7 +125,8 @@
                 {
                   "text": " The Peruvian Revolution faces ideological challenges, labor unrest, and foreign business suspicions amid government-led economic reforms."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -137,7 +138,8 @@
                 {
                   "text": " Uruguay's President Bordaberry imposes military rule, weakening democracy amid political unrest."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -149,7 +151,8 @@
                 {
                   "text": " In Venezuela, student strikes driven by overcrowded schools and outdated systems disrupt the government."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -161,7 +164,8 @@
                 {
                   "text": " Venezuela faces significant repression, with political prisoners, assassinations, and media censorship."
                 }
-              ]
+              ],
+              "align": "justify"
             }
           ]
         }
@@ -206,6 +210,6 @@
   "slug": "lapr19730601",
   "created_at": "2025-03-16T18:22:07.511Z",
   "created_by": "rpr88",
-  "updated_at": "2025-03-16T18:28:25.741Z",
+  "updated_at": "2025-03-26T20:44:39.142Z",
   "updated_by": "rpr88"
 }
