@@ -26,7 +26,8 @@
                   "underline": true,
                   "bold": true
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -38,7 +39,8 @@
                 {
                   "text": " Criticism is directed at foreign press, particularly US publications, for their biased reporting on the recent coup attempt in Chile against President Allende, while tensions between church and state in Brazil and divisions within the Peronist movement in Argentina underscore broader conflicts over civil liberties and political ideologies. Escalating right-wing violence in Chile, economic struggles in Mexico, and increasing US arms sales to Latin America pose significant challenges, potentially diverting resources from social and economic development projects. Additionally, allegations of election fraud in Guyana raise concerns about political manipulation and racial discrimination, echoing similar issues in Trinidad Tobago. "
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -50,15 +52,8 @@
                 {
                   "text": " In an interview, Dr. Jorge Bustamante delves into the issue of illegal migrants in the Southwest United States, highlighting their significant numbers and impact on local Chicano populations. He discusses a study published by The New York Times, revealing profit-driven practices in repatriating migrants that violate Mexican constitutional rights. Dr. Bustamante also addresses proposed laws penalizing the hiring of illegal immigrants and the varied responses from different Chicano segments. He critiques historical exploitation of immigrant labor by agribusiness interests and calls for systemic change to prioritize workers' rights. Dr. Bustamante shares his firsthand experience of conducting participant observation as an illegal migrant. He advocates for giving bargaining power to farm workers within the existing system, empowering them to influence wages and working conditions. "
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "*Summaries were generated using ChatGPT and were reviewed for accuracy."
-                }
-              ]
+              ],
+              "align": "justify"
             }
           ]
         },
@@ -73,7 +68,8 @@
                   "bold": true,
                   "underline": true
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -85,7 +81,8 @@
                 {
                   "text": " US press coverage often distorts events in Chile, creating biases against Allende's government."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -97,7 +94,8 @@
                 {
                   "text": " A French priest in Brazil was jailed for sedition, sparking church-state conflict."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -109,7 +107,8 @@
                 {
                   "text": " Former Argentine President Juan Perón's return sparks divisions in Peronist movement, highlighting ideological clashes and power struggles within labor unions."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -121,7 +120,8 @@
                 {
                   "text": " Right-wing violence escalated in Santiago, Chile, with attacks on truck owners and government figures intensifying tensions."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -133,7 +133,8 @@
                 {
                   "text": " In Mexico, high rural unemployment leads to child malnutrition and illiteracy amid income inequality."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -145,7 +146,8 @@
                 {
                   "text": " The US aggressively sells advanced military aircraft in Latin America to counterbalance European competition, marking a policy shift."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -157,7 +159,8 @@
                 {
                   "text": " Elections in Guyana were marred by fraud, including ballot tampering, proxy voting, and voter exclusion, sparking political unrest."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -169,7 +172,8 @@
                 {
                   "text": " Dr. Jorge Bustamante discusses illegal Mexican migrants' impact on wages and legislative responses."
                 }
-              ]
+              ],
+              "align": "justify"
             }
           ]
         }
@@ -210,7 +214,7 @@
   "created_by": "rpr88",
   "title": "LAPR1973_08_01",
   "slug": "lapr19730801",
-  "updated_at": "2025-03-19T19:04:43.673Z",
+  "updated_at": "2025-03-26T20:54:45.769Z",
   "updated_by": "rpr88",
   "parent": "957fbd39-5a56-4e7c-8771-31b4af8623c6",
   "autogenerate": {
