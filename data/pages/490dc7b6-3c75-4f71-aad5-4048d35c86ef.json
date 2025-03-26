@@ -26,31 +26,34 @@
                   "bold": true,
                   "underline": true
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Part I: The Latin American Press Review delves into the multifaceted repercussions of the Watergate scandal, juxtaposing praise for American democratic institutions like Congress and the press with Latin American criticisms of US interventionism, particularly concerning CIA operations in Mexico. The scandal's reach extends to Costa Rica, implicating President Figueres in financial dealings with Watergate-linked figures, while political tensions simmer in Chile under President Allende's administration amidst labor strikes and opposition defiance. Excélsior's coverage extends to the illicit trafficking of Mexican workers into the US by organized crime, shedding light on the complex nexus of immigration and criminal networks. The publication also scrutinizes the Treaty of Itaipu, signaling shifts in power dynamics in Latin America. Meanwhile, reports from Argentina highlight President Campora's social reforms amid middle-class resistance and Guerrilla threats, while the Miami Herald covers Puerto Rican opposition to an oil refinery and the kidnapping of a financier in Argentina. Brazil's strategic caution and arms buildup are noted, alongside Cuba-Venezuela educational cooperation, suggesting a loosening of the blockade against Cuba. "
+                  "text": "Part I: ",
+                  "underline": true
+                },
+                {
+                  "text": "The Latin American Press Review delves into the multifaceted repercussions of the Watergate scandal, juxtaposing praise for American democratic institutions like Congress and the press with Latin American criticisms of US interventionism, particularly concerning CIA operations in Mexico. The scandal's reach extends to Costa Rica, implicating President Figueres in financial dealings with Watergate-linked figures, while political tensions simmer in Chile under President Allende's administration amidst labor strikes and opposition defiance. Excélsior's coverage extends to the illicit trafficking of Mexican workers into the US by organized crime, shedding light on the complex nexus of immigration and criminal networks. The publication also scrutinizes the Treaty of Itaipu, signaling shifts in power dynamics in Latin America. Meanwhile, reports from Argentina highlight President Campora's social reforms amid middle-class resistance and Guerrilla threats, while the Miami Herald covers Puerto Rican opposition to an oil refinery and the kidnapping of a financier in Argentina. Brazil's strategic caution and arms buildup are noted, alongside Cuba-Venezuela educational cooperation, suggesting a loosening of the blockade against Cuba. "
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Part II: The Latin American Press Review presents an alarming report by German anthropologist Mark Munzel on the dire plight of the Ache Indians in Paraguay, detailing systematic violations of their basic human rights under a guise of benevolence by the government. Munzel's report exposes historical and contemporary violence against the Ache, including killings and child trafficking, exacerbated by economic factors like rising land prices and commercial encroachment. Despite documented atrocities, government inaction persists, with reservations becoming sites of further abuse and exploitation. The Ache population has sharply declined due to hunger, disease, and violence, eroding their cultural heritage and sense of self. Munzel's findings underscore the urgent need for intervention to safeguard the Ache's well-being and cultural survival."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
+                  "text": "Part II: ",
+                  "underline": true
+                },
                 {
-                  "text": "*Summaries were generated using ChatGPT and were reviewed for accuracy."
+                  "text": "The Latin American Press Review presents an alarming report by German anthropologist Mark Munzel on the dire plight of the Ache Indians in Paraguay, detailing systematic violations of their basic human rights under a guise of benevolence by the government. Munzel's report exposes historical and contemporary violence against the Ache, including killings and child trafficking, exacerbated by economic factors like rising land prices and commercial encroachment. Despite documented atrocities, government inaction persists, with reservations becoming sites of further abuse and exploitation. The Ache population has sharply declined due to hunger, disease, and violence, eroding their cultural heritage and sense of self. Munzel's findings underscore the urgent need for intervention to safeguard the Ache's well-being and cultural survival."
                 }
-              ]
+              ],
+              "align": "justify"
             }
           ]
         },
@@ -65,7 +68,8 @@
                   "bold": true,
                   "underline": true
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -77,7 +81,8 @@
                 {
                   "text": " Latin American press covers Watergate extensively, affecting political views on Nixon and U.S. institutions, especially in Mexico and Costa Rica."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -89,7 +94,8 @@
                 {
                   "text": " President Allende's government rejects mediation in El Teniente strike and faces opposition from radio stations."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -101,7 +107,8 @@
                 {
                   "text": " The mafia smuggles 50,000 Mexicans monthly to the US, profiting billions in pesos."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -113,7 +120,8 @@
                 {
                   "text": " The Radical Liberal Party opposes Paraguay's Itaipu Treaty with Brazil, fearing environmental impacts."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -125,7 +133,8 @@
                 {
                   "text": " President Cámpora's first week saw strong worker support but union unease and challenges ahead."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -137,7 +146,8 @@
                 {
                   "text": " Argentinian guerrillas threaten companies, abduct financier for ransom, and demand job reinstatement."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -149,7 +159,8 @@
                 {
                   "text": " Puerto Rican leaders seek UN help to block a refinery they fear will harm ecology and economy."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -161,7 +172,8 @@
                 {
                   "text": " Cuban and Venezuelan officials meet to boost educational and cultural cooperation despite past tensions."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -173,7 +185,8 @@
                 {
                   "text": " German anthropologist Mark Munzel’s report reveals systematic genocide and exploitation of the Aché Indians in Paraguay."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -215,14 +228,6 @@
           "text": ""
         }
       ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
     }
   ],
   "title": "LAPR1973_06_14",
@@ -234,6 +239,6 @@
   "slug": "lapr19730614",
   "created_at": "2025-03-16T18:52:33.560Z",
   "created_by": "rpr88",
-  "updated_at": "2025-03-16T18:58:12.873Z",
+  "updated_at": "2025-03-26T20:46:02.448Z",
   "updated_by": "rpr88"
 }
