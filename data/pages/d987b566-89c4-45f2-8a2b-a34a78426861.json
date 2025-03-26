@@ -26,13 +26,18 @@
                   "bold": true,
                   "underline": true
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Part I: The Latin American Press Review covers multiple significant developments in the region, beginning with the collapse of the International Coffee Agreement and its aftermath, where coffee-producing nations like Brazil and Colombia plan to establish a multinational corporation to regulate coffee prices. Excélsior delves into Watergate revelations linking conspirators to clandestine activities in Latin America, including an alleged plot to assassinate Panamanian leader Omar Torrijos. In Chile, the El Teniente copper mine strike orchestrated by the Christian Democratic Party reflects deeper divisions within the working class, with Chile Hoy attributing it to the party's strategy of sowing discord. Tensions escalate as public forces intervene, prompting President Allende to offer subsidies, but strikers demand higher wages. Meanwhile, Chile Hoy reports on a plot by Chilean Fascist Roberto Thieme to overthrow the government with support from neighboring countries. In Argentina, Juan Perón's return prompts speculation about his role in the new administration, while leftist groups continue to agitate, challenging capitalist interests. "
+                  "text": "Part I:",
+                  "underline": true
+                },
+                {
+                  "text": " The Latin American Press Review covers multiple significant developments in the region, beginning with the collapse of the International Coffee Agreement and its aftermath, where coffee-producing nations like Brazil and Colombia plan to establish a multinational corporation to regulate coffee prices. Excélsior delves into Watergate revelations linking conspirators to clandestine activities in Latin America, including an alleged plot to assassinate Panamanian leader Omar Torrijos. In Chile, the El Teniente copper mine strike orchestrated by the Christian Democratic Party reflects deeper divisions within the working class, with Chile Hoy attributing it to the party's strategy of sowing discord. Tensions escalate as public forces intervene, prompting President Allende to offer subsidies, but strikers demand higher wages. Meanwhile, Chile Hoy reports on a plot by Chilean Fascist Roberto Thieme to overthrow the government with support from neighboring countries. In Argentina, Juan Perón's return prompts speculation about his role in the new administration, while leftist groups continue to agitate, challenging capitalist interests. "
                 }
               ],
               "align": "justify"
@@ -41,16 +46,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Part II: Latin American Press Review presents an interview with Brazilian exile Jean Marc von der Weid, recounting his engagement in the student movement against the Brazilian dictatorship and detailing his imprisonment and torture. Von der Weid underscores the movement's resistance against proposed university reforms backed by American foundations and highlights the dictatorship's narrow support base, primarily comprising the military and a small segment of the Brazilian upper class. He warns of foreign powers, notably the United States, supporting the dictatorship to safeguard their investments, and cautions against Brazil's gendarme role in orchestrating coups in Latin America to advance its interests. This interview concludes the Latin American Press Review, offering insightful analysis of regional events and issues on a weekly basis."
-                }
-              ],
-              "align": "justify"
-            },
-            {
-              "type": "paragraph",
-              "children": [
+                  "text": "Part II:",
+                  "underline": true
+                },
                 {
-                  "text": "*Summaries were generated using ChatGPT and were reviewed for accuracy."
+                  "text": " Latin American Press Review presents an interview with Brazilian exile Jean Marc von der Weid, recounting his engagement in the student movement against the Brazilian dictatorship and detailing his imprisonment and torture. Von der Weid underscores the movement's resistance against proposed university reforms backed by American foundations and highlights the dictatorship's narrow support base, primarily comprising the military and a small segment of the Brazilian upper class. He warns of foreign powers, notably the United States, supporting the dictatorship to safeguard their investments, and cautions against Brazil's gendarme role in orchestrating coups in Latin America to advance its interests. This interview concludes the Latin American Press Review, offering insightful analysis of regional events and issues on a weekly basis."
                 }
               ],
               "align": "justify"
@@ -192,6 +192,6 @@
   "slug": "lapr19730621",
   "created_at": "2025-03-16T20:40:06.005Z",
   "created_by": "rpr88",
-  "updated_at": "2025-03-17T01:38:47.015Z",
+  "updated_at": "2025-03-26T20:47:06.377Z",
   "updated_by": "rpr88"
 }
