@@ -26,7 +26,8 @@
                   "bold": true,
                   "underline": true
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -53,15 +54,6 @@
                 }
               ],
               "align": "justify"
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "*Summaries were generated using ChatGPT and were reviewed for accuracy. "
-                }
-              ],
-              "align": "justify"
             }
           ]
         },
@@ -76,7 +68,8 @@
                   "bold": true,
                   "underline": true
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -88,7 +81,8 @@
                 {
                   "text": " Chilean officials link Watergate scandal to break-ins at their embassy and ambassador's home."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -100,7 +94,8 @@
                 {
                   "text": " Uruguayan President Juan Bordaberry ceded power to the military, ending constitutional democracy."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -112,7 +107,8 @@
                 {
                   "text": " Report exposes corruption in Nicaragua, where aid for earthquake victims was misused by leaders."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -124,7 +120,8 @@
                 {
                   "text": " Mexico expands its offshore limit to 200 miles, protecting rich fishing waters from foreign access."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -136,7 +133,8 @@
                 {
                   "text": " Foreign businessmen are fleeing Argentina due to kidnapping and extortion, affecting the business community."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -148,7 +146,8 @@
                 {
                   "text": " Recent evidence suggests right-wing Peronists, not Peronist youth, initiated the deadly Ezeiza Airport shooting"
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -160,7 +159,8 @@
                 {
                   "text": " At a recent meeting, the OAS faced strong criticism but retained support from Brazil and Bolivia."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -172,7 +172,8 @@
                 {
                   "text": " Brazil is expanding economically into Africa while navigating delicate political issues with Portugal"
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -184,7 +185,8 @@
                 {
                   "text": " A recent Chilean coup attempt by low-ranking military members was thwarted and arrested, with unclear civilian involvement."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -196,7 +198,8 @@
                 {
                   "text": " Bolivia's dictatorship may end as President Banzer plans to return to constitutional rule next year."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -208,7 +211,8 @@
                 {
                   "text": " Chilean political turmoil involves a coup attempt, ministerial resignations, and a controversial copper miners' strike impacting the economy."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -261,6 +265,6 @@
   "slug": "lapr19730705",
   "created_at": "2025-03-17T02:48:24.323Z",
   "created_by": "rpr88",
-  "updated_at": "2025-03-19T00:58:44.304Z",
+  "updated_at": "2025-03-26T20:50:25.635Z",
   "updated_by": "rpr88"
 }
