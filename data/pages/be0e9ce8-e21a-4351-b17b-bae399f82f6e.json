@@ -54,15 +54,6 @@
                 }
               ],
               "align": "justify"
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Summaries were generated using ChatGPT and were reviewed for accuracy."
-                }
-              ],
-              "align": "justify"
             }
           ]
         },
@@ -177,7 +168,8 @@
                 {
                   "text": ""
                 }
-              ]
+              ],
+              "align": "justify"
             }
           ]
         }
@@ -229,7 +221,7 @@
   "slug": "lapr19730726",
   "created_at": "2025-03-19T18:33:30.964Z",
   "created_by": "rpr88",
-  "updated_at": "2025-03-19T19:32:23.186Z",
+  "updated_at": "2025-03-26T20:53:05.229Z",
   "updated_by": "rpr88",
   "parent": "957fbd39-5a56-4e7c-8771-31b4af8623c6"
 }
