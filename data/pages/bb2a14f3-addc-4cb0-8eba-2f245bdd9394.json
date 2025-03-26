@@ -26,7 +26,8 @@
                   "bold": true,
                   "underline": true
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -38,7 +39,8 @@
                 {
                   "text": " The Latin American Press Review covers significant events in Chile, where talks between the government and opposition ease tensions following warnings of civil war after the assassination of President Salvador Allende's aide. Allegations of torture persist in Brazil, with condemnation from the church and international organizations. Peru severs ties with France over nuclear testing, while the French government remains defiant. Chile Hoy criticizes France's control near Moruroa, and Guatemala faces escalating violence amid an undeclared state of war. The Miami Herald reports on Brazil's inflation and economic disparities, while Catholic bishops advocate for social ownership. The Brazilian government defends its control over workers' pay, and the US shifts its perception of Juan Domingo Perón in Argentina, despite discontent from leftist factions. "
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -50,15 +52,8 @@
                 {
                   "text": " Dr. David Barkin from Lehman College provides insight into Chile's complex situation, characterized by strikes, food scarcity, and political maneuvering, stemming from past events like October and June strikes, culminating in a costly copper strike. Allende's growing support among the working class threatens the right-wing, leading to severe measures and the assassination of Allende's military aide-de-camp. Recent events intensify conflicts between factions, with the U.S. exacerbating tensions by supporting right-wing groups. Despite challenges, Allende's popularity among the working class grows, showcasing his adept political maneuvering, though uncertainty looms as polarization deepens. Despite rumors of civil war, Chile's future holds promise as various economic sectors demand autonomy in decision-making. Civil war seems unlikely given Chile's political process and strong armed forces."
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "*Summaries were generated using ChatGPT and were reviewed for accuracy."
-                }
-              ]
+              ],
+              "align": "justify"
             }
           ]
         },
@@ -73,7 +68,8 @@
                   "bold": true,
                   "underline": true
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -85,7 +81,8 @@
                 {
                   "text": " For the first time in two years, Chile's right-wing Christian Democrats engage in government talks amid threats of civil war."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -97,7 +94,8 @@
                 {
                   "text": " Brazilian government accused of torture since 1968, church and international organizations highlight abuses."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -109,7 +107,8 @@
                 {
                   "text": " International backlash grows against France’s nuclear tests, with protests, diplomatic breaks, and UN condemnation."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -121,7 +120,8 @@
                 {
                   "text": " Guatemala is in an undeclared war, increasing violence, and government repression tactics."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -133,7 +133,8 @@
                 {
                   "text": " Brazil urges consumers to combat inflation, but economic growth benefits the wealthy, not workers."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -145,7 +146,8 @@
                 {
                   "text": " The US now views Perón as Argentina's best hope, shifting from earlier estimates."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -157,7 +159,8 @@
                 {
                   "text": " Dr. Barkin's interview highlights Chile's political turmoil, strikes, and Allende's rising working-class support."
                 }
-              ]
+              ],
+              "align": "justify"
             }
           ]
         }
@@ -202,6 +205,6 @@
   "slug": "lapr19730808",
   "created_at": "2025-03-19T19:23:59.708Z",
   "created_by": "rpr88",
-  "updated_at": "2025-03-19T19:23:59.708Z",
+  "updated_at": "2025-03-26T20:56:29.577Z",
   "updated_by": "rpr88"
 }
