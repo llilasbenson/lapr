@@ -31,7 +31,6 @@
             },
             {
               "type": "paragraph",
-              "align": "justify",
               "children": [
                 {
                   "underline": true,
@@ -40,7 +39,8 @@
                 {
                   "text": " Argentina's transition to a new presidency under Hector Cámpora, marked by swift reforms such as releasing political prisoners and restoring diplomatic ties with Cuba. However, tensions persist, with military discontent and left-wing guerrilla activities reflecting ongoing political divisions. In Mexico, the governor of Puebla's resignation following student deaths triggers both support and opposition, mirroring broader societal rifts. Meanwhile, US Secretary of State Rogers' visit to Latin America faces backlash, particularly in Brazil over support for Portugal's colonial policy in Africa, and in Costa Rica amid extradition tensions. In Bolivia, revelations of government involvement in the assassination of Colonel Selich ignite a political crisis, while Colombian author Gabriel Garcia Marquez's solidarity gesture for US political prisoners underscores transnational activism. "
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -59,9 +59,10 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "*Summaries were generated using ChatGPT and were reviewed for accuracy."
+                  "text": ""
                 }
-              ]
+              ],
+              "align": "justify"
             }
           ]
         },
@@ -76,7 +77,8 @@
                   "bold": true,
                   "underline": true
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -88,7 +90,8 @@
                 {
                   "text": " Cámpora assumed the presidency of Argentina, delivering speech condemning foreign influence while outlining his administration's socialist agenda."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -100,7 +103,8 @@
                 {
                   "text": " Cámpora, freed political prisoners, legalized the Communist party, and reestablished diplomatic relations with Cuba, challenging US-imposed isolation."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -112,7 +116,8 @@
                 {
                   "text": " Cámpora faces challenges from both the military and leftist guerrilla groups in Argentina, as he introduces new foreign investment regulations."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -124,7 +129,8 @@
                 {
                   "text": " In Mexico, Puebla governor resigned after student deaths, sparking conservative backlash."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -136,7 +142,8 @@
                 {
                   "text": " US Secretary of State Rogers' Latin America visit faced widespread protests and cold receptions."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -148,7 +155,8 @@
                 {
                   "text": " Brazil faces a dilemma in supporting Portugal's colonial policy in Africa, risking alienation from independent African nations."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -160,7 +168,8 @@
                 {
                   "text": " James Roosevelt, John Mitchell, and Maurice Stan are implicated with financier Vesco, who evaded a US indictment and resides in Costa Rica."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -172,7 +181,8 @@
                 {
                   "text": " Bolivian President Banzer's regime faces a political crisis after the assassination of right-wing rival Colonel Selich, initially reported as an accident."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -184,7 +194,8 @@
                 {
                   "text": " Colombian author Gabriel Garcia Marquez will donate his $10,000 prize to defend US political prisoners."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -196,7 +207,8 @@
                 {
                   "text": " An interview with a member of Argentina's People's Revolutionary Army critiques Peronism and the government's bourgeois orientation."
                 }
-              ]
+              ],
+              "align": "justify"
             }
           ]
         }
@@ -241,6 +253,6 @@
   "slug": "lapr19730531",
   "created_at": "2025-03-15T19:45:30.231Z",
   "created_by": "rpr88",
-  "updated_at": "2025-03-15T19:45:30.231Z",
+  "updated_at": "2025-03-26T20:42:22.930Z",
   "updated_by": "rpr88"
 }
