@@ -1,5 +1,2299 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the Latin American Press Review, a weekly selection and analysis of news and events in Latin America as seen by leading world news sources, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group of Austin, Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6c1990b2-5f1a-45bc-b2f5-3bd6ed0ae5be"
+    },
+    {
+      "start_time": 21,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La Prensa of Lima, Peru reports that Peru is undergoing a period of serious unrest with violence in both Cusco and Arequipa, and statements from President Juan Velasco that, \"If they want war, they will have war.\" The most serious trouble began November 16th with a general strike in Arequipa in support of several teachers who were arrested in connection with a labor dispute with the government. The teachers, members of the teachers' union called SUTEP, were accused of being subversives by the government. Other teachers were fired after having refused to return to their jobs. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "4f8ec687-0704-45e2-8580-861a74809179"
+    },
+    {
+      "start_time": 56,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When the government, refusing a demand for a salary increase, set a time period when the teachers must conclude their strike and return to work. Leaders of several unions in Arequipa, including the transport workers, the electrical workers, clerical workers, and store clerks, then called a general strike. Violence in Arequipa has so far left two dead and 17 wounded, and the army has imposed a strict curfew on the city. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "623148f4-5219-40cf-8c40-58498b29880b"
+    },
+    {
+      "start_time": 81,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excelsior of Mexico City further reports that trouble broke out in Cusco on November 23rd when some 300 students rioted in the streets, fighting with police, stoning vehicles, and setting fire to a government building, the SINAMOS building. SINAMOS, which stands for the National System of Support for Social Mobilization, is the Peruvian government agency, which sets official labor policy. The students stoned the firemen trying to extinguish the fire. The building was completely was destroyed. One youth was killed and dozens injured. The police finally dispelled the rioters with tear gas. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "de33e4bf-35f6-497a-8b7a-2cb2f7b93058"
+    },
+    {
+      "start_time": 116,
+      "end_time": 148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Meanwhile, on November 21st, according to Excelsior, President Juan Velasco proclaimed a state of siege in Arequipa and in Puno, another city in Southern Peru. Velasco issued a harsh statement vowing that, \"What has happened in other parts of South America is not going to happen here.\" Velasco said that the teacher's strike had not been legal since SUTEP had not been recognized as a legal union by the government. He charged that the union was directed by the worst extremes of the left and the right. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "a2e4ba45-2b96-427c-b2c3-41301f0e0c64"
+    },
+    {
+      "start_time": 148,
+      "end_time": 183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to the British Newsweekly Latin America, the Peruvian government has foreseen a confrontation shaping up for some time now and is taking steps to win popular support for its measures. Earlier this month, a new peasants union was inaugurated in Cusco. The new union has the support of SINAMOS. The SINAMOS head addressed the group and told them that ultra-left groups were working \"on behalf of imperialism and would have to be eliminated\". In fact, the government recently deported to influential leftist critics, Aníbal Quijano and Julio Cotler, publishers of the magazine, Society and Politics. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "10ec8dc1-d5cf-42bb-aed8-cbd633675ea4"
+    },
+    {
+      "start_time": 183,
+      "end_time": 205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This apparently signals the end of the political permissiveness of Velasco's government, which supposedly has been one of the least repressive of any government on the continent, except Chile under Allende. The proceeding report on the situation in Peru was compiled from reports from Excelsior of Mexico City, La Prensa of Lima, Peru, and the British Newsweekly, Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "dd33d34c-9b73-4322-b29e-6bc3f81bf177"
+    },
+    {
+      "start_time": 205,
+      "end_time": 242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Concerning the situation in Chile, and especially the relation between the church and state in Chile, the British Newsweekly Latin America reports that Cardinal Silva Henríquez's cautious handling of church state relations since the coup reflects the extremely difficult situation in which he and his clergy find themselves. The church is now almost the only permitted political organization. Latin America continues that in the current atmosphere of terror and repression, the Chilean cardinal has pursued an agile policy of riding several horses at once. Nevertheless, the sunny relationship that the church enjoyed with the state during the Allende government has ended. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "50e13121-71df-4db7-97c2-dd4e34323cf0"
+    },
+    {
+      "start_time": 242,
+      "end_time": 268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Always a clever and sophisticated politician, and by no means reactionary, Cardinal Silva has become an increasingly important figure in the final year of the popular unity government. He obviously took pleasure in his role as promoter of the concept of dialogue between the government and its Christian Democrat opposition. Quite apart from his own fairly progressive personal views, the Cardinal was obliged to take a friendly attitude towards the Popular Unity movement. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "986d6e5e-3fef-4f8f-8085-ea1130c7e68e"
+    },
+    {
+      "start_time": 268,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As a result of the general radicalization of the Chilean church, which has long since cut its links with the most conservative strata of Chilean society. The Cardinal had to take into account the fact that his younger priests, working in the slums and shanty towns, were becoming increasingly revolutionary. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "93aedda3-1c3b-4ca5-9f1e-bbff2e1303fe"
+    },
+    {
+      "start_time": 285,
+      "end_time": 312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to Latin America, two days after the coup, the Cardinal drafted a strong statement in the name of the standing committee of Chilean bishops deploring the bloodshed. He also demanded respect for those who fell in the struggle and expressed the hope that the gains of the workers and peasants under previous governments would be respected and consolidated, and that Chile would return to institutional normalcy very soon. The newsweekly Latin America continues that the statement appalled the junta. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "bc813ef9-0b39-4987-901d-4b6b16251dbd"
+    },
+    {
+      "start_time": 312,
+      "end_time": 340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It appeared at a time when the official line was that less than 100 people had been killed, so why was the Cardinal emphasizing the bloodshed? Respect for Allende was the last thing the junta was prepared to offer at a time when it was launching a major campaign to publicize details of the ex-president's sex life and sumptuous lifestyles. And although the junta itself had promised a reasonable deal for workers and peasants, in practice it was soon swiftly reversing what had been thought irreversible changes. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "a3515e75-6bf2-41ef-b2f3-9b9607eb0af8"
+    },
+    {
+      "start_time": 340,
+      "end_time": 372,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If the cardinal were to have any influence with the junta, he would clearly have to change his language, which he has subsequently done. No more strong statements have emanated from the Archbishop's palace. A test case of the Cardinal's policy of maintaining silence to secure a certain freedom of action will be the fate of the Chilean official church newspaper, Mensaje. Its October issue revealed it to be the first and only magazine of opposition in Chile. A sizeable chunk of its two-page editorial was printed blank, the censor having been at work. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "557e5bf9-ebf6-42ea-8de3-0e39e4603ace"
+    },
+    {
+      "start_time": 372,
+      "end_time": 396,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A second editorial entitled \"A Cry of Warning\" survived intact. Dedicated entirely to the question of torture in Brazil, the immediacy of the topic may have escaped the censor, but would not have been lost on the reader. The editors are planning a double number of the magazine to be published early in December and have promised to go into liquidation rather than indulge in self-censorship, that from the newsweekly, Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "5c88eaf0-b2ba-40c4-83e7-430c9f08bb75"
+    },
+    {
+      "start_time": 396,
+      "end_time": 433,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also concerning Chile, according to the Latin American reporter for The Guardian, the military junta in Chile has placed under house arrest the Chilean Air Force General, Alberto Bachelet, pending charges of incitement to rebellion. That announcement by the military in Chile is the first official admission that members of the military high command had refused to participate in the coup that overthrew the constitutional government in Chile. In a further report on Chile, the Chilean Press Association has asked the military junta about the death of a newsman, Carlos Berger, who was shot while supposedly attempting to escape. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        }
+      ],
+      "uuid": "bf464740-9744-49f1-8c9b-44f968f57ad3"
+    },
+    {
+      "start_time": 433,
+      "end_time": 465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also, the body of another journalist, Duit Bascunan, was found in the desert. Military spokesmen said that he had probably died of starvation. In other news relevant to Chile from Britain, The Guardian reports that the British Labor Party, the labor union organizations at the Tyneside Shipyards in Britain, have called for refusal to work on two destroyers, which are scheduled when refitted to be turned over to the Chilean junta. The Chilean cruise for the vessels have not been allowed to communicate with the press or with the local townspeople. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        }
+      ],
+      "uuid": "c1fe1981-35a9-4ea7-9e40-55f8d89a7b44"
+    },
+    {
+      "start_time": 465,
+      "end_time": 508,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also, from Britain, The Guardian reports that the dock workers at Merseyside have agreed not to handle any cargoes bound for the junta, including Hawker Hunter fighter aircraft awaiting shipment. The Liverpool City Council had voted overwhelmingly to ban all purchases by the city of Chilean goods until \"the complete return of civil and political rights in Chile\". And in Italy, The Guardian reports that a coalition of groups has raised over $120,000 for the movement of the revolutionary left, known as the MIR, in Chile, and contributions are continuing at the rate of over $1,000 a day for the support of resistance to the military junta in Chile. That report from the international reporters of The Guardian. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        }
+      ],
+      "uuid": "1e533974-9029-442d-9863-2ff226462670"
+    },
+    {
+      "start_time": 508,
+      "end_time": 539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The newsweekly Latin America reports from Mexico that President Echeverría has again warned foreign investors not to buy up profitable Mexican firms, but the government is to persist in its controversial decision to sell off some state companies to the private sector. Latin America reports that President Luis Echeverría showed last weekend that he was still worried about the longstanding practice of some foreign investors of buying up going concerns in Mexico as the cheapest way into the local market. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "f61c2b70-1e52-4610-9994-c5cd4fbeca3e"
+    },
+    {
+      "start_time": 539,
+      "end_time": 558,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This, of course, is not the kind of investment that Mexico wants, as the President made clear to a group of West German economic correspondence. \"That,\" he told them, \"was why the government had introduced a new investment law to protect the country from foreign investors who attempted to buy up everything productive and efficient there, big or small.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "a5b1eab6-7baf-4d01-86e4-edf8f8baded3"
+    },
+    {
+      "start_time": 558,
+      "end_time": 591,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The president said that while some more reflective directors of foreign companies had adopted a \"more positive attitude,\" there were still certain \"multinational monopolies which have failed to understand the aims of the new law.\" He also made clear that his warning was directed as much at Mexican businessmen who made a big profit by allowing their companies to be taken over by foreigners. \"The government was prepared to help firms which sought the capital and technology they needed abroad,\" he said, \"but they must be associated with foreign interests when necessary and not sold out to them.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "a93a4ca2-ada4-4846-a07b-376ee27e2fd2"
+    },
+    {
+      "start_time": 591,
+      "end_time": 624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More pleasing to the private sector, continues Latin America, has been Echeverría's decision to sell off certain state companies to private interests, despite strong criticism from the left. The private sector has been pressing for this for some time, and the more extreme enthusiasts for private enterprises would even like to see such public services as electric power and the railways restored to them. They will certainly be disappointed. Not only would it be politically unacceptable, but it is doubtful whether the private sector could raise the necessary finance to develop and modernize either industry. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "577e4b03-f00b-45e1-a8da-ba308cb6cf24"
+    },
+    {
+      "start_time": 624,
+      "end_time": 665,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin America continues to note that the government does urgently need capital to develop them. Electricity prices have just gone up and railway fairs and tariffs are likely to do so soon, as well as other infrastructure projects and vital industries such as petrochemicals. Echeverría has made it clear that when the state investment corporation will be selling the companies, it took over from private hands who would be selling them when they are in danger of growing bankrupt. The purpose of this was to prevent sources of employment from being lost. Where these companies had been put back on their feet and the state had no strategic interest in holding onto them, they would be sold, thereby releasing public investment funds for more essential purposes. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "453b976d-df6d-4282-b5dd-dcc94e6fc400"
+    },
+    {
+      "start_time": 665,
+      "end_time": 709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin American continues that a case in point is that of the international food firm, Heinz, which withdrew from Mexico last year because it said its Mexican operation had lost $32 million. The firm has now been renamed and the National Finance Administration, which has taken it over, sold shares to private interests, among them peasants in the northwestern states of Mexico. All the same, the nationalist left has objected to Echeverría's decision on the general principle that the private sector is quite strong enough already and the government should not go out of its way to tip the balance further against itself. \"Why otherwise\" one commentator asked, \"had business circles greeted the decision with such delight?\" That from the newsweekly, Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "725caf58-d625-4bc9-abc5-1209a2b2f425"
+    },
+    {
+      "start_time": 709,
+      "end_time": 742,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excelsior of Mexico City also reports that the head of an Argentine subsidiary of Ford Motor Company was assassinated recently, along with three bodyguards in Argentina. John Swint, a chief executive of Transax, an Argentine Ford subsidiary, was killed when the auto in which he and his bodyguards were traveling was suddenly surrounded by three other cars, from which an estimated 15 assailants emerged firing with machine guns. Unconfirmed sources said that Swint was traveling with bodyguards because he had received several anonymous threats recently. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "862f2d2d-a3e0-4d3d-a249-f672626bd95d"
+    },
+    {
+      "start_time": 742,
+      "end_time": 768,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Things really haven't been safe in Argentina for foreign business executives for quite some time now. Leftist guerrilla groups calling such people \"the agents of imperialism\" have kidnapped several executives and demanded high ransoms, though murders such as this one are rare. In fact, it has been speculated by some sources that the killing was not the work of leftists at all, but of right-wing extremists attempting to discredit the left. It would not be the first time such tactics have been used in Argentina. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "3b306061-f425-4757-b44b-984832733206"
+    },
+    {
+      "start_time": 768,
+      "end_time": 786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In any case, the Journal of Commerce, published in Washington, labeled Buenos Aires, Argentina the \"kidnap capital of the world,\" citing the fact that there have been more than 150 kidnappings so far this year with ransom payments bringing an enormous sum. That from the Mexico City Daily, Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "e02508c4-2d1e-4460-bfa1-1f8135cebc17"
+    },
+    {
+      "start_time": 786,
+      "end_time": 810,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La Prensa of Lima, Peru reports on the Latin American Foreign Minister's Conference in Bogota, Colombia. Although some observers, including the Cubans, characterized the meeting as premature, a degree of consensus was developed among the foreign ministers, and the meeting concluded with a declaration of mutual agreements in the form of an eight-point agenda for a further meeting next February in Mexico City. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        }
+      ],
+      "uuid": "d9698619-638b-43b1-a956-8eeffc7c2293"
+    },
+    {
+      "start_time": 810,
+      "end_time": 843,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The most important points are the unanimous support of all Latin American and Caribbean countries for Panama's efforts to win full sovereignty over the canal zone, the need for the United States cooperation in controlling interference by multinational corporations in domestic politics of countries in which they have investments, and the need to eliminate economic sanctions as a weapon of foreign policy against countries in the region, and the need to reorganize the entire inter-American system, especially the need to change the structure of the United States' relation with Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        }
+      ],
+      "uuid": "53fa957f-6c76-426e-a2c3-0b2edf54fbdb"
+    },
+    {
+      "start_time": 843,
+      "end_time": 860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Peruvians were particularly emphatic in their calls for Latin American solidarity with countries that expropriate the assets of multinational corporations. The Peruvian position is consistent with their concerns earlier expressed at the Latin American organization of energy. That from Le Prensa of Lima, Peru. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        }
+      ],
+      "uuid": "f57e96b0-f278-456e-b9d6-9ce8b282c93a"
+    },
+    {
+      "start_time": 860,
+      "end_time": 887,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are listening to the Latin American Press Review, a weekly selection and analysis of news and events in Latin America as seen by leading world news sources, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions are welcome and may be sent to the group at 2205 San Antonio Street, Austin, Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3f40d85b-b248-4185-bc08-853c0808d1cb"
+    },
+    {
+      "start_time": 887,
+      "end_time": 904,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This program is distributed by Communication Center, the University of Texas at Austin. The views expressed are solely those of the Latin American Policy Alternatives Group and its sources, and should not be considered as being endorsed by UT Austin or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6d982a6c-0d8b-404b-a334-32e3db360095"
+    },
+    {
+      "start_time": 904,
+      "end_time": 924,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This week's feature focuses on culture, a Cuban view of Cuban culture, exploring especially the history of efforts in Cuba to support and extend the arts in a country that historically was impoverished. The material and viewpoint of the feature on Cuban culture comes from the Cuban News Agency, Prensa Latina. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "55f21a04-0e43-42e7-bb51-4994c3cab4db"
+    },
+    {
+      "start_time": 924,
+      "end_time": 959,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Art in Cuba is not just the Rumba, one of the few forms Yankees visiting pre-revolutionary Cuba got exposed to out of the island's enormous contribution to jazz. Nor is it only films and posters, which are perhaps the best present-day forms of art in Cuba. To appreciate the significance and role of the arts and the artists in Cuba today, it's necessary to briefly review the history of the arts there. Of the many contributors to Cuban culture, the most important were the Spanish colonists and the African peoples brought to the island as slaves. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "b1060482-2e2b-45a0-b1ab-a928a37c2d01"
+    },
+    {
+      "start_time": 959,
+      "end_time": 988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These two peoples eventually fused their arts, music, folklore, mythologies and literature and ways of thinking into an authentic Cuban national culture. Under colonial rule from the 15th through the 19th centuries, Spanish art and architecture prevailed. Stained-glass windows and integrate wrought iron railings on balconies and gates were familiar decorative elements in upper-class homes in what is now Old Havana. The upper classes furnished their manners with imports from Madrid. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "0db047a9-5a35-4884-a594-f1efcf59cf12"
+    },
+    {
+      "start_time": 988,
+      "end_time": 1019,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After the Spanish American War, the United States remained in Cuba, directly or indirectly, until 1959. Frustration with American intervention was reflected in the works of early republic literature. By 1910, a younger group founded the magazine, Contemporary Cuba, where possible solutions to problems of the new nation had ample forum. After the revolution, as Cuba began the development of a new society, the role people played as individuals and participants in society began to change. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "7fc78dfd-dfc9-4ea7-a86e-86d1c494c113"
+    },
+    {
+      "start_time": 1019,
+      "end_time": 1039,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Responsibilities, priorities, values, and motivations were radically altered. None of these changes were automatically defined, nor did they appear in practice and in people's consciousness all at once. For intellectuals, for writers, painters, artists of all media, this transitional process of redefinition was and can continues to be complex and difficult. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "55609ef7-3c8a-48b3-a9ab-ef790358a83a"
+    },
+    {
+      "start_time": 1039,
+      "end_time": 1061,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In 1961, continues Prensa Latina, the first official encounter of artists, writers, and representatives of the revolutionary government took place. Various intellectuals expressed their concern over freedom of expression in the arts and asked what the parameters were in a time of change and polarization. \"Was the form to be dictated by a government policy?\" they asked. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "4c1b329f-8a41-44b0-86ce-7dcfc54892b7"
+    },
+    {
+      "start_time": 1061,
+      "end_time": 1080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fidel Castro made a now famous speech in which he said, \"With the revolution, everything. Against the revolution, nothing.\" And expanded and interpreted that to mean that no one was going to impose forms, nor was anyone going to dictate subject matter. But counter-revolution would not be tolerated in the arts or in any other activity. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "3a612f15-10dc-4b77-a536-fb6a9aec287a"
+    },
+    {
+      "start_time": 1080,
+      "end_time": 1111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intellectuals who found themselves in the midst of the revolution faced adjustment of a lifetime of habits and ways of thinking to new realities and needs. For example, a painter in the 1950s sought some way of making a living rarely through art. He catered to rich patrons, if lucky enough to be recognized at all, and sold his works to individuals, invariably to friends or upper-class collectors. Most artists, as artists, were self-oriented. The very forms of artistic expression were narrowly individualistic. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "02fba425-931d-462f-9851-8e493623291e"
+    },
+    {
+      "start_time": 1111,
+      "end_time": 1146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Artists created canvases which hung in galleries and homes that only a fraction of the population could or would see. How could one put society first in an each man for himself world? There were diverse attempts to make art a vital part of the new society. One of the earliest projects the revolution initiated was the National School of Cuban Art, a gigantic complex of very modern one-level buildings in a luxurious residential area of Havana, for students of dance, sculpture, music, and theater. Young people from all over the country can apply for scholarships to this largest of the arts schools. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "0d7c4955-edf4-4916-91a2-580cb3481517"
+    },
+    {
+      "start_time": 1146,
+      "end_time": 1184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Prensa Latina continues that young art students in the search for new media, more accessible to the whole population, went to the factories, the farms, and the schools, and exchanged ideas with workers. Art students and established artists asked themselves and were asked, \"What are the obligations of a socially-committed artist, a revolutionary artist? Are there specific forms, say, murals, that best reflect and contribute to the revolution?\" Fortunately, says Prensa Latina, Cuban artists and government agencies did not fall into the trap of imposing a simplistic formula, the happy triumphant worker theme à la Norman Rockwell. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "4804b77c-6166-430e-93cb-70fc49549a36"
+    },
+    {
+      "start_time": 1184,
+      "end_time": 1208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Throughout the 1960s, Cuban painters were exposed to the art of many countries. In 1968, the International Salon de Mayo exhibition was held in Havana, and artists from Western Europe, the socialist countries, Latin America, Africa, and Asia, participated. Young Cuban painters and old experimented with pop art, pop up, abstraction, and new expressionism. There were no limitations. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "3e31fd62-c08d-4226-833c-37c829851be7"
+    },
+    {
+      "start_time": 1208,
+      "end_time": 1226,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Out of all this experimentation and dialogue came the means of visual expression best known outside Cuba, poster art. Because of massive distribution possibilities and the functional character of poster art, it has become second in importance, only to film, as the visual vehicle of the message of the revolution. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "ffb81a38-c354-4b03-a397-35ce9fee9d62"
+    },
+    {
+      "start_time": 1226,
+      "end_time": 1255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Art is also architecture. Before the revolution, architects designed residences for the rich, factories, and luxury hotels. Since 1959, construction priorities have shifted to the creation of housing complexes and thousands of schools and living facilities. With a tremendous growth in population, a demographic shift to newly inhabited zones of the island and a drive to get people out of urban slums, housing demands are massive and are met as fast as building materials and labor allow. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "e60b9c21-c145-4536-8ab0-7fc365cf1103"
+    },
+    {
+      "start_time": 1255,
+      "end_time": 1271,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Volunteers have been recruited from every industry to put in extra hours on housing construction brigades. In housing and other construction, new functions have required new architecture. Extremely new designs and styles can be seen in the remotest corners of the countryside, as well as in the city. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "e1d5f434-1d55-4b94-9892-d906b1a0157d"
+    },
+    {
+      "start_time": 1271,
+      "end_time": 1282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another art form much cultivated in Cuba is dance. The National Ballet of Cuba is world-famous, and Alicia Alonso is recognized as one of the greatest contemporary ballet artists. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "bc9e1ae7-d4c9-4ad3-83dd-f260eecf36d8"
+    },
+    {
+      "start_time": 1282,
+      "end_time": 1317,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Music cannot be left out while reviewing the revolution's cultural activities. Traditional Cuban popular music flourishes. By wave of radio and films, western rock has also become known to Cuban youth. The task is seen to create a consciousness and a demand for genuine Cuban and Latin American music so that Cuban youth won't simply imitate foreign pop music. And at present, there is a big push to encourage amateur musicians in the ranks of workers and students and everyone, so as to maximize music and not leave music only in the hands of a few professionals. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "c605bf65-5f5b-48bc-bd3a-6662439a56d6"
+    },
+    {
+      "start_time": 1317,
+      "end_time": 1335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To speak of Cuban cinema, says Prensa Latina, is to speak of revolutionary Cuban cinema. In the course of the armed struggle against the dictatorship, a few protest documentaries and news reels were made by revolutionaries in the Sierra and the urban underground. Again, these were of the barest cinematic qualities. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "06308083-8fa0-4277-a215-62194b4d2caa"
+    },
+    {
+      "start_time": 1335,
+      "end_time": 1376,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Following the winning of the revolution in 1959, Cuban cinema was aided by the creation of an institute of artistic and industrial cinematography. The institute supports the training of film students, the production of films, and the importing and exporting of films. One of the institute's highest priorities is to extend the availability of cinema to those who, before the revolution, had no access to films. So efforts have been concentrated in the areas where the cinema was once unknown, and there are now some 13 million moviegoers a year and over 500 theaters that dot the island. And other methods have been developed for reaching the more remote areas of the countryside and mountains. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "cad9d71f-9350-4064-a748-d58d535ebae5"
+    },
+    {
+      "start_time": 1376,
+      "end_time": 1410,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For instance, redesigned trucks, equipped with 16-millimeter projectors and driven by the projectionists, spread out across the country to show films in those areas where there are not yet theaters. These movable movies are now numbered at more than 100. One of the institute's most engaging short documentaries called \"For the First Time\" is actually about this part of the institute's operation. The episode photographed shows one evening when a projection crew went to an area in the Sierra Mountains to show a film to people there for the first time. The movie was Charlie Chaplin's \"Modern Times\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "9d64a293-05ab-41bc-a815-70d7663e80c6"
+    },
+    {
+      "start_time": 1410,
+      "end_time": 1432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The attempt to demystify the cinema for an audience of novices is more than a little difficult to understand for a North American, whose sensibilities are bombarded by the electronic media. The institute has set itself the task of bringing young people interested in the cinema into discussion circles at student centers, union halls, and workplaces, and to explain its work. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "b9a3f410-3d67-48a4-b7cb-ffbdc1183eda"
+    },
+    {
+      "start_time": 1432,
+      "end_time": 1455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More important, it seeks to explain the methods of the film to the entire population to work in a way against its own power, according to Guevara, the institute head, to reveal all the tricks, all the recourses of language, to dismantle all the mechanisms of cinematography hypnosis. To this end, the institute has a weekly television program, which explains all the gimmicks used to attract the viewer's attention. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "cdac1a48-3c4c-4c56-abef-5cb9dee94890"
+    },
+    {
+      "start_time": 1455,
+      "end_time": 1487,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When it began, the institute used the most elementary techniques. Most of the film workers were uneducated in the media, although a handful had studied in European film schools. Today, with a number of fully-developed trained persons, the acquisition of skills is now a secondary concern at best. The head of the institute explains that the priority is to break down the language structure of the film and find new ways to use film, being very careful in the process not to divorce the filmmaker from the audience for the filmmaker's own self gratification. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "30c9dbd7-4904-4bba-951c-068868e1fb95"
+    },
+    {
+      "start_time": 1487,
+      "end_time": 1526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He put it this way, \"We must not separate ourselves from the rest of the people, from all the tasks of the revolution, especially those that fall into the ideological field. Every time a school is built, every time 100 workers reach the sixth grade, each time someone discovers something by participating in it. As in the field of culture, it becomes easier for us to do our work. Our work is not simply making or showing movies. Everything we do is part of a global process towards developing the possibilities of participation. Not passive, but active. Not as the recipients, but as the protagonists of the public. This is the Cuban definition of socialist democracy in the field of culture.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "96583692-5854-4d22-94bb-84738e3afeba"
+    },
+    {
+      "start_time": 1526,
+      "end_time": 1566,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In addition to production of films, as many as possible are imported. US films shown in Cuba are, of course, from the pre-revolutionary period: \"Gigi\", \"Singing in the Rain\", and \"Bad Day at Black Rock\". Late night television repeats, from time to time, a Dana Andrews or Ronald Colman melodrama. The economic blockade against Cuba has denied the island access to US movies of the 60s and 70s, though from time to time, a bootleg print gets through. A recent favorite there was \"The Chase\", with Marlon Brando and Jane Fonda, from the early 60s. Imports are in large part from the European socialist countries: France, Italy, Japan, and, to a degree, Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "13c42c65-20fc-49fc-9edb-6299b9981756"
+    },
+    {
+      "start_time": 1566,
+      "end_time": 1590,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Prensa Latina continues that obviously the shortage of currency is a great burden. To this day, the institute does not own even one eight-millimeter movie camera. There are no color facilities in Cuba, although a lab is now under construction. In this country where there were millions of peasants who never saw movies, the problem arose that many preferred to buy trucks and equipment to help with the work, rather than new camera equipment. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "60854003-b0b1-4562-89c4-389ab316039e"
+    },
+    {
+      "start_time": 1590,
+      "end_time": 1625,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From the beginning, the institute has faced a bit of a dialectic contradiction. It wants to capture, for posterity and for the moment, the complex reality of these years, but the reality is always changing. Alfredo Guevara, head of the Cuban Film Institute says, \"These are surely the most difficult, complicated years, years in which the experiences we have are sometimes not recorded. To reflect them in the cinema means, in some way, we must crystallize them, which is the last thing we want. But every time we film, it is there. Whether or not we want to do so, we are always a testimony.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "715c1169-bb27-43b9-bb2c-91df597ead31"
+    },
+    {
+      "start_time": 1625,
+      "end_time": 1654,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Prensa Latina continues that the poster commemorating the 10th anniversary of the founding of the Cinemagraphic Institute shows a camera with gun smoke exuding from the lens. The imagery of filmmaker as cultural guerilla corresponds to the value system throughout revolutionary Cuba. Guevara says, \"In the success of the revolution, we have placed, in our hands, a thing, the means of production, whose power we knew very well because it had been in the power of the enemy up to that point.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "89a9fa1c-727e-4b1e-a85a-fcc1aa6ad37c"
+    },
+    {
+      "start_time": 1654,
+      "end_time": 1677,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"When this force fell into our hands, it was clear to all of us that the revolution had given us a very serious job. I'm talking of everyone who has participated in the work of giving birth to the Cuban cinema or, what is really the same thing, the job of giving our people and our revolution a new weapon, a new instrument of work, one that is useful above all in understanding ourselves.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "03c9ecc6-ad4a-4b41-9f8e-f88b0bec2bfa"
+    },
+    {
+      "start_time": 1677,
+      "end_time": 1685,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That concludes this week's feature, which has been a Cuban view of Cuban culture taken from the Cuban News Agency, Prensa Latina. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Spain"
+        },
+        {
+          "category": "Countries",
+          "tag": "France"
+        },
+        {
+          "category": "Countries",
+          "tag": "Italy"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "ec3888a0-f150-4788-8846-f886eca5602f"
+    },
+    {
+      "start_time": 1685,
+      "end_time": 1712,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to the Latin American Press Review, a weekly selection and analysis of news and of events in Latin America as seen by leading world news sources, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions are welcome and may be sent to the group at 2205 San Antonio Street, Austin, Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d6c1bfb4-141f-41dd-a1fb-9963a7c7b103"
+    },
+    {
+      "start_time": 1712,
+      "end_time": 1728,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This program is distributed by Communication Center, the University of Texas at Austin. The views expressed are solely those of the Latin American Policy Alternatives Group and its sources, and should not be considered as being endorsed by UT Austin or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "66f97f46-bc34-468f-9111-76abae248289"
+    }
+  ],
   "set": "Default",
   "event_id": "cdd8c88a-4a72-4a4d-a80a-b33c2d1bb698",
   "source_id": "20f28a08-ea65-4bcd-8ad7-7056989f5648"
