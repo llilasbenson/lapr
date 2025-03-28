@@ -1,5 +1,1694 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the Latin American Press Review, a weekly selection and analysis of news and events in Latin America as seen by leading world news sources, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group of Austin, Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e00fce8c-3eda-4b7b-a8b1-a6a58d926220"
+    },
+    {
+      "start_time": 22,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Mexico City Daily Excélsior reports that the Mexican government has announced that some businesses formerly under state control are now on sale to private investors. Purchasers may either make direct offers or they may buy stock in various concerns. More than 300 enterprises will be affected, including the iron, steel, chemical, petroleum, mining, textile, and automobile industries. Banks, hotels, restaurants, and theaters will also be transformed from the public to the private ownership. Medical services and other social services will also be included. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "96f823fd-c499-4215-96fc-86a8f3973c50"
+    },
+    {
+      "start_time": 56,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the same time, the Director of the National Finance Ministry announced that the government wished to promote the Mexicanization of foreign enterprises by giving technical and financial aid to private industry, as it did recently in the case of Heinz International. President Echeverria was asked if the government's moves indicated that Mexico was no longer on the road to socialism. \"No\", he has said, \"There are simply some businesses which the state should not administer.\" He referred to the Mexican economy as a mixed economy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "9036e36d-d048-470f-ace1-05505512d4ba"
+    },
+    {
+      "start_time": 91,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior continued that there is much controversy in Mexico over these recent governmental decisions. Leading industrialists have voiced the opinion that businesses and government can work hand in hand for the good of Mexico. Pedro Ocampo Ramirez, on the other hand, editorializing in the Excélsior, states that the private industry will not want to invest in those businesses which are doing poorly. He says, \"And if the industries are prosperous, it is absurd to put them in the hands of a privileged few instead of conserving them as an instrument for the common good\". "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "cf61ba9d-bcac-48e8-9937-97f6444634cf"
+    },
+    {
+      "start_time": 127,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior also reports that the universities in Uruguay remained occupied by the armed forces while hundreds of teachers and students, including the rector, remained in jail while four investigations were carried out, judicial, police, financial and administrative investigations of the national university, which was seized by the military government last week. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "c56a775f-7863-4828-947c-5a24a2ecd466"
+    },
+    {
+      "start_time": 151,
+      "end_time": 171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The military intervention in the university was approved by Uruguayan President Bordaberry on October 28th after the death of an engineering student who supposedly made an explosive device which burst accidentally. The interior minister of Uruguay said that this explosion and the presence of other bombs constituted a plan to overthrow the government. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "58063032-4e98-4286-9b65-a481b33d018a"
+    },
+    {
+      "start_time": 171,
+      "end_time": 197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The situation of higher education is one of the most burning problems of the Bordaberry government, cites Excélsior. For example, the International Commission of Jurists in Geneva announced that they deplore the closure of the University of Uruguay and pointed out that the imprisonment of the rector and professors is an attack on intellectual freedom and a violation of university autonomy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "d344d108-76e6-4324-9ce8-186a05601ed4"
+    },
+    {
+      "start_time": 197,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to Excélsior, the director of the social science faculty of the University of Uruguay said, \"The university was the only institution in Uruguay which was unharmed during the military escalation which demolished the legislature, the courts and the labor unions\". Because he was in Argentina at the time, the director was the only university authority not arrested by the military last week in Uruguay. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "f65744c8-0e17-4432-aa48-e9eeca645163"
+    },
+    {
+      "start_time": 220,
+      "end_time": 241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The director said, \"In the political and social landscape of Uruguay, the university was a democratic center of clear opposition to the dictatorship imposed last June. The results of the September university elections indicated clearly the anti-military and anti-dictator sentiment of the whole institution.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "9362c50a-4bb2-481a-8fcb-8abfa31ce6a5"
+    },
+    {
+      "start_time": 241,
+      "end_time": 278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior continued that the social science director said that the military version of the death of a university student while preparing a bomb was absolutely false. He said, according to Excélsior, \"This is a story fabricated by the military. It was outside forces which planted the bomb. There is evidence that the bomb was of industrial construction, a type which only the armed forces possess. The two individuals who set the trap belonged to a paramilitary police force and were seen leaving the room where the explosion occurred when the victim was approaching. There are eyewitnesses to all of this\". That a report from Mexico's Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "4adfb721-c909-4e7d-a406-cb6a354d3b94"
+    },
+    {
+      "start_time": 278,
+      "end_time": 325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Montevideo weekly, Marcha, points out that for three days the daily press wrote of the subversive materials found by the military in university buildings and invited the public to examine an exhibit of these materials. Among the subversive materials were copies of \"The Naked Society\" by Vance Packard, \"Tupac Amaru\" by Boleslaw Lewin, and all Marxist literature. An investigation will determine if these books belong to university libraries or are being sold. In the same way, they will determine if other subversive material, such as naphtha-enclosed bottles, was actually for the purpose of building maintenance and cleaning. That article appeared in Marcha from Montevideo, Uruguay. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        }
+      ],
+      "uuid": "69f53126-b68e-45fa-8d30-33eed0b7c0eb"
+    },
+    {
+      "start_time": 325,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The British weekly, Latin America, and the Cuban publication, Grama, report on the irritation provoked in Panama by the detention of Cuban and Soviet ships by canal zone authorities. Acting under a U.S. federal court order, the U.S. officials detained the two merchant ships on their way through the canal. The court ruling was made after an application from the Chilean military government, which complained that the ships in question had failed to deliver the cargos contracted and paid for by the previous Allende administration, according to Grama. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Soviet Union"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "d0bed701-d5c4-49fe-9d1b-31cbda85f851"
+    },
+    {
+      "start_time": 359,
+      "end_time": 407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin America noted that the ensuing explosion of wrath in Panama was virtually unanimous. Condemning the detentions as ambushes, the Foreign Ministry pointed out that even the hated 1903 treaty firmly stipulated that the canal must be neutral, unaffected by political disputes and capable of providing a free, open and indiscriminate service to all international shipping. The canal was equivalent to the high seas, the Ministry said, and its authorities had only limited jurisdictional rights, specifically linked to the operation of the canal. Furthermore, United States federal courts had no jurisdiction over such matters in the canal zone, which was formerly Panamanian territory. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Soviet Union"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "ed1f3af0-fe03-44e1-8ae3-76497827d9a9"
+    },
+    {
+      "start_time": 407,
+      "end_time": 440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The British weekly, Latin America, continued that the incidents threw a shadow over the rising tide of optimism over the renewal of negotiations on a new canal treaty. Panamanian hopes have in fact been rising ever since Ellsworth Bunker was appointed Chief United States Negotiator three months ago, and expectations were further stimulated by sympathetic words from Henry Kissinger on his appointment as Secretary of State last month. Unless quick action is now forthcoming from Washington, the atmosphere for the forthcoming negotiations will have been badly polluted, according to Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Soviet Union"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "b916735f-fc11-4028-b810-2a191c458036"
+    },
+    {
+      "start_time": 440,
+      "end_time": 462,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From the internal point of view, however, the issue is not altogether inconvenient to General Omar Torrijos, the country's strongman. Following government moves to open a second sugar cooperative and for the public sector to enter the cement manufacturing business, private enterprise has been bitterly attacking the administration. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Soviet Union"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "b2f9bee4-3b39-4d45-aea2-0b10fd2e1436"
+    },
+    {
+      "start_time": 462,
+      "end_time": 497,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The pressure of inflation, though not likely to reach more than 10% this year, according to government sources, has caused some discontent which could be exploited by the government's opponents, and conservatives have attacked agrarian reform schemes which they say have caused a drop in food production. There was also criticism of the government's low-cost housing program, which would benefit small rather than large contractors, and there were even attacks on the National Assembly voted into office in August last year as undemocratic. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Soviet Union"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "b87f3470-5770-4155-891f-423542ee7b48"
+    },
+    {
+      "start_time": 497,
+      "end_time": 532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin America's coverage of Panama continues to note that a planned 24-hour strike by business and professional people for the beginning of last week, timed to coincide with a new assembly session, was called off at the last moment, and the situation is now somewhat calmer. But it was noted in Panama that the Miami Herald published an article entitled, \"Will Panama Fall Next?\", speculating that after the Chilean coup, Panama might be the next objective of local forces that seek return to a previous form of government. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Soviet Union"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "19d7c089-ee87-4335-941c-bf0c40c70682"
+    },
+    {
+      "start_time": 532,
+      "end_time": 546,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If any such emergency were likely to arise, a renewed dispute with the United States over the canal would be a good rallying cry. That report on Panama from the London Weekly Latin America, and from Grama of Cuba. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Soviet Union"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "c4b0e428-1c8e-4acd-8c52-0e95de5133b7"
+    },
+    {
+      "start_time": 546,
+      "end_time": 583,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "International protest to the repressive tactics of the Chilean military junta is rising, according to reports from Excélsior. West Germany has threatened to withdraw from the Inter-American Development Bank if that organization continues to give financial support to the junta. The bank, along with other major international monetary organizations dominated by the United States, withdrew all credit and other financial support from Chile during the Allende regime, helping to precipitate the crisis which brought about his overthrow. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "3a8139bb-327f-4877-bbb9-93729542bdf8"
+    },
+    {
+      "start_time": 583,
+      "end_time": 596,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior reports also that a French journalist, Edouard Belby of L'Express, was jailed by Chilean authorities after photographing bodies in Santiago, and was subsequently expelled from the country. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "580245e4-8291-4153-9d04-c19bfd593860"
+    },
+    {
+      "start_time": 596,
+      "end_time": 626,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Chile itself, resistance to the military government apparently continues. The Excélsior of October 29th reports that the war tribunals will continue to function for many more years to apply the death penalty to enemies of the regime. The same issue reports that army and navy troops occupied several cities in the south of Chile, conducting house-by-house searches for arms and leftist leaders as part of a stepped-up offensive against the opponents at the junta. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "07945b2a-1be6-4910-967d-2536edca5fa6"
+    },
+    {
+      "start_time": 626,
+      "end_time": 659,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to the Excélsior of November 2nd, about 3,500 prisoners of war are held in various prisons in Chile as a result of this campaign. Two of the Chilean cabinet members, General Oscar Bonilla, Minister of the Interior, and Fernando Leniz Cerda, the new Secretary of Economy, were confronted by hundreds of angry housewives during a visit to the poor communities of Lo Hermida and La Granja on the outskirts of Santiago. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "1e03357e-edbf-4324-87b0-cb44d33a2964"
+    },
+    {
+      "start_time": 659,
+      "end_time": 694,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior says that the women protested the high prices of necessities, to which the ministers replied that consumption should be decreased until the prices were lowered. The junta's reconstruction policies have hit the poor especially hard. In sharp contrast to the shortages reported during Allende's administration, stores in Chile now have surpluses of many items because prices are so high that no one can afford to buy them. Prices of milk are four and one-half times higher than under the Allende regime. The price of kerosene has risen six times, meat and gasoline eight times each. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "c8296262-4547-4e2b-aae4-23edf2d3a7eb"
+    },
+    {
+      "start_time": 694,
+      "end_time": 707,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Excélsior of October 29th charges that inflation will be fought with a progressive decrease in the purchasing power and with unemployment, and that the poor are paying for the reconstruction of the Chilean economy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "77175fc3-cd0a-4ae5-bde8-6db9c9991d95"
+    },
+    {
+      "start_time": 707,
+      "end_time": 745,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The junta is continuing with its efforts to stamp politics out of the Chilean consciousness until the country is back on its feet again. El Mercurio, one of the few newspapers still allowed to publish in Chile, carried on the front page of a recent issue, a decree by the junta outlying all Marxist political parties and declaring all others in recess. The Marxist parties now illegal include the Socialist, Communist, Radical, Christian left, Movement of the United Popular Action and Independent Popular Action Party. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        }
+      ],
+      "uuid": "22877985-437c-4806-abb2-1a1a79a752c6"
+    },
+    {
+      "start_time": 745,
+      "end_time": 782,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El Mercurio of Chile continues that the major non-Marxist parties now in recess include the Christian Democrats, the National Party, the Radical Left, the Radical Democratic Party, the Democratic National Party. The junta is also depoliticizing the universities, according to El Mercurio. 8,000 of the 19,000 students at the University of Concepción were expelled for leftist activities, including every student enrolled in the School of Journalism and the Institute of Sociology. Those expelled cannot enroll in any other college in Chile, according to El Mercurio of Chile. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        }
+      ],
+      "uuid": "125baea1-74bf-4c16-8aa6-5a46789e6534"
+    },
+    {
+      "start_time": 782,
+      "end_time": 809,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Chilean ex-ambassador to Mexico, Hugo Vigorena, claims that 60 people have taken refuge in the Mexican Embassy in Santiago, and are awaiting safe passage out of the country. Vigorena says that their situation is desperate, but that negotiations for their safe conduct do not look hopeful. Troops remain stationed around the embassy to prevent Chileans from seeking asylum there. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        }
+      ],
+      "uuid": "a3500e6d-8e71-430f-ab45-6af0ed4e24d0"
+    },
+    {
+      "start_time": 809,
+      "end_time": 841,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior notes that meanwhile the Junta is working to establish beneficial foreign relations, Brazil has announced the extension of a $12 million worth of credit to Chile. A delegate from the International Monetary Fund is scheduled to arrive in Chile to discuss the resumption of important loans and credit denied Chile under Allende's regime. General Pinochet, the head of the Junta, has announced plans to meet with the Bolivian president, Hugo Banzer. That report on Chile from the Mexico City daily, Excélsior, and from the Chilean daily, El Mercurio. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        }
+      ],
+      "uuid": "c93e1167-39d6-4fcc-9827-0327dae6c5bf"
+    },
+    {
+      "start_time": 841,
+      "end_time": 874,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're listening to the Latin-American press review, a weekly selection and analysis of news, and events in Latin America as seen by leading world news sources, with special emphasis on the Latin-American press. This program is produced by the Latin-American Policy Alternative Group. Comments and suggestions are welcome and may be send to the group at 2205, San Antonio Street, Austin, Texas. This program is distributed by Communication Center, the University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d718c7d2-b2c4-420d-b099-ed6194229ec1"
+    },
+    {
+      "start_time": 874,
+      "end_time": 884,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The views expressed are solely those of the Latin-American Policy Alternatives Group and its sources, and should not be considered as being endorsed by UT Austin or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "190bb8e4-c779-4bb0-a79d-65745670a24a"
+    },
+    {
+      "start_time": 884,
+      "end_time": 919,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This week's feature is an article by Ana Ramos, who works with the Cuban news agency, Prensa Latina. It is a feminist view on recent developments there concerning women. In her traditionally Latin and religious machismo society, men have had the dominant role in Cuba for at least a century. However, in working for their goal of a society of equality, the Cubans are making major efforts to change the formally second class situation of women in Cuba. The following is a report on the revolution of Cuban women. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "2ac6c7ab-7e4b-4e24-ab63-8e365de7a3bc"
+    },
+    {
+      "start_time": 919,
+      "end_time": 953,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Cuba, prior to the revolution, foreign ownership of enterprises, a stagnant economy, unemployment and hunger, combined to produce great hardships for many women. With the triumph of the revolution, a new spectrum of possibilities in education and productive work opened up to women changing their position in Cuban society. Purchases nevertheless still persist. In an underdeveloped country, one must struggle on every front to overcome backwardness, not only economic, but also cultural. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "2d2885f8-a075-401c-a8eb-85e49246df05"
+    },
+    {
+      "start_time": 953,
+      "end_time": 998,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In March of 1962, during a conference on educational and social-economic development in Santiago, Chile, the Cuban Minister of Education compared Cuba with other countries in Latin America. He noted that the promoters of the Alliance for Progress had offered a loan of $150 million a year to 19 countries with a total population of 200 million people. In contrast, one country, Cuba, with 7 million people, has been able to raise its educational and cultural budgets to $200 million annually without having to reimburse anyone or pay interest on loans. That represented a quadrupling, approximately, of the financial support of education and culture in our country. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "c75bf662-9ede-4b8a-9828-19b44865631c"
+    },
+    {
+      "start_time": 998,
+      "end_time": 1020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The greatest beneficiaries have been women. Since the burden of the budget falls on less than a third of the population, the workforce, women workers are essential to the economy. In 1958, an estimated 194,000 women in Cuba were doing productive work, in 1970, 600,000. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "43b2dc61-03ed-4938-9698-d10325a9c3f8"
+    },
+    {
+      "start_time": 1020,
+      "end_time": 1060,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Many women want to see how a socialist revolution changed the situation of Cuban women. Years of frustrating struggle around such issues as birth control for those who want it, and daycare for working mothers, makes one wonder if any society anywhere has begun to confront the special oppression of women. Before the success of the revolution in Cuba in 1959, the Cuban women looked forward to a lifetime of hard labor by cooking in kitchens that did not have enough food, washing clothes that could not be replaced when worn out, and raising children who would probably never see a teacher, a doctor, or hold a decent job in Cuba's underdeveloped economy of the time. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "7da56b12-4032-4a04-91d2-a2ab923115b2"
+    },
+    {
+      "start_time": 1060,
+      "end_time": 1074,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, women's lives have been changing. Women have begun to organize themselves to help each other by developing cooperative, mutual support to solve their problems and overcome the difficulties created by underdevelopment. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "63b05b6e-6980-4519-9950-7f3fb71635ca"
+    },
+    {
+      "start_time": 1074,
+      "end_time": 1124,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For this express purpose, the Federation of Cuban Women was formed in 1960 for women between the ages of 15 through 65. Over and over, women described their excitement about being independent contributors to society. One woman from Oriente explained, \"Before the revolution I had 13 kids and had to remain at home. Now, I work in a cafeteria in the afternoon and study at night.\" The mass freeing of women from the home for socially necessary labor began the transition from a capitalist domestic economy in which each woman individually carried out the chores of childcare, washing and cooking, to a socialist one where society as a whole will take on these responsibilities. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "cdc9d207-9958-47be-bd58-3ab011617773"
+    },
+    {
+      "start_time": 1124,
+      "end_time": 1132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Centers for free daily or weekly childcare, Círculos Infantiles, have been established all over the country. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "b0e450fb-a361-47c0-ab8c-448420457807"
+    },
+    {
+      "start_time": 1132,
+      "end_time": 1161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In these centers, children as young as two months can be fed, clothed, educated and entertained. Schools, factories and experimental communities offer free meals. Moreover, in a few communities and in all voluntary complements, free laundry services are now available. Even though there are not yet enough of these facilities, nearly every girl and woman is confident that these centers will be available in the future. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "ee42fa3f-3058-495b-b3b1-c296941a1409"
+    },
+    {
+      "start_time": 1161,
+      "end_time": 1197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From the first years of the revolution in Cuba, many projects brought new mobility and independence to the women. Night courses for self-improvement were organized for domestics. In a few months, the students had acquired a trade. In 1961, a well-known literacy campaign was begun, 56% of those who became literate were women. Of the women volunteers in the campaign, 600 were selected to enter the Conrado Benitez School of Revolutionary Instructors. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "f24db10a-7642-47d3-9a1d-f42b7932ee55"
+    },
+    {
+      "start_time": 1197,
+      "end_time": 1218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The school, the first created for scholarships students, trained teachers and directors of children's nurseries. It furnished the guiding concept for the system of self-improvement on the island. It has been stated that women ought to study and learn from those women who know more, and in turn teach those who know less. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "152b02fc-64ee-4807-b1ea-8691dad04f2b"
+    },
+    {
+      "start_time": 1218,
+      "end_time": 1250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the same year, the revolution began the Ana Betancourt program for peasant women. The president of the Cuban Federation of Women in an article in the magazine Cuba, in January of 1969, recalled that there were 14,000 of these women. They came from very distant places all over the island, where people were acquainted neither with the revolution nor with civilization. \"It was very interesting,\" she said, \"They took courses for no longer than four months and returned to their homes, we can say, almost as political cadres.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "ce08b3ce-422c-400e-aa36-550da0318cf7"
+    },
+    {
+      "start_time": 1250,
+      "end_time": 1264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Presently, 10,000 women enroll annually in the program, where they take courses not only in ensuing, hygiene and nutrition as in the beginning, but also in elementary and secondary education. Many are enrolled in university programs. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "01df0019-2718-4ae6-941d-48e49c75ba9c"
+    },
+    {
+      "start_time": 1264,
+      "end_time": 1300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why these special programs for women? In underdeveloped areas it is characteristic for the cultural level of women to be lower than that of men. After the initial inequality has been eliminated, these programs will disappear in the same manner in which the night schools for domestics are no longer necessary. More than a decade after the seizing of power in Cuba, the ratios of females to males in elementary school, 49% are girls, and secondary school, 55% are young women, indicate an advance. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "2ec38025-6061-4cf9-9126-c9d7738ab7a8"
+    },
+    {
+      "start_time": 1300,
+      "end_time": 1326,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Even more significant is the percentage of women in higher education. 40.6% of all university students are women, and their distribution among the scientific and technical disciplines, which traditionally have had little female enrollment in all Latin American countries. Now, there are in all sciences, 50% women, biochemistry and biology, 60%, and in medicine, 50%. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "a6d33175-c299-4adf-819c-6c215114c12c"
+    },
+    {
+      "start_time": 1326,
+      "end_time": 1368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scholarship program, or over, benefits over 70,000 girls and women at all levels of learning and provides housing, food, clothing, study supplies, and a monthly allowance for personal expenditures. \"The society has the duty to help women,\" Fidel Castro said in 1966, \"But at the same time, in helping women, society helps itself because more and more hands are able to help with production of goods and services for all the people.\" The Cuban system seeks to bring women into the labor force through the extension of opportunities. In contrast, other Latin American countries feel that the more social benefits are increased, that will reduce the participation of women in the labor force. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "f7b5fb92-4728-4c8b-807e-1baf13f882a3"
+    },
+    {
+      "start_time": 1368,
+      "end_time": 1396,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuban legislation prohibits women from certain activities that are excessively rough, unhealthy, and dangerous, but at the same time reserves occupations for them. \"These fixed positions include jobs of varied responsibilities in services such as administration, poultry raising, agriculture, light industry, basic industry, and so on,\" says Ms. Ramos. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "e5128fee-64d4-42c5-b194-d54dd65f4191"
+    },
+    {
+      "start_time": 1396,
+      "end_time": 1427,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Both laws should be interpreted in the light of the need for collective effort and the distribution of workers throughout the economic system. Still, there are times when administrators reject female labor for male labor, since men don't face problems of child-rearing, and so on, which often translate themselves into absenteeism. What is needed, has been argued, is to employ five women where there were four men, and have women available as substitutes and permit those men to go out and occupy a position where they are needed more. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "11f206bf-c552-4a6d-8a04-ec253eb089c9"
+    },
+    {
+      "start_time": 1427,
+      "end_time": 1465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In September of the same year, the Board of Labor Justice dictated instructions that regulated licenses as leaves of absence without wages for women workers who find themselves temporarily unable to continue work due to child care needs. If the worker returns to work within three months, she has the right to her same job at the same salary. If she returns within six months, she will have some job reserved for her, but at her former salary level. Finally, if she returns within one year, she will be assigned some position, but at the salary corresponding to that position. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "cd5c252f-0756-4105-98f4-e3a1778416f7"
+    },
+    {
+      "start_time": 1465,
+      "end_time": 1485,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Only when more than a year has passed without her having returned to work will work ties be considered dissolved. The aforementioned measures are only some of the measures that the government has proposed. It is to increase the entrance of women into productive tasks and diminish absenteeism and interruption as much as possible. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "413c9e7f-d2a7-47f4-907b-6d7a7f0fe280"
+    },
+    {
+      "start_time": 1485,
+      "end_time": 1520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between 1964 and 1968, the female labor force increased by 34%. More than 60,000 women were working, and they were represented 23% of the labor force. Nevertheless, many Cuban women are still not fulfilling a positive productive role. During 1969 the Federation of Cuban Women visited approximately 400,000 women who had still not joined the workforce. The results were significant, for out of every four visits came a new worker who stepped forward as Cuban women called the decision to work. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "4158c1f0-89ee-4ce1-a3b1-0fa912847518"
+    },
+    {
+      "start_time": 1520,
+      "end_time": 1551,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Cuban society there are prejudices against women working outside the home. During 1969 the Secretary of Production of the Federation of Cuban Women commented, \"We spoke directly with women house by house. We spoke to the men in the assemblies and the factories. Among the women, we always encountered openness and enthusiasm. The men have a certain resistance, but when they understand that the revolution needs women's work, the majority change their mind.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "7519a40c-6bf3-4d97-8be6-f1d38f335077"
+    },
+    {
+      "start_time": 1551,
+      "end_time": 1569,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuban leaders have said that agricultural programs should never have been conceived without the participation of women, which began on a large scale in 1964. Women's role in the sugar harvest has little by little increased in importance, both in agricultural processes and in the industrialization of sugar. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "a245ce3b-d7d0-44c8-a85d-bff5392488ef"
+    },
+    {
+      "start_time": 1569,
+      "end_time": 1580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Pinar del Río, the entire tobacco crop is under the responsibility of a woman. In Oriente, women represent half the labor force working in coffee. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "6a7dd270-3b28-4ce7-9b68-d9e05792fae3"
+    },
+    {
+      "start_time": 1580,
+      "end_time": 1607,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As for industry, 20% of the industrial labor force is female. They are 49% of the workers in the Ministry of Light Industry, 52% in tobacco work, and 33% in the plastic and rubber factories, 77% in the textile industry, 90% in the Cuban artisan enterprises, and 34% in the Cuban Institute of Cinematographic Art. Women technicians outnumber men almost six to one in the plastic and rubber factories. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "c4ddb7c1-f34c-4a50-8bc5-4ec4265df421"
+    },
+    {
+      "start_time": 1607,
+      "end_time": 1614,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Women are still scarce in certain physically demanding jobs in construction, fishing, agriculture, and industry. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "b31752bd-2ce5-4c5c-bec9-9c84290ba353"
+    },
+    {
+      "start_time": 1614,
+      "end_time": 1641,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Women in Cuba have the freedom to use birth control and to obtain abortions. In one of the hospitals in a rural area of Oriente, it was explained that birth control by diaphragms and IUDs, as well as all other forms of medical and dental care, are not only available, but free on demand. However, no campaign urging women to use birth control is waged, since the question of birth control is considered to be a private family decision. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "ec6c0204-5ef7-4c4b-9b51-74a64983b946"
+    },
+    {
+      "start_time": 1641,
+      "end_time": 1674,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "North American women will also be interested to know that natural childbirth is the norm in Cuba. Although proud of their new role in production, Cuban women feel it important not to lose their femininity. Beauty is not the money-making industry at once was, since everyone can afford such previously considered luxuries. Cuba's revolution, despite its problems, was a great freeing force setting the basis for the ongoing liberation of women, showing it was possible even in a traditionally machismo society for women to make strides in defining their own lives. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "5d3744ef-1110-4684-bf17-2c7246e866bf"
+    },
+    {
+      "start_time": 1674,
+      "end_time": 1680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to an article by Ana Ramos, who is with the Cuban news agency, Prensa Latina. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "f508255d-2de7-4cfc-aeb3-361575de99a1"
+    },
+    {
+      "start_time": 1680,
+      "end_time": 1713,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to the Latin American Press Review, a weekly selection and analysis of news and events in Latin America, as seen by leading world news sources with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions are welcome, and may be sent to the group at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, the University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a7cb321b-b20a-456d-bc3b-90499a2814c9"
+    },
+    {
+      "start_time": 1713,
+      "end_time": null,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The views expressed are solely those of the Latin American Policy Alternatives Group and its sources, and should not be considered as being endorsed by UT Austin or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "dc52c691-3834-4abd-9113-882b6506deb8"
+    }
+  ],
   "set": "Default",
   "event_id": "2639fe30-69df-4fb3-8579-9aa7f7c246f3",
   "source_id": "feae82a7-6ae6-475c-bb4e-35b5a7d489cf"
