@@ -38,7 +38,8 @@
                 {
                   "text": " Recent events in Chile, highlighting significant developments such as Augusto Pinochet's decision to privatize nationalized industries, which has led to a surge in prices post the September 11th coup. The formation of the New Labor Union by the military government and condemnation from international journalists for censorship and terrorism underscore the country's political instability. Leonard Woodcock's solidarity with Chilean workers and criticism of U.S. support for the junta, contrasted with treatment of President Salvador Allende's government, adds to the narrative. Reports from The Guardian unveil U.S. economic assistance to the junta and efforts to maintain stability, including the seizure of a Cuban ship, while political repression intensifies, marked by the dissolution of Marxist parties and crackdown on dissent. Beatriz Allende's plea for global solidarity against the fascist regime, alongside Argentina's political tensions and the purge of suspected Marxists, indicates widespread unrest in the region. Excelsior's report on Argentina details university unrest, violence escalation, and political maneuvering, reflecting a turbulent period. In Mexico City, José López Portillo's announcement of austerity measures echoes European economic policies. "
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -50,7 +51,8 @@
                 {
                   "text": " The reenacted interview with a leader of Chile's revolutionary left movement, MIR, reveals their rejection of electoral politics in favor of armed struggle against the Junta, shedding light on their political strategy post the September 11th coup. "
                 }
-              ]
+              ],
+              "align": "justify"
             }
           ]
         },
@@ -65,7 +67,8 @@
                   "bold": true,
                   "underline": true
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -77,7 +80,8 @@
                 {
                   "text": " Chilean Junta plans to return nationalized industries, while food and fuel prices skyrocket post-coup."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -89,7 +93,8 @@
                 {
                   "text": " UAW President Woodcock condemns Chilean Junta, urges U.S. support for Chilean workers and democracy."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -101,7 +106,8 @@
                 {
                   "text": "The U.S. is backing Chile's military Junta with $24 million in wheat credit and other support."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -113,7 +119,8 @@
                 {
                   "text": " Political repression in Chile, including Marxist party bans, arrests, censorship, and human rights violations."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -125,7 +132,8 @@
                 {
                   "text": " Beatriz Allende condemns the U.S.-backed Chilean coup and urges global solidarity for resistance."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -137,7 +145,8 @@
                 {
                   "text": " Argentinian governor criticizes Argentina's Marxist purge, fearing it threatens national stability and reconciliation."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -149,7 +158,8 @@
                 {
                   "text": " José López Portillo announced Mexico's austerity measures due to high inflation and rising oil prices."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -161,7 +171,8 @@
                 {
                   "text": " Interview with Chile's MIR post-coup discusses reformism, the coup's inevitability, and plans for resistance."
                 }
-              ]
+              ],
+              "align": "justify"
             }
           ]
         }
@@ -206,6 +217,6 @@
   "slug": "lapr19731025",
   "created_at": "2025-03-28T03:03:57.114Z",
   "created_by": "rpr88",
-  "updated_at": "2025-03-28T03:03:57.114Z",
+  "updated_at": "2025-03-28T23:44:57.032Z",
   "updated_by": "rpr88"
 }
