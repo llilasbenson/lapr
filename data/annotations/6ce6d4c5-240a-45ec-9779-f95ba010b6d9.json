@@ -1,5 +1,2332 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is The Latin American Press Review, a weekly selection and analysis of news and events in Latin America as seen by leading world news sources, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group of Austin, Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d5146703-dc4e-456e-b272-d999f7298a2a"
+    },
+    {
+      "start_time": 21,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of the international effects of the military coup in Chile is the subject of a recent article in the Christian Science Monitor. Chile's military leaders have dealt a serious blow to efforts at bringing Cuba back into the hemisphere fold. In fact, it now becomes apparent that the movement toward renewing diplomatic and commercial ties with Cuba, that was gaining momentum during the first part of the year, has been sidetracked and has lost considerable steam."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        }
+      ],
+      "uuid": "8921c1ae-830d-4aff-b45d-61dcdfb8add3"
+    },
+    {
+      "start_time": 51,
+      "end_time": 66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Based on surveys of Latin American attitudes, there is a broad consensus that Cuba's return to good graces in the hemisphere will be delayed because the Chilean coup eliminated one of Cuba's strongest supporters in the hemisphere. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        }
+      ],
+      "uuid": "7f7a4593-e3a9-45af-a9c7-52ed021e6f9c"
+    },
+    {
+      "start_time": 66,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In seizing power, says the Christian Science Monitor, the Chilean military quickly broke off diplomatic and commercial relations with the government of Prime Minister Fidel Castro, relations that had been established by the late President Allende in 1970. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        }
+      ],
+      "uuid": "2b53d7d2-c0f8-4153-b343-b05e84b0bf3f"
+    },
+    {
+      "start_time": 80,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In breaking ties with Cuba, the Chilean military leaders claimed that Cuba had involved itself in internal Chilean affairs and had been supplying the Allende government with large quantities of arms and ammunition, which were being distributed to a vast illegal paramilitary apparatus aimed at undermining traditional authority in Chile. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        }
+      ],
+      "uuid": "3c344fcb-6d38-464e-a238-37bfe03c5bea"
+    },
+    {
+      "start_time": 100,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to the Christian Science Monitor, under Dr. Allende, Chile had been a leader in the movement toward reincorporating Cuba into the hemisphere system. Chile had become the driving wedge in the movement is how one Latin American diplomat put it. Now, the drive has been blunted and the pro-Cuba forces are temporarily stalled and re-gearing. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        }
+      ],
+      "uuid": "2f5c7007-2731-4916-a771-0b2c06b61f31"
+    },
+    {
+      "start_time": 123,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Christian Science Monitor continues, saying that most Latin American observers are convinced that Cuba will, within time, return to the hemisphere fold and that the island nation will be accorded diplomatic recognition by the more than 20 other nations in the hemisphere, but there is still a strong feeling of antagonism toward Cuba on the part of quite a few nations, including Brazil, the largest of all. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        }
+      ],
+      "uuid": "b9c81d50-9be6-4ab0-87f7-4ac70b2d2568"
+    },
+    {
+      "start_time": 146,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Before the Chilean coup, however, there was a clear indication that enough nations supported a Venezuelan initiative to end the mandatory embargo on relations with Cuba, in effect since 1964, to bring about a change in official hemisphere policy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        }
+      ],
+      "uuid": "182af373-9d42-4196-9887-29a95387b5e6"
+    },
+    {
+      "start_time": 161,
+      "end_time": 181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At least 11 nations supported the move, just one short of a majority in the 23-nation Organization of American States, or OAS. It had generally been felt in OAS circles that Venezuela, which had been largely responsible for getting the embargo in the first place, would be able to find one more vote to support its proposal. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        }
+      ],
+      "uuid": "6ed8105a-bfc7-46d8-83b5-af18fc68223b"
+    },
+    {
+      "start_time": 181,
+      "end_time": 202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, says the Christian Science Monitor, with Chile clearly in opposition, Venezuela's task is more difficult, and the general feeling is that Venezuela will not bring the issue before the OAS General Assembly when it meets in Atlanta next April, unless circumstances change. This from the Christian Science Monitor. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        }
+      ],
+      "uuid": "f6151700-6944-4a4b-98a3-ebcccd30d58e"
+    },
+    {
+      "start_time": 202,
+      "end_time": 222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Puerto Rico's 13 university campuses are shut tight in a strike involving 40,000 students and 5,000 clerical and office workers. The San Juan Weekly, Claridad, reports that since October 15th no students, professors or workers have crossed picket lines set up on the campuses of the University of Puerto Rico. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        }
+      ],
+      "uuid": "ee70d59c-6e3c-4b3a-bb55-72b5b8597f70"
+    },
+    {
+      "start_time": 222,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The students say their goal is to end the divorce between the university and the community. They oppose the low educational standards, the repression, the lack of democratic rights and the exploitation of university workers. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        }
+      ],
+      "uuid": "ec51d0e7-b852-417a-a368-35fd19de59ac"
+    },
+    {
+      "start_time": 234,
+      "end_time": 255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to Claridad, students have set up a new university across the street from the major campus of the University of Puerto Rico in Rio Piedras, while the strike continues. Huge open tents are the classrooms and subjects range from medicine to social science and the history of the people's struggles. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        }
+      ],
+      "uuid": "49e3f88a-c266-409e-8a18-0bf9efe25962"
+    },
+    {
+      "start_time": 255,
+      "end_time": 284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Claridad states that dozens of demonstrations were held throughout the island November 4th, with over 8,000 people taking part in a rally in front of the university in Rio Piedras on the outskirts of San Juan. The Commonwealth's Board of Higher Education and the president of the University of Puerto Rico at first refused to enter into negotiations with the strike leadership, but mounting pressure from the strike has already forced them into two meetings with the president of the student strike organization and other strike leaders. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        }
+      ],
+      "uuid": "a2363ed7-232a-4422-8bc0-c24e5799f983"
+    },
+    {
+      "start_time": 284,
+      "end_time": 302,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The students are proposing, says Claridad, that equal numbers of students, professors and administration personnel be set up as a committee to bring in recommendations for a new procedure for establishing rules and regulations for the universities and the students. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        }
+      ],
+      "uuid": "158545de-f2d4-4ed0-8b2a-d24ca334fa70"
+    },
+    {
+      "start_time": 302,
+      "end_time": 326,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Among the other demands of the students are, the students shall elect the campus rectors and faculty deans and take part in the election of the university president, a new law regarding the manner of choosing the administrators of the university and a new structure for the university should be approved by the students rather than imposed by the board of higher education. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        }
+      ],
+      "uuid": "63072f72-decc-4249-8700-0b462b9138c8"
+    },
+    {
+      "start_time": 326,
+      "end_time": 356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The students also demand new procedures to guarantee all political and organizational rights of the students, security guards to be replaced by students, the outlawing of all weapons of any kind in the hands of guards, no Commonwealth police to be permitted on university grounds under any circumstances, a student council elected by the students to make the rules and regulations which will govern the lives of students, and the right of students to engage in all discussions governing the kind of education they will receive."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        }
+      ],
+      "uuid": "4c404fb6-82a1-41cb-a407-29af0a6d8fb8"
+    },
+    {
+      "start_time": 356,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This report from the San Juan Weekly, Claridad. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        }
+      ],
+      "uuid": "9f62cfbe-e4db-480f-8f9c-aedfdc8f3780"
+    },
+    {
+      "start_time": 360,
+      "end_time": 387,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin America Press, from Lima, has this to say about the December 9th presidential elections in Venezuela. There are candidates aplenty in Venezuela's forthcoming presidential election, in fact, some 14 of them, but the race is really between only two of them. Lorenzo Fernández of the incumbent COPEI party and Carlos Andrés Pérez of Acción Democrática. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        }
+      ],
+      "uuid": "cd13eea1-50eb-4402-81d8-d9c64f097d29"
+    },
+    {
+      "start_time": 387,
+      "end_time": 401,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A late-blooming issue is the future of the country's oil fields. In many ways, the two candidates are very much alike, indeed some observers are very little distinguishing the two men and their respective platforms. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        }
+      ],
+      "uuid": "56949b5e-75fe-4bbe-8a9c-15aa3e07a6fa"
+    },
+    {
+      "start_time": 401,
+      "end_time": 416,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Moreover, says Latin American Press, with a short time to go before the voting, December 9th, the race is widely viewed as a toss-up between the pair, both of whom are former ministers of the interior, the post in Venezuela's government charged with internal security. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        }
+      ],
+      "uuid": "88fd4f14-3dd4-4df3-a0a5-8259492c31da"
+    },
+    {
+      "start_time": 416,
+      "end_time": 429,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In a nation where guerrilla activity had recently flourished, both Mr Fernández and Mr Andrés Pérez have been in the national spotlight as Venezuela's \"top cops\", as one newspaper recently called them. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        }
+      ],
+      "uuid": "0865f669-0db5-46de-a600-88a3776f26f8"
+    },
+    {
+      "start_time": 429,
+      "end_time": 452,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But as election day nears, according to Latin American Press, their roles in ending urban and rural terrorism seem long forgotten. Venezuela today is enjoying a remarkable era of relative calm. Indeed, the election itself, while hard-fought, is coming off peacefully. This is in marked contrast to Venezuela's long history of dictatorship. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        }
+      ],
+      "uuid": "d8d7b152-22df-4070-bc66-503971948327"
+    },
+    {
+      "start_time": 452,
+      "end_time": 463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If there is an issue in this election, it is oil. Here, too, the two candidates, and most of the others in the race, are more or less agreed on the policy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        }
+      ],
+      "uuid": "11d53cf8-cef2-40fe-b7ee-b3d304a40743"
+    },
+    {
+      "start_time": 463,
+      "end_time": 485,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yet, as the election nears its climax, claims Latin America Press, there is a growing awareness that whichever party wins the election is going to reap a windfall in the national treasury as world oil prices continue to rise. This year alone, Venezuela is going to have $400 million more in oil earnings, yet just four months ago there was little indication such a windfall would be flowing in. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        }
+      ],
+      "uuid": "322c21c2-8423-4c23-9e5e-83197d5b089d"
+    },
+    {
+      "start_time": 485,
+      "end_time": 494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As voting day nears, there is a sudden flurry of interest in how this bonanza should be spent. This report from Latin America Press in Lima. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        }
+      ],
+      "uuid": "58659738-7cb9-45e4-ae20-2c7faaff7107"
+    },
+    {
+      "start_time": 494,
+      "end_time": 520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La Prensa of Lima, Perú, gives another view of the upcoming Venezuelan elections. José Vicente Rangel, the third leading contender in the election, is fighting to bring socialism to Venezuela, nationalizing the multi-million dollar petroleum industry and the top 20 commercial enterprises. He also rejects any type of foreign dependency. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "942268cc-7730-4f61-8b37-324a901fd537"
+    },
+    {
+      "start_time": 520,
+      "end_time": 536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Avoiding the old communists who abandoned their political nucleus for divergent ideologies, Rangel had two years ago in the electoral polls less than 1%, and now he can count on a figure varying between 13% and 16%. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "ce299fdd-883f-486b-8ba8-2a5a41dd69cb"
+    },
+    {
+      "start_time": 536,
+      "end_time": 557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rangel says, \"We are going to capably exercise the rule of our country, and with this in mind, the fundamental principle of our policy is that the centers of direction of Venezuela policy be here and not abroad. Foreign policy will serve the economic development of the country, and it will be profoundly Venezuelan and genuinely national.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "e10fbb57-bd96-4fa9-90e8-058bda6bfdb4"
+    },
+    {
+      "start_time": 557,
+      "end_time": 577,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaking on the overthrow of Allende, former socialist chief of state in Chile, Rangel states, \"I am convinced that what failed in Chile was not socialism, since there was never a socialist government. Other means of transformation beside representative democracy were simply being implemented.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "36549a6c-eb1f-4b50-af7a-f0d45cc93b0e"
+    },
+    {
+      "start_time": 577,
+      "end_time": 601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La Prensa comments that Rangel plans solutions to the Venezuelan problems which, by his socialist philosophy, are similar in various aspects to those attempted in Chile. \"We hope to create an economy of participation to replace the economy of segregation which exists today in Venezuela,\" he says. \"What we are looking for is the elimination of great capital holdings and of the persons who serve the capitalist system.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "750ee0d1-7460-490d-8144-50f7723a5463"
+    },
+    {
+      "start_time": 601,
+      "end_time": 624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The nationalization of petroleum, which is a banner all 14 presidential candidates are waving, was originally one of the programs which he popularized most in his campaigning. \"We propose that all of the petroleum industry should pass into Venezuelan hands,\" says Rangel. This is from La Prensa of Lima, Peru. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "b6cec880-47c6-4e0c-b5d1-92c7cb21ce67"
+    },
+    {
+      "start_time": 624,
+      "end_time": 653,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mexico City's Excélsior reports that this year's Continental Conference of American Foreign Ministers was held last week in Bogotá, Colombia. In anticipation of the meeting on intercontinental cooperation and foreign policy, Bolivian chancellor Alfredo Vázquez Carrizosa stated, \"Latin America needs to deliberate alone in order to plan its points of view so that it might not be said that the final plan for Inter-American cooperation came from the US State Department.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "3adfb26a-7d36-44b7-96da-1198a3983156"
+    },
+    {
+      "start_time": 653,
+      "end_time": 659,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This comment accompanied his announcement that US Secretary of State Henry Kissinger would not attend. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "30f4dc89-ea12-4d8a-941a-34457b0d60b0"
+    },
+    {
+      "start_time": 659,
+      "end_time": 693,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior continues. In view of that possibility, Carrizosa continued, \"We have complained for many years that Latin America is not able to deliberate alone. It must always be with the presence, the guardianship, the sanction, and in the shadow of the US Department of State.\" In stating that such a conference should be a dialogue and not a monologue, Carrizosa went on to say that the session was planned so as to develop within an essentially Latin American atmosphere. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "2eab4e4c-eba1-42dd-bb5b-24c001fac58c"
+    },
+    {
+      "start_time": 693,
+      "end_time": 708,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In closing, Carrizosa reaffirmed his hope that Latin America this time might define its own needs and priorities and then present them to the United States for consideration. That is from Excélsior of Mexico City. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "68365ccc-4d44-4479-a9c2-e3d2bdd1dba6"
+    },
+    {
+      "start_time": 708,
+      "end_time": 745,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin America newsletter from London reports on recent developments in Chile. According to official sources, states Latin America, some 10,000 persons are now waiting to leave Chile for exile. The price rises and the sackings are being referred to as the \"White Massacre\". The rector of Concepcion University, Guillermo González Bastias, a retired naval captain, announced last week that when the university reopened in March, only 12,000 out of the 18,600 students would be readmitted. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "d4f6237f-0859-4dca-868d-562876087ac1"
+    },
+    {
+      "start_time": 745,
+      "end_time": 763,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some 1,000 miners have been sacked from the El Teniente mine. 500 workers lost their jobs in the state electricity company, 500 from the Agrarian Reform Administration, 400 from the central bank, and the list can be extended almost indefinitely. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "0504ac05-18a4-47f4-8f46-2db74754f666"
+    },
+    {
+      "start_time": 763,
+      "end_time": 787,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For two reasons, says Latin America, it is almost certain that people who lose their jobs in this way will remain unemployed. In the first place, it will be difficult to conceal the fact that they were sacked for political reasons, and secondly, there is likely to be a severe recession as a result of the junta's handling of the economy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "21028fa4-a738-4739-b890-c4288772c379"
+    },
+    {
+      "start_time": 787,
+      "end_time": 811,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Even El Mercurio, which is well represented in the innermost counsels of the government, has been sounding a warning that many small to medium-sized firms will find it difficult to cope with the sudden diminution of popular buying power. Shortly after this, the government announced there would be no more price increases until January, when there might also be a wage increase. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "4e082542-99c9-48b6-87da-cf79a9ec5d43"
+    },
+    {
+      "start_time": 811,
+      "end_time": 815,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is from Latin America, the British News Weekly. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "031c3838-57a3-4924-a3a8-aebf7f42ba54"
+    },
+    {
+      "start_time": 815,
+      "end_time": 833,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're listening to The Latin American Press Review, a weekly selection and analysis of news and events in Latin America as seen by leading world news sources, with special emphasis on the Latin American press. This program is produced by the Latin America Policy Alternatives Group. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "879612c8-71ae-41ac-a50c-9e36966bd2dc"
+    },
+    {
+      "start_time": 833,
+      "end_time": 858,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Comments and suggestions are welcome and may be sent to the group at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, the University of Texas at Austin. The views expressed are solely those of the Latin American Policy Alternatives Group and its sources, and should not be considered as being endorsed by UT Austin or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "553e729b-842b-404c-9a5b-5667c98f819b"
+    },
+    {
+      "start_time": 858,
+      "end_time": 892,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our feature this week is a historical account of the development of the oil industry in Venezuela compiled from Peter Odell's recently published study, \"Oil and World Power\", as well as some other news sources. Most US attention has been focused on the Middle East as a source of petroleum. However, Venezuela has been and continues to be an important supplier of oil. In 1971, 566 million barrels were exported to the United States. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "abc680e4-148b-4cec-9d11-e23d568dd081"
+    },
+    {
+      "start_time": 892,
+      "end_time": 911,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Recently, such exports have been dropping, but energy shortages in this country may eventually bring about changes, such as increased exploration for oil in Venezuela and surrounding areas. If so, it should be interesting to observe how various South American governments respond to this. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "fd52cfeb-34e4-4631-9894-49b09758b5f4"
+    },
+    {
+      "start_time": 911,
+      "end_time": 936,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The history of Venezuela parallels that of the Middle East in that national governments have taken a more active role in recent years. This trend, of course, reached its climax in the Arab oil reductions during the recent war in the Middle East. The question of sovereignty over natural resources will probably become more and more important, since minerals crucial to industrial growth are finite and seem to be concentrated in underdeveloped countries. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "d0b434e2-069a-4756-9778-0a755808ea83"
+    },
+    {
+      "start_time": 936,
+      "end_time": 945,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is one reason why it is interesting to review the evolution of relationships between the Venezuelan government, the oil companies, and the US government. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "cfab8018-3439-40a3-9951-af1291fe5092"
+    },
+    {
+      "start_time": 945,
+      "end_time": 972,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Venezuela was the first nation to undergo a meteoric rise to significance as a major producer and exporter of oil. After 20 years of halfhearted exploration there, the big oil companies were finally galvanized into an urgent flurry of activity by their expropriation and expulsion from Mexico, where the oil industry was brought under national ownership in 1938. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "8f26428d-6a6d-4c7d-97d3-dc5c61e249c3"
+    },
+    {
+      "start_time": 972,
+      "end_time": 990,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For 28 years, a succession of governments in Mexico had always seen such action as the ultimate outcome of the conflict between the state and companies, but since it had been avoided for so long, the companies had come to believe it would never happen. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "d848dd78-82da-4444-901f-ad55c2e214da"
+    },
+    {
+      "start_time": 990,
+      "end_time": 1018,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The promising prospects for oil exploitation in the Maracaibo Basin and in other parts of Venezuela now benefited from the company's need to find or quickly to replace the 15 million tons or so per year they had been lifting from their Mexican fields, mainly for sale overseas. This important stimulus to Venezuelan oil development was soon supplemented by a second, even more important one, the petroleum needs of a rapidly expanding wartime US economy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "8e88ea85-1bab-4ed5-88dd-eb4d6537d506"
+    },
+    {
+      "start_time": 1018,
+      "end_time": 1028,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These wartime demands proved too great a strain on the US domestic oil industry and gave companies still greater incentives to seek new resources in Venezuela. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "04326bda-f6db-49b1-b8ca-d0c686f8f0e3"
+    },
+    {
+      "start_time": 1028,
+      "end_time": 1070,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As a result, oil production there rose rapidly from only 20 million tons in 1937 to some 30 million tons in 1941 and to over 90 million tons by 1946, by which time the country was the world's most important petroleum-producing nation outside the United States. Since almost all the oil was exported in contrast with the mainly domestic use of American oil, Venezuela became the world's most important oil exporter, a position which it has just held on to in 1970, but which it lost to Iran and Saudi Arabia in 1971. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "4a3254b0-5c0e-4786-9543-d41541a22261"
+    },
+    {
+      "start_time": 1070,
+      "end_time": 1095,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the post-war world, which had an energy shortage as a result of dislocations in many of the most important coal-producing areas, the demand for energy from other sources grew rapidly. The political economic environment was also highly favorable to foreign investment in Venezuelan oil because the dictatorial regime there welcomed such investment as a means of amassing private fortunes for those individuals close to the regime. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "11b0e9ef-b1ff-400c-8162-58300c7a037f"
+    },
+    {
+      "start_time": 1095,
+      "end_time": 1104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These two factors ensured the continuation of the growth of Venezuelan oil production throughout the rest of the 1940s and up to 1957. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "67952ea8-e24f-4798-a5d2-a0d701d5396e"
+    },
+    {
+      "start_time": 1104,
+      "end_time": 1136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This 20-year period of growth was marked by only one short interlude of restraint. The few months in 1948 when a government came to power under the leadership of a political party, Acción Democrática, whose electoral manifesto called for the nationalization of the country's oil resources and whose leaders in exile had lived mainly in Mexico, where oil was already nationalized. The reaction of the oil companies to this new government was immediate and very blatant. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "845beedc-5c86-4767-8935-f0d5d1224fd3"
+    },
+    {
+      "start_time": 1136,
+      "end_time": 1172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Investment virtually ceased, development came to a halt and production was stabilized, while the managers of the companies concerned attempted to decide how far they would be able to work within the framework of the policies likely to be adopted by the new regime. As it turned out, their fears were short-lived. For after a short period of democratic rule, the country reverted to a military dictatorship, a reversion which was almost certainly only made possible with the active help of at least some of the oil companies concerned. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "0425b5ac-d626-4f5f-bb63-491a4cb3fc18"
+    },
+    {
+      "start_time": 1172,
+      "end_time": 1205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In 1958, the conflict between the government and the oil companies seemed inevitable, as Acción Democrática still had proposals for the nationalization of the industry in its manifesto and took early action increasing taxes on the industry and giving its support to the oil unions pressure for greatly increased wages and fringe benefits, which seemed to indicate that a head-on clash was but a matter of time, but after 1958, Acción Democrática did not treat its nationalization commitments seriously, and certainly made no move in this direction. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "6e089b11-8fd5-4591-a28c-01926b2f8b82"
+    },
+    {
+      "start_time": 1205,
+      "end_time": 1223,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In fact, by this later date, Venezuela was so completely dependent economically on the oil industry that no government, and certainly not one as anxious as Acción Democrática to achieve its country's economic progress, could afford to think of action which would essentially close down the oil sector of the economy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "2827e2ff-2d01-4509-9fcf-4ed372b67a7b"
+    },
+    {
+      "start_time": 1223,
+      "end_time": 1250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No other sector could avoid repercussions from such action, and the consequent unemployment and distress would certainly undermine the government's political strength. The government's freedom of action in economic terms was thus heavily constrained, and even in political terms, there was little to be said for action which, no matter how immediately popular, seemed likely to create such stresses and strains in the system that the instigators of it were unlikely to survive. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "2572c6b2-7fec-4da0-b73e-32d41600c097"
+    },
+    {
+      "start_time": 1250,
+      "end_time": 1283,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But if by 1958, the government's ability to act out its basic philosophical beliefs was constrained, then so was that of the oil companies. By now, they were under pressure from the US State Department to achieve an agreement with the Venezuelan government, which was believed by the United States to be the government which provided the key to the stability of the whole Caribbean area, but stability in Venezuela, particularly in the period following Fidel Castro's success in Cuba, demanded an expanding economy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "a91b7da7-405c-46ca-86aa-e7a26696615b"
+    },
+    {
+      "start_time": 1283,
+      "end_time": 1305,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This in turn depended upon the continuing development of the country's oil industry, which accounted for something like 25% of the country's gross national product, provided the government will over 60% of all its revenues and accounted for over 90% of the nation's total exports. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "8825ce89-ff39-41af-b30e-a823e9fdbd29"
+    },
+    {
+      "start_time": 1305,
+      "end_time": 1322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The companies, therefore, though powerful in the Venezuelan context, had to reorientate their attitudes and policies to the even more powerful force of the foreign policy of the United States, which required that the oil industry make it possible for Venezuela to achieve its objectives of continued economic advance. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "9d5ef237-07cd-45f1-994a-0680d38c5726"
+    },
+    {
+      "start_time": 1322,
+      "end_time": 1335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This demanded their willing cooperation with a government which they certainly disliked and probably distrusted, but for which there was no acceptable alternative and which, therefore, they could certainly not think of overthrowing, as they had in 1948. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "241d670d-5cd0-4e61-bcb4-a4df5b41b160"
+    },
+    {
+      "start_time": 1335,
+      "end_time": 1354,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Economic and political necessity, therefore, as interpreted by the United States, produced a situation in which the international oil companies, dedicated to the idea of as little government intervention in industry as possible and a government devoted in theory at least to socialist planning, had to work together. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "48c40c95-9746-4711-b6eb-04879e9d6b1d"
+    },
+    {
+      "start_time": 1354,
+      "end_time": 1370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This development, concludes, Odell, unusual, for its time has since been paralleled in both oil-producing and oil consuming nations, as the companies have been obliged to recognize the validity and permanence of governmental concern over oil and oil policies. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "e1f69a87-0dbc-4c90-9080-ec5d9818f201"
+    },
+    {
+      "start_time": 1370,
+      "end_time": 1408,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The expansion in Venezuelan oil production since 1958, states Odell, has by no means been as rapid as in the earlier post-war period, but advances have taken place and some investment has continued. Government revenues from oil have been increased, all in spite of the fact that over the period since 1958, Venezuelan oil has become increasingly uncompetitive in many markets of the world as a result of rapidly expanding lower-cost oil output from countries in the Middle East and, more recently, in North and West Africa. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "6d195749-3c10-4762-9733-48d5ad347afa"
+    },
+    {
+      "start_time": 1408,
+      "end_time": 1440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Moreover, falling costs of transporting oil across the oceans, as larger and larger tankers were brought into use, helped to eliminate 10 as well as competitive edge in markets in close geographical proximity to it than to other main producing areas. This was particularly important with respect to the US market, which had hitherto been considered the particular preserve of Venezuelan oil, but to which Middle Eastern and other oil was now attracted. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "37897864-dcf1-4364-bcdd-91ccb887930e"
+    },
+    {
+      "start_time": 1440,
+      "end_time": 1467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From the interplay of all these economic and political forces, says Odell, Venezuela has since 1958 achieved an average annual growth rate in oil production of less than 3%, compared with 10% per year achieved over the previous 15 years, in spite of the fact that the closure of the Suez Canal since mid-1967 has given Venezuela oil a temporary boost in markets west of Suez, particularly in the United States. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "cffb7adf-5eb6-4006-996a-8c628a86189a"
+    },
+    {
+      "start_time": 1467,
+      "end_time": 1497,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Though the Cuban crisis and resultant pressures by the United States Department can be seen as the main factors which have saved the Venezuelan oil industry from a serious decline in the last 10 years or so, one must also note the impact of the growing professionalism of the Venezuelan government in dealing with the companies. In earlier days, the expertise was all on the side of the oil companies, which had to respond only to the political pressure of the government. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "02898b7f-eb82-4359-9dae-d30dd55bcffa"
+    },
+    {
+      "start_time": 1497,
+      "end_time": 1517,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Since 1958, the Ministry of Mines and Hydrocarbons in Venezuela has built up a team able to urge, in technical and economic terms, with advice as to exactly how much pressure should be put on the companies to make concessions, particularly as regards taxation arrangements. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "2f6bb919-00fd-4fea-9905-ccc016d8f239"
+    },
+    {
+      "start_time": 1517,
+      "end_time": 1541,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thus, the government has been able to increase its share of total profits on several occasions and to collect taxes in arrears the liability for which the company's challenged. This has had the effect of increasing the revenues which the country collects on every barrel of oil that is exported. This is now more than $7 per barrel, compared with less than one-tenth this amount when Acción Democrática came to power. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "51d108a0-2494-464a-9286-d9042eb7305d"
+    },
+    {
+      "start_time": 1541,
+      "end_time": 1553,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "By virtue of these actions, government revenues from oil have continued to grow at a rate high enough to finance requirements of the economic and social development program, the main short-term aim of the government in its oil policy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "822f1d3e-1635-4024-a951-6dd9632d36a7"
+    },
+    {
+      "start_time": 1553,
+      "end_time": 1586,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The government does not accept the idea of the concession system as a means of producing the nation's natural resources, except as a short-term expedient for ensuring the continued flow of oil, and in the light of external pressures, to allow the existing concessions to work their agreed areas. Since 1958, therefore, there have been no new concessions and, as a result, Venezuela's proved oil reserves will be used up in about 13 years at the current rate of production. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "30918232-c10d-4267-8b67-013d137d7474"
+    },
+    {
+      "start_time": 1586,
+      "end_time": 1602,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If this situation continues, Venezuelan oil output must soon start to decline, and by the time the concessions are legally relinquished in 1983, it seems likely that Venezuela would be little more than a minor producer. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "29e3dc21-abd7-4a85-9999-13804aac0ad0"
+    },
+    {
+      "start_time": 1602,
+      "end_time": 1621,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In line with its philosophy, Acción Democrática has sought to resolve this issue through the establishment of a state oil company which has been given responsibilities for working any concession areas which might be relinquished by private companies and for negotiating joint arrangements to work as yet unexplored areas of Venezuela with oil potential. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "feda0dd6-2c95-47f6-b2be-b25a2bf5388f"
+    },
+    {
+      "start_time": 1621,
+      "end_time": 1634,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It now has producing capacity amounting to about 9 million tons per year, and in 1969 accepted offers from a dozen or so petroleum companies for joint operations in the southern part of Lake Maracaibo. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "22060461-f6f1-43f2-abfb-739c3dbebfb3"
+    },
+    {
+      "start_time": 1634,
+      "end_time": 1667,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whether it will enable Venezuela to exercise more influence in the development of the world oil market is doubtful unless consuming countries also decide to put the oil industry under national control and then conduct their negotiations for supplies directly with other state entities in producing countries. This account of the development of the oil industry in Venezuela was compiled from Peter Odell's recently published study, \"Oil and World Power\", as well as some new sources. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Egypt"
+        }
+      ],
+      "uuid": "4c5bdcec-a429-434a-955b-9e7e946a5852"
+    },
+    {
+      "start_time": 1667,
+      "end_time": 1685,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to The Latin American Press Review, a weekly selection and analysis of news and events in Latin America, as seen by leading world news sources with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a7b10c75-2c18-4030-bd61-41d51748a6cf"
+    },
+    {
+      "start_time": 1685,
+      "end_time": 1711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Comments and suggestions are welcome and may be sent to the group at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, the University of Texas at Austin. The views expressed are solely those of the Latin American Policy Alternatives Group and its sources, and should not be considered as being endorsed by UT Austin or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "aeedcabb-1b99-48fe-9673-85ed8b380da5"
+    }
+  ],
   "set": "Default",
   "event_id": "7cc2fa1b-9660-4f8a-836e-b71baf492d51",
   "source_id": "60f335f6-196b-46ce-8db6-cad796a0d530"
