@@ -26,7 +26,8 @@
                   "bold": true,
                   "underline": true
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -38,7 +39,8 @@
                 {
                   "text": " Diverse stories from the region, including Mexico's controversial privatization of state-controlled businesses, Uruguay's ongoing military intervention in universities, and tensions in Panama over the detention of Cuban and Soviet ships by U.S. canal zone authorities. Internally, Panama faces challenges from private enterprise and criticism of government policies, raising concerns about potential political upheaval. Meanwhile, international protest mounts against the repressive tactics of the Chilean military junta, with West Germany threatening to withdraw support from financial institutions. Domestically, dissent persists. Despite internal unrest, the junta seeks to establish beneficial foreign relations, signaling a complex landscape of political and economic dynamics in the region. "
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -50,7 +52,8 @@
                 {
                   "text": " In Cuba, the revolution has transformed women's lives, shifting them from traditional roles to active participation in the workforce and society. Initiatives like the Federation of Cuban Women have empowered women to organize collectively, leading to the establishment of childcare centers and various educational programs aimed at improving women's skills and opportunities. Women's roles in agriculture and industry have expanded significantly, with supportive legislation ensuring rights such as maternity leave and job security. Access to reproductive healthcare and emphasis on maintaining femininity underscore Cuba's commitment to gender equality and women's empowerment."
                 }
-              ]
+              ],
+              "align": "justify"
             }
           ]
         },
@@ -65,7 +68,8 @@
                   "bold": true,
                   "underline": true
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -77,7 +81,8 @@
                 {
                   "text": " Mexico is privatizing state-owned enterprises while Uruguay's universities face military control amidst protests."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -89,7 +94,8 @@
                 {
                   "text": " Uruguayan military discovered alleged subversive materials in universities, including Marxist books."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -101,7 +107,8 @@
                 {
                   "text": " Panama's canal dispute with the U.S. heightened tensions, aiding Torrijos politically amid domestic challenges."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -113,7 +120,8 @@
                 {
                   "text": " International opposition to Chile's military junta rises as repression, inflation, and poverty worsen."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -125,7 +133,8 @@
                 {
                   "text": " The Chilean junta is banning Marxist parties, expelling leftist students, and seeking foreign aid."
                 }
-              ]
+              ],
+              "align": "justify"
             },
             {
               "type": "paragraph",
@@ -137,9 +146,31 @@
                 {
                   "text": " Cuban women have made significant strides in equality, education, and workforce participation since the 1959 revolution."
                 }
-              ]
+              ],
+              "align": "justify"
             }
           ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "4bce9292-be06-4a98-bc36-a2face9cfd40",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -161,6 +192,6 @@
   "slug": "lapr19731108",
   "created_at": "2025-03-28T03:53:35.587Z",
   "created_by": "rpr88",
-  "updated_at": "2025-03-28T03:53:35.587Z",
+  "updated_at": "2025-03-28T03:58:00.880Z",
   "updated_by": "rpr88"
 }
