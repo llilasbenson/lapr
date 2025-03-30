@@ -1,1 +1,44 @@
-{"content":[{"type":"paragraph","children":[{"text":""}]},{"type":"event","uuid":"8dcbc059-a8d0-41b6-8faf-bfa25667aef8","includes":["media","annotations"],"children":[{"text":""}]},{"type":"paragraph","children":[{"text":""}]}],"title":"LAPR1973_10_25","parent":"957fbd39-5a56-4e7c-8771-31b4af8623c6","autogenerate":{"enabled":false,"type":"custom"},"slug":"lapr19731025","created_at":"2025-03-29T16:23:37.370Z","created_by":"rpr88","updated_at":"2025-03-29T16:23:37.370Z","updated_by":"rpr88"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "8dcbc059-a8d0-41b6-8faf-bfa25667aef8",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "LAPR1973_10_25",
+  "parent": "ba50fbf3-d272-46e9-8876-f7032ccc2085",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "lapr19731025",
+  "created_at": "2025-03-29T16:23:37.370Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-03-30T05:03:34.546Z",
+  "updated_by": "rpr88"
+}
