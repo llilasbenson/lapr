@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Latin American Press Review Collection",
+  "parent": "957fbd39-5a56-4e7c-8771-31b4af8623c6",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "latin-american-press-review-collection",
+  "created_at": "2025-03-30T04:35:01.451Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-03-30T04:35:01.451Z",
+  "updated_by": "rpr88"
+}
