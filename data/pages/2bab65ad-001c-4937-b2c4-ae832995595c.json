@@ -223,7 +223,7 @@
     }
   ],
   "title": "LAPR1973_05_03",
-  "parent": "957fbd39-5a56-4e7c-8771-31b4af8623c6",
+  "parent": "ba50fbf3-d272-46e9-8876-f7032ccc2085",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
@@ -231,6 +231,6 @@
   "slug": "lapr19730503",
   "created_at": "2025-03-15T00:20:10.126Z",
   "created_by": "rpr88",
-  "updated_at": "2025-03-30T04:39:51.887Z",
+  "updated_at": "2025-03-30T04:40:58.802Z",
   "updated_by": "rpr88"
 }
