@@ -1,1 +1,210 @@
-{"content":[{"type":"paragraph","children":[{"text":""}]},{"type":"grid","layout":[3,3],"children":[{"type":"column","children":[{"type":"paragraph","children":[{"text":"Event Summary","underline":true,"bold":true}],"align":"justify"},{"type":"paragraph","children":[{"underline":true,"text":"Part I:"},{"text":" In Chile, the focus is on the military junta's continued repression, marked by brutality, censorship, and economic hardships exacerbated by austerity measures and price hikes. Despite condemnation from international bodies, the junta maintains its grip on power. Meanwhile, in Peru, the political significance of the nationalization of Cerro Corporation underscores the tensions between the government and powerful interests in the mining sector. The program also covers global events, including the resignation of Spiro Agnew and a kidnapping case involving urban guerrillas in Mexico, as well as President Luis Echeverría's call for increased media attention on third world economic issues. "}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part II:","underline":true},{"text":" An interview with Elizabeth Burgos delves deeper into the situation in Chile, revealing ongoing repression, cultural suppression, and the plight of political exiles. Despite a decrease in organized resistance, individuals continue to resist amidst fear and surveillance by the junta. The interviewee highlights the wider implications of the coup for Latin America, predicting a potential rise in authoritarianism across the region. Additionally, the interview anticipates US support for the junta, contrasting with the previous US stance during Allende's presidency. "}],"align":"justify"}]},{"type":"column","children":[{"type":"paragraph","children":[{"text":"Segment Summaries","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:00:21-0:02:39","bold":true},{"text":" Political repression in Chile under the military junta involves brutal crackdowns, killings, and suppression of workers rights."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:02:39-0:07:05","bold":true},{"text":" Chile's military junta faces international accusations of human rights violations, torture, and censorship."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:07:05-0:09:52","bold":true},{"text":" Peru's government plans to nationalize Cerro Corporation, facing internal and external challenges amid tensions."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:09:52-0:10:49","bold":true},{"text":" Agnew's resignation is attributed to public pressure and a corrupt executive climate."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:10:49-0:13:32","bold":true},{"text":" The 23rd of September League freed Anthony Duncan Williams, but not Luis Fernando Aranguren."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:13:32-0:14:08","bold":true},{"text":" Mexican President Echeverría urged US newspapers to better cover third world economic struggles and promote global cooperation."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:14:51-0:28:17","bold":true},{"text":" Elizabeth Burgos describes ongoing repression in Chile post-coup, including violence, cultural destruction, and political persecution."}],"align":"justify"}]}]},{"type":"paragraph","children":[{"text":""}]},{"type":"event","uuid":"574322db-c830-4325-84ac-6cba1b28281d","includes":["media","annotations"],"children":[{"text":""}]},{"type":"paragraph","children":[{"text":""}]}],"title":"LAPR1973_10_18","parent":"957fbd39-5a56-4e7c-8771-31b4af8623c6","autogenerate":{"enabled":false,"type":"custom"},"slug":"lapr19731018","created_at":"2025-03-26T22:46:03.494Z","created_by":"rpr88","updated_at":"2025-03-28T02:41:33.018Z","updated_by":"rpr88"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Event Summary",
+                  "underline": true,
+                  "bold": true
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "underline": true,
+                  "text": "Part I:"
+                },
+                {
+                  "text": " In Chile, the focus is on the military junta's continued repression, marked by brutality, censorship, and economic hardships exacerbated by austerity measures and price hikes. Despite condemnation from international bodies, the junta maintains its grip on power. Meanwhile, in Peru, the political significance of the nationalization of Cerro Corporation underscores the tensions between the government and powerful interests in the mining sector. The program also covers global events, including the resignation of Spiro Agnew and a kidnapping case involving urban guerrillas in Mexico, as well as President Luis Echeverría's call for increased media attention on third world economic issues. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " An interview with Elizabeth Burgos delves deeper into the situation in Chile, revealing ongoing repression, cultural suppression, and the plight of political exiles. Despite a decrease in organized resistance, individuals continue to resist amidst fear and surveillance by the junta. The interviewee highlights the wider implications of the coup for Latin America, predicting a potential rise in authoritarianism across the region. Additionally, the interview anticipates US support for the junta, contrasting with the previous US stance during Allende's presidency. "
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "underline": true
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:00:21-0:02:39",
+                  "bold": true
+                },
+                {
+                  "text": " Political repression in Chile under the military junta involves brutal crackdowns, killings, and suppression of workers rights."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:02:39-0:07:05",
+                  "bold": true
+                },
+                {
+                  "text": " Chile's military junta faces international accusations of human rights violations, torture, and censorship."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:07:05-0:09:52",
+                  "bold": true
+                },
+                {
+                  "text": " Peru's government plans to nationalize Cerro Corporation, facing internal and external challenges amid tensions."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:09:52-0:10:49",
+                  "bold": true
+                },
+                {
+                  "text": " Agnew's resignation is attributed to public pressure and a corrupt executive climate."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:10:49-0:13:32",
+                  "bold": true
+                },
+                {
+                  "text": " The 23rd of September League freed Anthony Duncan Williams, but not Luis Fernando Aranguren."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:13:32-0:14:08",
+                  "bold": true
+                },
+                {
+                  "text": " Mexican President Echeverría urged US newspapers to better cover third world economic struggles and promote global cooperation."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:14:51-0:28:17",
+                  "bold": true
+                },
+                {
+                  "text": " Elizabeth Burgos describes ongoing repression in Chile post-coup, including violence, cultural destruction, and political persecution."
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "574322db-c830-4325-84ac-6cba1b28281d",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "LAPR1973_10_18",
+  "parent": "ba50fbf3-d272-46e9-8876-f7032ccc2085",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "lapr19731018",
+  "created_at": "2025-03-26T22:46:03.494Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-03-30T05:03:17.836Z",
+  "updated_by": "rpr88"
+}
