@@ -1,1 +1,210 @@
-{"content":[{"type":"paragraph","children":[{"text":""}]},{"type":"grid","layout":[3,3],"children":[{"type":"column","children":[{"type":"paragraph","children":[{"text":"Event Summary","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part I:","underline":true},{"text":" Excélsior reports on Chile's ongoing struggles, including the displacement of peasants, financial aid from US banks, and plans to renegotiate foreign debt. President Nixon expresses support for Chile's government, while Argentina seeks an investigation into the death of its citizens in Chile. In Latin America, Argentina and Chile form alliances amidst cautious diplomacy. The International Commission of Jurists condemns the occupation of the University of Uruguay, emphasizing academic freedom. Political infighting intensifies in Argentina, with conflicts within the Peronist movement and challenges for the left-wing. The lack of democratization within the Peronist movement leads to power struggles, exemplified by President Cámpora's ousting. In Ecuador, inflation fuels discontent despite economic growth, with rapid urbanization in Quito amid challenges for rural migrants. "}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part II:","underline":true},{"text":" Donald M. Kendall, Chairman of Pepsi-Cola, discusses the US balance of payments and the role of direct foreign investments in addressing deficits, anticipating significant energy imports by 1980. He emphasizes the need to enhance trade to cover the gap and underscores the importance of a favorable climate for selling US merchandise abroad. The Wall Street Journal reports on the profitability of US corporations investing abroad, with expectations of increased profits in 1973 offsetting domestic trends, contributing to the dollar's strength. Union Carbide's increased earnings overseas are highlighted. Catholic bishops in Brazil criticize economic disparity fueled by foreign corporations, attributing repression and injustice to dependency on international power centers. Miguel Wionczek, in Excélsior, underscores adverse effects of transnational corporations on underdeveloped countries' sovereignty and economy, advocating for cooperative organization and solidarity among affected nations and groups."}],"align":"justify"}]},{"type":"column","children":[{"type":"paragraph","children":[{"text":"Segment Summaries","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:00:21-0:03:46","bold":true},{"text":" Chilean peasants expelled, foreign debt renegotiated, U.S. bank credit extended, university autonomy contested."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:03:46-0:04:51","bold":true},{"text":" Nixon expressed support for Chile's new government, seeking cooperation with the military junta."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:04:51-0:07:01","bold":true},{"text":" Argentina formally requested Chile to investigate the killing of an Argentine couple, straining relations."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:07:01-0:08:34","bold":true},{"text":" The International Commission of Jurists condemned Uruguay's military invasion and arrest of university authorities."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:08:34-0:12:25","bold":true},{"text":" Political turmoil in Argentina sees Perón's allies ousted amid left-right struggles within his movement."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:12:25-0:13:51","bold":true},{"text":" Inflation in Ecuador, driven by the oil boom, fuels popular discontent despite economic changes."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:14:34-0:27:52","bold":true},{"text":" Four perspectives on transnational corporations' global impact and operations."}],"align":"justify"}]}]},{"type":"paragraph","children":[{"text":""}]},{"type":"event","uuid":"9c0b10c5-1d6d-4b26-af68-d5d259df5301","includes":["media","annotations"],"children":[{"text":""}]},{"type":"paragraph","children":[{"text":""}]}],"title":"LAPR1973_11_15","parent":"957fbd39-5a56-4e7c-8771-31b4af8623c6","autogenerate":{"enabled":false,"type":"custom"},"slug":"lapr19731115","created_at":"2025-03-28T04:24:20.991Z","created_by":"rpr88","updated_at":"2025-03-28T04:24:20.991Z","updated_by":"rpr88"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Event Summary",
+                  "bold": true,
+                  "underline": true
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I:",
+                  "underline": true
+                },
+                {
+                  "text": " Excélsior reports on Chile's ongoing struggles, including the displacement of peasants, financial aid from US banks, and plans to renegotiate foreign debt. President Nixon expresses support for Chile's government, while Argentina seeks an investigation into the death of its citizens in Chile. In Latin America, Argentina and Chile form alliances amidst cautious diplomacy. The International Commission of Jurists condemns the occupation of the University of Uruguay, emphasizing academic freedom. Political infighting intensifies in Argentina, with conflicts within the Peronist movement and challenges for the left-wing. The lack of democratization within the Peronist movement leads to power struggles, exemplified by President Cámpora's ousting. In Ecuador, inflation fuels discontent despite economic growth, with rapid urbanization in Quito amid challenges for rural migrants. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " Donald M. Kendall, Chairman of Pepsi-Cola, discusses the US balance of payments and the role of direct foreign investments in addressing deficits, anticipating significant energy imports by 1980. He emphasizes the need to enhance trade to cover the gap and underscores the importance of a favorable climate for selling US merchandise abroad. The Wall Street Journal reports on the profitability of US corporations investing abroad, with expectations of increased profits in 1973 offsetting domestic trends, contributing to the dollar's strength. Union Carbide's increased earnings overseas are highlighted. Catholic bishops in Brazil criticize economic disparity fueled by foreign corporations, attributing repression and injustice to dependency on international power centers. Miguel Wionczek, in Excélsior, underscores adverse effects of transnational corporations on underdeveloped countries' sovereignty and economy, advocating for cooperative organization and solidarity among affected nations and groups."
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "underline": true
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:00:21-0:03:46",
+                  "bold": true
+                },
+                {
+                  "text": " Chilean peasants expelled, foreign debt renegotiated, U.S. bank credit extended, university autonomy contested."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:03:46-0:04:51",
+                  "bold": true
+                },
+                {
+                  "text": " Nixon expressed support for Chile's new government, seeking cooperation with the military junta."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:04:51-0:07:01",
+                  "bold": true
+                },
+                {
+                  "text": " Argentina formally requested Chile to investigate the killing of an Argentine couple, straining relations."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:07:01-0:08:34",
+                  "bold": true
+                },
+                {
+                  "text": " The International Commission of Jurists condemned Uruguay's military invasion and arrest of university authorities."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:08:34-0:12:25",
+                  "bold": true
+                },
+                {
+                  "text": " Political turmoil in Argentina sees Perón's allies ousted amid left-right struggles within his movement."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:12:25-0:13:51",
+                  "bold": true
+                },
+                {
+                  "text": " Inflation in Ecuador, driven by the oil boom, fuels popular discontent despite economic changes."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:14:34-0:27:52",
+                  "bold": true
+                },
+                {
+                  "text": " Four perspectives on transnational corporations' global impact and operations."
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "9c0b10c5-1d6d-4b26-af68-d5d259df5301",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "LAPR1973_11_15",
+  "parent": "ba50fbf3-d272-46e9-8876-f7032ccc2085",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "lapr19731115",
+  "created_at": "2025-03-28T04:24:20.991Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-03-30T05:05:50.363Z",
+  "updated_by": "rpr88"
+}
