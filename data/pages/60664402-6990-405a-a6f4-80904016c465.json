@@ -24,7 +24,8 @@
                 {
                   "text": "Event Summary",
                   "bold": true,
-                  "underline": true
+                  "underline": true,
+                  "code": true
                 }
               ]
             },
@@ -208,6 +209,6 @@
   "slug": "lapr19730329",
   "created_at": "2025-03-12T23:05:22.254Z",
   "created_by": "rpr88",
-  "updated_at": "2025-03-30T04:37:30.688Z",
+  "updated_at": "2025-03-30T04:40:44.013Z",
   "updated_by": "rpr88"
 }
