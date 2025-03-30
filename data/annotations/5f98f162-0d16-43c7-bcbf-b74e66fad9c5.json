@@ -1,5 +1,2445 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the Latin American Press Review, a weekly selection and analysis of news and events in Latin America, as seen by leading world news sources with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group of Austin, Texas."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3d4920e8-72f2-4e39-951c-8fad8c548ac6"
+    },
+    {
+      "start_time": 21,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin American Press Review this week continues year-end summaries from Latin America with a review of 1973 events in Uruguay. Sources used for this roundup were Marcha, from Uruguay; the British news weekly, Latin America; and Mexico City's daily, Excélsior."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4160363a-407c-417c-a0b0-853870dee350"
+    },
+    {
+      "start_time": 40,
+      "end_time": 73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Uruguay, previously known as the Switzerland of Latin America, the major news of the year is the so-called military coup by installment plan. Beginning over a year ago, the military gradually increased its control over the government, culminating last June in a de facto coup, which left the president as titular head of state. Although the parliament, opposition parties, and trade unions were effectively outlawed, and the military exercised executive power. The union staged an almost total general strike, but could not hold out past the second week."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "64909a6e-53a1-4148-963e-d3563d050933"
+    },
+    {
+      "start_time": 73,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Subsequent developments have included the military attack on the university, violating university autonomy, arresting students, faculty, and nine of the 10 deans, and so shutting down the last domain of opposition. The situation in Uruguay was popularized in the highly-documented movie, \"State of Siege\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "ea3d36e0-5e24-4818-8fc4-e85fdc9f0b0e"
+    },
+    {
+      "start_time": 92,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As background to those developments, it can be noted that Uruguay, a small nation between Argentina and Brazil, on the South Atlantic coast, is a highly Europeanized country, largely populated by immigrants from Europe. Although Uruguay was richer and more developed economically than most ex-colonies, the economy began to stagnate in the mid-1960s."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "8f84784e-4f91-4c1b-a176-f05b752d4d6a"
+    },
+    {
+      "start_time": 116,
+      "end_time": 144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Accompanying the economic stagnation was a high rate of inflation, reaching 100% last year. Since 1967, workers' real buying power had been cut almost in half. The economic stagnation and inflation was accompanied in the previous administration of President Pacheco, with considerable corruption. In the context of such problems and such corruption, social discontent increased."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "c9d268d6-7873-4a9e-9de2-8db7020db863"
+    },
+    {
+      "start_time": 144,
+      "end_time": 171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some of the most noticeable manifestations of that social discontent were the actions of the Tupamaros. The Tupamaros styled themselves as a Robin Hood-like urban guerrilla band with a revolutionary program. They expropriated food and medicine and distributed it to poorer neighbors. Their actions were often spectacular, and their demonstration of the possibility of opposition to the country's power structure served as an inspiration and received considerable sympathy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "9d4cd635-bcdc-42b8-9faf-5bde1f96bc21"
+    },
+    {
+      "start_time": 171,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "However, as the Tupamaros have themselves stated in communiques, their actions were not well-connected with community and workplace organizing efforts, and so served only as occasional spectacular actions. Since the Tupamaros also engaged in considerable economic research and investigations of corruption, they were able to expose both the corruption and the structural economic difficulties plaguing most Uruguayans."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "d00c1886-e7cc-4905-802c-995ac46cb99e"
+    },
+    {
+      "start_time": 195,
+      "end_time": 216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On one occasion, the Tupamaros delivered a document file on extensive corruption to the justice officials. Shortly thereafter, the file mysteriously disappeared and the officials complained that they could no longer proceed with the investigation, whereupon the Tupamaros obligingly resupplied the officials and the news media with copies of the then highly publicized corruption."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "3d2c99a1-59a6-4584-8b8a-2ebb3afd92f1"
+    },
+    {
+      "start_time": 216,
+      "end_time": 236,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aside from their attacks on corruption, the Tupamaros were intent on exposing the structural difficulties in the economy, which allowed a small percentage of the population to be very wealthy, and exercised nearly total economic control, while most Uruguayans suffered with the economic stagnation and inflation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "5743f35d-ed3e-4185-a129-22821807fb41"
+    },
+    {
+      "start_time": 236,
+      "end_time": 269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Tupamaros were criticized by the official representatives of the power structure for being subversive and criminal. Political moderates criticized the Tupamaros for giving the military an excuse for further repression. The Tupamaros replied that it is silly to blame those who are oppressed for the oppression, but agreed that mere exposition of economic difficulties and occasional spectacular actions were no substitute for widespread popular organizing efforts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "2fb12878-dfc5-4692-a183-b6e2195cd7c0"
+    },
+    {
+      "start_time": 269,
+      "end_time": 290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The rising social discontent with the economic and political power structures of Uruguay came to a head in April of last year, when President Bordaberry, himself implicated in the corruptions of the previous administration, decided to declare a state of internal war against the Tupamaros, rather than work to rectify the structural defects of the economy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "48995968-29d8-4e16-a54c-4c561b1f1a60"
+    },
+    {
+      "start_time": 290,
+      "end_time": 318,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bordaberry, in declaring a state of internal war, opened the door for active involvement by the military in the internal affairs of the country. The initial effect of the internal war against what was called, \"Leftist subversion and criminality\", was twofold. First, the state of siege reduced the operational effectiveness of the Tupamaros so that when the military began going after more moderate political figures later on, it no longer had to worry about reprisals from the Tupamaros."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "d3a13615-d09f-4781-8109-0169149c7c90"
+    },
+    {
+      "start_time": 318,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Secondly, in the various raids against Tupamaros hideouts, the military found great quantities of research material documenting economic problems and corruption. A number of cabinet ministers, and even President Bordaberry's personal secretary, eventually had to resign. The discoveries heightened a split in the armed forces, with more progressive members arguing that corruption and economic crimes were as bad as the subversion to which the Tupamaros were accused, and that there was little point in attacking manifestations of social discontent without trying to resolve the underlying structural, social problems."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "c8376e2b-134a-44cb-a233-60df93db6067"
+    },
+    {
+      "start_time": 360,
+      "end_time": 372,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "However, the more conservative elements in the armed forces managed to outmaneuver the progressive officers, ending the possibility that a progressive military might solve problems."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "8bd1ffd8-1b66-488c-a4db-a1ce363c480a"
+    },
+    {
+      "start_time": 372,
+      "end_time": 387,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One other effect of the internal state of siege declared by Bordaberry, was the exposure of the extent of liaison work between the Uruguayan military and police and United States advisors on counterinsurgency and interrogation methods."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "7a712cd2-15a3-4a74-8e63-444031ac6217"
+    },
+    {
+      "start_time": 387,
+      "end_time": 401,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "By November of last year, the military's active involvement in internal affairs in the name of maintaining order and national security had expanded considerably, especially because of the amount of corruption discovered by the military."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "d87faf9e-5819-4371-900a-7a778fa66cd2"
+    },
+    {
+      "start_time": 401,
+      "end_time": 427,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In November of that year, the military was investigating a prominent politician and businessman using leads supplied by the Tupamaros' files. The politician bitterly complained that the military was overstepping its bounds, and the military arrested him on charges of slandering the military and being suspected of corruption. The politician was eventually released, but there was a serious confrontation between the political government and the military."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "c6fec1e8-9a70-4edf-ab7c-f1e952307c4c"
+    },
+    {
+      "start_time": 427,
+      "end_time": 456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "By the beginning of 1973, the tension between the civilian government and the military over the issue of corruption and how to deal with social unrest, was running very high. The British Weekly Latin America speculated that the economic forecast and plan presented in January was so bleak that no one wanted responsibility, least of all the military. And that consequently, the military did not move as far as it might have."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "b0558226-0ebe-425a-b6d3-184c8fabc004"
+    },
+    {
+      "start_time": 456,
+      "end_time": 481,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "However, by the end of January, reports and investigations of corruption by the military had become so frequent and strong that President Bordaberry threatened to limit the power of the chiefs of the armed forces to make public statements. This angered the military, especially as further scandals broke out in February concerning highly placed politicians."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "ad06670c-cfaf-401a-958a-9e03e0f8b341"
+    },
+    {
+      "start_time": 481,
+      "end_time": 510,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A state of near civil war existed with different branches of the military on different sides. The cabinet resigned, and consequently lines of authorities were no longer clear. The Army and the Air Force Commanders presented a 16-point program for the economy and public order, including the creation of a National Security Council under control of the military, and with President Bordaberry remaining as Constitutional Chief Executive, but in effect, subservient to the National Security Council."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "a3492112-42b1-449e-a117-591c5570ea96"
+    },
+    {
+      "start_time": 510,
+      "end_time": 533,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "President Bordaberry's position deteriorated further in March when the mystery of how Uruguay had managed to pay foreign debts due last year was revealed. It was revealed that the Central Bank had secretly sold one-fifth of the country's gold stock through a Dutch bank. The gold reserves had been sold in complete secrecy, as a deceptive solution to the country's balance of payments problems."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "c886c245-096c-44fa-aab6-55ab58f818e0"
+    },
+    {
+      "start_time": 533,
+      "end_time": 581,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "By April, however, Bordaberry managed to form an alliance with the conservative sectors of the military, who were less concerned about corruption or progressive solutions to the economic problems. A major factor in the formation of the alliance was the demand by the Central Confederation of Workers, the main union, for a 30% wage increase to offset the deterioration of buying power due to inflation. The conservative sector of the military agreed with Bordaberry to completely reject any wage increases. In return for the military's backing of the denial of wage increases, President Bordaberry allowed the military to increase its scope of operations against manifestations of social discontent."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "fb3c06d7-6ba4-43b5-b651-ed3956c97f11"
+    },
+    {
+      "start_time": 581,
+      "end_time": 612,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The military requested that the parliamentary immunity of a senator be lifted. Senator Enrique Erro had been a constant critic of the military's increased power and of a military solution to social problems. The military accused him of collaboration with the Tupamaros and demanded that his parliamentary immunity be lifted. When the Senate refused to lift immunity in May, the military moved troops into the capital. The crisis was averted when the question of parliamentary immunity was sent to a house committee for reconsideration."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "9f0b4044-5399-4753-afde-2b13aee30f7f"
+    },
+    {
+      "start_time": 612,
+      "end_time": 661,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "However, in late June, a final vote was taken in Congress, and the military's request was denied. The Congress refused to waive parliamentary immunity for Senator Erro, who the military wanted to try for collaboration with the Tupamaros. As a result, President Bordaberry, acting with the National Security Council, then responded by dissolving Congress. Thus, through the National Security Council and with President Bordaberry still the titular head of state, a de facto military coup had been taking place. The National Confederation of Workers did what it had said it would do in the face of a military coup: it called a nationwide general strike. The strike was nearly total."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "996301ee-cdfc-4770-b829-8c3ef94d6ccc"
+    },
+    {
+      "start_time": 661,
+      "end_time": 686,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The government responded by declaring the union illegal and arresting most of its leadership. However, the union was well-organized with rank-and-file solidarity and indigenous leadership, so the strike held. Many workers occupied their factories. Nonetheless, after two weeks, the military was still in armed control, and the workers running out of supplies could not continue the strike, and so called off the strike in mid-July."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "ab3aed09-315b-4bac-8b43-37e099a831fd"
+    },
+    {
+      "start_time": 686,
+      "end_time": 721,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Repression and a general state of siege continued. The union organizations went underground. The Tupamaros announced they were reorganizing, and the government was forced to take a variety of actions, such as closing down even the Christian Democratic paper, Ahora, briefly, following the coup in Chile, to prevent public discussion. In October, the military sees the University of Uruguay following the student elections in which progressive anti-dictatorship groups received overwhelming support. Nine out of the 10 deans were arrested, along with many students and some faculty."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "8c39e27f-fb8e-4230-aa3d-a79a03ebbfec"
+    },
+    {
+      "start_time": 721,
+      "end_time": 763,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The installment plan coup in Uruguay was thus complete. The coup took the form of emerging of presidential and military power in an alliance between the president and the conservative sectors of the more powerful military. Although Uruguay had been known as the Switzerland of Latin America, because of its long tradition of democratic governments and its relatively industrialized economy, Uruguay is now under the control of right-wing military leaders. The effective failure in the 1960s of the Alliance for Progress Efforts at Economic Development showed that the Uruguayan economy was not developing, but was stagnating."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "32c10836-acc2-402c-9079-1c1f31f4c65b"
+    },
+    {
+      "start_time": 763,
+      "end_time": 794,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The stagnation was accompanied by a general inflation that resulted in a reduction of the real buying power of most Uruguayans. The Uruguayan power structure, while not seriously threatened during previous periods of economic development, was threatened as the economy stagnated. Rather than help in rectifying the structural economic problems, however, the president had the military move actively into domestic affairs to suppress manifestations of social discontent."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "64222529-d887-41de-8d4b-18c755649fe5"
+    },
+    {
+      "start_time": 794,
+      "end_time": 819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The military, its power, and sphere of operations greatly expanded, was in the control of more conservative, higher officers who then joined with the president in setting up a National Security Council to effectively run the country. The alliance between the president and the military then abolished Congress, outlawed the main labor union, and seized the university."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "8211321d-1812-480e-8cec-9897fee06ae7"
+    },
+    {
+      "start_time": 819,
+      "end_time": 832,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This summary of events in Uruguay for 1973 was compiled from the newspapers: Marcha of Uruguay; Latin America, a British News weekly; and Excélsior of Mexico City."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "b9cdc416-ccc8-4201-a02c-9178858caf1a"
+    },
+    {
+      "start_time": 832,
+      "end_time": 848,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are listening to the Latin American Press Review, a weekly selection and analysis of news and events in Latin America, as seen by leading world news sources with special emphasis on the Latin American press."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "99617e81-3ee6-4884-9849-7d438d100e44"
+    },
+    {
+      "start_time": 848,
+      "end_time": 861,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions are welcome and may be sent to the group at 2205 San Antonio Street, Austin, Texas."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "809a701c-975e-40c0-81ec-5dc0ff67a472"
+    },
+    {
+      "start_time": 861,
+      "end_time": 877,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This program is distributed by Communication Center, the University of Texas at Austin. The views expressed are solely those of the Latin American Policy Alternatives Group and its sources, and should not be considered as being endorsed by UT Austin or this station."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3c33126a-62d2-41e8-83f0-8f756faedc0a"
+    },
+    {
+      "start_time": 877,
+      "end_time": 892,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our feature this week is a roundup of news events in Chile for 1973, compiled from reports in the Chilean newspapers, El Mercurio and Chile Hoy; the Mexico City daily, Excélsior; and the British weekly, Latin America."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "c4d9d4c9-4134-4a94-9925-2efbfec601a3"
+    },
+    {
+      "start_time": 892,
+      "end_time": 919,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "By far the most troubled country on the continent this year has been Chile, which was the site of a bloody military coup overthrowing the socialist president, Salvador Allende, on September 11th. The heads of the armed forces are now firmly in control of the country, although the Junta has had to institute extremely repressive measures in order to quell the resistance from Allende's numerous supporters."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "e4ea0d86-3bae-4a51-ab48-529c1a497e14"
+    },
+    {
+      "start_time": 919,
+      "end_time": 936,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Chilean coup was the first military intervention in that country in 38 years. Chile has traditionally enjoyed democratic and constitutional governments, and her military forces have a long tradition of staying out of civilian politics."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "5fe2ce0c-3103-4a2b-bd17-c6cabbaccd5e"
+    },
+    {
+      "start_time": 936,
+      "end_time": 958,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When he was elected in 1970, Allende, a Marxist, promised to stay within the bounds of the constitution while carrying out a policy of peaceful, socialist revolution. Soon after his election, Allende legally carried out several popular measures, including the nationalization of major U.S. copper companies holdings, and extensive agrarian reform measures."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "099bd161-c025-460e-9de9-1728233cb4b1"
+    },
+    {
+      "start_time": 958,
+      "end_time": 988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While these steps won widespread approval among Chilean workers and peasants, they incurred the wrath of the United States and of powerful opposition groups within Chile. Thus, the first two years of Allende's administration were marked with political and economic battles between Allende's popular unity government, powerful Chilean interest groups and political parties backed by the United States, as well as by confrontations with the United States government and U.S. corporations over issues such as compensation for nationalized industries."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "03cf56e3-f122-47ae-a343-c20f4baed0e9"
+    },
+    {
+      "start_time": 988,
+      "end_time": 1015,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior reported that the Allende government received a big boost in the Chilean congressional elections last March, when the Popular Unity coalition increased its representation in both the Chamber of Deputies and the Senate. While the vote left the Popular Unity coalition still short of a majority in the Congress, the results were considered evidence of the growing popularity of the government among Chileans."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "0fc1051e-41f1-4071-aaba-4d144394bcbe"
+    },
+    {
+      "start_time": 1015,
+      "end_time": 1055,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The storm clouds broke though, in late April, when miners at El Teniente, a nationalized copper mine, went on strike. The strikers, many of whom are white collar workers and all of whom were among the highest paid workers in Chile, walked out demanding higher production bonuses. The Allende government, which had vowed to end privileged sectors of the Chilean labor force, firmly refused the striker's demands. Seeing an opportunity to mobilize opposition against the government, right-wing opposition group seized the strike as an issue and began organizing support for the strikers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "1757220a-ecad-4506-afee-d5221d34b5e6"
+    },
+    {
+      "start_time": 1055,
+      "end_time": 1075,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The crisis continued through April as clandestine operations by rightist groups occurred with growing frequency. A socialist party radio station in Rancagua was seized, and a number of communist and socialist party premises, homes, and newspapers across the country, were sacked in an apparently coordinated effort, according to Chile Hoy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "2a08afe2-5e6c-4ffe-bf63-83dfc7272d8f"
+    },
+    {
+      "start_time": 1075,
+      "end_time": 1099,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Such confrontations continued through May and June as economic problems worsened and the El Teniente strike remained unsettled. Talk of armed confrontation was widespread, and Allende warned that rightist groups were planning a coup d'état attempt. While these struggles raged in the streets of Chile in the months of May and June, the battles between Allende and the opposition filled the halls of the Chilean Congress as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "17dbfaa6-5894-453d-b7cd-7d52eafd4379"
+    },
+    {
+      "start_time": 1099,
+      "end_time": 1126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At one point, reported El Mercurio, certain members of Congress tried to have Allende removed from office by using a clause in the Chilean constitution, which was intended for cases in which the president was seriously ill. Allende, in response, is said to have considered exercising his constitutional right to temporarily disband Congress and immediately call new parliamentary elections."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "7740c12f-d9d8-4d0d-a5be-2f8bd9c5d199"
+    },
+    {
+      "start_time": 1126,
+      "end_time": 1148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Matters came to a head on June 29th, when certain sectors of the army attempted a military overthrow of the Popular Unity government. Most of the armed forces rose to defend the government and the revolt was crushed. Transportation owners went out on strike in early August, complaining that they were unable to get spare parts for their vehicles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "6b63b0cf-1981-4740-80c6-3692738d7ada"
+    },
+    {
+      "start_time": 1148,
+      "end_time": 1163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Opposition parties, including the Christian Democrats, once again took the side of the strikers against the government, and truck owners who refused to observe the strike were subjected to increasing violence. As the strike continued, the nation became more and more polarized."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "9a98fdde-bee6-44a9-ab3d-801b391031ab"
+    },
+    {
+      "start_time": 1163,
+      "end_time": 1182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Meanwhile, the military leaders were planning their coup. The military had been systematically searching factories which were known to employ Allende supporters and confiscating weapons. This was an apparent attempt to reduce the possibility of organized resistance from the workers after the coup."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "48ca2cbd-15e6-4f24-bbb8-b64f19fe22cc"
+    },
+    {
+      "start_time": 1182,
+      "end_time": 1205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The takeover was finally accomplished on September 11th when the military surrounded the presidential palace in Santiago and demanded the resignation of Allende and his Popular Unity government. When Allende refused, the palace was attacked with tanks, troops, and Air Force jets. Allende was killed, although whether or not he took his own life, as the military claims, is still debatable."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "92edf089-cd75-4289-ae94-2ac2bcf52dcf"
+    },
+    {
+      "start_time": 1205,
+      "end_time": 1223,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Once in power, the new military government took immediate steps to crush resistance. Excélsior reported that a strict curfew was established throughout the country and violators were shot. Troops conducted house-to-house searches, looking for arms and leftist literature."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "5fb4f19b-a6d2-4cb3-9edc-bc7ad6f37baf"
+    },
+    {
+      "start_time": 1223,
+      "end_time": 1244,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anyone caught carrying arms on the street was summarily executed. Military tribunals were set up to try the suspected enemies of the new regime. Thousands were taken prisoner and housed in the National Soccer Stadium. Some of those, who were later released from the stadium, told of beatings, killings, and torture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "c38847ce-9cc3-4f46-93b0-f2410ad7c547"
+    },
+    {
+      "start_time": 1244,
+      "end_time": 1262,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Junta also published a most-wanted list, including many of the members of Allende's administration. Rewards of 50,000 escudos were offered to anyone who could provide clues as to the whereabouts of those on the list. As a result of this campaign, there are now thousands of political prisoners in Chile."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "6423cf9a-cb02-47b1-802b-6abba83a779a"
+    },
+    {
+      "start_time": 1262,
+      "end_time": 1279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Although the Junta continues to insist that the numbers of civilians shot in the streets is very low, numerous reports from journalists suggest otherwise. The Newsweek correspondent in Santiago reported seeing a morgue overflowing with bodies, all shot at close range."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "e867f368-0d6f-41d5-9dde-88539558a01e"
+    },
+    {
+      "start_time": 1279,
+      "end_time": 1330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Junta's also announced its intentions to depoliticize Chilean society in order to normalize the country. To this end, all Marxist literature was banned, and any found in the house-to-house searches was burned. The political parties making up the Popular Unity coalition were outlawed, and all others were declared in recess. Most of the newspapers were shut down, and the few still allowed to publish were censored. The National Federation of Labor Unions was disbanded. The rectors of the universities were dismissed, and military overseers were appointed to run the universities. At the University of Concepción, 6,000 students were expelled for their leftist leanings, as well as 400 faculty members."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "191dddb8-9eaf-432d-9c46-7c4e83149a14"
+    },
+    {
+      "start_time": 1330,
+      "end_time": 1351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Junta is not only banning most forms of political expression, but is reversing many of the reforms enacted under Allende. A wage hike scheduled for October was canceled, and price controls designed to keep scarce necessities from costing more than the poor could afford, have been removed. Chile's poor are suffering as a result."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "a706f763-399b-438b-b07b-27618cb2849b"
+    },
+    {
+      "start_time": 1351,
+      "end_time": 1373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The country's runaway inflation has caused prices to soar to record amounts, giving rise to an ironic situation. Instead of the scarcity of items reported during Allende's administration, there is a surplus of many items on store shelves, since few can now afford to buy them. The prices of meat and gasoline, for instance, have risen 800% since the coup."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "72455259-afd1-4b6a-a393-f70c809b411e"
+    },
+    {
+      "start_time": 1373,
+      "end_time": 1408,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to the weekly, Latin America, the military government has announced that 300 companies nationalized under Allende would be returned to their former owners, and has agreed to pay $300 million in compensation to the Kennecott Corporation, former owners of the nationalized El Teniente copper mine. The Junta has also began to dismantle the agrarian reform program, which was set up under the government of Christian Democrat, Eduardo Frei, who held the presidency before Allende."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "fbea9ce2-b6c9-493d-8531-69cd5813a831"
+    },
+    {
+      "start_time": 1408,
+      "end_time": 1431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In early November, officials expelled 300 peasant families from the land they had legally received two years ago. Although the Junta claims that the agrarian reform program is still in effect, they have appointed the head of the right-wing National Party to run the program. The National Party opposed the passage of the agrarian reform law in 1967."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "b1634dd0-7914-4d33-9b13-32630745cac2"
+    },
+    {
+      "start_time": 1431,
+      "end_time": 1450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The United States government obviously favors the new Junta, despite the repressive measures. The U.S. recognized the new government only a few weeks after the coup, and recently Nixon spoke of his admiration for, \"The determination of the new government to conform to the tradition and will of the Chilean people.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "099d7ed9-dcee-4225-8a2f-5c3871f54a4a"
+    },
+    {
+      "start_time": 1450,
+      "end_time": 1472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The striking difference between U.S. attitudes toward Chile under Allende and under the Junta has led to speculation that the U.S. engineered the coup. The only evidence of U.S. involvement so far has been Senate testimony by William Colby, Director of the Central Intelligence Agency, that his agency supplied money and assistance to anti-Allende demonstrations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "39141323-6588-4c4c-9544-fde466b92be0"
+    },
+    {
+      "start_time": 1472,
+      "end_time": 1490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The British news weekly, Latin America, says, however, that the U.S. government, supported by large corporations such as ITT, wished to see Allende overthrown. The U.S. saw the Allende government as dangerous to American business interests ever since Chile nationalized American copper companies two years ago."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "dddee84a-fd3d-4a51-8605-2dfb31844b0b"
+    },
+    {
+      "start_time": 1490,
+      "end_time": 1527,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When the United States demanded compensation for the mines, Allende replied that the excess profits extracted by the copper companies was far greater than the value of the company's holdings. The United States retaliated by using its powerful influence to stop all loans and credits to Chile from multilateral lending agencies. Many of these loans are not really loans as such, but simply credits which allow small nations to make purchases from companies in larger nations on the basis of payment within 30 to 90 days."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "73aae8d0-36b7-4bab-b342-ad911e342b0b"
+    },
+    {
+      "start_time": 1527,
+      "end_time": 1556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When these credits were cut off, Chile had to find large amounts of foreign currencies in advance to make such purchases. Often unable to get such amounts, Chile was faced with shortages of many essential imported goods. Thus, according to Chile Hoy, the shortage of replacement parts for cars, trucks, and buses, which led to two transportation owners strikes and serious domestic turmoil, can be traced directly to United States policy within these multilateral lending agencies."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "f1ab0b95-f354-429f-a5c4-d28fa4863c86"
+    },
+    {
+      "start_time": 1556,
+      "end_time": 1572,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The same mechanisms also led to shortages of food and other essentials, which heightened Chile's inflation. It is for these reasons that Allende told the United Nations in November, 1972, that the U.S. was, \"Waging economic war on Chile\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "7de20ab1-e962-4f7a-b333-ec8146357540"
+    },
+    {
+      "start_time": 1572,
+      "end_time": 1605,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "However, there was one crucial area in which United States' aid to Chile was not denied: military aid, which was continued throughout Allende's three years in office. According to Joseph Columns of the Institute of Policy Studies, this was part of a deliberate strategy, which he calls, \"The Nixon-Kissinger low profile strategy, in which economic credits are withheld, While assistance to pro-American Armed Forces continues.\" Washington's action since the coup seemed to confirm this theory."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "12055fde-b845-4979-8929-b5b65a15e4c3"
+    },
+    {
+      "start_time": 1605,
+      "end_time": 1620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Junta was recently successful in negotiating a $24 million loan from the United States Department of Agriculture for the purchase of wheat. In addition, the international lending agencies have resumed negotiations with Chile for the extension of credits."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "56f5ff08-d5c6-41ad-b350-d4815096d2d8"
+    },
+    {
+      "start_time": 1620,
+      "end_time": 1637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At this point, one of the greatest dangers to the Junta's continued rule seems to be dissension within its own ranks. Recently, an Air Force General was arrested and charged with incitement to rebellion, an indication that the armed forces are perhaps not as unified as first suspected."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "1ea7ec89-07d5-4bf5-8356-ac6457610b99"
+    },
+    {
+      "start_time": 1637,
+      "end_time": 1648,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Provided that this threat can be avoided, the Junta plans to remain in power for quite some time. The generals have stated that Chile will not be ready for an elected government for several years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "52b5728b-2b8d-4391-9be5-811388980865"
+    },
+    {
+      "start_time": 1648,
+      "end_time": 1666,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This concludes this week's feature: a roundup of news events in Chile for 1973, compiled from reports in the Chilean newspapers, El Mercurio and Chile Hoy; the Mexico City daily, Excélsior; and the British news weekly, Latin America."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "aa8d6067-7fe6-4920-96fb-8204dbc578c1"
+    },
+    {
+      "start_time": 1666,
+      "end_time": 1680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to the Latin American Press Review, a weekly selection and analysis of news and events in Latin America, as seen by leading world news sources with special emphasis on the Latin American press."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bfb0b152-506a-40e7-9d0b-c32a37625ddd"
+    },
+    {
+      "start_time": 1680,
+      "end_time": 1692,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions are welcome and may be sent to the group at 2205 San Antonio Street, Austin, Texas."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "67d35cf3-9c04-4059-b514-acff67d155bd"
+    },
+    {
+      "start_time": 1692,
+      "end_time": 1709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This program is distributed by Communication Center, the University of Texas at Austin. The views expressed are solely those of the Latin American Policy Alternatives Group and its sources, and should not be considered as being endorsed by UT Austin or this station."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "199121f5-0b1e-455a-8770-d940d55823a4"
+    }
+  ],
   "set": "Default",
   "event_id": "6ba7b860-8041-458f-b190-c7f4e556ff1c",
   "source_id": "6bedf174-ee11-4642-9211-8812ae8a8d06"
