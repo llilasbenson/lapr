@@ -4,105 +4,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Here there will be an explanation on the 'countries' and 'communities' tags. How to use and view",
-          "highlight": "#ffeb14"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "DRAFT",
-          "highlight": "#ffed24"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Each file includes tags "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Countries",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "- "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "For segments with several countries, the main 4-8 countries were included in the annotations"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Communities",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Throughout the collection, segments included narratives of underrepresented groups. These communities were highlighted as groups that at times are underrepresented in the history of Latin America during 1974-1974. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "How to search using Tags",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "ADD PICTURES FOR STEP BY STEP ON HOW TO USE",
-          "highlight": "#ffec1f"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": ""
         }
       ]
     }
   ],
-  "title": "Tags Included",
+  "title": "Topics Covered",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "tags-included",
+  "slug": "topics-covered",
   "created_at": "2025-03-12T02:19:38.157Z",
   "created_by": "rpr88",
-  "updated_at": "2025-03-15T01:09:42.656Z",
+  "updated_at": "2025-03-31T00:44:42.283Z",
   "updated_by": "rpr88"
 }
