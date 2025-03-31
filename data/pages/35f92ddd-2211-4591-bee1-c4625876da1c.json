@@ -12,19 +12,107 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "- Map Digital Tool Link TBD "
+          "text": "Here there will be an explanation on the 'countries' and 'communities' tags. ",
+          "highlight": "#ffeb14"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "DRAFT",
+          "highlight": "#ffed24"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Each file includes tags "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Countries",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "For segments with several countries, the main 4-8 countries were included in the annotations"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Communities",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Throughout the collection, segments included narratives of underrepresented groups. These communities were highlighted as groups that at times are underrepresented in the history of Latin America during 1974-1974. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "How to search using Tags",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "ADD PICTURES FOR STEP BY STEP ON HOW TO USE",
+          "highlight": "#ffec1f"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "How to use and view",
+          "highlight": "#ffeb14"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "- Map Digital Tool Link TBD ",
+          "highlight": "#abfd30"
         }
       ]
     }
   ],
-  "title": "Annotations",
+  "title": "Tags and Annotations",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "annotations",
+  "slug": "tags-and-annotations",
   "created_at": "2025-03-12T02:25:41.951Z",
   "created_by": "rpr88",
-  "updated_at": "2025-03-31T00:41:28.744Z",
+  "updated_at": "2025-03-31T00:46:23.890Z",
   "updated_by": "rpr88"
 }
