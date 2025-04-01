@@ -48,7 +48,8 @@
           "children": [
             {
               "text": "Popular Armies in Argentina",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19731206/"
             }
           ]
         },
@@ -57,7 +58,8 @@
           "children": [
             {
               "text": "Interview with Bob Hudner",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730509/"
             }
           ]
         },
@@ -66,7 +68,8 @@
           "children": [
             {
               "text": "Interview with a Brazilian Exile",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730621/"
             }
           ]
         }
@@ -507,6 +510,6 @@
   "slug": "topics-covered",
   "created_at": "2025-03-12T02:19:38.157Z",
   "created_by": "rpr88",
-  "updated_at": "2025-03-31T02:34:48.342Z",
+  "updated_at": "2025-04-01T16:33:37.689Z",
   "updated_by": "rpr88"
 }
