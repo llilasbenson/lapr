@@ -175,7 +175,8 @@
           "children": [
             {
               "text": "An Interview with Economist David Barkin",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730426-2/"
             }
           ]
         },
@@ -184,7 +185,8 @@
           "children": [
             {
               "text": "An Economist on Chile",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730705/"
             }
           ]
         },
@@ -193,7 +195,8 @@
           "children": [
             {
               "text": "The Mexican Economy",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730816/"
             }
           ]
         },
@@ -202,7 +205,8 @@
           "children": [
             {
               "text": "The World Food Situation",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730906/"
             }
           ]
         },
@@ -211,7 +215,8 @@
           "children": [
             {
               "text": "Four Views of Multinationals",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19731115/"
             }
           ]
         },
@@ -220,7 +225,8 @@
           "children": [
             {
               "text": "Oil in Venezuela",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19731120/"
             }
           ]
         }
@@ -243,7 +249,8 @@
           "children": [
             {
               "text": "The Politics of Ecology",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730419/"
             }
           ]
         },
@@ -252,7 +259,8 @@
           "children": [
             {
               "text": "Indians in Paraguay",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730614/"
             }
           ]
         },
@@ -261,7 +269,8 @@
           "children": [
             {
               "text": "Puerto Rico",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730927/"
             }
           ]
         }
@@ -516,6 +525,6 @@
   "slug": "topics-covered",
   "created_at": "2025-03-12T02:19:38.157Z",
   "created_by": "rpr88",
-  "updated_at": "2025-04-01T16:56:00.973Z",
+  "updated_at": "2025-04-01T17:12:24.191Z",
   "updated_by": "rpr88"
 }
