@@ -28,7 +28,7 @@
               "text": "Right Wing Terrorism in Central America",
               "italic": true,
               "link": "https://llilasbenson.github.io/lapr/pages/lapr19730524/",
-              "color": "#0b0a0a"
+              "color": "#165eac"
             }
           ]
         },
@@ -39,7 +39,7 @@
               "text": "The Plight of the Mapuche Indians in Southern Chile",
               "italic": true,
               "link": "https://llilasbenson.github.io/lapr/pages/lapr19731004/",
-              "color": "#080808"
+              "color": "#165eac"
             }
           ]
         },
@@ -101,7 +101,8 @@
           "children": [
             {
               "text": "Culture in Cuba",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730726/"
             }
           ]
         },
@@ -110,7 +111,8 @@
           "children": [
             {
               "text": "Cuba Today",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730719/"
             }
           ]
         },
@@ -119,7 +121,8 @@
           "children": [
             {
               "text": "Women in Cuba",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19731108/"
             }
           ]
         },
@@ -128,7 +131,8 @@
           "children": [
             {
               "text": "A Cuban View of Cuban Culture",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19731129/"
             }
           ]
         },
@@ -137,7 +141,8 @@
           "children": [
             {
               "text": "The State of Higher Education in Chile",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19731210/"
             }
           ]
         }
@@ -160,7 +165,8 @@
           "children": [
             {
               "text": "I.T.T. in Chile",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730322-2/"
             }
           ]
         },
@@ -510,6 +516,6 @@
   "slug": "topics-covered",
   "created_at": "2025-03-12T02:19:38.157Z",
   "created_by": "rpr88",
-  "updated_at": "2025-04-01T16:33:37.689Z",
+  "updated_at": "2025-04-01T16:56:00.973Z",
   "updated_by": "rpr88"
 }
