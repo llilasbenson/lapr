@@ -4,15 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "List of the general topics in each program, linked to those sites. ",
-          "highlight": "#f2ff42"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Armed Forces and Violence",
           "bold": true
         }
@@ -92,7 +83,8 @@
           "children": [
             {
               "text": "Art and Literature in Latin America",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730712/"
             }
           ]
         },
@@ -293,7 +285,8 @@
           "children": [
             {
               "text": "Illegal Aliens in the U.S. with Dr. Jorge Bustamante",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730601/"
             }
           ]
         },
@@ -302,7 +295,8 @@
           "children": [
             {
               "text": "Latin-American Aliens in the U.S.",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730628/"
             }
           ]
         },
@@ -311,7 +305,8 @@
           "children": [
             {
               "text": "Illegal Aliens in the U.S. (Same as \"Illegal Aliens in the U.S. with Dr. Jorge Bustamante\")",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730801/"
             }
           ]
         }
@@ -333,17 +328,9 @@
           "type": "list-item",
           "children": [
             {
-              "text": "Six month news wrap-up: Chile and Uruguay",
-              "italic": true
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Six month news wrap-up: Brazil and Argentina",
-              "italic": true
+              "text": "Six month news wrap-up: Chile and Uruguay & Six month news wrap-up: Brazil and Argentina",
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730830/"
             }
           ]
         },
@@ -352,7 +339,8 @@
           "children": [
             {
               "text": "News wrap-ups: Bolivia and Argentina  ",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19731213/"
             }
           ]
         },
@@ -360,8 +348,9 @@
           "type": "list-item",
           "children": [
             {
-              "text": "1973 News wrap-ups: Peru and Brazil (15:00).",
-              "italic": true
+              "text": "1973 News wrap-ups: Peru and Brazil (15:00)",
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19731213/"
             }
           ]
         },
@@ -369,17 +358,9 @@
           "type": "list-item",
           "children": [
             {
-              "text": "News wrap-up: Uruguay ",
-              "italic": true
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "News wrap-up: Chile ",
-              "italic": true
+              "text": "News wrap-up: Uruguay & News wrap-up: Chile ",
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19731219/"
             }
           ]
         }
@@ -402,7 +383,8 @@
           "children": [
             {
               "text": "Panama and the Canal",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730329/"
             }
           ]
         },
@@ -411,7 +393,8 @@
           "children": [
             {
               "text": "Brazil and Organization of American States",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730405/"
             }
           ]
         },
@@ -420,7 +403,8 @@
           "children": [
             {
               "text": "The U.S. Government in Chile",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730412/"
             }
           ]
         },
@@ -429,7 +413,8 @@
           "children": [
             {
               "text": "Bolivian Political Prisoners",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730503/"
             }
           ]
         },
@@ -438,7 +423,8 @@
           "children": [
             {
               "text": "The Peronist Movement in Argentina",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730517/"
             }
           ]
         },
@@ -447,7 +433,8 @@
           "children": [
             {
               "text": "Opposition to the Peronists in Argentina",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730531/"
             }
           ]
         },
@@ -456,7 +443,8 @@
           "children": [
             {
               "text": "Allende's Chile",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730808/"
             }
           ]
         },
@@ -465,7 +453,8 @@
           "children": [
             {
               "text": "Press Coverage of Chile",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730913/"
             }
           ]
         },
@@ -474,7 +463,8 @@
           "children": [
             {
               "text": "Chile Under Allende",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19730919/"
             }
           ]
         },
@@ -483,7 +473,8 @@
           "children": [
             {
               "text": "The Church in Chile, Father Charles McPadden ",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19731011/"
             }
           ]
         },
@@ -492,7 +483,8 @@
           "children": [
             {
               "text": "Chile After the Coup",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19731018/"
             }
           ]
         },
@@ -501,7 +493,8 @@
           "children": [
             {
               "text": "Resistance in Chile to the Junta",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19731025/"
             }
           ]
         },
@@ -510,7 +503,8 @@
           "children": [
             {
               "text": "Chilean Chronology",
-              "italic": true
+              "italic": true,
+              "link": "https://llilasbenson.github.io/lapr/pages/lapr19731101/"
             }
           ]
         }
@@ -525,6 +519,6 @@
   "slug": "topics-covered",
   "created_at": "2025-03-12T02:19:38.157Z",
   "created_by": "rpr88",
-  "updated_at": "2025-04-01T17:12:24.191Z",
+  "updated_at": "2025-04-03T02:29:41.981Z",
   "updated_by": "rpr88"
 }
