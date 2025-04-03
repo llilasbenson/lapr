@@ -95,17 +95,9 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "image",
       "url": "https://utexas.box.com/shared/static/41pu9p79167do1dj4egbez74ogyhcbj5.png",
-      "size": "full",
+      "size": "large",
       "children": [
         {
           "text": ""
@@ -124,7 +116,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": " 2. Scroll down to the tab titled "
+          "text": "2. Scroll down to the tab titled "
         },
         {
           "text": "'Index'",
@@ -133,18 +125,41 @@
       ]
     },
     {
+      "type": "image",
+      "url": "https://utexas.box.com/shared/static/br2z3gc7xozcijn5n4cb3r1ej8klhten.png",
+      "size": "large",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
-          "bold": true,
-          "text": ""
+          "text": "3. The Index page will have two sections, "
+        },
+        {
+          "text": "Countries",
+          "bold": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Communities",
+          "bold": true
+        },
+        {
+          "text": ". Click view details on the right side of the screen. "
         }
       ]
     },
     {
       "type": "image",
-      "url": "https://utexas.box.com/shared/static/br2z3gc7xozcijn5n4cb3r1ej8klhten.png",
-      "size": "full",
+      "url": "https://utexas.box.com/shared/static/v7rpqe3w4q39omdsu9sw152pk99wa12u.png",
+      "size": "large",
       "children": [
         {
           "text": ""
@@ -156,6 +171,77 @@
       "children": [
         {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "4.  By clicking on either the Countries or Communities, you can see where a country or a community is mentioned throughout the programs. "
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://utexas.box.com/shared/static/5al304jlpkm5vhlkc5pww5chw5l3tmio.png",
+              "size": "large",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://utexas.box.com/shared/static/uqupl8zhlt4qbqbhkwlo1mc1mctoyr61.png",
+              "size": "large",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -176,6 +262,6 @@
   "slug": "tags-and-annotations",
   "created_at": "2025-03-12T02:25:41.951Z",
   "created_by": "rpr88",
-  "updated_at": "2025-04-03T02:47:44.885Z",
+  "updated_at": "2025-04-03T23:45:21.224Z",
   "updated_by": "rpr88"
 }
