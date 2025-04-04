@@ -183,65 +183,38 @@
       ]
     },
     {
-      "type": "grid",
-      "layout": [
-        3,
-        3
-      ],
+      "type": "paragraph",
       "children": [
         {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://utexas.box.com/shared/static/5al304jlpkm5vhlkc5pww5chw5l3tmio.png",
-              "size": "large",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://utexas.box.com/shared/static/5al304jlpkm5vhlkc5pww5chw5l3tmio.png",
+      "size": "large",
+      "children": [
         {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://utexas.box.com/shared/static/uqupl8zhlt4qbqbhkwlo1mc1mctoyr61.png",
-              "size": "large",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://utexas.box.com/shared/static/uqupl8zhlt4qbqbhkwlo1mc1mctoyr61.png",
+      "size": "large",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -262,6 +235,6 @@
   "slug": "tags-and-annotations",
   "created_at": "2025-03-12T02:25:41.951Z",
   "created_by": "rpr88",
-  "updated_at": "2025-04-03T23:45:21.224Z",
+  "updated_at": "2025-04-04T00:40:20.632Z",
   "updated_by": "rpr88"
 }
