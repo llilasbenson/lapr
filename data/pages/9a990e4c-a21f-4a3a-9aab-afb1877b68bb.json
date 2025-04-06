@@ -1,0 +1,44 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "456cdca4-4f25-4389-be00-f12e54a2439f",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "LAPR1974_01_04",
+  "parent": "ba50fbf3-d272-46e9-8876-f7032ccc2085",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "lapr19740104",
+  "created_at": "2025-04-06T01:27:52.048Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-04-06T01:27:52.048Z",
+  "updated_by": "rpr88"
+}
