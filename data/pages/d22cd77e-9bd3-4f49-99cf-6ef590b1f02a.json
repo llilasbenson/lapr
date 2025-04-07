@@ -9,33 +9,6 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ],
-      "align": "center"
-    },
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_f_1256_h69_2003.jpg",
-      "size": "full",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "grid",
       "layout": [
         3,
@@ -46,15 +19,25 @@
           "type": "column",
           "children": [
             {
-              "type": "paragraph",
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_f_1256_h69_2003.jpg",
+              "size": "full",
               "children": [
                 {
-                  "text": "Event Summary",
-                  "bold": true,
-                  "underline": true
+                  "text": ""
                 }
-              ],
-              "align": "justify"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "bold": true,
+                  "underline": true,
+                  "text": "Event Summary"
+                }
+              ]
             },
             {
               "type": "paragraph",
@@ -214,7 +197,7 @@
   "created_by": "rpr88",
   "title": "LAPR1973_03_22",
   "slug": "lapr19730322-2",
-  "updated_at": "2025-04-07T19:13:41.447Z",
+  "updated_at": "2025-04-07T20:11:34.302Z",
   "updated_by": "llilasbenson",
   "parent": "ba50fbf3-d272-46e9-8876-f7032ccc2085",
   "autogenerate": {
