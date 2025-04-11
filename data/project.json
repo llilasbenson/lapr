@@ -18,8 +18,8 @@
     "auto_populate_home_page": true,
     "additional_users": [
       {
-        "login_name": "rpr88",
-        "avatar_url": "https://avatars.githubusercontent.com/u/158184412?v=4",
+        "login_name": "tanyaclement",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
         "admin": false
       }
     ],
@@ -330,7 +330,7 @@
       ]
     },
     "created_at": "2025-02-10T21:14:32.888Z",
-    "updated_at": "2025-04-11T02:45:09.447Z",
+    "updated_at": "2025-04-11T13:26:47.604Z",
     "generate_pages_site": true
   },
   "is_private": false
