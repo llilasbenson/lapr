@@ -1,1 +1,184 @@
-{"content":[{"type":"paragraph","children":[{"text":""}]},{"type":"grid","layout":[3,3],"children":[{"type":"column","children":[{"type":"paragraph","children":[{"text":"Event Summary","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part I:","underline":true},{"text":" Delves into the grim aftermath of Chile's military coup, exposing economic hardships exacerbated by the junta's policies and a wave of political repression targeting leftist groups and former Allende supporters. The regime's moral purge involves dismantling leftist institutions, replacing university leaders with military officials, and initiating a witch hunt for perceived dissenters. Reports detail brutal human rights violations within detention centers like the National Stadium. Beyond Chile, the review highlights collaboration between Brazilian secret police and Chilean authorities to target political exiles, while Uruguay and Argentina experience their own crackdowns on leftist movements amid rising repression and political violence. The assassination of union leader Jose Rucci in Argentina prompts speculation about right-wing involvement, challenging initial attributions and revealing broader tensions within Peronism.  Argentina's Peronist movement's aggressive anti-Marxist stance, championed by President Perón, appealing to the middle class and armed forces. "}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part II:","underline":true},{"text":" Father Charlie McPadden, a Maryknoll missionary who worked in Chile, discusses the church's role under Allende and its response to socialism's rise. He notes a division within the Chilean church regarding support for Allende's programs but highlights its cooperation in addressing social injustices. However, after the military coup, the church faced repression, becoming disillusioned with the regime, particularly regarding the fate of political exiles, prompting efforts to intercede for them. This insight into the church's experiences in Chile highlights the complexities of its relationship with political power and social change."}],"align":"justify"}]},{"type":"column","children":[{"type":"paragraph","children":[{"text":"Segment Summaries ","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:00:23-0:04:07","bold":true},{"text":" Chile's military coup reversed Allende's economic policies, harming the poor and suppressing opposition."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:04:07-0:08:23","bold":true},{"text":" Reports describe severe brutality by Chilean junta, including prisoner abuse and military operations."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:08:23-0:10:15","bold":true},{"text":" Uruguay's government under Bordaberry has become increasingly repressive, considering outlawing communism."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:10:15-0:14:16","bold":true},{"text":" Jose Rucci's assassination is now suspected to be a right-wing crime, fueling Perón's aggressive anti-Marxist campaign in Argentina."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:15:00-0:27:36","bold":true},{"text":" Father Charlie McPadden discusses the church's evolving role in Chile under Allende's government and the military regime."}],"align":"justify"}]}]},{"type":"paragraph","children":[{"text":""}]},{"type":"event","uuid":"433a4f20-b6f7-4719-ae4d-d2cc999740d9","includes":["media","annotations"],"children":[{"text":""}]},{"type":"paragraph","children":[{"text":""}]}],"title":"LAPR1973_10_11","parent":"ba50fbf3-d272-46e9-8876-f7032ccc2085","autogenerate":{"enabled":false,"type":"custom"},"slug":"lapr19731011","created_at":"2025-03-26T22:17:55.788Z","created_by":"rpr88","updated_at":"2025-03-30T05:02:45.399Z","updated_by":"rpr88"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Event Summary",
+                  "bold": true,
+                  "underline": true
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I:",
+                  "underline": true
+                },
+                {
+                  "text": " Delves into the grim aftermath of Chile's military coup, exposing economic hardships exacerbated by the junta's policies and a wave of political repression targeting leftist groups and former Allende supporters. The regime's moral purge involves dismantling leftist institutions, replacing university leaders with military officials, and initiating a witch hunt for perceived dissenters. Reports detail brutal human rights violations within detention centers like the National Stadium. Beyond Chile, the review highlights collaboration between Brazilian secret police and Chilean authorities to target political exiles, while Uruguay and Argentina experience their own crackdowns on leftist movements amid rising repression and political violence. The assassination of union leader Jose Rucci in Argentina prompts speculation about right-wing involvement, challenging initial attributions and revealing broader tensions within Peronism.  Argentina's Peronist movement's aggressive anti-Marxist stance, championed by President Perón, appealing to the middle class and armed forces. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " Father Charlie McPadden, a Maryknoll missionary who worked in Chile, discusses the church's role under Allende and its response to socialism's rise. He notes a division within the Chilean church regarding support for Allende's programs but highlights its cooperation in addressing social injustices. However, after the military coup, the church faced repression, becoming disillusioned with the regime, particularly regarding the fate of political exiles, prompting efforts to intercede for them. This insight into the church's experiences in Chile highlights the complexities of its relationship with political power and social change."
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries ",
+                  "bold": true,
+                  "underline": true
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:00:23-0:04:07",
+                  "bold": true
+                },
+                {
+                  "text": " Chile's military coup reversed Allende's economic policies, harming the poor and suppressing opposition."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:04:07-0:08:23",
+                  "bold": true
+                },
+                {
+                  "text": " Reports describe severe brutality by Chilean junta, including prisoner abuse and military operations."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:08:23-0:10:15",
+                  "bold": true
+                },
+                {
+                  "text": " Uruguay's government under Bordaberry has become increasingly repressive, considering outlawing communism."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:10:15-0:14:16",
+                  "bold": true
+                },
+                {
+                  "text": " Jose Rucci's assassination is now suspected to be a right-wing crime, fueling Perón's aggressive anti-Marxist campaign in Argentina."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:15:00-0:27:36",
+                  "bold": true
+                },
+                {
+                  "text": " Father Charlie McPadden discusses the church's evolving role in Chile under Allende's government and the military regime."
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "433a4f20-b6f7-4719-ae4d-d2cc999740d9",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "LAPR1973_10_11",
+  "parent": "35f92ddd-2211-4591-bee1-c4625876da1c",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "lapr19731011",
+  "created_at": "2025-03-26T22:17:55.788Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-04-12T01:57:24.269Z",
+  "updated_by": "rpr88"
+}
