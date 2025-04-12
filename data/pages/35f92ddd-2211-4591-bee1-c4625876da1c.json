@@ -227,14 +227,14 @@
       ]
     }
   ],
-  "title": "Tags and Annotations",
+  "title": "Annotations and Tags ",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "tags-and-annotations",
+  "slug": "annotations-and-tags",
   "created_at": "2025-03-12T02:25:41.951Z",
   "created_by": "rpr88",
-  "updated_at": "2025-04-04T00:40:20.632Z",
+  "updated_at": "2025-04-12T02:03:01.655Z",
   "updated_by": "rpr88"
 }
