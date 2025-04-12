@@ -1,1 +1,158 @@
-{"content":[{"type":"paragraph","children":[{"text":""}]},{"type":"grid","layout":[3,3],"children":[{"type":"column","children":[{"type":"paragraph","children":[{"text":"Event Summary","underline":true,"bold":true}],"align":"justify"},{"type":"paragraph","children":[{"underline":true,"text":"Part I:"},{"text":" A detailed account of the aftermath of the Chilean military coup, highlighting contradictory narratives of normalcy from the Junta and reports of internal war from Asia Information News Service. Regional reactions vary, with Uruguay and Brazil censoring information, Bolivia planning arrests, and Argentina's military calling for an end to US military missions. Inside Chile, dissent persists, with divisions among Christian Democrats and reports of severe violence and human rights abuses. International responses include aid freezes and reconsideration of diplomatic recognition. Excélsior reports on the Junta's actions, including outlawing political parties and drafting a new constitution granting significant power to the armed forces. The Manchester Guardian implicates US involvement, while economic changes include cracking down on the black market and attracting foreign investment. In Argentina, Juan Perón wins a landslide victory in the presidential election amid internal tensions within the Peronist movement. "}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part II: ","underline":true},{"text":"Puerto Rico's history of colonial subjugation under various western powers culminates in its current status under US control, marked by minimal local governance and pervasive military presence. Despite initiatives like Operation Bootstrap, economic benefits primarily accrue to US investors, perpetuating poverty among Puerto Ricans. The proposed super port project raises concerns about increased US control, environmental degradation, and economic exploitation. Critics decry environmental colonialism, accusing the US of exploiting Puerto Rico's resources while exporting pollution. The Pro Independence Movement advocates for sovereignty, highlighting the limitations of electoral processes subject to US approval. Recent acts of sabotage against US properties underscore growing resistance to US influence, reflecting ongoing struggles for autonomy and environmental preservation in Puerto Rico."}],"align":"justify"}]},{"type":"column","children":[{"type":"paragraph","children":[{"text":"Segment Summaries ","underline":true,"bold":true}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:00:30-0:11:37 ","bold":true},{"text":"Two weeks after Chile's coup, global media reports escalating violence, censorship, and military control."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:11:37-0:14:02 ","bold":true},{"text":"Juan Perón won Argentina's presidency in 1973 with 62% of the vote after an 18-year absence."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:14:23-0:28:21 ","bold":true},{"text":"Puerto Rico's colonial status under U.S. control has sparked ongoing struggles for independence and environmental concerns."}],"align":"justify"}]}]},{"type":"paragraph","children":[{"text":""}]},{"type":"event","uuid":"76de6384-a31f-4ec1-a515-31efaebf0679","includes":["media","annotations"],"children":[{"text":""}]},{"type":"paragraph","children":[{"text":""}]}],"title":"LAPR1973_09_27","parent":"ba50fbf3-d272-46e9-8876-f7032ccc2085","autogenerate":{"enabled":false,"type":"custom"},"slug":"lapr19730927","created_at":"2025-03-26T21:29:48.534Z","created_by":"rpr88","updated_at":"2025-03-30T05:01:59.419Z","updated_by":"rpr88"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Event Summary",
+                  "underline": true,
+                  "bold": true
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "underline": true,
+                  "text": "Part I:"
+                },
+                {
+                  "text": " A detailed account of the aftermath of the Chilean military coup, highlighting contradictory narratives of normalcy from the Junta and reports of internal war from Asia Information News Service. Regional reactions vary, with Uruguay and Brazil censoring information, Bolivia planning arrests, and Argentina's military calling for an end to US military missions. Inside Chile, dissent persists, with divisions among Christian Democrats and reports of severe violence and human rights abuses. International responses include aid freezes and reconsideration of diplomatic recognition. Excélsior reports on the Junta's actions, including outlawing political parties and drafting a new constitution granting significant power to the armed forces. The Manchester Guardian implicates US involvement, while economic changes include cracking down on the black market and attracting foreign investment. In Argentina, Juan Perón wins a landslide victory in the presidential election amid internal tensions within the Peronist movement. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part II: ",
+                  "underline": true
+                },
+                {
+                  "text": "Puerto Rico's history of colonial subjugation under various western powers culminates in its current status under US control, marked by minimal local governance and pervasive military presence. Despite initiatives like Operation Bootstrap, economic benefits primarily accrue to US investors, perpetuating poverty among Puerto Ricans. The proposed super port project raises concerns about increased US control, environmental degradation, and economic exploitation. Critics decry environmental colonialism, accusing the US of exploiting Puerto Rico's resources while exporting pollution. The Pro Independence Movement advocates for sovereignty, highlighting the limitations of electoral processes subject to US approval. Recent acts of sabotage against US properties underscore growing resistance to US influence, reflecting ongoing struggles for autonomy and environmental preservation in Puerto Rico."
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries ",
+                  "underline": true,
+                  "bold": true
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:00:30-0:11:37 ",
+                  "bold": true
+                },
+                {
+                  "text": "Two weeks after Chile's coup, global media reports escalating violence, censorship, and military control."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:11:37-0:14:02 ",
+                  "bold": true
+                },
+                {
+                  "text": "Juan Perón won Argentina's presidency in 1973 with 62% of the vote after an 18-year absence."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:14:23-0:28:21 ",
+                  "bold": true
+                },
+                {
+                  "text": "Puerto Rico's colonial status under U.S. control has sparked ongoing struggles for independence and environmental concerns."
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "76de6384-a31f-4ec1-a515-31efaebf0679",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "LAPR1973_09_27",
+  "parent": "35f92ddd-2211-4591-bee1-c4625876da1c",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "lapr19730927",
+  "created_at": "2025-03-26T21:29:48.534Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-04-12T01:54:00.817Z",
+  "updated_by": "rpr88"
+}
