@@ -1,1 +1,242 @@
-{"content":[{"type":"paragraph","children":[{"text":""}]},{"type":"grid","layout":[3,3],"children":[{"type":"column","children":[{"type":"paragraph","children":[{"text":"Event Summary","bold":true,"underline":true}]},{"type":"paragraph","children":[{"text":"Part I:","underline":true},{"text":" Reports on the impact of the May 4th kidnapping of a US consul in Mexico by the Fuerzas Revolucionarias Armadas del Pueblo (FRAP), a previously unknown guerrilla organization. FRAP demanded the release of prisoners and a ransom for the consul's release, garnering widespread attention and sympathy for their manifesto criticizing social injustices in Mexico. In Brazil, the Minister of Agriculture resigned, citing policies favoring foreign-owned industries over Brazilian farmers. The Fiat Auto Corporation's controversial deal with the Minas Gerais state government has raised concerns about transparency and foreign influence in Brazilian affairs. In Costa Rica, President Jose Figueres' New York bank account saw a significant increase in funds since granting refuge to American financier Robert Vesco, who is under indictment in the US for financial fraud. In Peru, the government has taken control of the fishmeal industry to address inefficiencies and reduce external dependency. Uruguay's proposal to limit trade union rights has faced opposition, and the military's attempt to strip parliamentary privileges from Senator Enrique Erro has faced resistance. Prensa Latina has expressed discontent with the human rights situation in Uruguay, citing arrests, torture of detainees, and new repressive legislation. "}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part II:","underline":true},{"text":" The Latin American Press Review features the official report of the ad-hoc committee on Guatemala, following a resolution at the 1971 National Latin American Studies Association meeting to investigate terrorism in Guatemala. The report highlights the surge in right-wing terror in 1971 under Colonel Carlos Arana Osorio's government. The violence targeted moderate opposition figures, intellectuals, students, and even some businessmen. The National University of San Carlos was a prime target, with numerous students, professors, and university officials facing threats, arrests, and assassinations. The report links US involvement to the situation, detailing military and police assistance, which has been criticized for its political implications. Despite a relatively calmer 1972, rightist political violence persisted, with documented disappearances and human rights violations, indicating a systemic repression in Guatemala since 1954. "}],"align":"justify"}]},{"type":"column","children":[{"type":"paragraph","children":[{"text":"Segment Summaries","bold":true,"underline":true}]},{"type":"paragraph","children":[{"text":"0:00:18-0:04:05","bold":true},{"text":" The kidnapping of a US consul in Mexico by FRAP highlighted severe socio-economic disparities, bringing unprecedented attention to this guerrilla group."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:04:05-0:05:24","bold":true},{"text":" Kidnapping in Latin America has spurred demand for new kidnapping insurance, particularly in high-risk countries."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:05:24-0:06:34","bold":true},{"text":" Brazil's Minister of Agriculture resigned in protest over policies favoring foreign-owned industrial and exports."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:06:34-0:07:52","bold":true},{"text":" A scandal involving Fiat and the Minas Gerais over a poorly detailed bill to establish a plant, bypassing Brazilian courts for disputes."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:07:52-0:09:32","bold":true},{"text":" President Jose Figueres's New York bank account grew by $325,000 from Vesco-linked companies after Costa Rica gave refuge to financier Robert Vesco."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:09:32-0:11:33","bold":true},{"text":" The Peruvian government took control of the fishmeal industry, citing overcapacity and production inefficiencies."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:11:33-0:12:22","bold":true},{"text":" Argentina's new government under Perón's Hector Campora will investigate the 1972 Trelew massacre despite military opposition."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:12:22-0:14:38","bold":true},{"text":" The Uruguayan government has proposed a bill to curtail trade union rights and another imposing imprisonment for sympathizing with the Tupamaros."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:15:04-0:28:56","bold":true},{"text":" In 1971, Guatemala faced severe state-sponsored violence and repression, with US assistance to Guatemalan security forces exacerbating the situation."}],"align":"justify"},{"type":"paragraph","children":[{"text":""}]}]}]},{"type":"paragraph","children":[{"text":""}]},{"type":"event","uuid":"b867f612-0c59-450a-a19a-42d475a13c0a","includes":["media","annotations"],"children":[{"text":""}]},{"type":"paragraph","children":[{"text":""}]}],"title":"LAPR1973_05_24","parent":"ba50fbf3-d272-46e9-8876-f7032ccc2085","autogenerate":{"enabled":false,"type":"custom"},"slug":"lapr19730524","created_at":"2025-03-15T17:33:00.383Z","created_by":"rpr88","updated_at":"2025-03-30T04:41:57.771Z","updated_by":"rpr88"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Event Summary",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I:",
+                  "underline": true
+                },
+                {
+                  "text": " Reports on the impact of the May 4th kidnapping of a US consul in Mexico by the Fuerzas Revolucionarias Armadas del Pueblo (FRAP), a previously unknown guerrilla organization. FRAP demanded the release of prisoners and a ransom for the consul's release, garnering widespread attention and sympathy for their manifesto criticizing social injustices in Mexico. In Brazil, the Minister of Agriculture resigned, citing policies favoring foreign-owned industries over Brazilian farmers. The Fiat Auto Corporation's controversial deal with the Minas Gerais state government has raised concerns about transparency and foreign influence in Brazilian affairs. In Costa Rica, President Jose Figueres' New York bank account saw a significant increase in funds since granting refuge to American financier Robert Vesco, who is under indictment in the US for financial fraud. In Peru, the government has taken control of the fishmeal industry to address inefficiencies and reduce external dependency. Uruguay's proposal to limit trade union rights has faced opposition, and the military's attempt to strip parliamentary privileges from Senator Enrique Erro has faced resistance. Prensa Latina has expressed discontent with the human rights situation in Uruguay, citing arrests, torture of detainees, and new repressive legislation. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " The Latin American Press Review features the official report of the ad-hoc committee on Guatemala, following a resolution at the 1971 National Latin American Studies Association meeting to investigate terrorism in Guatemala. The report highlights the surge in right-wing terror in 1971 under Colonel Carlos Arana Osorio's government. The violence targeted moderate opposition figures, intellectuals, students, and even some businessmen. The National University of San Carlos was a prime target, with numerous students, professors, and university officials facing threats, arrests, and assassinations. The report links US involvement to the situation, detailing military and police assistance, which has been criticized for its political implications. Despite a relatively calmer 1972, rightist political violence persisted, with documented disappearances and human rights violations, indicating a systemic repression in Guatemala since 1954. "
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:00:18-0:04:05",
+                  "bold": true
+                },
+                {
+                  "text": " The kidnapping of a US consul in Mexico by FRAP highlighted severe socio-economic disparities, bringing unprecedented attention to this guerrilla group."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:04:05-0:05:24",
+                  "bold": true
+                },
+                {
+                  "text": " Kidnapping in Latin America has spurred demand for new kidnapping insurance, particularly in high-risk countries."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:05:24-0:06:34",
+                  "bold": true
+                },
+                {
+                  "text": " Brazil's Minister of Agriculture resigned in protest over policies favoring foreign-owned industrial and exports."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:06:34-0:07:52",
+                  "bold": true
+                },
+                {
+                  "text": " A scandal involving Fiat and the Minas Gerais over a poorly detailed bill to establish a plant, bypassing Brazilian courts for disputes."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:07:52-0:09:32",
+                  "bold": true
+                },
+                {
+                  "text": " President Jose Figueres's New York bank account grew by $325,000 from Vesco-linked companies after Costa Rica gave refuge to financier Robert Vesco."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:09:32-0:11:33",
+                  "bold": true
+                },
+                {
+                  "text": " The Peruvian government took control of the fishmeal industry, citing overcapacity and production inefficiencies."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:11:33-0:12:22",
+                  "bold": true
+                },
+                {
+                  "text": " Argentina's new government under Perón's Hector Campora will investigate the 1972 Trelew massacre despite military opposition."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:12:22-0:14:38",
+                  "bold": true
+                },
+                {
+                  "text": " The Uruguayan government has proposed a bill to curtail trade union rights and another imposing imprisonment for sympathizing with the Tupamaros."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:15:04-0:28:56",
+                  "bold": true
+                },
+                {
+                  "text": " In 1971, Guatemala faced severe state-sponsored violence and repression, with US assistance to Guatemalan security forces exacerbating the situation."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "b867f612-0c59-450a-a19a-42d475a13c0a",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "LAPR1973_05_24",
+  "parent": "35f92ddd-2211-4591-bee1-c4625876da1c",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "lapr19730524",
+  "created_at": "2025-03-15T17:33:00.383Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-04-12T01:43:39.793Z",
+  "updated_by": "rpr88"
+}
