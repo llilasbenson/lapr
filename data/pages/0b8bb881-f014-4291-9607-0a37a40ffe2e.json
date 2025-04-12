@@ -1,1 +1,210 @@
-{"content":[{"type":"paragraph","children":[{"text":""}]},{"type":"grid","layout":[3,3],"children":[{"type":"column","children":[{"type":"paragraph","children":[{"text":"Event Summary","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part I:","underline":true},{"text":" In Peru, escalating violence in Cusco and Arequipa underscores serious unrest, fueled by a teachers' strike accused of subversion. President Juan Velasco's confrontational rhetoric heightens tensions. In Chile, Cardinal Silva Henríquez balances delicate church-state relations post-coup, adapting to shifting political dynamics. The silence from the Archbishop's palace signals a cautious approach, amid censorship challenges faced by Mensaje, the church newspaper. The Chilean military's arrest of General Alfredo Bachelet suggests internal dissent within the ranks. Concerns over press freedom persist following the deaths of journalists, amidst international efforts to support Chilean resistance. In Mexico, President Echeverría warns against foreign investment encroaching on Mexican firms, amid controversial state company privatizations aimed at economic development. Recent events also include the assassination of a Ford executive in Argentina, reflecting heightened risks for foreign business figures. The Latin American Foreign Minister's Conference in Bogota emphasized regional solidarity, sovereignty support for Panama, and calls for reorganizing US-Latin America relations. "}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part II:","underline":true},{"text":" In 1961, discussions in Cuba tackled art's role and freedom of expression under the revolution. Fidel Castro stressed acceptance of diverse expression but intolerance toward counter-revolutionary sentiments. Initiatives like the National School of Cuban Art fostered socially relevant creations. Poster art became a potent tool for revolutionary messages, and architecture focused on housing and public facilities. The National Ballet of Cuba gained acclaim, and efforts promoted authentic Cuban and Latin American music. Revolutionary Cuban cinema thrived with support from an institute dedicated to film education, aiming to democratize access to film. The Cuban Film Institute aimed to dismantle film language barriers, despite economic constraints and the US blockade. Cuban cinema faced the challenge of reflecting a changing reality without solidifying experiences. "}],"align":"justify"}]},{"type":"column","children":[{"type":"paragraph","children":[{"text":"Segment Summaries","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:00:21-0:03:25","bold":true},{"text":" Peru faces violent unrest with strikes, student riots, and harsh government responses under President Velasco."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:03:25-0:06:36","bold":true},{"text":" Cardinal Silva Henríquez navigates difficult church-state relations in Chile post-coup, balancing repression."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:06:36-0:08:28","bold":true},{"text":" The Chilean junta faces internal dissent, international protests, and support for resistance movements."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:08:28-0:11:49","bold":true},{"text":" President Echeverría warns foreign investors, sells state companies, despite criticism from Mexico's left."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:11:49-0:13:06","bold":true},{"text":" An Argentine Ford executive and bodyguards were killed amid rising violence against foreign executives."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:13:06-0:14:20","bold":true},{"text":" Latin American Foreign Ministers Conference discussed sovereignty, multinational interference, and reorganizing US-Latin America relations."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:15:04-0:28:05","bold":true},{"text":" The feature explores Cuban culture, emphasizing the revolution's impact on art, cinema, and architecture."}],"align":"justify"}]}]},{"type":"paragraph","children":[{"text":""}]},{"type":"event","uuid":"cdd8c88a-4a72-4a4d-a80a-b33c2d1bb698","includes":["media","annotations"],"children":[{"text":""}]},{"type":"paragraph","children":[{"text":""}]}],"title":"LAPR1973_11_29","parent":"ba50fbf3-d272-46e9-8876-f7032ccc2085","autogenerate":{"enabled":false,"type":"custom"},"slug":"lapr19731129","created_at":"2025-03-28T22:41:07.117Z","created_by":"rpr88","updated_at":"2025-03-30T05:06:19.775Z","updated_by":"rpr88"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Event Summary",
+                  "bold": true,
+                  "underline": true
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I:",
+                  "underline": true
+                },
+                {
+                  "text": " In Peru, escalating violence in Cusco and Arequipa underscores serious unrest, fueled by a teachers' strike accused of subversion. President Juan Velasco's confrontational rhetoric heightens tensions. In Chile, Cardinal Silva Henríquez balances delicate church-state relations post-coup, adapting to shifting political dynamics. The silence from the Archbishop's palace signals a cautious approach, amid censorship challenges faced by Mensaje, the church newspaper. The Chilean military's arrest of General Alfredo Bachelet suggests internal dissent within the ranks. Concerns over press freedom persist following the deaths of journalists, amidst international efforts to support Chilean resistance. In Mexico, President Echeverría warns against foreign investment encroaching on Mexican firms, amid controversial state company privatizations aimed at economic development. Recent events also include the assassination of a Ford executive in Argentina, reflecting heightened risks for foreign business figures. The Latin American Foreign Minister's Conference in Bogota emphasized regional solidarity, sovereignty support for Panama, and calls for reorganizing US-Latin America relations. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " In 1961, discussions in Cuba tackled art's role and freedom of expression under the revolution. Fidel Castro stressed acceptance of diverse expression but intolerance toward counter-revolutionary sentiments. Initiatives like the National School of Cuban Art fostered socially relevant creations. Poster art became a potent tool for revolutionary messages, and architecture focused on housing and public facilities. The National Ballet of Cuba gained acclaim, and efforts promoted authentic Cuban and Latin American music. Revolutionary Cuban cinema thrived with support from an institute dedicated to film education, aiming to democratize access to film. The Cuban Film Institute aimed to dismantle film language barriers, despite economic constraints and the US blockade. Cuban cinema faced the challenge of reflecting a changing reality without solidifying experiences. "
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "underline": true
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:00:21-0:03:25",
+                  "bold": true
+                },
+                {
+                  "text": " Peru faces violent unrest with strikes, student riots, and harsh government responses under President Velasco."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:03:25-0:06:36",
+                  "bold": true
+                },
+                {
+                  "text": " Cardinal Silva Henríquez navigates difficult church-state relations in Chile post-coup, balancing repression."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:06:36-0:08:28",
+                  "bold": true
+                },
+                {
+                  "text": " The Chilean junta faces internal dissent, international protests, and support for resistance movements."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:08:28-0:11:49",
+                  "bold": true
+                },
+                {
+                  "text": " President Echeverría warns foreign investors, sells state companies, despite criticism from Mexico's left."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:11:49-0:13:06",
+                  "bold": true
+                },
+                {
+                  "text": " An Argentine Ford executive and bodyguards were killed amid rising violence against foreign executives."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:13:06-0:14:20",
+                  "bold": true
+                },
+                {
+                  "text": " Latin American Foreign Ministers Conference discussed sovereignty, multinational interference, and reorganizing US-Latin America relations."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:15:04-0:28:05",
+                  "bold": true
+                },
+                {
+                  "text": " The feature explores Cuban culture, emphasizing the revolution's impact on art, cinema, and architecture."
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "cdd8c88a-4a72-4a4d-a80a-b33c2d1bb698",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "LAPR1973_11_29",
+  "parent": "35f92ddd-2211-4591-bee1-c4625876da1c",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "lapr19731129",
+  "created_at": "2025-03-28T22:41:07.117Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-04-12T02:00:07.486Z",
+  "updated_by": "rpr88"
+}
