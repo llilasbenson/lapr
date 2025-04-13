@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Tags ",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "tags",
+  "created_at": "2025-04-13T00:30:01.568Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-04-13T00:30:01.568Z",
+  "updated_by": "rpr88"
+}
