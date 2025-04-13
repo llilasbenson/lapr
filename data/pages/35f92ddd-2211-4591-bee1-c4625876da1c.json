@@ -131,148 +131,8 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "How to search using Tags",
+                  "text": "",
                   "bold": true
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "1. Go to the Main Page"
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://utexas.box.com/shared/static/41pu9p79167do1dj4egbez74ogyhcbj5.png",
-              "size": "large",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "2. Scroll down to the tab titled "
-                },
-                {
-                  "text": "'Index'",
-                  "bold": true
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://utexas.box.com/shared/static/br2z3gc7xozcijn5n4cb3r1ej8klhten.png",
-              "size": "large",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "3. The Index page will have two sections, "
-                },
-                {
-                  "text": "Countries",
-                  "bold": true
-                },
-                {
-                  "text": " and "
-                },
-                {
-                  "text": "Communities",
-                  "bold": true
-                },
-                {
-                  "text": ". Click view details on the right side of the screen. "
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://utexas.box.com/shared/static/v7rpqe3w4q39omdsu9sw152pk99wa12u.png",
-              "size": "large",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "4.  By clicking on either the Countries or Communities, you can see where a country or a community is mentioned throughout the programs. "
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://utexas.box.com/shared/static/5al304jlpkm5vhlkc5pww5chw5l3tmio.png",
-              "size": "large",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://utexas.box.com/shared/static/uqupl8zhlt4qbqbhkwlo1mc1mctoyr61.png",
-              "size": "large",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
                 }
               ]
             }
@@ -297,14 +157,14 @@
       ]
     }
   ],
-  "title": "Annotations and Tags ",
+  "title": "Annotated Programs",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "annotations-and-tags",
+  "slug": "annotated-programs",
   "created_at": "2025-03-12T02:25:41.951Z",
   "created_by": "rpr88",
-  "updated_at": "2025-04-12T21:09:06.341Z",
+  "updated_at": "2025-04-13T00:31:49.168Z",
   "updated_by": "rpr88"
 }
