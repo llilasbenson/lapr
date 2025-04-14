@@ -189,7 +189,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "For a full view of the annotations, visit the sheet created for "
+          "text": "For a full list of annotations, visit the sheet created for "
         },
         {
           "text": "LAPR1973_03_22.",
@@ -202,7 +202,7 @@
   "created_by": "rpr88",
   "title": "LAPR1973_03_22",
   "slug": "lapr19730322-2",
-  "updated_at": "2025-04-13T18:47:43.364Z",
+  "updated_at": "2025-04-14T01:39:50.367Z",
   "updated_by": "rpr88",
   "parent": "35f92ddd-2211-4591-bee1-c4625876da1c",
   "autogenerate": {
