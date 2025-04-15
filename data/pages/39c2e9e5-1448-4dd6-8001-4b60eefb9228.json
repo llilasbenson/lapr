@@ -118,16 +118,6 @@
               ]
             },
             {
-              "type": "image",
-              "url": "https://utexas.box.com/shared/static/lv24azy6sie7joolx4nl6aib22u3xq96.png",
-              "size": "large",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "paragraph",
               "children": [
                 {
@@ -136,27 +126,11 @@
               ]
             },
             {
-              "type": "image",
-              "url": "https://utexas.box.com/shared/static/p60m8kfxn6cksbmyzveb2awskqr15f40.png",
-              "size": "large",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://utexas.box.com/shared/static/ihqfwshjx1zak5msaxapg4ey8x34x97g.png",
-              "size": "large",
+              "type": "event",
+              "uuid": "6be021a7-6046-4c92-903d-c9111c50d691",
+              "includes": [
+                "media"
+              ],
               "children": [
                 {
                   "text": ""
@@ -182,52 +156,6 @@
                 {
                   "text": "For 'Communities' tags:",
                   "bold": true
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://utexas.box.com/shared/static/5jxw1b4g7kef9aj9cujetnm0gfg9lgc3.png",
-              "size": "large",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://utexas.box.com/shared/static/a0j4kgc3nzuwblf33gd680ksbobf1djm.png",
-              "size": "large",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://utexas.box.com/shared/static/ix41ziky5rjt033uqit7aj763ew7ct8h.png",
-              "size": "large",
-              "children": [
-                {
-                  "text": ""
                 }
               ]
             },
@@ -268,6 +196,6 @@
   "slug": "how-to-use-tags",
   "created_at": "2025-04-13T00:30:01.568Z",
   "created_by": "rpr88",
-  "updated_at": "2025-04-14T01:59:52.055Z",
+  "updated_at": "2025-04-15T19:35:06.484Z",
   "updated_by": "rpr88"
 }
