@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "21a5d237-50e0-48ba-84d4-12f4af4a19fd": {
+      "label": "How to Use Community Tags",
+      "is_offline": false,
+      "file_url": "https://utexas.box.com/shared/static/pa241yivy8n1cknyvpdlrp1z7xjcvqx4.mov",
+      "duration": 90,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": false,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "How to Use Community Tags",
+  "created_at": "2025-04-15T19:44:47.344Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-04-15T19:44:47.344Z",
+  "updated_by": "rpr88"
+}
