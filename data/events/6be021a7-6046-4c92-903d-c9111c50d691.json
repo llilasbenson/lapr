@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "804e834f-b3e4-4764-b183-5827ff1474ff": {
+      "label": "How to Use Country Tags",
+      "is_offline": false,
+      "file_url": "https://utexas.box.com/shared/static/3ctjt9brbvh5plxubeotlwvh4i3f178c.mov",
+      "duration": 90,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "How to Use Country Tags",
+  "created_at": "2025-04-15T19:33:32.094Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-04-15T19:33:32.094Z",
+  "updated_by": "rpr88"
+}
