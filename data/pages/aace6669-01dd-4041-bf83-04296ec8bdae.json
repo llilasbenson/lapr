@@ -22,10 +22,19 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "This project was developed by Rebekah Ramos, Graduate Student Technician at the LLILAS Benson Digital Scholarship Lab. "
+                  "text": ""
                 }
               ],
               "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "This project was developed by Rebekah Ramos, Graduate Student Technician at the LLILAS Benson Digital Scholarship Lab. "
+                }
+              ]
             },
             {
               "type": "paragraph",
@@ -51,6 +60,24 @@
           "type": "column",
           "children": [
             {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_lapr_reels_004.jpg",
+              "size": "full",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "paragraph",
               "children": [
                 {
@@ -59,14 +86,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
         }
       ]
     },
@@ -87,6 +106,6 @@
   "slug": "about",
   "created_at": "2025-04-17T02:29:49.857Z",
   "created_by": "rpr88",
-  "updated_at": "2025-04-17T04:09:55.801Z",
-  "updated_by": "rpr88"
+  "updated_at": "2025-04-17T17:19:46.137Z",
+  "updated_by": "llilasbenson"
 }
