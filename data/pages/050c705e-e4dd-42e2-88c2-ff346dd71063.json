@@ -64,25 +64,15 @@
           "type": "column",
           "children": [
             {
-              "type": "image",
-              "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_cristianos_socialismo_records_01_04_001.jpg",
-              "size": "full",
+              "type": "paragraph",
+              "align": "center",
               "children": [
                 {
-                  "text": ""
+                  "bold": true,
+                  "underline": true,
+                  "text": "Segment Summaries"
                 }
               ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Segment Summaries",
-                  "bold": true,
-                  "underline": true
-                }
-              ],
-              "align": "center"
             },
             {
               "type": "paragraph",
@@ -135,6 +125,16 @@
                 }
               ],
               "align": "justify"
+            },
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_cristianos_socialismo_records_01_04_001.jpg",
+              "size": "full",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         }
@@ -180,6 +180,6 @@
   "slug": "1973-04-12",
   "created_at": "2025-03-13T00:41:07.623Z",
   "created_by": "rpr88",
-  "updated_at": "2025-04-17T20:34:59.636Z",
+  "updated_at": "2025-04-17T22:15:26.569Z",
   "updated_by": "rpr88"
 }
