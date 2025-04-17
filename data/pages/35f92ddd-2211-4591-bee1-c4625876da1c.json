@@ -4,15 +4,13 @@
       "type": "paragraph",
       "children": [
         {
-          "code": true,
           "text": "You can explore the collection in this "
         },
         {
           "text": "ArcGIS map",
-          "link": "https://www.arcgis.com/apps/mapviewer/index.html?webmap=9712a05cffd7420abe191f36f2e71b9f"
+          "link": "https://www.arcgis.com/sharing/rest/content/items/ed5c21af1df146eb92ec3a6c21e2179f/data"
         },
         {
-          "code": true,
           "text": "."
         }
       ]
@@ -45,6 +43,6 @@
   "slug": "annotated-programs",
   "created_at": "2025-03-12T02:25:41.951Z",
   "created_by": "rpr88",
-  "updated_at": "2025-04-17T18:06:05.620Z",
-  "updated_by": "llilasbenson"
+  "updated_at": "2025-04-17T20:46:43.413Z",
+  "updated_by": "rpr88"
 }
