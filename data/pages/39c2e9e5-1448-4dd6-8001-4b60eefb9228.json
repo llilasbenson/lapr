@@ -4,7 +4,6 @@
       "type": "block-quote",
       "children": [
         {
-          "bold": true,
           "text": ""
         }
       ]
@@ -13,80 +12,21 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "1. Go to the Main Page",
-          "highlight": "#fffefa"
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://utexas.box.com/shared/static/41pu9p79167do1dj4egbez74ogyhcbj5.png",
-      "size": "full",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "2. Scroll down to the tab titled "
+          "text": "There are two ways you can search through the radio programs with "
         },
         {
-          "text": "'Index'",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://utexas.box.com/shared/static/br2z3gc7xozcijn5n4cb3r1ej8klhten.png",
-      "size": "large",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "3. The Index page will have two sections, "
-        },
-        {
-          "text": "Countries",
+          "text": "Tags",
           "bold": true
         },
         {
-          "text": " and "
+          "text": ". In the following video tutorials, see how you can search by using "
         },
         {
-          "text": "Communities",
+          "text": "Tags",
           "bold": true
         },
         {
-          "text": ". "
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://utexas.box.com/shared/static/v7rpqe3w4q39omdsu9sw152pk99wa12u.png",
-      "size": "large",
-      "children": [
-        {
-          "text": ""
+          "text": " from the Countries or Communities mentioned throughout the collection:"
         }
       ]
     },
@@ -94,29 +34,35 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "How to Search Using the Index"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
+          "text": "How to search using a 'Countries Tag:",
+          "bold": true
         }
       ]
     },
     {
       "type": "event",
       "uuid": "6be021a7-6046-4c92-903d-c9111c50d691",
+      "includes": [
+        "media"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "How to search using a 'Communities' Tag:"
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "ad5679a1-ee48-422e-aa58-f4cc101c588a",
       "includes": [
         "media"
       ],
@@ -143,6 +89,6 @@
   "slug": "how-to-use-tags",
   "created_at": "2025-04-13T00:30:01.568Z",
   "created_by": "rpr88",
-  "updated_at": "2025-04-15T22:43:10.374Z",
+  "updated_at": "2025-04-17T02:35:27.308Z",
   "updated_by": "rpr88"
 }
