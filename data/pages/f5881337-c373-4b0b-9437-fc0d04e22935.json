@@ -1,1 +1,112 @@
-{"content":[{"type":"paragraph","children":[{"text":""}]}],"title":"LAPR1974_02_07","parent":"35f92ddd-2211-4591-bee1-c4625876da1c","autogenerate":{"enabled":false,"type":"custom"},"slug":"lapr19740207","created_at":"2025-04-12T02:18:14.924Z","created_by":"rpr88","updated_at":"2025-04-12T02:18:14.924Z","updated_by":"rpr88"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "bold": true,
+          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_mx_communist_party_01_12_001.jpg",
+              "size": "full",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "bold": true,
+                  "underline": true,
+                  "text": "Event Summary"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I:  "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part II:  "
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "underline": true
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "1974-02-07",
+  "parent": "35f92ddd-2211-4591-bee1-c4625876da1c",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "1974-02-07",
+  "created_at": "2025-04-12T02:18:14.924Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-04-17T16:56:16.832Z",
+  "updated_by": "llilasbenson"
+}
