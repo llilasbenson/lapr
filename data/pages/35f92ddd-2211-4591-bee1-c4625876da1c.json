@@ -4,7 +4,84 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "You can explore the collection in this "
+          "text": "The Latin American Press Review Collection’s radio programs offer a wide range of rich and expansive information on events that occurred in Latin America during the 1970’s. When approaching how to best display the richness of the information in these programs, annotations were created to display the major subjects and topics included throughout. In the programs included throughout the webpage, annotations were created of the "
+        },
+        {
+          "text": "Countries",
+          "link": "https://llilasbenson.github.io/lapr/tags/detail/countries/"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Communities",
+          "link": "https://llilasbenson.github.io/lapr/tags/detail/communities/"
+        },
+        {
+          "text": " mentioned in each individual program."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Countries",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Each segment within a program will include between four to eight country tags. For segments that mentioned more than that amount, eight countries were chosen based on how important the country was to the content of the segment. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Communities"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In creating annotations for these programs, a pattern emerged of the communities that were affected and included within the events featured. "
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "The most used annotations were those of working class groups. These were divided into ‘Working Class (Urban)’ and ‘Working Class (rural)’ tags to distinguish the types of work and events these groups appeared in. "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Tags were also created to display the segments that included Women, Indigenous people, and Black people. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "You can explore the countries annotated in the collection in this "
         },
         {
           "text": "ArcGIS map",
@@ -43,6 +120,6 @@
   "slug": "annotated-programs",
   "created_at": "2025-03-12T02:25:41.951Z",
   "created_by": "rpr88",
-  "updated_at": "2025-04-17T20:46:43.413Z",
+  "updated_at": "2025-04-17T22:11:18.876Z",
   "updated_by": "rpr88"
 }
