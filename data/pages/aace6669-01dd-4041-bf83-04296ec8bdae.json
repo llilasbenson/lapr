@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Details on how the project was developed, etc. "
+        }
+      ]
+    }
+  ],
+  "title": "About ",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "about",
+  "created_at": "2025-04-17T02:29:49.857Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-04-17T02:29:49.857Z",
+  "updated_by": "rpr88"
+}
