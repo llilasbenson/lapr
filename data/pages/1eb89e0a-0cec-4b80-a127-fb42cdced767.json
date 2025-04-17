@@ -1,1 +1,236 @@
-{"content":[{"type":"paragraph","children":[{"text":""}]},{"type":"grid","layout":[3,3],"children":[{"type":"column","children":[{"type":"paragraph","children":[{"text":"Event Summary","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part I:","underline":true},{"text":" In Chile, after a failed coup against President Allende, the government strengthened, with workers forming councils to resist further right-wing actions. In Guatemala, military repression led to the massacre of peasants involved in land occupations. Brazil’s future president, General Geisel, is portrayed as a conservative aligned with foreign corporations, and Brazil is accused of heavy-handed regional interventions. In Uruguay, a dictatorship faced worker strikes and protests, while leftist resistance groups, like the Tupamaros, vowed to continue fighting. The U.S. and Soviet Union faced international criticism for continued nuclear testing, despite past treaties. "}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part II:","underline":true},{"text":" In an interview, Professor David Barkin discusses Mexico's agricultural crisis, where 3% of farmers control most of the irrigated land and machinery, leaving much of the rural population impoverished. Despite decades of economic growth, the majority have not benefited, as wealth and resources are concentrated in both agriculture and industry. He highlights how 1% of firms dominate manufacturing and Mexico’s reliance on U.S. markets and imports exacerbates the situation. Inflation, trade restrictions, and social inequality are growing concerns, with tourism being a government strategy to mitigate economic challenges."}],"align":"justify"}]},{"type":"column","children":[{"type":"paragraph","children":[{"text":"Segment Summaries","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:00:24-0:02:46","bold":true},{"text":" Following a failed coup, Allende's government strengthens, facing ongoing strikes and right-wing opposition."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:02:46-0:04:18","bold":true},{"text":" The army killed 67 peasants in Guatemala amid land occupation protests and ongoing conflict."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:04:18-0:06:59","bold":true},{"text":" General Earnest Geisel, a conservative army man, is selected as Brazil's future president."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:06:59-0:11:29","bold":true},{"text":" Brazilian troops reportedly violated Uruguayan territory amid political unrest and repression in Uruguay."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:11:29-0:12:20","bold":true},{"text":" Reports that Peronist shifts and Perón's likely win create tension with U.S.-backed opposition."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:12:20-0:13:37","bold":true},{"text":" The UN, Mexico, Switzerland, and Brazil condemned U.S. and Soviet nuclear testing, citing dangers of mini nukes."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:13:37-0:14:14","bold":true},{"text":" The UN report suggests regulating multinationals to prevent crises and protect poor nations' development."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:14:35-0:27:44","bold":true},{"text":" Professor Barkin discusses Mexico's agricultural and industrial crises, highlighting wealth concentration and rising inflation."}],"align":"justify"}]}]},{"type":"paragraph","children":[{"text":""}]},{"type":"event","uuid":"109e7b07-af37-417a-bc8c-7215d054a656","includes":["media","annotations"],"children":[{"text":""}]},{"type":"paragraph","children":[{"text":""}]}],"title":"LAPR1973_08_16","parent":"35f92ddd-2211-4591-bee1-c4625876da1c","autogenerate":{"enabled":false,"type":"custom"},"slug":"lapr19730816","created_at":"2025-03-19T20:37:01.689Z","created_by":"rpr88","updated_at":"2025-04-12T01:50:50.675Z","updated_by":"rpr88"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "bold": true,
+          "underline": true
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_misc_ph_048_001.jpg",
+              "size": "full",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "bold": true,
+                  "underline": true,
+                  "text": "Event Summary"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I:",
+                  "underline": true
+                },
+                {
+                  "text": " In Chile, after a failed coup against President Allende, the government strengthened, with workers forming councils to resist further right-wing actions. In Guatemala, military repression led to the massacre of peasants involved in land occupations. Brazil’s future president, General Geisel, is portrayed as a conservative aligned with foreign corporations, and Brazil is accused of heavy-handed regional interventions. In Uruguay, a dictatorship faced worker strikes and protests, while leftist resistance groups, like the Tupamaros, vowed to continue fighting. The U.S. and Soviet Union faced international criticism for continued nuclear testing, despite past treaties. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " In an interview, Professor David Barkin discusses Mexico's agricultural crisis, where 3% of farmers control most of the irrigated land and machinery, leaving much of the rural population impoverished. Despite decades of economic growth, the majority have not benefited, as wealth and resources are concentrated in both agriculture and industry. He highlights how 1% of firms dominate manufacturing and Mexico’s reliance on U.S. markets and imports exacerbates the situation. Inflation, trade restrictions, and social inequality are growing concerns, with tourism being a government strategy to mitigate economic challenges."
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "underline": true
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:00:24-0:02:46",
+                  "bold": true
+                },
+                {
+                  "text": " Following a failed coup, Allende's government strengthens, facing ongoing strikes and right-wing opposition."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:02:46-0:04:18",
+                  "bold": true
+                },
+                {
+                  "text": " The army killed 67 peasants in Guatemala amid land occupation protests and ongoing conflict."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:04:18-0:06:59",
+                  "bold": true
+                },
+                {
+                  "text": " General Earnest Geisel, a conservative army man, is selected as Brazil's future president."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:06:59-0:11:29",
+                  "bold": true
+                },
+                {
+                  "text": " Brazilian troops reportedly violated Uruguayan territory amid political unrest and repression in Uruguay."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:11:29-0:12:20",
+                  "bold": true
+                },
+                {
+                  "text": " Reports that Peronist shifts and Perón's likely win create tension with U.S.-backed opposition."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:12:20-0:13:37",
+                  "bold": true
+                },
+                {
+                  "text": " The UN, Mexico, Switzerland, and Brazil condemned U.S. and Soviet nuclear testing, citing dangers of mini nukes."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:13:37-0:14:14",
+                  "bold": true
+                },
+                {
+                  "text": " The UN report suggests regulating multinationals to prevent crises and protect poor nations' development."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:14:35-0:27:44",
+                  "bold": true
+                },
+                {
+                  "text": " Professor Barkin discusses Mexico's agricultural and industrial crises, highlighting wealth concentration and rising inflation."
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "109e7b07-af37-417a-bc8c-7215d054a656",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "1973-08-16",
+  "parent": "35f92ddd-2211-4591-bee1-c4625876da1c",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "1973-08-16",
+  "created_at": "2025-03-19T20:37:01.689Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-04-17T17:06:42.161Z",
+  "updated_by": "llilasbenson"
+}
