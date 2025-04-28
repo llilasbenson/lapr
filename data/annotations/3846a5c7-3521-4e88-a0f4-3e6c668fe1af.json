@@ -1,5 +1,1849 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the Latin American Press Review, a weekly selection and analysis of news and events in Latin America, as seen by leading world news sources, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group of Austin, Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a357f018-4bfe-42e2-b38e-77bc3bf9c6ed"
+    },
+    {
+      "start_time": 22,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the outset of the new year, the Latin American press remains preoccupied with the affairs of Chile. That country is still shuddering from the reverberations of the bloody coup, which ended the world's first legally elected Marxist government last September. The following report of events in Chile is compiled from the British news weekly Latin America, the Mexico City daily Excélsior, La Prensa of Lima, Peru, and the Uruguayan weekly, Marcha. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "b60a433f-1328-42c5-98b1-24a9c9655bdd"
+    },
+    {
+      "start_time": 52,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin America reports that the Chilean junta has been making some effort in the past weeks to speed up the work of the military courts that are sentencing the thousands of prisoners detained since September. Since new detentions are being made all the time, there is a serious need to deal with the backlog. 19 people were detained recently in one day, including seven in Curico for receiving guerilla instruction, and four in Concepción for planning sabotage. The military intendente of the province of Ñuble said at the beginning of December that he had more than 900 people waiting for their case to go before the war councils for sentence. 450 were under house arrest. The rest were in prison camps. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "7309ff2c-f92b-46e4-a2be-35c986133b1b"
+    },
+    {
+      "start_time": 100,
+      "end_time": 143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is no official estimate of the total number of political prisoners, says Latin America, but more exact figures are available about the situation of those who sought refuge in embassies. According to the foreign ministry, 2,600 safe-conduct passes have been issued to those who sought asylum in Latin American embassies, 230 applications were rejected, 730 are being looked at, and 961 are awaiting investigation. Those in the European embassies, which have no agreement about asylum, have so far been granted 1,800 exit visas, and 535 foreigners have been expelled from the country since the coup. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "143c2597-0208-4c9d-bdfe-709be94c980a"
+    },
+    {
+      "start_time": 143,
+      "end_time": 207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This week, one refugee was arrested as he stepped outside the Honduran embassy to put out rubbish. In fact, it has become impossible to seek asylum in the Santiago embassies. As reported last week, the junta has told European embassies that they will no longer grant safe-conduct passes to new arrivals, while Latin American embassies are now all under strict military guard. The long arm of the junta is now reaching beyond the embassies to affect those who have already left Chile or who were absent at the time of the coup. A decree published on December 10th listed more than 30 people who were to be deprived of their nationality. Among those accused of carrying out acts inimical to the essential interests of the state were Allende's widow and his daughters. Also, Laura Allende, the sister of the late president, was arrested when she tried to take a package of clothes to her son, who is accused of being a leader of the Revolutionary Left Movement, or MIR, a resistance group. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "95ad0c45-56ea-4a28-91cb-ea8832f87ff9"
+    },
+    {
+      "start_time": 207,
+      "end_time": 244,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior of Mexico City reports that there are apparently about 1500 political refugees in United Nations refugee camps in Chile, still hoping to be granted political asylum from a friendly government. The camps are run by a special committee of the United Nations for aid to refugees in Chile, which is scheduled to dissolve on February 3rd. The committee issued a plea to nations on December 20 to open their doors to Chilean political refugees. Some nations have responded, but many refugees could be in serious trouble if nothing more is done before the UN camps close on February 3rd. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "dfddd90d-31ef-42ba-bd80-0549890acfbd"
+    },
+    {
+      "start_time": 244,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior also reports that the behavior of the Chilean junta appears to be causing diplomatic problems. For example, a crisis arose recently when a Chilean citizen was shot and killed by military police while he was in the yard of the Argentine embassy. The Argentine government called the incident an armed aggression against Argentine representatives in Chile. The diplomatic crisis deepened when the Argentine embassy was again fired upon by the Chilean police within 24 hours. Similar problems have also caused the junta to announce that it is considering breaking diplomatic relations with Sweden. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "c820acdf-3cec-48fb-a240-8335af6a37ea"
+    },
+    {
+      "start_time": 285,
+      "end_time": 324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Meanwhile, the repression by the junta continues to draw international criticism. The US Conference of the Catholic Church called upon the Chilean clergy to openly manifest their opposition to the systematic repression of human rights by the Chilean junta. The North American spokesman said that certain representatives of the Chilean church had committed errors in allowing the junta to use their clerical positions. Also, the Bertrand Russell Tribunal, an international body originally convened to investigate torture and political repression in Brazil, announced recently that it would expand its focus to investigate repression in Chile as well. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "8fbeb53b-d61c-4bb6-a1e0-8fe3f85686f9"
+    },
+    {
+      "start_time": 324,
+      "end_time": 347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Mexican daily Excélsior, in a Christmas editorial, severely criticized the Chilean junta and particularly blasted the Christmas message of General Pinochet, the head of the Chilean military government. In that message, Pinochet asked the Chilean people to show patience and understanding for the severe measures the government had to undertake for the good of the country. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "b956ab11-f842-4f14-ba37-0256edb26455"
+    },
+    {
+      "start_time": 347,
+      "end_time": 402,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another subject which is talked about in low tones in Chile is resistance to the junta. The government claims to have captured 80% of the Revolutionary Left Movement, or MIR, the main resistance group. Yet there is reason to doubt that claim. For one thing, the junta recently offered lenient treatment to all members of MIR who surrendered voluntarily. Also, according to Excélsior, there have been several successful acts of sabotage against the Chilean military, including one explosion in a large armaments factory, which the government admitted would disrupt production for months. The junta's claim to have the country under control was delivered another blow when the most wanted man in Chile, Carlos Altamirano, suddenly appeared on January 1st in Havana, Cuba. The former head of the Chilean Socialist Party said that thousands of his compatriots from many different political parties are still fighting the junta. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        }
+      ],
+      "uuid": "caa6e7e0-baa0-4add-8302-7473725ccf8c"
+    },
+    {
+      "start_time": 402,
+      "end_time": 432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another form of resistance emerged in early January when the millers went out on strike in protest of canceled wage raises. It was the second major strike since the military took power. The first strike, a railway workers' strike in November, was crushed when the army fired on a crowd of pickets, killing 80 to 100 workers. Excélsior also reports a 60% work slowdown in several major cities in opposition to the junta. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        }
+      ],
+      "uuid": "c872483f-a45f-4f50-a3b3-9254d65475ed"
+    },
+    {
+      "start_time": 432,
+      "end_time": 463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finally, an ironic note from the Uruguayan weekly, Marcha, which said that the military government recently banned Chilean newspapers from using the phrase \"political prisoners.\" The government said that such people should be called \"prisoners of a military court\" or \"common criminals.\" The next day, when asked at a press conference if the junta was going to grant Christmas amnesty to political prisoners, an official spokesman denied that the junta was planning such a move, but he said that the junta was considering partial amnesty for common criminals. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        }
+      ],
+      "uuid": "47dbe7fa-6cac-4e33-a65a-05bc96fb9983"
+    },
+    {
+      "start_time": 463,
+      "end_time": 475,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This report on Chile compiled from the British news weekly Latin America, the Mexico City daily Excélsior, La Prensa of Lima, Peru, and the Uruguayan weekly Marcha. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        }
+      ],
+      "uuid": "dbcc3bf7-29c4-4cac-815c-92695d3848c0"
+    },
+    {
+      "start_time": 475,
+      "end_time": 510,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to the Mexico City Daily, Excélsior, the holdings of two major North American firms were nationalized in Latin America last week. First, the newly elected government of Venezuela announced that it would nationalize, without compensation, two large holdings of Standard Oil. The move comes at a crucial moment when petroleum-importing nations are being hit hard by the energy crisis, and it should give Venezuela a stronger voice at the conference of the Organization of Petroleum Exporting Countries in Geneva. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "4d8919bf-e884-495e-aae4-fb7637bf5011"
+    },
+    {
+      "start_time": 510,
+      "end_time": 545,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also, La Prensa of Lima, Peru announced that the Peruvian government would begin the new year with the expropriation of Cerro de Pasco, a North American mining firm. Cerro de Pasco has had conflicts with the Peruvian government for several years, and the news of the nationalization was greeted with joy by the people of Oroya, a city in the center of Peru, which was the home of many of Cerro de Pasco's operations. The morning after the government's announcement, Oroya was covered with banners reading, \"No more exploiters,\" and \"The Cerro is ours.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "b388a303-ce17-4df2-8ceb-65ada1fb6ffe"
+    },
+    {
+      "start_time": 545,
+      "end_time": 594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to an Associated Press story, which appeared in the Mexico City daily Excélsior, the United States State Department expressed its hope that Cerro de Pasco would be amply compensated by Peru for the holdings. A State Department official, George West, said that the nationalization of US property must be accompanied by prompt and effective compensation. Since the Peruvian government has been careful to avoid angering the US in the past, it is likely that it will pay adequate compensation. Leaders of Cerro de Pasco are now bargaining with government officials on the price. Cerro claims that its holdings were valued at $175 million, while Peru seems inclined not to pay more than $12 million. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Switzerland"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "06377b54-a906-4984-9a12-2f74e3495e08"
+    },
+    {
+      "start_time": 594,
+      "end_time": 628,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The news weekly Latin America reports that the Peronist regime in Argentina continues to be challenged by leftist groups, particularly the People's Revolutionary Army, the ERP. Despite Perón's massive crackdown on Marxist organizations, this non-Peronist guerilla group has become increasingly active, even to the point of attracting converts from leftists who formerly supported Perón. The legitimacy of the ERP is underscored by the declarations of Colonel Florencio Crespo, who was kidnapped in early November by the guerilla organization. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "911137b8-ce84-41d8-ad1c-6e5862e5e820"
+    },
+    {
+      "start_time": 628,
+      "end_time": 644,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In two letters, one to his wife and one to the press, both published by the Argentine daily El Mundo, Colonel Crespo said he was being well-treated and he accepted the terms on which he was being tried by the ERP. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "0c342dee-ccd3-4429-b96e-b39a66ac6f31"
+    },
+    {
+      "start_time": 644,
+      "end_time": 694,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the letter to the press he wrote, \"I have agreed to take part in the trial to which my captors propose to submit me. I adopted this attitude because I consider ERP to be an armed organization which operates publicly in our country, guided by political principles which seek the building of a socialist regime, and that it therefore falls within the protection afforded by the Geneva Convention of 1949, which recognized that guerillas or partisans should be treated according to the laws and usages of war. The political motives of the ERP have been officially accepted in the law of amnesty passed by Congress last May 25th. The ERP has put in train the steps needed to secure my release, which now depends on the attitude of the government.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "dcd437e1-6369-4a84-9480-c1de979d62e2"
+    },
+    {
+      "start_time": 694,
+      "end_time": 728,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Although the letters may have been written under duress, they make explosive reading. It was widely believed, both by the government and by outside observers, that the ERP was an ineffective force last June, and that their efforts to constitute a vanguard of armed resistance to the recently elected popular government was doomed to failure. But the ERP has obstinately refused to die, and with Perón looking more conservative with every week that passes, some of the Peronist guerillas seem to be losing patience with the passive role ordered by their leaders. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "3251b36b-fb54-4d74-9f69-71a8f7aca8a3"
+    },
+    {
+      "start_time": 728,
+      "end_time": 778,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was in fact a commando group of the Peronist Armed Forces, which shot and killed John Swint, managing director of the Ford subsidiary, Transax, at the end of November. This action led Ford to whisk more than 20 of its top executives out of the country, and threatened to close its entire Argentine operation. Interior Minister Benito Llambi then met a delegation representing all the foreign car manufacturing companies, and Perón himself talked to a group of Ford executives who flew down from Detroit. Both the president and his minister promised to give better protection to all foreign executives in future, and the Gendarmería, frontier guards who have been incorporated into the internal security apparatus, was charged with guarding factories, offices, and foreign executives' houses. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "399c22a8-2c3b-4887-af6f-2b816edb418d"
+    },
+    {
+      "start_time": 778,
+      "end_time": 812,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This seemed to satisfy Ford and other multinational investors, but the ERP promptly cast considerable doubt on the efficacy of the new measures by snatching the local head of Exxon's operations, Victor Samuelson, who had five bodyguards of his own in addition to the army. The ERP has demanded that Exxon distribute $5 million worth of food and clothing to poor people living in slums in return for the release of Samuelson. He will not be tried by the ERP as first reports indicated. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "94ae0916-7dbf-4915-a19c-cec74c89bd74"
+    },
+    {
+      "start_time": 812,
+      "end_time": 850,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The latest issue of El Combatiente, clandestine journal of the Revolutionary Workers Party, of which ERP is the military arm, carried an editorial signed by Roberto Santucho, calling for outright struggle against the regime with resistance at all levels. The editorial is interesting both on account of this virtual declaration of war, and because it signifies that the ERP and the PRT have resolved the political differences which threatened to pull them apart last year. This from the British news weekly Latin America, the Argentine daily El Mundo, and the ERP newspaper El Combatiente. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "f01f8685-db02-4722-870f-01209e09c4df"
+    },
+    {
+      "start_time": 850,
+      "end_time": 884,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are listening to the Latin American Press Review, a weekly selection and analysis of news and events in Latin America, as seen by leading world news sources with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions are welcome and may be sent to the group at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, the University of Texas at Austin."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "565df96b-6bf9-40e8-ad34-331b1e65acdd"
+    },
+    {
+      "start_time": 884,
+      "end_time": 895,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The views expressed are solely those of the Latin American Policy Alternatives Group and its sources and should not be considered as being endorsed by UT Austin or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3256b242-8a5e-488e-ace2-a0b68b6de674"
+    },
+    {
+      "start_time": 895,
+      "end_time": 907,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our feature this week is the first half of an article on the controversial Brazilian model of economic development written by the United Presbyterian Church and reprinted in the Mexican daily El Dia. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "8072bedb-297b-4976-8f9c-ebfab72eec8b"
+    },
+    {
+      "start_time": 907,
+      "end_time": 939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Most Americans don't know it, but the land of Carmen Miranda and the bossa nova has become the industrial giant of the Southern Hemisphere. Derided only a few short years ago as the perpetual land of the future, Brazilians now proclaim loudly that the future has arrived. \"Underdeveloped hell\", read the slogan at one of Sao Paulo's recent auto shows. The talk now is of an economic miracle to rival the recovery of West Germany after World War II. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "6f45c90a-d550-4738-9ec7-a64fd25e9588"
+    },
+    {
+      "start_time": 939,
+      "end_time": 1000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One wonders what this economic boom means for the majority of the Brazilian population. Brazil's resources may be extensive, but the majority of its people have always been poor, and their suffering great. Brazil's Indian population was nearly wiped out by the Portuguese colonists in the 16th and 17th centuries. Black slavery was introduced early into Brazil and was practiced widely until 1888. Historically, most Brazilians, slave or free, have been dependent and poor. Even those who own land, supervise plantations, and led expeditions were poor by today's standards. Very few had much in the way of comforts and goods. For most of its history, Brazil was a colony. It was governed by Portugal and existed to make money for the Portuguese. No matter that Indians were exterminated and African slaves went to early graves. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "759185a4-1741-41cd-98d6-98f553b5084b"
+    },
+    {
+      "start_time": 1000,
+      "end_time": 1012,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One must not forget that most of Brazil's population is racially mixed, according to El Dia, that much of it is Black, and that its history of subjugation and misery continues to this day. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "f8cf70ec-d236-44e6-8d6c-0884ec28c465"
+    },
+    {
+      "start_time": 1012,
+      "end_time": 1082,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There exists in Brazil one of the deepest cleavages between rich and poor, economically, culturally, and racially, to be found anywhere in the world. A few facts may help sketch the current scene. Here are Brazil's income distribution figures for 1968. The richest 1% of the population received an annual per capita income of $6,500. The middle 40% income group received $350 in 1968, and the poorest 50% of the population earned an average income of $120 in that year. What this says is that one half of Brazil's population in the middle of the 1960s had an average cash income of 35 cents a day. Most people, in other words, live outside the money economy. A cultural and economic middle class does exist in Brazil. It is the small, relatively privileged top 10% of the population. A tiny part of this group is wealthy, but most of it is composed of business and professional people, army officers and government officials, and corresponds to the salaried urban middle class in the United States. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "a6a605e4-7543-4cb3-bcd1-f9a57674862a"
+    },
+    {
+      "start_time": 1082,
+      "end_time": 1143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"But what do you do about poverty?\", asks El Dia. A decade ago, Brazilian leaders and their North American allies embarked on an alliance for progress, a program which had its roots in Kubitschek's Operation Pan America. Kubitschek was president of Brazil from 1956 to 1961. His idea was to improve the lives of all Latin Americans by laying out an elaborate and massive program of economic development. He would stimulate this development with huge inputs of foreign capital, principally from the United States and Western Europe. Factories would be built in Latin America to produce the things people needed, provide them with jobs and wages, and yield tax revenues for their schools and cities. Foreign investors would become catalysts in the process of developing the natural and human resources of Latin America and partners in the creation of new and greater wealth for everyone. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "1aa67d7c-5df8-49e9-b996-c83db1fe564e"
+    },
+    {
+      "start_time": 1143,
+      "end_time": 1189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The key to the process of industrialization in Brazil was to be a program of import substitution. The idea was for Brazil to limit the importation of manufactured goods and build domestic industry behind high tariffs. Thus, Brazil would exploit her own internal market. Brazilian industries would be created to supply a domestic market, formerly undeveloped or in the hands of foreign companies. Once these companies were on their feet, the tariff walls would be lowered, forcing Brazilian industry to become more efficient and competitive. Finally, these industries would operate without protection and in competition on the world market. Brazil would then begin to export manufactured goods, improve her balance of trade and be on her way. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "16fb5629-99d4-4ebe-97d8-1009359be954"
+    },
+    {
+      "start_time": 1189,
+      "end_time": 1252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A glance at Brazil's economic history is instructive. El Dia explains that traditionally, the Brazilian economy was based on agriculture and the export of agricultural commodities and minerals, coffee, cocoa, sugar, cotton, iron ore and gems. Rubber and gold were of great importance at one time. But countries whose economies are based on the export of primary products play a losing game. They are subject to the fluctuations of the world market and the increasing competition of other primary producers. Brazil's economic history is characterized by a succession of cycles of its major export commodities. From the early 16th century on, this was in turn the story of dye, wood, sugar, gold and coffee. The latter, of course, is still Brazil's major export commodity, although its strength has fluctuated substantially with changes in world demand. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "34720667-9f66-42d5-b1e2-7e47169f4fbd"
+    },
+    {
+      "start_time": 1252,
+      "end_time": 1289,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Against this discouraging history, the process of industrialization began, but it was a late beginning. Until 1822, Brazil was a Portuguese colony administered along strict mercantilist lines. That is, no industry was allowed to develop. It was not until the First World War that the beginnings of industrialization were much felt. The impetus towards industrialization came from the impact of the two World Wars, largely because of the interruption of supplies from overseas and the elimination of foreign competition. It was during this period that Brazil's import substitution policies began. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "e0ea01b2-ba01-4d64-ad3c-599a178abb3e"
+    },
+    {
+      "start_time": 1289,
+      "end_time": 1326,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kubitschek was undoubtedly one of Brazil's most enthusiastic developmentalists. When he was inaugurated in 1956, he immediately set up a national development council, formulated a program of targets, and called for 50 years of development in five. His most spectacular project was the building of Brasilia, the country's modernistic capital, 600 miles into the interior. Brazil's automobile industry began under Kubitschek. Steel and cement production doubled and power generation tripled. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "ae2b99a4-02b9-4da8-8d37-f919b9833c1d"
+    },
+    {
+      "start_time": 1326,
+      "end_time": 1361,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After Kubitschek, however, the country experienced a period of political instability. Jânio Quadros resigned shortly after taking office, and the administration of was marked by a period of runaway inflation. By 1963, prices were going up by 71% a year. In 1963, the gross national product increased only 1.6%, while population growth exceeded 3%, thus producing a negative growth in per capita income. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "92ab717b-910d-4e76-8d40-dae31446d58e"
+    },
+    {
+      "start_time": 1361,
+      "end_time": 1400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Brazil's relations with foreign investors and the United States government suffered during this time. Popular movements were gaining force and demanding redress of the country's longstanding inequities. Social unrest was widespread and growing. United States economic aid and corporate investments dropped sharply. Then in March 1964, the Brazilian army staged a coup d'etat and the United States recognized the provisional military government within 24 hours. United States economic aid was then restored at higher levels than ever before, and US technicians and advisors began to enter the country in unprecedented numbers. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "ebfb5a4b-c09b-4064-83a7-a3f04a69af4a"
+    },
+    {
+      "start_time": 1400,
+      "end_time": 1424,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Brazilian military, under Castelo Branco, crushed the protest movements, jailed their leaders and deprived civilian political leaders of political rights for 10 years. Under the leadership of Brazil's new Harvard-trained Minister of Planning, Roberto Campos, stringent measures were taken to stem inflation, and tax concessions and investment guarantees were set up to lure back foreign capital. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "39a5a04a-4387-4a85-8ab6-a82f75b165a4"
+    },
+    {
+      "start_time": 1424,
+      "end_time": 1468,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The economic picture began to change. In 1965, the Brazilian economy, principally the industrial sector, grew at a rate of 3.9%. In 1966, the rate was 4.3%. In 1967, it was 5%, and in 1968, it was 6.3%. Since 1968, the GNP has increased by no less than 9% a year to a record high of 11% in 1972. This is what Brazilians call their economic miracle, and it is indeed a formidable achievement. The evidence is everywhere. One may raise questions about the way Brazil is growing and about who is benefiting from this growth and who is not, but the growth is very real. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "5f991957-380d-446a-b621-04ebec259e00"
+    },
+    {
+      "start_time": 1468,
+      "end_time": 1493,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to El Dia, in 1968 the US Information Agency in Rio released a somewhat whimsical TV spot announcement, extolling the success of Brazil's industrial development. It showed a scantily clad and shapely model operating a massive drill press to the sensuous beat of the samba and asked, \"Is this development or isn't it?\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "32fbd2de-e8e1-4220-84f6-e6b6438d5a87"
+    },
+    {
+      "start_time": 1493,
+      "end_time": 1532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For many Brazilians, the answer was, \"Maybe not.\" They had basic questions to ask about what was happening to their country, and they were not matters about which to be whimsical. The first question has to do with the theory of import substitution. On the surface, it looks like a good idea for Brazil to cut foreign imports and encourage the growth of domestic industry in a protected market. Why shouldn't Brazil supply its own consumer needs, reinvest its profits, and spread the wealth? Perhaps it should. The problem is the theory doesn't work that way. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "bf47668f-6c12-41c6-a4bd-ec5fc222dbf1"
+    },
+    {
+      "start_time": 1532,
+      "end_time": 1566,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is not Brazilians, by and large who are manufacturing the import substitutes, but foreign companies incorporated under Brazilian law. No group of private investors in Brazil, for example, could possibly compete with Volkswagen, Ford, and General Motors in establishing an automotive industry. There are, of course, many successful Brazilian industrialists, but they compete at a great disadvantage against the corporate giants of the United States, Western Europe, and Japan. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "9dde045a-c545-480f-8fb5-ac7c41bb997e"
+    },
+    {
+      "start_time": 1566,
+      "end_time": 1615,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An American professor in Brazil put it this way. \"What was supposed to be a solution for Brazil has turned out to be a solution for us. It was supposed to be a gain for Brazil to have foreign companies come in and set up shop. What we are now discovering,\" the professor said, \"is that these companies make far more money through direct investments in manufacturing and sales operations in Brazil than they were able to make previously by exporting these same products from home. Volkswagen and Ford no longer ship cars to Brazil from Bremerhaven and New York. They manufacture them in Sao Paulo. Why is this more profitable? Certain costs, of course, are lower, but the more compelling answer is that the Brazilian market can be more effectively penetrated when a company's entire manufacturing, sales and servicing operation is managed within the host country.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "a5070269-8681-46ec-aaf9-cec95a67e2c0"
+    },
+    {
+      "start_time": 1615,
+      "end_time": 1652,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "John Powers, president of Charles Pfizer & Company Pharmaceuticals, put it this way, in a speech to the American Management Association. \"It is simply not possible in this decade of the 20th century to establish a business effectively in most world markets, in most products, by exporting. Successful market penetration usually requires building warehouses, creating and training an organization. It requires local sales promotion and building plants or assembly lines to back up the marketing effort. In short, it requires direct investment.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "3fdfd459-5cc4-435e-8496-04cb02ac92ea"
+    },
+    {
+      "start_time": 1652,
+      "end_time": 1688,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It should not be surprising that some Brazilians are wondering who's helping whom. It is argued, of course, that even though foreign corporations take sizable profits out of Brazil, both in the form of repatriated profits and from cheaper production costs, Brazil benefits more than it loses. Certainly, some Brazilians gain from the salaries and wages paid to Brazilian managers and factory workers, from taxes paid to the state and from the availability of added goods and services. Whether the country gains more than it loses is another matter, and the answer depends on more than conventional economic considerations. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "07945e7c-a174-4988-8433-fdbf2a742862"
+    },
+    {
+      "start_time": 1688,
+      "end_time": 1699,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to the first part of a two-part feature on the Brazilian economic development model, written by the United Presbyterian Church and reprinted in the Mexican daily, El Dia. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Germany"
+        },
+        {
+          "category": "Countries",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Countries",
+          "tag": "Japan"
+        },
+        {
+          "category": "Communities",
+          "tag": "Black people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "8b5e740b-2bc6-4af0-8bd5-895666dd7921"
+    },
+    {
+      "start_time": 1699,
+      "end_time": 1731,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to the Latin American Press Review, a weekly selection and analysis of news and events in Latin America, as seen by leading world news sources with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions are welcome and may be sent to the group at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, the University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "18cfca2c-7bd9-45d4-888b-a9f8f2cacd7e"
+    },
+    {
+      "start_time": 1731,
+      "end_time": 1742,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The views expressed are solely those of the Latin American Policy Alternatives Group and its sources, and should not be considered as being endorsed by UT Austin or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f820c116-e01e-4f11-a012-107071e09503"
+    }
+  ],
   "set": "Default",
   "event_id": "89756ca1-a1b4-4e7b-8ba0-668dcb19401f",
   "source_id": "2c9d5e26-94ce-4afd-93e4-659b38a4f2c5"
