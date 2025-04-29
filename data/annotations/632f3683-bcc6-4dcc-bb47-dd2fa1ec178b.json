@@ -1,5 +1,1277 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are listening to Latin American Press Review, a weekly summary of events in Latin America with special emphasis on translation from the Latin American Press. This program is produced by the Latin American Policy Alternatives Group of Austin, Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "42946e6f-37d4-4d46-b63e-8d488e2a8663"
+    },
+    {
+      "start_time": 18,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Today we have reports on the fraudulent presidential elections of early March in Guatemala, a commentary on the recent power shifts in Brazil and Guatemala. And finally, an analysis of Brazilian support, both government and private, of the recent military coup in Chile. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "001d5770-a096-4350-8fdd-dab4893ea4f9"
+    },
+    {
+      "start_time": 39,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El Día of Mexico City reports that the furor, following the March presidential elections in Guatemala, seems to have died down. The government's candidate is ready to take power, but most authorities consider the results to be fraudulent. The election pitted General Eugene Laugerud, the candidate of the current right wing authoritarian regime against General Rios Montt, representing a slightly more moderate party. The government announced that its candidate won, but according to election returns, the opposition candidate won not only Guatemala City, but also 20 of the 23 provincial departments. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "52c63c8d-8ee0-49e6-8e63-850017873b1c"
+    },
+    {
+      "start_time": 75,
+      "end_time": 124,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Many Guatemalans were angry about the election fraud, and in the days following the election, students clashed violently with police. The National Opposition Front, which supported General Montt also called for protest strikes, but only sporadic strike action occurred. The defeated opposition candidate explained, \"There was no massive reaction to the fraud because there are no genuine popular organizations in Guatemala. We simply were not well enough organized to paralyze the country.\" \"Such a statement is not surprising,\" says El Día, \"considering the amount of political repression practice by the right wing Guatemalan regime.\" The government is well known as one of the most authoritarian in Central America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "e897d280-8800-4033-bf06-cbd2b9aec12a"
+    },
+    {
+      "start_time": 124,
+      "end_time": 169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mexico City's Excélsior had this editorial comment on the Guatemalan election. The businessmen's dictatorship in Guatemala doesn't seem as if it will end soon. By its cynical and deadly acts, it has proved its intention to stay in power regardless of the will of the Guatemalan people. The regime's recent violations in its election sham, in its attempt to legitimize its oppression are consistent with other acts it has committed including outright murder. On March 11th, the regime murdered Edward Guerra, a former guerrilla who had decided to work legally to change the system. Deeds such as this were committed before the elections, and now they will surely continue. That editorial from the Mexico City daily, Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "ff0e10bb-a759-4681-adbd-0ec7ed67598d"
+    },
+    {
+      "start_time": 169,
+      "end_time": 194,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In recent weeks, there have been two new presidents installed in Latin America, namely in Brazil and Venezuela, and the contested Guatemalan election of early March has brought considerable commentary from the international press. A columnist from the Mexican Daily, Excélsior had this to say about these political power shifts. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        }
+      ],
+      "uuid": "023703f2-2077-42a8-845a-0990d10f4fa1"
+    },
+    {
+      "start_time": 194,
+      "end_time": 226,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The recent Guatemalan elections were far from an example of representative democracy. Three military officers contested the presidency and one of them General Montt, a Christian Democrat claims victory in spite of the fact that General Laugerud, of the Conservative Nationalist Coalition, officially won. It is not strange that the Guatemala electoral process was dirty and deceptive. If one remembers that Guatemala has been submerged in a wave of violence that is similar to the one which rocked Colombia in the 1950s. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        }
+      ],
+      "uuid": "987463c3-379a-4999-b689-91b65c04eae1"
+    },
+    {
+      "start_time": 226,
+      "end_time": 251,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right wing paramilitary groups and left wing guerrilla organizations have been at war in Guatemala for many years. In 1971, under the Arana government, there were close to 1000 political assassinations, 171 kidnappings, and 190 disappearances. The majority of these committed by right-wing terrorists with no visible attempt by the government to control them. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        }
+      ],
+      "uuid": "f34e0412-9125-4689-9a72-aa4b6a2ea99e"
+    },
+    {
+      "start_time": 251,
+      "end_time": 280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior continues pointing out that the more conservative sectors of our continent have been more pleased with the March 15th presidential change in Brazil. General Ernesto Geisel has been designated, not elected, president of that country. He is the fourth general to occupy this post since 1964, the year in which the military overthrew the civilian Goulart administration. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        }
+      ],
+      "uuid": "35ebdea7-177e-4198-b6f9-1561ee14df5a"
+    },
+    {
+      "start_time": 280,
+      "end_time": 301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The outgoing president Medici noted the non-partisan character of the Brazilian regime, perhaps implying that the military rule has been institutionalized, that the Brazilian government has become a military counterpart to the Mexican PRI, where the individuals rotate power, but where the regime remains intact."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        }
+      ],
+      "uuid": "8717dfbb-75cf-49fc-b2b6-d32d1f404109"
+    },
+    {
+      "start_time": 301,
+      "end_time": 330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Brazilian inauguration ceremony was cold and calculated, says Excélsior. Crowds of people were not present, the streets deserted, demonstrating that the regime is not interested in establishing even an appearance of popularity. On the other hand, the Brazilian inauguration attracted what might be called the Fascist Club of Latin America. Attending the inauguration were Pinochet of Chile, Bordaberry of Uruguay, and Banzer of Bolivia. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        }
+      ],
+      "uuid": "79ce4929-796e-4c38-8ce1-7305b5d3e78b"
+    },
+    {
+      "start_time": 330,
+      "end_time": 345,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The leadership of this club belongs, of course, to the so-called non-partisan regime of Brazil, which represents the best alternative that US Foreign Policy offers to progressive attempts in other directions, such as the former Allende government in Chile."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        }
+      ],
+      "uuid": "496be366-8231-49a1-bbf1-e47f34dae844"
+    },
+    {
+      "start_time": 345,
+      "end_time": 368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior points out that the Brazilian model boasts an 11% annual growth rate in its economy, but over half its population earns only about $100 a year and suffers chronic malnutrition. The Brazilian politicians emphasize the economic growth rate, but hide the figures on the distribution of that wealth. This editorial from Mexico City's, Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        }
+      ],
+      "uuid": "7f6a7cd0-36d1-49d5-bb74-9e28651e0e05"
+    },
+    {
+      "start_time": 368,
+      "end_time": 394,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There has been speculation in the international press about the relationship between the September, 1973 military coup in Chile and the Brazilian military takeover in 1964. A recent article in the Washington Post, dateline Rio de Janeiro, substantiates many of the questions that have been raised about Brazilian influence in Chile. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "dfbb62b2-5397-4fe8-b7fa-111db5b0116b"
+    },
+    {
+      "start_time": 394,
+      "end_time": 425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dr. Depaiva describes himself as a mining engineer with a number of other interests. One of his recent interests as a leading figure in a private anti-communist think tank in Rio de Janeiro was advising Chilean businessmen how to prepare the ground for the military overthrow of President Salvador Allende last Fall. A founding member of a Brazilian paramilitary group says he made two trips to Chile as a courier, taking money for political actions to a right wing anti-Allende organization. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "ece23f22-8c57-40d8-85bb-30b3768f3158"
+    },
+    {
+      "start_time": 425,
+      "end_time": 466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These men are two of a number of Brazilians who acknowledge helping Chilean foes of Allende. Other private and business interests in this country gave money, arms, and advice on political tactics. There is no evidence that the Brazilian government played any role in this anti-Allende effort. Although its sophisticated military intelligence network must have been aware of it. Brazil was never publicly hostile to Allende. The Washington Post points out that the coup that brought Brazil's armed forces to power in March, 1964 appears to have been used as a model for the Chilean military coup. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "f121c6ed-d6ea-47ea-bbb8-6ff4f56a249a"
+    },
+    {
+      "start_time": 466,
+      "end_time": 498,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The private sector played a crucial role in the preparation of both interventions and the Brazilian businessmen who plotted the overthrow of the left-leaning administration of President Goulart in 1964 were the same people who advised the Chilean right on how to deal with Marxist president, Allende. Soon after Allende's election, thousands of Chilean businessmen took their families and fortunes abroad, settling principally in Ecuador, Argentina, Venezuela, and Brazil. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "0e075ba6-be38-4762-831b-ff3609e51f3e"
+    },
+    {
+      "start_time": 498,
+      "end_time": 538,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Brazil, the well-to-do Chileans quickly found work in multinational corporations or invested their capital in new companies or on the stock exchange. And in their dealings with Brazil's private sector, they quickly established contact with the architects of the 1964 Brazilian coup. For example, they met Gilberto Uber, the wealthy owner of Brazil's largest printing business. In 1961, Uber and several powerful business associates had founded the Institute of Research and Social Studies, a political think tank with the specific object of preparing to overthrow Brazil's so-called communist infiltrated civilian government. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "8dc35860-bed0-4305-8b9c-6b4341e33309"
+    },
+    {
+      "start_time": 538,
+      "end_time": 560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between 1961 and 1964, the institute organized, financed and coordinated anti-government activities and served as the bridge between private enterprise and the armed forces before the coup. The Executive Secretary of the Institute was General Couto e Silva, who founded Brazil's Political Intelligence Agency in 1964. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "c129eda5-50f7-472d-b280-ac7ffc78d982"
+    },
+    {
+      "start_time": 560,
+      "end_time": 589,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One year ago, Chilean Luis FuenZalida, who had joined Uber's Printing Company, told friends proudly, \"We are going to throw out Allende, and I'm learning from Uber that the Brazilians did in 1964.\" Another key member of the institute and one of its founders was Dr. Depaiva, a leading conservative economist, ardent anti-communist, and an admirer of the United States, which he has visited frequently. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "a9201807-1b4b-44f0-bc3f-2dd83c740c01"
+    },
+    {
+      "start_time": 589,
+      "end_time": 613,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Depaiva also acts as a consultant to a number of US and multinational companies in Brazil. He believes the Allende government was a threat to the entire continent, but it was clear Allende would not be allowed to stay. He said, \"The recipe exists and you can bake the cake anytime. We saw how it worked in Brazil and now again in Chile.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "59c89aaa-0ca8-4015-8571-99c071927a92"
+    },
+    {
+      "start_time": 613,
+      "end_time": 645,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dr. Depaiva's recipe involves creating political and economic chaos, fomenting discontent and deep fear of communism among employers and employees, blocking legislative efforts of the left, organizing mass demonstrations and rallies, even acts of terrorism if necessary. His recipe, Depaiva recognizes, requires a great deal of fundraising. \"A lot of money was put out to topple Allende,\" he said, \"but the money businessmen spend against the left is not just an investment, it is an insurance policy.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "5f424bcf-70e5-4088-bdde-27ad4ca1d9ae"
+    },
+    {
+      "start_time": 645,
+      "end_time": 670,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After Chile's coup, a prominent Brazilian historian who asked not to be named said, \"The first two days I felt I was living a Xerox copy of Brazil in 1964. The language of Chile's military communiques justifying the coup and their allegations that the communists had been preparing a massacre and a military takeover was so scandalously identical to ours, one almost presumes they had the same author.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "693299a5-5f47-4926-b79e-051c1056c1e4"
+    },
+    {
+      "start_time": 670,
+      "end_time": 706,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Following in the footsteps of the Brazilian Institute and using its recipe, Chile's Gremios or Middle Class Professional Brotherhoods with Business and Landowners Associations created the center for Public Opinion Studies. Public Opinion Studies was one of the principle laboratories for strategies such as the crippling anti-government strikes, the press campaigns, the spreading of rumors and the use of shock troops during street demonstrations. The center also served as headquarters for the women's movement, which was so effectively used against the Marxist president. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "a58c3b47-c9ff-475c-ae7b-c5636d04ba47"
+    },
+    {
+      "start_time": 706,
+      "end_time": 735,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to the Washington Post, Dr. Depaiva takes particular pride in the way we taught the Chileans how to use their women against the Marxist. In Chile, the opposition to Allende created Poder Femenino, Feminine Power, an organization of conservative housewives, professional and businesswomen who became famous for their marches of the empty pots. Poder Femenino took its cues, its finances, and its meeting rooms from the gremios, the professional brotherhoods. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "9789472c-0f3f-4cf2-8b5c-070d178913bf"
+    },
+    {
+      "start_time": 735,
+      "end_time": 767,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Despite the directives from the male dominated leadership, Dr. Depaiva explains that, \"The women must be made to feel they're organizing themselves, that they play a very important role. They're very cooperative and don't question the way men do. Both in Chile and Brazil,\" Depaiva points out, \"women were the most directly affected by leftist economic policies, which create shortages in the shops. Women complain at home and they can poison the atmosphere, and of course, they're the wives and the mothers of the military and the politicians.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "39a1097f-e1f6-4d7b-ba37-36669eef296d"
+    },
+    {
+      "start_time": 767,
+      "end_time": 814,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There appeared to be no shortage of financial offers. The inflow of dollars from abroad was no secret to Allende. By early August, it had become public knowledge that the organizers of the transportation strike preceding the coup were paying close to 35,000 drivers and owners of trucks, buses, and taxis to keep their vehicles off the road. Two taxi drivers told me they were each receiving the equivalent of $3 at the black market rate for every day they were not working, and a group of truck drivers said they received $5 a day, paid in dollar bills. On the basis of this, Allende aides calculated that the 45 day strike cost close to $7 million in payoffs alone. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "2a6093f2-20a4-466c-a73b-8c0536552e88"
+    },
+    {
+      "start_time": 814,
+      "end_time": 836,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was also an accepted fact that the thousands of Chileans abroad were raising funds and sending in contributions. Jovino Novoa, a conservative lawyer and a member of the Chilean exile community in Buenos Aires said in an interview, \"Of course money was sent to Chile. We all did what we could, each according to his capacity.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "2a26af4b-0f80-4a95-97f9-fa7f4de343d2"
+    },
+    {
+      "start_time": 836,
+      "end_time": 845,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This roundup of evidence linking the recent military coup in Chile with the 1964 Brazilian coup is taken from The Washington Post. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "75f4639a-8eb4-42d4-bfd8-1ac3894bd307"
+    },
+    {
+      "start_time": 845,
+      "end_time": 877,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to Latin American Press Review, a weekly summary of events in Latin America with special emphasis on translations from the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments may be sent to the group at 24-34 Guadalupe Street, Austin, Texas. That's 24-34 Guadalupe Street, Austin, Texas. Latin American Press Review is distributed by Communication Center, the University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "dcabffa0-2e50-46bd-8594-c6e5acd94119"
+    },
+    {
+      "start_time": 877,
+      "end_time": 888,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Views expressed are those of the Latin American Policy Alternatives Group and its sources and are not necessarily endorsed by the University of Texas or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "be0792b3-46eb-46ff-ae79-6b7dac54f484"
+    }
+  ],
   "set": "Default",
   "event_id": "ce64659c-ff83-483d-920c-85ae14446d3d",
   "source_id": "501c02ae-5809-44a5-8454-b8d9f44bae4f"
