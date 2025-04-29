@@ -1,5 +1,2421 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the Latin American Press Review, a weekly selection and analysis of news and events in Latin America as seen by leading world news sources, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group of Austin, Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b0b2b76e-3549-4b27-8ca5-dec81fe12e3f"
+    },
+    {
+      "start_time": 20,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From the Brazilian capital, special invitations have gone out to certain Latin American heads of state, reports Excélsior. Four Latin American government chiefs from Chile, Bolivia, Paraguay, and Uruguay will attend the coming Brazilian presidential inauguration. General Ernesto Geisel, who is to be sworn in, was appointed by the current head of the Brazilian military government, and afterwards approved by Congress. President Nixon, also invited to the ceremony, will send his wife Pat as his personal representative, accompanied by Nicholas Morley, a Florida banker. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        }
+      ],
+      "uuid": "40a87c2c-69a3-4055-aea8-4f17bc29fa99"
+    },
+    {
+      "start_time": 59,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior notes of the four Latin Americans attending the inauguration represent countries where there have been military coups in recent times, and all are governed directly or indirectly by military regimes. The Uruguayan chief of State, Juan Bordaberry, is the only one democratically elected. However, nine months ago, he overthrew Uruguay's government with the aid of the military and dissolved the Congress. All the other chiefs rose to power through coups. The first was General Alfredo Stroessner in Paraguay 13 years ago. General Hugo Banzer assumed power in Bolivia through a military blow in 1971, and General Pinochet is the chief of the Chilean military Junta, which overthrow democratically elected President Salvador Allende in September of 1973. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        }
+      ],
+      "uuid": "21425128-9b90-45d2-bbf4-2d436b253597"
+    },
+    {
+      "start_time": 113,
+      "end_time": 158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These military coups are often interpreted as expansions of Brazilian power on the continent. Commenting on Brazil's expanding imperialist role, Excélsior notes that as a consequence of the new militarism in Latin America, Brazil has not had to employ arms itself. Brazilian expansion has been possible through diplomacy, commercial agreements, and the judicious use of money. Brazil's latest acquisition has been Chile. The rightest Chilean coup opened Chile's doors to economic and political penetration by Brazil. Brazil has been accused of generously financing Chile's generals, and is now bombarding Chile with financial credits and exports. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        }
+      ],
+      "uuid": "e89d96a8-3ff9-453f-b654-1ff179a80534"
+    },
+    {
+      "start_time": 158,
+      "end_time": 201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Similarly, Excélsior says that Bolivian politics have become an open confrontation between generals who are pro and anti Brazil, and that Bolivia's President Banzer was almost overthrown several months ago when he attempted to sell more oil to Argentina than Brazil. But says Excélsior, \"The best example of Brazilian expansion is Uruguay, whose democracy was overthrown following the Brazilian example.\" Trade unions, the press, and democratic institutions were annulled or repressed. Today, Brazilian investors are particularly busy in Uruguay, buying land and dominating commerce. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        }
+      ],
+      "uuid": "9885611b-9080-435a-bf57-f4959ce65249"
+    },
+    {
+      "start_time": 201,
+      "end_time": 243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is said, as well, according to Excélsior, that the head of the Chilean military Junta, General Pinochet, will use his trip to Brazil to propose the formation of an anti-communist axis in Latin America. Pinochet did not publicly confirm the rumor. The rumor gained strength, however, when it was reported that the head of the Chilean Junta was disposed to overcome old antagonisms with Bolivia and talk with Bolivia's General Banzer. The two countries do not have diplomatic relations. The Brazilian chancellor refused to comment on the idea of the formation of an anti-communist axis. This report from Mexico City's leading daily, Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        }
+      ],
+      "uuid": "36b8635a-48a5-4e4d-ac3b-06a35ebdbaa3"
+    },
+    {
+      "start_time": 243,
+      "end_time": 292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Argentine daily, El Mundo, reported that right wing police staged a miniature Chile style coup in Argentina's industrial heartland last week with the blessings of President Juan Perón. An estimated 800 members of the municipal police force in Córdoba, capital of Córdoba Province, stormed the government building and kidnapped Ricardo Obregón Cano, the elected governor, together with about 80 members of his cabinet and administration. Obregón is a prominent sympathizer with the left wing of the Peronist movement. The person ceased were held under arrest for two days. Obregón and an undetermined number of others were released and immediately went into hiding somewhere in Córdoba Province. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "a3d672d1-b2ee-435f-bbd6-ee55d6207b7a"
+    },
+    {
+      "start_time": 292,
+      "end_time": 336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The recent events began when Obregón dismissed Navarro from his post as head of police. A subordinate of Navarro's had exposed the chief as an embezzler of government funds and as an organizer of a string of terror bombings against the homes of left-wing Peronist. The police coup was Navarro's reply to the dismissal. Córdoba was under a state of siege following the coup. The police junta declared a ban on assemblies and gangs of right-wing Peronists. Some believed to be police out of uniform roamed the streets looking for Bolsheviks. Sounds of gunfire were heard each night after the coup. At least seven people have been reported killed. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "7845c407-9726-4c08-8138-fa0fedc28c12"
+    },
+    {
+      "start_time": 336,
+      "end_time": 363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to El Mundo, right-wing trade union officials openly supporting the coup declared a general strike in Córdoba, whose main motive appears to have been to keep the rank and file industrial workers at home and prevent them from concentrating at the plants. Shops were also ordered shut. It was reported that both the strike and the shutdown of stores was being enforced by the police and by right wing squads at gunpoint. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "d9132633-6db6-46a9-9617-5d9636d6c707"
+    },
+    {
+      "start_time": 363,
+      "end_time": 406,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The federal government headed by Perón, maintained an attitude of benign neglect while the coup was in process, but broke its silence recently to accuse Governor Obregón of provoking the crisis by failing to meet the duties of his office. It was widely believed that the police coup had in fact been coordinated, if not directed, by the federal government. Navarro himself reportedly acknowledged being in communication with Bueno Aires, the capital during the takeover. A battalion of federal police were quietly airlifted into Cordoba from Buenos Aires, but they were not deployed. The garrison of federal troops in the city was confined to quarters. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "1c2eef13-8730-4873-8636-e20d4c665722"
+    },
+    {
+      "start_time": 406,
+      "end_time": 452,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Six days after the initial takeover, the Argentine Congress gave approval for President Juan Perón's plan for federal intervention in Córdoba. According to Excélsior of Mexico City, the passage of this legislation was facilitated by the surprise resignation of Governor Obregón. Spokesman for leftist trade unions who have opposed the plan for federal control of Córdoba vowed that they would not modify their resistance to the rightest takeover in any way. \"The resignation of Governor Obregón took us by surprise,\" said one union leader, \"but we will continue to oppose the new government.\" Demonstrations and bomb explosions in Córdoba followed the announcement of federal intervention. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "0870f9c8-bf8d-40fe-a518-52d086892f96"
+    },
+    {
+      "start_time": 452,
+      "end_time": 474,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to the New York Times, a number of politicians have predicted that the events in Córdoba may be a prelude to the overthrow of left-wing Peronist governments in half a dozen other provinces, including Mendoza and Salta, where Peronist factions have repeatedly clashed and the local police forces are reported to be unhappy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "ce189f5f-b164-4630-8f7c-f739463f4b86"
+    },
+    {
+      "start_time": 474,
+      "end_time": 507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The New York Times continues that during the final days of his 18 year exile, Juan Domingo Perón's trump card was his ability to convince most Argentines that only his movement had the strength and substance to end the violent political divisions among them and give their potentially rich country a fresh start. Now, five months after he assumed the presidency, he has presided over growing upsurge of political violence, most of which is exploding in his own heterogeneous movement. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "4fc573e2-6f05-4a75-86e8-463ba76d2066"
+    },
+    {
+      "start_time": 507,
+      "end_time": 540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For months, politicians, news commentators, and political scientists had predicted that the diverse elements in Perón's following could never hold together. The right wing of the movement, mainly represented by the leaders of the big unions, are more inclined toward asking for wage increases without altering the economic structure. Adverse to sharing union power with younger leftist workers, they have found strong allies outside the union movement in anti-Marxist nationalist conservatives. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "b843683a-15eb-414b-8beb-466aa4fe3f53"
+    },
+    {
+      "start_time": 540,
+      "end_time": 574,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Perón is our leader because he has taught us to live like machos in a world of cowards\", the Secretary General of the new right wing quoted. Peronist youth movement told several thousand supporters in a rally near the capitol last week, \"We're going to crush the leftists because Perón has ordered it.\" This week, as the events in Córdoba have demonstrated, Mr. Perón has broken completely with the left wing of his movement, which he had used so skillfully to give himself a progressive image and to assist his return to power. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "a917baf0-5245-467a-bdc0-c88f3b2178d3"
+    },
+    {
+      "start_time": 574,
+      "end_time": 595,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Argentine daily, El Mundo, says that Córdoba's large concentration of industrial workers makes it a key economic and political center. It was apparent that the right wing police coup was intended to smash the growing strength of left wing Peronists and Marxist Leninists among the city's industrial unions. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "769a402c-7248-4ed2-9e30-e214b4e51893"
+    },
+    {
+      "start_time": 595,
+      "end_time": 640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The coup was the biggest move yet in a systematic offensive by right wing Peronists against the Peronist and non-Peronist left. Beginning with Perón return to power last year, the right has launched a string of bombings, assassinations, beatings, and other forms of terror against the left. In almost every case, Peronists struck a pose of aloofness from the battle until the right wing has scored a success, which he has then blessed and reinforced. More recently, after an attack by a guerilla group on an Argentine army garrison in Azul, Perón himself sees the offensive against the entire left, ramming an emergency law through parliament that virtually abolished several liberties. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "936c33ed-d563-4293-a03b-0ba415aca6c8"
+    },
+    {
+      "start_time": 640,
+      "end_time": 680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to the Mexico City daily, Excélsior, the response of the Argentine left to the police takeover in Córdoba will be a decisive factor in the future course that the country will take. Until this time, many leftists have chosen to remain loyal to Perón in spite of his increasing supportive right-wing elements. \"The revolution passes through Peronism\" is a slogan which has often been chanted by young Peronist leftists who share many Marxist concepts. Political analysts have frequently voiced the opinion that the left support of Perón has been vital in preventing military forces of the extreme right from seizing control. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "af826837-2198-4be3-8269-3bec797b0a5c"
+    },
+    {
+      "start_time": 680,
+      "end_time": 708,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now that Perón has broken completely with the left wing of his movement, there is speculation that his former supporters will join forces with anti-Peronist leftists. The anti-Peronist left declares that through the coup Córdoba, Perón has merely revealed himself as the fascist dictator that he has always been. Spokesman predict that as a repressive nature of Peronism becomes more obvious, a large popular resistance movement will emerge. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "4b309034-1d22-436e-a6e6-1e945a81f290"
+    },
+    {
+      "start_time": 708,
+      "end_time": 717,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This report on events in Argentina from the Argentine daily, El Mundo, The New York Times, and the Mexico City daily, Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "7ffc3f09-c4f9-4d87-ba8a-a0630c202e6b"
+    },
+    {
+      "start_time": 717,
+      "end_time": 729,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In a strange marriage of civilian democracy and military power, all three candidates in the recent Guatemala presidential elections have been high ranking army officers. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "2984a6a4-115f-4be8-a29c-2b474283f674"
+    },
+    {
+      "start_time": 729,
+      "end_time": 746,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The unusual formula was worked out by Guatemala's three political groupings after the armed forces indicated privately that they would not accept a civilian successor to President Carlos Arana Osorio, a general who cannot seek reelection. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "96d5c0ee-feab-4c79-8a4e-8e4b1ec1ec0d"
+    },
+    {
+      "start_time": 746,
+      "end_time": 770,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As a result, this Central American republic with its long tradition of political violence between civilian factions has enjoyed one of the quietest election campaigns in its history, but even with three army officers, two generals, and a colonel running a close race for the presidency, the armed forces are still in a position where they can either uphold or reject the choice of the voters. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "8bd98638-3470-4874-9509-79c07166ba4f"
+    },
+    {
+      "start_time": 770,
+      "end_time": 819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Since 1966, Guatemala has experienced considerable political tension. Thus, in recent years, hundreds of leftists and even moderate opponents of the government have been killed. Some have died in direct confrontations with United States trained army. Many have been murdered by a right wing terrorist group known variously as \"The White Hand\" and \"An Eye for an Eye\". In September 1972, the government was also blamed for the disappearance of the entire central committee of the Guatemalan Communist Party. Recently, however, political violence has sharply declined. Many Guatemalans attribute this to the growing strength of the army as an independent political force that has succeeded in controlling extremist civilians within the ruling coalition. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "49d2552f-d2ba-42cb-b588-b6b2bb1328d1"
+    },
+    {
+      "start_time": 819,
+      "end_time": 842,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Violence may be on the increase. However, now that the Guatemalan government has fraudulently declared its candidate the victor, after long unexplained delays in the publication of election returns, the government controlled electoral registry suddenly announced completion of final results. The national opposition front disputes the percentages. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "579cf213-9308-4afc-b1cf-7d6972eae2a7"
+    },
+    {
+      "start_time": 842,
+      "end_time": 856,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But the government is warned that it is subversive to give out misleading information on the election results and has already closed down three radio stations that insisted on broadcasting a protest message from General Ríos Montt. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "34c526c4-ac1b-4083-a488-ac8757974f1f"
+    },
+    {
+      "start_time": 856,
+      "end_time": 863,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This report from the New York Times and the Christian Science Monitor. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        }
+      ],
+      "uuid": "2643caab-32ad-46e5-93b8-bd1de24ee27b"
+    },
+    {
+      "start_time": 863,
+      "end_time": 895,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are listening to the Latin American Press Review, a weekly selection and analysis of news and events in Latin America as seen by leading world news sources, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions are welcome and may be sent to the group at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, the University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3b615f06-b9ca-4036-9483-4e6316d85526"
+    },
+    {
+      "start_time": 895,
+      "end_time": 906,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The views expressed are solely those of the Latin American Policy Alternatives Group and its sources, and should not be considered as being endorsed by UT Austin or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7c7844db-af8e-4135-b856-eded5ea118bb"
+    },
+    {
+      "start_time": 909,
+      "end_time": 925,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our feature this week is on Brazilian economic expansion in the context of US Latin American relations. Sources included are the Mexico City daily, Excélsior, the British news weekly, Latin America, and the Brazilian weekly, Opinião."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "d22be217-cfe2-41da-8d22-c3b3cb23f7d2"
+    },
+    {
+      "start_time": 925,
+      "end_time": 963,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Traditionally, Latin Americans have resented what they call \"Yankee Imperialism\". They see the United States, a rich, powerful industrial country, extracting Latin America's raw materials to feed US industry, but leaving Latin America underdeveloped. As a result, their economies have been oriented to producing raw materials and importing manufactured goods. Not only does this prevent any great expansion of Latin American economies, but it puts Latin American countries in an ever worsening trade position since the price of manufactured goods increases faster than the price of raw materials. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "856c52cb-c2af-4fb2-9106-f5ee9a315955"
+    },
+    {
+      "start_time": 963,
+      "end_time": 980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When the United States has extended loans to Latin America to help them develop their industry, there have always been political strings attached. If a country's politics become too radical, if they threaten foreign investment, the loans are shut off. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "fb54029d-a794-42d0-b432-07b1ebb87f27"
+    },
+    {
+      "start_time": 980,
+      "end_time": 1013,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Besides acting as a political lever, United States loans also open Latin American investment opportunities to United States capital. By pressuring creditor countries to accept informed investment and providing the funds necessary for the development of an infrastructure that the foreign enterprises can use, loans have won easy access for United States capital into Latin America. The consequence of this is a significant loss of national sovereignty by Latin American countries. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "59eacfb9-090c-4571-8753-ca644bb1bee2"
+    },
+    {
+      "start_time": 1013,
+      "end_time": 1046,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Recently it appears that one Latin American country, Brazil, has assumed the role of imperial power. Using resources gained from its close friendship with the United States, Brazil has made considerable investments in raw material production in neighboring Latin American nations, as well as African countries. Investments include oil in Columbia and Nigeria, cattle in Uruguay, cattle and maté in Paraguay, as well as the hydroelectric plant and rights to Bolivia's tin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "6cae1ac2-3527-4fc6-bb0a-c6448c81611c"
+    },
+    {
+      "start_time": 1046,
+      "end_time": 1081,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Brazilian government has also extended loans, and more importantly, exerted political pressure in favor of the right wing coups. Brazil's totalitarian military regime has, at the cost of civil liberties and social justice, brought stability. It has also attracted a flood of foreign loans and investments through its policies. In 1972 alone, more than $3 billion in loans were pumped into their economy. Foreigners are invited into the most dynamic and strategic sectors of the economy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "dbbd512e-657d-43d6-b4d5-58af521668a7"
+    },
+    {
+      "start_time": 1081,
+      "end_time": 1111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Brazil's friendliness to foreign capital has led them to be, in Richard Nixon's opinion, the model for Latin American development. It has also brought them, by far, the greatest chair of loans to Latin America. The deluge of foreign exchange has led Brazil to look abroad for investment opportunities and raw material sources. A recent article in Mexico's Excélsior describes Brazil's new role in its neighbors, economies, and policies. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "19675d46-f27c-4682-beda-0d9fb6cc0fbe"
+    },
+    {
+      "start_time": 1111,
+      "end_time": 1127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Simón Bolivar struggled to liberate the Spanish colonies in South America, the great liberator dreamed of two nations on the continent. He never imagined that the Spanish and Portuguese halves of South America could ever be united. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "124dd51c-aecb-4448-a1e7-7ddd966feed5"
+    },
+    {
+      "start_time": 1127,
+      "end_time": 1159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Today, however, unification of the continent is being affected by the gradual expansion of Brazilian political and economic influence over the Spanish-speaking half of South America. Whether South America's term the expansion the new imperialism, or a natural manifest destiny, it is most pronounced in Uruguay, Paraguay, and Bolivia, three of Brazil's smaller neighbors. And recently, the shadow of the green giant has been hovering over Chile too. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "2c7bdafb-00fc-4095-a0c2-1dc0127509bb"
+    },
+    {
+      "start_time": 1159,
+      "end_time": 1180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One important side effect of Brazil's growing influence has been the isolation of Argentina, her chief rival for supremacy on the continent. By removing Argentina's influence from their neighbors, Brazil has sharply reduced her status as a power in Latin America, both politically, and more importantly, economically. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "530d6b6c-d257-40f6-9b9c-b9a670db8abb"
+    },
+    {
+      "start_time": 1180,
+      "end_time": 1206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Although she did mass troops on Uruguay's border, her gains of recent years were achieved through diplomacy, trade packs, and the judicious use of money. Paraguay was Brazil's first success. Paraguay, a wretchedly poor nation of 2.5 million people, was offered credits. Her military rulers recorded and her major export, cattle, was given a good reception. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "ab1d79d8-3ee9-4f47-bc37-fae1ba2e5cce"
+    },
+    {
+      "start_time": 1206,
+      "end_time": 1229,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In exchange, Brazilians have been permitted to buy vast tracks of Paraguayan land, make other important investments, and open Paraguay's markets to Brazilian products. Today, many young Paraguays are working in increasing numbers for Brazilian farmers and industrialists. The Brazilian cruzeiro is becoming a power in Paraguay. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "05125fc5-bad6-49f7-be71-75007060cd40"
+    },
+    {
+      "start_time": 1229,
+      "end_time": 1258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Last year, the promise of more cruzeiros led Paraguay's government to grant Brazil rights over major rivers for the construction of massive hydroelectric power systems. Brazil needs more electric power for her booming industry. The Argentines complained bitterly about the diversion of the benefit of those rivers from their territory, but they felt they could not protest too loudly because Brazilians are becoming the important customers of Argentine commerce. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "41cfb331-b3b1-4546-8228-6bf3b72e7b47"
+    },
+    {
+      "start_time": 1258,
+      "end_time": 1293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bolivia is another triumph for the Brazilian foreign ministry. By winning over key military men, the Brazilians helped install General Hugo Banzer as president of Bolivia in 1971. When Hugo Banzer tried to sell more of his country's oil and natural gas to Argentina rather than Brazil a few months ago, he was almost toppled from power. His fate was widely discussed in Brazil and Argentine newspapers at the time, but Brazil's surging economy needs the oil and gas and the outcome was never in doubt. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "504f09e7-0fa6-4840-a3e1-281711173eac"
+    },
+    {
+      "start_time": 1293,
+      "end_time": 1312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bolivian politics is now an arena for open conflict between military leaders who are either pro Brazil or anti Brazil. Those who favor closer ties to Brazil cite the economic benefits that result from the commercial investments pouring into Bolivia from her neighbor. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "dc7933f4-084a-43f8-8755-b34390dba041"
+    },
+    {
+      "start_time": 1312,
+      "end_time": 1331,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Those who oppose becoming Brazil's 23rd state want their country to remain fully independent. They believe Bolivia's potentially wrench in minerals, and that should be used for her needed development. Few people in South America have any doubt about which side is going to prevail. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "c44f964c-8af9-4006-8c9f-e0904cd5268a"
+    },
+    {
+      "start_time": 1331,
+      "end_time": 1352,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uruguay is a prime example of Brazilian expansionism. Uruguay, after years as a beacon of democracy, but as an economic laggard, was taken over last June by her military men in the Brazilian manner. Labor unions, the press, and democratic processes have since been scrapped or repressed "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "1f49fdff-50ea-4b2c-8b9f-f9f1d3a61ef4"
+    },
+    {
+      "start_time": 1352,
+      "end_time": 1375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nationalists in all three countries, Uruguay, Paraguay, and Bolivia, are lamenting the fact that their long awaited economic boom comes at a time when their people are losing control over their own economies. Last September's rightest revolution in Chile, another former democratic bastion in South America, opened that country to Brazilian political and economic domination. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "a2c24789-6a3c-426d-a2ed-4cae403684d3"
+    },
+    {
+      "start_time": 1375,
+      "end_time": 1422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Brazil is also looking to Africa as a source of raw materials and a field for investment. There have been numerous indications recently that Africa looms large in Brazil's future trade plans. Africa has important resources such as petroleum, copper, and phosphates, which Brazil needs. Closer economic and diplomatic relations which African nations will guarantee Brazil access to these raw materials. Closer relations with Africa also fit into Brazil's strategy to become a spokesman for the Third World. An article in Brazil's weekly, Opinião, discusses the signs of increased Brazilian interest in Africa's raw materials and consumer markets. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "6fe46fab-05f5-420c-842f-b919e3e51c77"
+    },
+    {
+      "start_time": 1422,
+      "end_time": 1449,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is possible that in the near future students of international relations will cite the joint declaration of friendship of the Brazilian and Nigerian chancellors as an important step in strengthening Brazil's political and economic ties to Africa. The visit of Nigeria's chancellor, an important public figure in Africa, is a sign of the closer relations to be expected in the future between Africa and Brazil. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "1267503d-e609-440b-b5fc-7420fa27162f"
+    },
+    {
+      "start_time": 1449,
+      "end_time": 1496,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is not surprising that Nigeria is the first African country with whom Brazil is trying to affect closer relations. Aside from being the most populated country in Africa, with one fifth of the continent's total population, Nigeria also has a second largest gross national product in Africa. Between 1967 and 1970, it registered an annual growth rate of 19%, which was second only to Zaire. Thanks particularly to its large increase in petroleum production, which compensates for Nigeria's under development, primitive agriculture, and internal political divisions, Nigeria's on the verge of becoming the African giant. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "4f204eae-65fc-4ba8-83b8-b92bb58da00f"
+    },
+    {
+      "start_time": 1496,
+      "end_time": 1535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Presently Africa's second leading petroleum producer, it will shortly overtake Libya for the lead in Africa. By 1980, Nigeria is expected to surpass Kuwait and Venezuela and become the world's fourth largest petroleum producer. Nigeria is an ideal partner in the Brazilian grand strategy of closer relations with Africa. Even in a superficial analysis, trade between Brazil and Nigeria appears promising. Nigeria has a potentially vast market with a large population, and, relative to the rest of Africa, a sophisticated consumption pattern. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "45cb0ef3-bad7-4137-9a3e-ffab35d60190"
+    },
+    {
+      "start_time": 1535,
+      "end_time": 1574,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Furthermore, Nigeria can offer Brazil an excellent product in return petroleum. It also is undergoing import substitution industrialization, which favor Brazilian inputs. The two countries, both ruled by military governments, have obvious immediate interests in common. Probably most important is maintaining the price of raw materials, such as cocoa, for example. In addition, Brazil's desire to weaken its dependence on Middle Eastern oil because of its obedience to the wishes of United States diplomacy makes the Nigerian source even more inviting. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "b339637d-921a-4b00-a17d-74b3e994d500"
+    },
+    {
+      "start_time": 1574,
+      "end_time": 1603,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Although Brazil is a new customer to Nigeria, trade between the two countries reached $30 million last year. This total is expected to mount rapidly in the next few years. Brazil's Minister of Foreign Affairs has already drawn up a list of over 200 goods and services, which can be absorbed by Nigeria. Numerous Brazilian industrialists and officials are going to Africa to study the potential market for sales and investments. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "1e078d76-286a-417e-9dda-b41d8df1b25e"
+    },
+    {
+      "start_time": 1603,
+      "end_time": 1645,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In recent days, there have been indications that Brazil will increase her trade with countries in what is known as Black Africa. The first of these was the announcement that Brazil might form binational corporations with African countries to exploit the great existing phosphate reserves of the continent, some of which are still virgin. The formation of binational corporations with African countries would guarantee the importation of increasing volumes of phosphates. When one realizes that Brazil imports 85% of the nutrients in the fertilizers it uses, the importance of such corporations is obvious. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "fdd89709-b20f-4fc0-aeb3-42208854ee5c"
+    },
+    {
+      "start_time": 1645,
+      "end_time": 1674,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another indication of Brazil's African strategy is the arrival of Zaire's first ambassador to be sent to Brazil. The ambassador expressed interest in increasing trade between the two countries, stating, \"The Brazilian experience with building roads and applying scientific research to agriculture and industry can be of much more value to Zaire than the experience of European countries because Zaire and Brazil share the same climate.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "4e0172c4-f069-45c7-8de4-bf61cb88ec55"
+    },
+    {
+      "start_time": 1674,
+      "end_time": 1697,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At present, commerce between the two countries is almost negligible. Zaire buys a small number of cars and buses from Brazil and sells a small amount of copper. However, this situation is expected to change radically in view of the negotiations, which will be carried out when Zaire's president visits Brazil in 1974. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "1c2b0590-bef4-40c9-918f-1660243c7850"
+    },
+    {
+      "start_time": 1697,
+      "end_time": 1740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Plans to increase trade with countries in Black Africa are made without prejudice in Brazil's regular commerce with South Africa and Rhodesia, by opening important sectors of her economy to foreign interests and keeping her dissidents in poor under control, Brazil has been able to accumulate foreign exchange and expand into the economies of fellow Third World countries. Along with an economic tie, such as commerce, investments, and loans comes political influence. That influence has already manifested itself in the right wing coups in Bolivia, Uruguay, and Chile. It remains to be seen whether Brazil's African partners will succumb to the Brazilian rightist pressure. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "3612eece-c5e2-4b0c-a080-3c8c95395197"
+    },
+    {
+      "start_time": 1740,
+      "end_time": 1755,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This has been a feature on Brazilian economic expansion, including excerpts from the Mexico City daily, Excélsior, the British News Weekly, Latin America, and the Brazilian Weekly, Opinião. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Nigeria"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        }
+      ],
+      "uuid": "3b7d8143-1a1a-487f-8097-1eeb56c52f71"
+    },
+    {
+      "start_time": 1755,
+      "end_time": 1788,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to the Latin American Press Review, a weekly selection and analysis of news and events in Latin America, as seen by leading world news sources with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions are welcome and may be sent to the group at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, the University of Texas at Austin."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fff671cd-a890-4196-8cf9-56b24a947a2e"
+    },
+    {
+      "start_time": 1788,
+      "end_time": 1799,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The views expressed are solely those of the Latin American Policy Alternatives Group and its sources, and should not be considered as being endorsed by UT Austin or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "51cb3a3e-f29c-4dd2-8dd4-52d78458514b"
+    }
+  ],
   "set": "Default",
   "event_id": "c1a177b6-9e7f-4a61-8673-abd5b1a7be51",
   "source_id": "06f213e4-a3bb-4444-89f1-a6efa2aa14b1"
