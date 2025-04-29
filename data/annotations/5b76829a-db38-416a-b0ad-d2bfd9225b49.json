@@ -1,5 +1,746 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are listening to Latin American Press Review, a weekly summary of events in Latin America, with special emphasis on translation from the Latin American Press. This program is produced by the Latin American Policy Alternatives Group of Austin, Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7aceefae-8707-42fc-aaa0-6a4ee0eaaa64"
+    },
+    {
+      "start_time": 18,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Today, we have reports in the role of multinational corporations in the Mexican shipping and agricultural export industries, current trends in Uruguay since the military takeover, and reports from two Latin American newspapers on the brutal treatment of political prisoners by the Chilean junta. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "96c8020f-aefe-40ad-9291-8fdf4515641b"
+    },
+    {
+      "start_time": 37,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Mexico City daily, Excélsior reported recently that several Latin American government spokesmen are complaining that multinational corporations are creating economic problems for Latin America. From Mexico, a spokesman for the Mexican National Commission for Port Coordination reported that the giant maritime shippers are invading the transportation system of Mexico. The large shipping companies are organized for the service of powerful industrialized nations. Mexico suffers from the high tariffs imposed by these industrial powers. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "9e373e8d-6582-44d0-a8e5-e9ec5794f16d"
+    },
+    {
+      "start_time": 67,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Mexican spokesman explained that the shipping companies charge much more to export or import a product from Mexico than they charge for the United States or a western European nation. For that reason, most Mexican products are shipped through Brownsville, Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "83a2022f-13b5-4b74-bfe8-abe49ceaac87"
+    },
+    {
+      "start_time": 81,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Brownsville is a Texas port on the Mexican border. Maritime shipping companies are truly transnational companies that control almost all air, land, and sea transport. Excélsior quoted the Mexican spokesman as saying that the shipping companies control shipments of any product from one country to another anywhere on the planet. The Mexican Port Authority spokesman announced plans to improve Mexico's port facilities. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "e3369d4c-5936-4eff-92b5-6c8261be7ca0"
+    },
+    {
+      "start_time": 108,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the same time, he noted that Mexico and other Latin American countries are caught in a vicious circle. The powerful industrialized countries impose high shipping tariffs, with the excuse that large ships cannot take on enough cargo in a single Latin American port to be profitable. But with high tariffs, Latin America cannot afford to increase its maritime shipments. The Mexican speaker announced that Mexico will soon denounce this situation in a United Nations meeting. It is hoped the United Nations will do something to alleviate the problem. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "eac386f3-ffad-466e-8ef2-fed1b223782d"
+    },
+    {
+      "start_time": 142,
+      "end_time": 167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the agricultural sector, Mexico is having problems with both transnationals and development institutions, according to Excélsior. Alfredo Jaime De La Cerda, president of the World Council of Arid Zones, recently said that considerable fraud is present in the export of Mexican agricultural products. Large foreign companies, he said, manipulate government agencies so as to avoid paying export duties on the products that they export."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "a6427e46-4b04-432b-8222-c67df25bc97b"
+    },
+    {
+      "start_time": 167,
+      "end_time": 192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this way, Mexico has lost almost $10 million in the export of cattle and tomatoes alone in the last 18 months. Even the reports of the US Department of Commerce revealed that duties had not been paid on such exports. De La Cerda stated that the technocrats of companies and organizations like the Rockefellers, \"Underhandedly manipulate technicians of the Mexican agricultural Department as a weapon against presidential proposals.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "dae7b3b7-7f3f-45d6-b9ca-5fa1bdd8ea99"
+    },
+    {
+      "start_time": 192,
+      "end_time": 206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He reported on the need for legislative controls to establish which of Mexico's basic product should be exported and also in what quantities. There is also a need to put limits on imports as a means to increase production. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "0c743703-0f09-42b3-9bf7-2da990094b4d"
+    },
+    {
+      "start_time": 206,
+      "end_time": 228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In a related story, Excélsior reports that the ambassadors from Peru and Ecuador speaking at the Inter-American Social and Economic Council in that country charged the United States with protecting its own interests through international banks. The Peruvian ambassador stated that the International Development Bank has taken coercive measures to obtain its own economic ends. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "da84791a-e745-4dc6-aa04-754473f7696a"
+    },
+    {
+      "start_time": 228,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The representative from Ecuador added that the International Development Bank has frequently exercised pressure in defending the interest of multinational corporations. US Ambassador John Joseph Jova, when asked about the role of the International Development Bank in Latin America, smilingly answered that it was positive. \"Nothing is more treacherous than statistics. We have to be very careful in using them.\" These reports from Mexico City's leading daily, Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "5cadbc35-1519-401a-bc39-d626482eda44"
+    },
+    {
+      "start_time": 257,
+      "end_time": 304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That same Mexico City daily, Excélsior recently ran this analysis of events in Uruguay. A year has passed since the Uruguayan Armed forces issued a wide-ranging program of national reconstruction. Eight months have gone by since the military found that this declaration was not enough and decided to institute a joint dictatorship with the Uruguayan President Juan Bordaberry, a conservative elected in 1971. Now, the military hierarchy is chafing once again, and most every Uruguayan expects the armed forces to push Mr. Bordaberry aside at any moment and take absolute power. One high ranking Uruguayan army officer was recently quoted as saying, \"If we are going to be blamed for all of the failures, then we should assume complete power and responsibility.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        }
+      ],
+      "uuid": "f22995c0-9451-4f6d-ab26-48f698f3b1c0"
+    },
+    {
+      "start_time": 304,
+      "end_time": 356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uruguay with only 2.8 million people, was once considered the citadel of the good life in Latin America and was able to boast a standard of living, which rivaled several European countries. However, says Excélsior, Uruguay is now in the grips of a devastating decline, which began two decades ago. Uruguay's problems which remain without solution have accelerated tremendously over the last four years. First to go in the once prosperous nation was economic stability. The cattle and sheep raising industries declined, imports rose and government spending increased. Today, one out of every four Uruguayans is a member of the country's unwieldy bureaucracy. For the average Uruguayan this has been reflected most dramatically by a rise in prices of more than 1000% since 1968. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        }
+      ],
+      "uuid": "7c04c3f7-5082-4056-8618-f1e04e6a5ca8"
+    },
+    {
+      "start_time": 356,
+      "end_time": 380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was also in the late 1960s, says this Mexican newspaper, that an effective urban gorilla movement, the Tupamaros was born. The Tupamaros, themselves sons and daughters of an increasingly impoverished Uruguayan middle class, have since their founding challenged the government and gained considerable support among the Uruguayan people. Their activities have included kidnappings of foreign businessmen and government officials. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        }
+      ],
+      "uuid": "6a296232-3f5a-45f0-8c2b-04d446a9cbc1"
+    },
+    {
+      "start_time": 380,
+      "end_time": 416,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Within the past year, however, the Tupamaros have been nearly crushed by a repressive military counterinsurgency program. The government's often violent policies have had their repercussions as Uruguay's democratic institutions have also fallen victim of the repression. Beginning last June, Congress was dissolved, Uruguay's largest labor organization was broken up, the Marxist parties banned, and other parties declared inactive. In addition, the Uruguayan press has been muzzled with at least seven leftist publication shut down. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        }
+      ],
+      "uuid": "81e7f223-117b-430e-bb36-6c85199dc9fe"
+    },
+    {
+      "start_time": 416,
+      "end_time": 437,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Uruguayan University's rector and deans have been replaced after being held in jail for two months on charges of subversion. The country's best writers are also in jail, including Juan Carlos Onetti, widely acclaimed as one of the continent's leading novelists. No one seems to know just how many political prisoners there are in Uruguayan jails today, according to Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        }
+      ],
+      "uuid": "cde8d6cc-dd39-4ba7-8050-cb2b30bfc73f"
+    },
+    {
+      "start_time": 437,
+      "end_time": 468,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A year ago, they numbered about 1500, but recently several politicians and diplomats have estimated that this figure has doubled. There are Tupamaros among them to be sure, but the list of Uruguayan political prisoners also include such prominent politicians as Liber Seregni. Seregni, himself a retired general, was the presidential candidate of a leftist coalition in the last election. He was accused of having committed offenses against the Constitution. Yet that document has been largely ignored by the Uruguayan government during the past year. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        }
+      ],
+      "uuid": "098c7def-e719-4232-b385-cc171cc71988"
+    },
+    {
+      "start_time": 468,
+      "end_time": 489,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As the political and economic situation in Uruguay worsens the trend toward immigration among Uruguay's wealthy, skilled, and educated class also increases. The passport office has been so deluged by applicants that the waiting list now extends to March 1975, and no new requests are being accepted. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        }
+      ],
+      "uuid": "a7a9ee86-6dac-4b24-b97b-d41809192cad"
+    },
+    {
+      "start_time": 489,
+      "end_time": 512,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For the military, the crux of Uruguay's problems lies with numerous civilian politicians and leftists who are allegedly to be found anywhere. In a 32-page document inserted in all Uruguayan newspapers in February, the armed forces charged that Marxist infiltration had extended to labor, student, intellectual and even theatrical circles. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        }
+      ],
+      "uuid": "49f4daf6-3585-40ac-a351-f7dc7c04a4dd"
+    },
+    {
+      "start_time": 512,
+      "end_time": 540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uruguay's business community, on the other hand, complains that the tax structure must be altered so that there must be a rollback in state industries before the private economic sector can grow again. But despite a ban on strikes, which last year cost Uruguay three-fourths of its annual growth, there has been no noticeable economic surge. Even the most optimistic forecast point to a $50 million trade deficit this year in a country whose foreign debt is already estimated at some $600 million. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        }
+      ],
+      "uuid": "e3875cd5-bd6c-49d3-b436-e187924fccf4"
+    },
+    {
+      "start_time": 540,
+      "end_time": 560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At least part of the blame for Uruguay's downward economic spiral may be placed abroad, according to this leading Mexican daily. The oil crisis hit Uruguay harder than any other country in Latin America. Gasoline which sold for 50 cents a gallon last year, now costs $2.30 a gallon. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        }
+      ],
+      "uuid": "771e0108-1730-4314-917a-ebce69614182"
+    },
+    {
+      "start_time": 560,
+      "end_time": 578,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With the failure of even the most drastic attempts to solve Uruguay's staggering economic problems, conservatives and anti Marxists are concerned that the military is rapidly becoming as discredited as the traditional politicians they replaced. That report on current trends in Uruguay from the Mexico City daily Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        }
+      ],
+      "uuid": "3bc35d60-b3a2-4b7b-87f4-c680d46d68bf"
+    },
+    {
+      "start_time": 578,
+      "end_time": 600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior of Mexico City also reports that Jose Toha, ex Minister of the Interior and Defense for the former Allende government in Chile, died March 16th while imprisoned by the military dictatorship. The government claims that Toha committed suicide, but sources close to the deceased believe that suicide was impossible. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Soviet Union"
+        }
+      ],
+      "uuid": "07dcf696-f79d-4d64-a912-99b46149ae54"
+    },
+    {
+      "start_time": 600,
+      "end_time": 629,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to Excélsior, Allende's former press secretary explained Toha's death as an assassination, not a suicide. She said that Toha suffered from a severe stomach disorder and that he required a special diet. Toha was imprisoned in a concentration camp on Dawson Island off the coast of Southern Chile, along with other former officials of the Allende administration. There he was not provided with his special diet and thus lost 50 pounds before he was transferred to a military hospital in Santiago. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Soviet Union"
+        }
+      ],
+      "uuid": "4f0169b3-fcd7-4de8-81d7-2c6035a563b4"
+    },
+    {
+      "start_time": 629,
+      "end_time": 660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The military claims that Toha was found hanged in a closet of the Santiago Hospital, but hospital workers say that when he was admitted to the hospital, Toha was so weak that he could hardly move. The former press secretary thus says that there is no way that Toha could have committed suicide when he did not have the energy to move a limb. She claims that the military deliberately left Toha to die of starvation. She added that this is not the first time that the military hospital has refused treatment to political prisoners. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Soviet Union"
+        }
+      ],
+      "uuid": "45d3e680-d688-4821-b6fd-f3364f22cd6e"
+    },
+    {
+      "start_time": 660,
+      "end_time": 693,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While military officials in Chile claimed that Toha committed suicide by hanging himself with his own belt in a closet, general Pinochet head of the military junta, who was visiting Brazil at the time, had a different version. Pinochet claimed that Toha took advantage of an opportunity while being alone in a shower to hang himself. No explanation has been offered as to the discrepancies between the two supposedly official stories of Toha's death, but Excélsior points out it is well known that people throughout Chile are mourning Toha's death, including sectors of the armed forces. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Soviet Union"
+        }
+      ],
+      "uuid": "0510ff08-83e5-490b-8e98-63017b3d1c9e"
+    },
+    {
+      "start_time": 693,
+      "end_time": 732,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reports of brutal treatment by the Chilean junta also appeared at the other end of the continent recently. The Argentine daily El Mundo published excerpts from an inclusive interview with a well-known Chilean journalist who spent time in military prison in the days following the bloody coup last September. The Argentine daily also reported that the Chilean newspaper La Prensa has been closed by the military censors because of a story it ran on the Soviet author, Alexander Solzhenit︠s︡yn. The article contrasted the treatment the Russian author received with the treatment received by political prisoners in Chile."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Soviet Union"
+        }
+      ],
+      "uuid": "ed9d90b0-ffdd-4253-b81d-0a311f72e59f"
+    },
+    {
+      "start_time": 732,
+      "end_time": 759,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The newspaper said of Solzhenit︠s︡yn, \"The writer has not been jailed, nor has he disappeared. He has not been tortured either physically or mentally. No one has committed hostilities against him, and his family continues to receive news about him. Such treatment stands in sharp contrast to the cruel tortures described by this Chilean journalist.\" That from the Argentine daily El Mundo. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Soviet Union"
+        }
+      ],
+      "uuid": "b46fed19-e2a6-485f-8e1f-2e89408ea705"
+    },
+    {
+      "start_time": 759,
+      "end_time": 792,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And finally, the British news weekly, Latin America, reported recently that General Pinochet has told the Chilean miners that political activities within the unions are strictly forbidden. \"This is not a decision for three or four years, but forever,\" he said. \"It is a question of cleaning up the mines of workers and stepping up production.\" Not to be outdone, another Junta member, General Mendoza said that the Junta will remain in power \"for an unlimited period and will keep right wing parties on ice indefinitely.\" That from the British news weekly, Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Soviet Union"
+        }
+      ],
+      "uuid": "f8b5f065-b83d-406b-adc4-c3b6f203b902"
+    },
+    {
+      "start_time": 792,
+      "end_time": 825,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to Latin American Press Review, a weekly summary of events in Latin America with special emphasis on translations from the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments may be sent to the group at 2434 Guadalupe Street, Austin, Texas. That's 2434 Guadalupe Street, Austin, Texas. Latin American Press Review is distributed by Communication Center, the University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "48badff6-6d96-4d16-8b6f-a58b9eb1a12a"
+    },
+    {
+      "start_time": 825,
+      "end_time": 835,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Views expressed are those of the Latin American Policy Alternatives Group and its sources and are not necessarily endorsed by the University of Texas or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7398d908-5c3d-42f5-b27a-8a1a6385e67a"
+    }
+  ],
   "set": "Default",
   "event_id": "a6ad5583-ae30-4d7b-8d52-5a74f11c3a15",
   "source_id": "94b989b7-67cd-48e7-9ee3-9a608fbc3e63"
