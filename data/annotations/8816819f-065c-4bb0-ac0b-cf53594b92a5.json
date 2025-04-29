@@ -1,5 +1,2432 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the Latin American Press Review, a weekly selection and analysis of news and events in Latin America as seen by leading world news sources, with special emphasis on the Latin American Press. This program is produced by the Latin American Policy Alternatives Group of Austin, Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d3903bd0-22db-4569-a893-495ac686567f"
+    },
+    {
+      "start_time": 22,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior of Mexico City reports that Brazil's military dictator, Médici, will soon step down and be replaced by another military man, Ernesto Geisel. Geisel was elected by Brazil's so-called Electoral College, a group of politicians chosen for their loyalty to the military. The London News weekly, Latin America, noted that the legal opposition party in Brazil, the Brazilian Democratic Movement, said that this election was more democratic because the electoral college had been enlarged. There is a feeling that Geisel in power may signal a period of relaxed government control on political and renewed activity, but says Latin America, the British News weekly, \"There is unlikely to be any change in the present political situation until the immediate economic problems facing Brazil have been solved or at least brought under control.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Madagascar"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        }
+      ],
+      "uuid": "5e0e2ba2-2e62-4d91-83b2-ad4aee45b43d"
+    },
+    {
+      "start_time": 79,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Despite present government efforts to hold down inflation to 13% last year, private statistical analysts say that Brazil's inflation in 1973 was more like 20% or even 30%, and there seems to be little doubt that due to the world trade situation, the problem will be even worse this year. Heavy, across-the-board price increases have already been announced in the first week of 1974. Cigarettes have gone up by 20%, telephones by 15%, and of course, petroleum has gone up by over 16%. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Madagascar"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        }
+      ],
+      "uuid": "6adbb2a3-a729-4d27-bc41-3fdc99d68632"
+    },
+    {
+      "start_time": 116,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In an attempt to contain the rapid increase in the price of basic foodstuffs, the government has taken drastic measures. The official price of beef for internal consumption was cut by an average of 40% in the middle of December, and the export quota reduced by 30% for the next three years. The purpose of the quota reduction was to divert beef, which has been getting record prices on the world market to Brazilian consumers. The end result of the price cut, however, has been the almost complete disappearance of quality beef from the shops and markets. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Madagascar"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        }
+      ],
+      "uuid": "9440c9fb-0609-4ed3-9782-b0ca8c1114b1"
+    },
+    {
+      "start_time": 153,
+      "end_time": 194,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"An even greater problem for Brazil,\" says Latin America, \"is the oil crisis.\" About 45% of Brazil's energy consumption comes from oil, as the government has progressively tried to eliminate the dependence on wood as a fuel since it has resulted in the large-scale destruction of the country's timber reserves. Brazil has to import about 720,000 barrels of oil daily, and the new international oil prices, Brazil's 1974 petroleum bill, could come to about $3 billion or nearly half the value of Brazil's total exports for last year."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Madagascar"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        }
+      ],
+      "uuid": "8c4fef9d-c0f2-4d99-80c5-c43c590bff05"
+    },
+    {
+      "start_time": 194,
+      "end_time": 237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With Brazil having to import so much of its oil, many have wondered why. Instead of exploring its own potential oil fields, Petrobras founded a subsidiary, Bras Petro, which joined with Chevron Oil to explore for petroleum in Madagascar. Later, Brazil joined the Tennessee Columbia Corporation to seek oil in Colombia. So far, Brazil and its joint US ventures have invested some 20 million in exploration efforts in Colombia, Iraq, Iran, Egypt, Madagascar, Venezuela, Bolivia, and Tanzania. The contracts negotiated run from 10 to 20 years. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Madagascar"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        }
+      ],
+      "uuid": "a78d3ea2-3aac-4b5f-a1a3-2e779c5b80b3"
+    },
+    {
+      "start_time": 237,
+      "end_time": 266,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are indications that Brazil may itself now be penetrated by US oil corporations. Something Petrobras was originally formed to prevent. The Brazilian weekly, Opinião, reported that former Secretary of State William Rogers during his visit to Brazil last May, expressed special interest in reaching an agreement between US oil firms and the Petrobras for the exploration of Brazil's Continental Shelf. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Madagascar"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        }
+      ],
+      "uuid": "2dd78301-9a6a-4696-a162-6fba27e37ee8"
+    },
+    {
+      "start_time": 266,
+      "end_time": 284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Brazil, where Petrobras autonomy is synonymous with Brazilian nationalism, such joint ventures are bound to raise questions about Brazil's independence. Though United States participation in other aspects of Brazil's political and economic life causes little official concern. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Madagascar"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        }
+      ],
+      "uuid": "ab476fb4-4fd0-49e2-9588-05ffe7effe0b"
+    },
+    {
+      "start_time": 284,
+      "end_time": 299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The issue of United States corporations' domination of other Latin American countries through Brazilian expansion has been a sensitive one and fears of Brazilian military invasion have also been raised. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Madagascar"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        }
+      ],
+      "uuid": "4b5222d0-0edf-4a54-b9be-80658b913042"
+    },
+    {
+      "start_time": 299,
+      "end_time": 329,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Two weeks ago, the Venezuela newspaper El Mundo reported that Bolivia will be the first country invaded by Brazil. The plan developed on February of 1973 was exposed in a photographed document belonging to the Brazilian army. The pretext for the invasion of Bolivia would be to combat the threat of communism, which the plan detailed would extend to other Latin American countries, if not extinguished. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Madagascar"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        }
+      ],
+      "uuid": "23d9a70a-ffb3-4614-95ad-4e008b01cc2d"
+    },
+    {
+      "start_time": 329,
+      "end_time": 352,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Only last week, the daily Jornal do Brasil reported operations by the Brazilian armed forces, which were supposedly aimed at increasing reconnaissance of their borders with Bolivia, Peru, Colombia, Venezuela, and Guyana. The Brazilian daily said that one of the maneuvers could well have been a practice for an invasion of Bolivia. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Madagascar"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        }
+      ],
+      "uuid": "4464ddf6-5da8-44f0-ab8b-7f58a90c1222"
+    },
+    {
+      "start_time": 352,
+      "end_time": 402,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is not the first time such revelations have occurred. A senator of Uruguay, another country bordering on Brazil, reported last summer in Marcha that Brazilian troops have violated his country's border on several occasions. Also, last summer, troops and armored units of the Brazilian Army's third core, its biggest and best military outfit were reported to have penetrated Uruguay by one of the four major highways which Brazil built on the border between the two countries. In April of 1972, a Brazilian plan for the invasion of Uruguay was revealed only days before presidential elections in that country. The plan and Brazilian military maneuvers were considered a threat in case the left centrist Broad Front coalition won the elections. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Madagascar"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        }
+      ],
+      "uuid": "a7867bbe-15e8-44d5-a311-bfa526f5e7e4"
+    },
+    {
+      "start_time": 402,
+      "end_time": 414,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This report compiled from the British Weekly, Latin America, the Mexico City Daily, Excélsior, the Brazilian daily, Jornal do Brasil, the Venezuelan daily, El Mundo. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Madagascar"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        }
+      ],
+      "uuid": "153ef462-092e-427f-8dc2-2fcfce5811f4"
+    },
+    {
+      "start_time": 414,
+      "end_time": 442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior of Mexico City reports on a recent conference in Mexico, Atlaya 74, at which economists from Latin America and the United States met to discuss alternative modes of growth. The Mexican economist, Muñoz Ledo, was most clear about the type of economic and political structure needed to cope with present problems of both underdeveloped and developed countries. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "4db50b6b-e71a-4af8-afd9-40bcfa58e30e"
+    },
+    {
+      "start_time": 442,
+      "end_time": 477,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He adamantly states that the model of economic growth postulated during the last three decades is not adequate to solve his nation's problems. Developers, intellectuals, and unions he stressed are not in agreement with the model of global development proposed by developed countries which have not yet solved their problems. The society of opulence is neither a model of quality nor morality. Any model for growth that is shared with a developed nation will do nothing but prolong the external domination of the underdeveloped countries. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "57134e78-e87e-4378-a557-a3c41d72f77d"
+    },
+    {
+      "start_time": 477,
+      "end_time": 530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Mexican economist furthermore stated that even if population growth was controlled, food supplies multiplied and energy problems resolved, the essential problem would still remain, that of redistributing poverty among the world community. From the Mexican point of view, humanity's problems should be resolved through a renovation of a social pact between the world's countries based on a consensus between the great, medium and small countries to distribute equally the resources which they possess. Any thesis which proposed a simple modification of the current model of economic growth or any scheme from one country which attempts to solve the problems of others would only be possible, according to the Mexican economist, in a political situation that presupposes the existence of global fascism. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "e6120f03-6309-45a8-b3cf-a837fefe83a2"
+    },
+    {
+      "start_time": 530,
+      "end_time": 567,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Muñoz Ledo was quoted as saying that the problems of economic growth cannot be solved in mechanical terms. What has to be limited is not growth, but the model of growth that has been adopted to satisfy the opulent societies. As a foreboding of the type of feudal society in which a small group of countries and social classes would use the major portion of the world's resources it was pointed out that a child in the United States will consume 50 times more natural resources and technological products than a child born in Africa. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "2fe3437a-6491-45ae-9da0-e364f0a22545"
+    },
+    {
+      "start_time": 567,
+      "end_time": 594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Mexican delegate to Atlaya 74 concluded by cautioning against the optimism that characterizes those who pretend to control all the variables of development because they fail to consider the growing aspirations of the majority of humanity. And referring to the conference of economic experts, Muñoz Ledo also hoped that it would result in awakening the conscience of the ruling classes. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "cb3c1044-961f-4928-be0c-9512fe5d4997"
+    },
+    {
+      "start_time": 594,
+      "end_time": 621,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another outspoken delegate at the conference was the Argentine economist Raúl Prebisch. He warned that if the current socioeconomic inequality continues, other Che Guevaras are destined to emerge in Latin America. In contrast, the American economist Walt Rostow traced a dramatic scheme of the world to prove that the gravest danger confronting humanity is the return of a brutal mercantilism. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "0210e6d9-cc8d-4431-a33b-d987e5e2d44c"
+    },
+    {
+      "start_time": 621,
+      "end_time": 649,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Prebisch pointed to the rapid rate of politicalization in the Latin American countryside, as well as in the city, to prove his thesis. This process accelerating faster than the process of economic growth gives rise to the phenomena of a Che Guevara and is thus not a mere historical accident. He forecasts that Guevaristas will have better luck today than Guevara had in attempting to mobilize Bolivian peasants in the 1960s. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "92a1c1db-d64e-40f3-b498-3a66a011f1d1"
+    },
+    {
+      "start_time": 649,
+      "end_time": 687,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For his part, Walt Rostow, who was an advisor to presidents Kennedy and Johnson, focused on the grave problems confronting the world because of the monetary and commercial disputes, the scarcity of energy, and the deficit in the balance of payments. According to Excélsior, after a long exposition, Rostow categorically affirmed that, \"More dangerous than the population explosion, pollution, inflation, and the energy crisis, would be a world return to mercantilism.\" By this, he meant that system characterizing the last century, which sought only to find profits. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "0e7d8730-05c1-4929-a55a-d14623fd0c85"
+    },
+    {
+      "start_time": 687,
+      "end_time": 698,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to the chief of police in Culiacán, a Mexican city in the state of Sinaloa, a guerrilla-type offensive was carried out in the area this week. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "27b9f917-2503-4f74-9f43-586214155e36"
+    },
+    {
+      "start_time": 698,
+      "end_time": 733,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior reports that citizens in the area seemed to be accustomed to such tacts. Similar disturbances have occurred every two or three months. Most recently, in October and November of 1973. Two state senators, Leyva and Calderón, have accused Governor Valdez Montoya of causing the outbreaks. The senators charge that his alliance with the economically powerful groups has prevented him from responding to the needs of poor people. The senators also charged the governor with failing to resolve the problems of the university. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "39f2217f-b7cb-4cb4-8b14-469c5cc91afd"
+    },
+    {
+      "start_time": 733,
+      "end_time": 769,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Arturo Campos Romàn, the rector of the University of Sinaloa, has declared that the uprising was not strictly a university affair. The rebellion, according to Campos, has to do with economic problems which have not been solved by the country as a whole. The solution will require solidarity in working for the goals of giving more and better opportunities to all for well-paid work, producing more in the fields and in industry, and more equitably distributing the wealth. This from the Mexico City daily, Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "2c705f18-6b93-43d6-a9e1-d596d6a19c26"
+    },
+    {
+      "start_time": 769,
+      "end_time": 821,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Two weeks ago, the chief of the Panama government Omar Torrijos made an official visit to Argentina and Peru, Excélsior of Mexico reports. During a two-hour conference in Buenos Aires with President Perón, Argentinian support was expressed for the claims of Panama regarding the canal. Perón declared that the US must leave the canal zone to Panama unconditionally, colonization must be done away with. All Latin American countries must unite as a continent to face this problem. Perón ironically added that American and British positions were rather weakened by the oil crisis and that the American Secretary of State, Henry Kissinger's new policy must apply to South America as well as to the States. This article from Excélsior, Mexico City's leading daily. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "04600017-91b4-478c-ad07-9c1dd0b16c5d"
+    },
+    {
+      "start_time": 821,
+      "end_time": 854,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are listening to the Latin American Press Review, a weekly selection and analysis of news and events in Latin America as seen by leading world news sources with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions are welcome and may be sent to the group at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, the University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "05c01462-5702-429c-9153-b2ef53de75a0"
+    },
+    {
+      "start_time": 854,
+      "end_time": 864,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The views expressed are solely those of the Latin American Policy Alternatives Group and its sources and should not be considered as being endorsed by UT Austin or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b2530e1a-acbc-462c-bbff-92afbd27dd8a"
+    },
+    {
+      "start_time": 864,
+      "end_time": 870,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Today's feature is the energy crisis as seen from Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "708405ea-035e-4e7e-b2d1-4aa86c23923e"
+    },
+    {
+      "start_time": 870,
+      "end_time": 883,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Amid varied opinions as to the causes and effects of the oil crisis certain facts stand out. Importing countries cannot absorb increased prices and inflation is inevitable. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "9b4f5119-540a-4555-a9b8-d95fbae3d682"
+    },
+    {
+      "start_time": 883,
+      "end_time": 914,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to Latin America, a British weekly of political and economic affairs, Peru, which imports 35% of its oil and has sold it on the internal market without a price rise for more than a decade is faced with a problem. How can the inevitable price rise, now scheduled for January, avoid hitting the poorest sections of the community? This is a particularly delicate problem for the government since it is suffering from the most serious crisis of confidence it has known in the past years. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "7abbe88a-c6a9-46a4-b40e-496ffe8770c2"
+    },
+    {
+      "start_time": 914,
+      "end_time": 928,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Peru's long-term problem is not so serious. The Amazon field should be producing significantly by 1975 when Peru aims to be self-sufficient and exploration is going ahead offshore. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "6333d445-7f4b-40ae-bca8-5c1e384d5d3d"
+    },
+    {
+      "start_time": 928,
+      "end_time": 944,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Colombia has the opposite problem, currently self-sufficient it is likely to be importing oil by 1975. Here too the internal price is subsidized heavily and a price rise in spite of government denial seems imminent. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "9d355fe3-6c1f-45cb-bc4d-a37823a70d32"
+    },
+    {
+      "start_time": 944,
+      "end_time": 955,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some increase in inflation is inevitable in Mexico where the domestic price of petrol has been put up 70% and gas has gone up by more than 100%. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "90cd46a0-77fd-4f6b-a6b0-cf235d0365c3"
+    },
+    {
+      "start_time": 955,
+      "end_time": 973,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Opinion in some quarters of Mexico is particularly bitter and Miguel Zwionsek in a December 31st editorial in Excélsior, one of Mexico City's leading dailies, lays the blame for the crisis at the feet of the transnational oil companies as he declares: "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "c23aad4e-a4b4-47a4-9992-f64c1033fc01"
+    },
+    {
+      "start_time": 973,
+      "end_time": 1007,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Before the Arab Rebellion, and for the last 50 years through the control of petroleum reserves in the Mideast by the seven Sisters Oil consortium, crude oil prices were unilaterally fixed by the international oil oligopoly without any regard to so-called market forces. The World Oil oligopoly manages petroleum prices at its pleasure. If these phenomena do not fit well in the idyllic tail of a free world of free enterprise, so much the worse for those who take the story seriously.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "c419405a-3bef-4a58-92fa-7d7cee95e7cc"
+    },
+    {
+      "start_time": 1007,
+      "end_time": 1011,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr. Zwionsek to clarify this charge, continues by saying that: "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "7f4f3fb8-4663-4e5e-b7a6-bdde9e6ca0e4"
+    },
+    {
+      "start_time": 1011,
+      "end_time": 1042,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have here a somewhat indiscreet declaration of the Royal Dutch Shell President made in London, December 10th. While the Arabs say that the supply to Great Britain is assured, the transnationals consider it their responsibility to manage their own world system of petroleum rationing. Translated into plain language this declaration is saying that if indeed the crude producers have beaten us, the transnational giants, the consumers will pay the bill. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "0d060570-62ed-4b47-80f7-4cc10411d8c4"
+    },
+    {
+      "start_time": 1042,
+      "end_time": 1066,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is estimated that as oil prices double for the Third World countries, they will pay $3.8 billion more this year for petroleum imports. Thus, the weakest of the Third World countries will pay the final bill for the Arab rebellion. As was to be expected the transnationals will come out unscathed by the phantasmagorical world oil crisis. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "deb9d8fa-3229-4561-8920-ab041c43bd52"
+    },
+    {
+      "start_time": 1066,
+      "end_time": 1101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This editorial opinion by Miguel Zwionsek appeared in the Mexico City daily Excélsior December 31st, 1973. However, not all writers agree that only the weakest Third World countries will feel the effect. Reflecting on the crisis many are reexamining their relations with the industrial countries and their own development programs. Paulo R Shilling examining the problem in an editorial appearing in the December 28th issue of Marcha, an Uruguayan weekly, analyzes the case of Brazil. Mr. Shilling begins by declaring that: "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "5011567e-4895-4835-b0e8-77cc7736674a"
+    },
+    {
+      "start_time": 1101,
+      "end_time": 1135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Brazilian energy policy constitutes a prime example of the two development possibilities, independent or semi colonial of a developing country. The independent policy consists in evaluating one's own resources to overcome the barrier of under development. During the government of Marshall Eurico Gaspar Dutra and later under the government of the Bourgeois Alliance headed by Juscelino Kubitschek, the policy inspired by the petroleum monopolist then eager for new markets was imposed. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "957409b4-43b9-4281-a10e-ed3a2c03cf93"
+    },
+    {
+      "start_time": 1135,
+      "end_time": 1171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "New consumers of petroleum had to be created. The truly national plans for the automobile industry had aimed at meeting the basic needs of public transportation and freight transportation and the mechanization of agriculture. To the contrary, the many automobile factories which were installed in the country on shameful terms of favors and privileges are totally foreign controlled and seek exclusively easy profits without any consideration for authentic development. In fact, the number of tractors manufactured equals only 5% of the total of vehicles produced. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "c978a0cb-7639-411e-b77d-d7fc6a2027fd"
+    },
+    {
+      "start_time": 1171,
+      "end_time": 1213,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As the internal market was very limited, the government succeeded, by the concession of official credit to the middle class, in artificially inflating the demand for private autos. This policy, brought to its final conclusion by the military dictatorship, caused a total deformation of Brazilian society. With a per capita income of only $500, and that very poorly distributed, Brazil is still included in the underdeveloped classification. However, by furnishing a market for the international monopolists, and winning politically, the middle class, a super structure of privilege equivalent to the most highly-developed countries, has been created. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "eaef0746-a401-4ef9-8ac5-69d9e546018f"
+    },
+    {
+      "start_time": 1213,
+      "end_time": 1239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This massive increase in the number of vehicles, especially passenger cars, is almost solely responsible for the fantastic increase in petroleum consumption in the past few years. The situation becomes still more absurd, from the point of view of independent national development, if we consider that the fuel consumed by the passenger cars of the new rich is produced with almost completely imported petroleum. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "277888e9-1e45-43f1-a098-1088f7e9bea4"
+    },
+    {
+      "start_time": 1239,
+      "end_time": 1261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Having given massive admittance of the middle class to the automobile era, importation has increased five times in 13 years. For 1974, predicting an importation of 260 million barrels, the expenditure will reach the fantastic foreign underdeveloped country a sum of 2 billion US dollars. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "72171724-664b-4ac2-9b79-2205a9c52761"
+    },
+    {
+      "start_time": 1261,
+      "end_time": 1294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The enormous sacrifice of the Brazilian people, who produce more every year, and each year, consume less, at the level of the working class, to increase exports means nothing in terms of genuinely national and popular development. All the increase gained in 1973 will be destined for the acquisition of fuel in order to offer the new Brazilian rich a level of comfort equal to that of the developed countries. Mr. Shilling speculates why this policy is allowed to continue. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "0184f8c5-35e2-4984-974f-33ba86f5ba4f"
+    },
+    {
+      "start_time": 1294,
+      "end_time": 1332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Up till now, the Brazilian government has not taken any steps to limit the consumption of petroleum derivatives. How can it be done without affecting the euphoria of the rich and middle classes, the base that sustains the government? How can it be done without prejudicing the sales of the automobile monopolies? How can it be done without disturbing those states within the state, which, like Volkswagen, have a budget greater than that of various states of the Federal Republic of Brazil? How can it be done without tarnishing the image of the Brazilian miracle abroad, fundamental to obtain more investments and loans? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "5d6ef093-5f40-4d51-a494-aa8bf9f8a034"
+    },
+    {
+      "start_time": 1332,
+      "end_time": 1339,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As an alternative Mr. Shilling concludes by suggesting that the effects of the crisis: "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "0bf0e81a-8603-4028-9ad0-46cac706a828"
+    },
+    {
+      "start_time": 1339,
+      "end_time": 1386,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could as well always be regulated by our governments, which, revealing a minimum of independence, might break with the seven sisters, British Petroleum, Shell, Exxon, Chevron, Texaco, Gulf, and Mobil, and take steps to negotiate directly with the state organizations of the producing countries. Eliminating the predatory intermediary would assure a complete supply and the impact of price increases would be less. The increase in importations could be eliminated in part by drastic restrictions on the extravagant use of petroleum derivatives and with an offensive of higher prices on the raw materials which we export. Those who will be the scapegoats in this case would be the imperialist countries. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "4f6d6ca8-65e5-4544-a780-7171eccabd1b"
+    },
+    {
+      "start_time": 1386,
+      "end_time": 1395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr. Paulo R. Shillings editorial appeared in the December 28th '73 issue of Marcha, published weekly in Uruguay. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "3fbf0687-6125-4f09-80df-c39ee3caac12"
+    },
+    {
+      "start_time": 1395,
+      "end_time": 1432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From Brazil itself, Opinião of January 7th, 1974 reports that Brazil is feeling the Arab oil boycott. On the 27th of December, the National Petroleum Council approved a 19% price increase for ethol, 16.8% for regular gas, 8.5% for diesel fuel. According to an official of the council, increases for gasoline, which is destined for individual consumption, are higher than those of diesel and other combustibles, which have a greater effect on the economy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "8ca378cd-4072-4547-aa79-099b7d2e7ede"
+    },
+    {
+      "start_time": 1432,
+      "end_time": 1471,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But the January 14th Opinião cautions that because the Brazilian economic model is so tied with the world economy, the Brazilian economy will always reflect the general tendencies of the world capitalist system, and the Arab petroleum boycott brought great uncertainty about Brazilian economic prospects for 1974. In 1973, for the first time in recent years, it was not easy to resolve certain contradictions. For example, between growth of exports and supplying the internal market between inflation and excessive influx of foreign capital. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "183d9b29-8f90-4b4c-aa83-64ef79d6125a"
+    },
+    {
+      "start_time": 1471,
+      "end_time": 1509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How will the current oil shortage affect Brazil? Opinião explains that in many advanced countries, a decrease in production has already been noted because of the oil shortage. As a result, they require less materials. In Brazil's case, the growth of gross domestic product is closely related to growth of exports. The probable decline in exports in '74 will provoke a decline in gross domestic product. Along with probable decreasing exports, the higher price of petroleum will reflect itself in almost all of Brazil's imports, freight costs, as well as doubling petroleum prices themselves."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "0aa07827-3b58-4593-a513-cc1d405b0200"
+    },
+    {
+      "start_time": 1509,
+      "end_time": 1537,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Opinião concludes that to a certain degree, Brazil's economic problems are a result of the advances it has achieved in its interaction with the world economy. If the increases of imports and exports obtained in the last few years, aided by foreign credit facilities, permitted the maintenance of a high-economic growth rate, now, at this critical moment for the world market, Brazil will have to pay the price."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "367bc10c-3706-4860-a806-06584e80c33f"
+    },
+    {
+      "start_time": 1537,
+      "end_time": 1543,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This from Opinião of Brazil, January 7th and 14th, 1974. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "85b927cb-c2dd-429b-8cea-43846cc1dcf2"
+    },
+    {
+      "start_time": 1543,
+      "end_time": 1556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We conclude today's feature with a speculation by Luis Ortiz Montiserio, appearing in Mexico City's Excélsior, January 14th, on the lessons to be learned from the current oil crisis. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "1a024e13-04be-4db2-8327-7162ad62af70"
+    },
+    {
+      "start_time": 1556,
+      "end_time": 1591,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One is able to predict the true intention of the recent declarations of the US Secretary of Defense, who is threatening with the use of force, the Arab countries that have decreed the petroleum embargo against the West. It is curious to note that the inheritors of the democratic traditions have changed overnight into bad losers. Economic aggression, a fundamental arm in United States relations with weak countries, cannot be wielded by its former victims. The use of violence vehemently condemned by Western civilization is now being piously proposed. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "20c080f3-f9a9-42a9-8bbf-da75bb06c7f2"
+    },
+    {
+      "start_time": 1591,
+      "end_time": 1634,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A fight with all Third World countries is impossible. To our mind, economic pressures never have been the best instrument of international relations. Today it is the producers of petroleum who use their valuable raw materials to influence international decisions. Hardly yesterday, it was those same economic pressures that the great powers manipulated to control policies and influence the weak nations. If indeed we agree that its use is dangerous, we cannot help but consider its great potential and the lesson to be taught to the great industrial powers. This editorial by Luis Ortiz Montiserio appeared at January 14th in Mexico City's daily, Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "9fef0be5-3563-4808-8dc9-c7ece9f7daf5"
+    },
+    {
+      "start_time": 1634,
+      "end_time": 1666,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to the Latin American Press Review, a weekly selection and analysis of news and events in Latin America, as seen by leading world news sources, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions are welcome and may be sent to the group at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, the University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8a271de3-55d4-45c1-b898-ed40b3e6681c"
+    },
+    {
+      "start_time": 1666,
+      "end_time": 1677,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The views expressed are solely those of the Latin American Policy Alternatives Group and its sources, and should not be considered as being endorsed by UT Austin or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c0ac33e8-848f-415f-8dcd-0a27dac739c6"
+    }
+  ],
   "set": "Default",
   "event_id": "2a7b8fa7-47f1-4218-9dc9-249a976f59d1",
   "source_id": "0e4033bf-426b-4e88-a11f-85cd445c1966"
