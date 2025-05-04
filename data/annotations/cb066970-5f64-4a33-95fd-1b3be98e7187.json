@@ -1,5 +1,704 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are listening to Latin American Press Review, a weekly summary of events in Latin America, with special emphasis on translation from the Latin American press. This program is produced by the Latin American Policy Alternatives Group of Austin, Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a04a9cd9-1d47-4c18-b6ba-b1f528d5ad28"
+    },
+    {
+      "start_time": 18,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This week, Latin American Press Review focuses on the nationalization of United States industry in Venezuela, the United States Senate opposition to the Panama Canal Treaty, and the relocation of the petrochemical superport in Puerto Rico. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1695e72e-9f79-4ad5-8979-143f46a44e5a"
+    },
+    {
+      "start_time": 35,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El Nacional of Caracas Venezuela reports that newly elected president Carlos Pérez announced plans on April 30th to nationalize the US-dominated iron ore industry and a broad range of other foreign-owned companies. Among the companies to be nationalized are Orinoco Mining Company, a subsidiary of U.S. Steel, and Iron Mines, a subsidiary of Bethlehem Steel. The two mine and export most of Venezuela's iron ore. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        }
+      ],
+      "uuid": "6f4a3a82-8a2a-41e3-9597-52f19f18a4f6"
+    },
+    {
+      "start_time": 64,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Since Pérez's party has a majority in the congress, the nationalization appears certain. Pérez also called for the nationalization of all supermarkets and department stores, including the CADA chain owned by the Rockefeller family and Sears, Roebuck. These and other companies involved in internal services will have three years in which to sell 80% of their stock to Venezuelans. Venezuela already has plans to nationalize foreign owned oil companies in the next few years. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        }
+      ],
+      "uuid": "845e5d52-7816-4922-9384-553e1e9d742a"
+    },
+    {
+      "start_time": 95,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "President Pérez met with labor leaders on April 30th to explain the measures. He said department stores would be nationalized to prevent salaries climbing by stairs, while prices take the elevator. He said salary increases will range from five to 25%, with the highest increases going to those who now have the lowest incomes. And Pérez promised the delivery of free milk to pregnant mothers, babies, and primary school children. This, from El Nacional of Caracas, Venezuela. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        }
+      ],
+      "uuid": "114d4190-645d-48b1-8ddd-d5e2eff12e9c"
+    },
+    {
+      "start_time": 128,
+      "end_time": 170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "International Bulletin reports that US Senate opposition to the negotiation of a new Panama Canal treaty is rekindling an old and potentially explosive conflict between the United States and Panama. A coalition of 35 conservative Senate Democrats and Republicans, dead set against returning the waterway and the Canal Zone to Panama, is prepared to block ratification of a new treaty. The nationalist government of Omar Torrijos is equally determined to regain sovereignty over the territory ceded in perpetuity to the US in a 1903 treaty. \"If negotiations fail,\" says Torrijos, \"we will be left with no other recourse but to fight.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Vietnam"
+        }
+      ],
+      "uuid": "f35b1e6c-db38-4722-b4c5-dc3dd630b7fb"
+    },
+    {
+      "start_time": 170,
+      "end_time": 216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After 70 years of ownership and control of the 550 square mile Canal Zone, last February, the US, under pressure from the United Nations and Latin American foreign ministers, acknowledged Panamanian sovereignty over the canal and the adjacent strip of land and agreed to work out a timetable for their return. The US made this historic promise in an eight point statement of principles signed by Secretary of State Henry Kissinger and Panamanian Foreign Minister Juan Antonio Tack. \"There is opposition in both our countries to a reasonable resolution of our differences,\" Kissinger acknowledged. But he predicted that this was the first step toward a new era in inter-American affairs, says International Bulletin. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Vietnam"
+        }
+      ],
+      "uuid": "e672a2a5-abaf-44cc-86df-37e0b501b40e"
+    },
+    {
+      "start_time": 216,
+      "end_time": 262,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So far, the only Panamanian opposition to the agreement has come from right-wing business leaders in the National Civic Movement, which includes the Kiwanis Club, the Lions Club, and the Chamber of Commerce. The majority of the country's one and a half million people, including the National Student Federation, the unions, and the National Guard have expressed strong support for the agreement and the campaign to eradicate what they view as a colonial enclave in their country. But in the United States, where the canal dispute has attracted little public attention, the Panama Canal lobby in congress has rejected the Kissinger-Tack Agreement. A number of conservative senators and congressmen expressed dismay that Kissinger had signed away Teddy Roosevelt's canal. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Vietnam"
+        }
+      ],
+      "uuid": "8362fcf1-7704-45cb-85d6-9aab175f1586"
+    },
+    {
+      "start_time": 262,
+      "end_time": 304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Representative Daniel Flood of Pennsylvania called the agreement a sellout and surrender. And Senator Strom Thurmond of South Carolina and John McClellan of Arkansas have put together a coalition of 35 senators, capable of defeating ratification of any new treaty, that would abrogate US rights and interests in the zone. Senator Gale McGee of Wyoming, who introduced a countermeasure to the Thurmond-McClellan resolution, states, \"The opposition is serious in terms of its sentiment and emotionalism, but none of it was addressed to the facts in the case. Rather, it was an appeal to Teddy Roosevelt and the days of the Rough Riders and the digging of the canal, that episode in our history.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Vietnam"
+        }
+      ],
+      "uuid": "7b518e7d-1a8a-45cf-8618-281c58d1c6fa"
+    },
+    {
+      "start_time": 304,
+      "end_time": 346,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Senator Thurmond said that he is against any treaty revision that would, \"sacrifice United States sovereignty.\" \"Under the 1903 treaty, we obtained sovereignty and perpetuity over the property,\" he said. \"We bought it and paid for it. It's ours, and I don't favor giving it away.\" However, critics of the 1903 treaty say that Roosevelt stole the canal by gunboat diplomacy. After arranging a revolution in Panama, sending in the United States Marines and signing a treaty with the United States created government, Roosevelt bragged, \"I took the canal while Congress was still debating what to do.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Vietnam"
+        }
+      ],
+      "uuid": "2ca6cb69-59ea-4705-a528-f36b385d31f5"
+    },
+    {
+      "start_time": 346,
+      "end_time": 381,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "His Secretary of State John Hay admitted that the treaty was not so advantageous to Panama. Thurmond also claims that the canal would not be safe in the hands of the Panamanians. \"Panama has such unstable governments,\" he said, \"that, if the canal ever got in their hands, we don't know whose hands it would be in the next morning.\" He added, \"They've got some unreasonable people down there, and the government is far to the left. And I think it'd be dangerous for this canal to get in the hands of anyone else. It ought to stay in the hands of the United States.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Vietnam"
+        }
+      ],
+      "uuid": "2cb7ec19-ab00-45bf-a0ad-f662ea64a817"
+    },
+    {
+      "start_time": 381,
+      "end_time": 415,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Congressman Flood, who has led the fight to protect US military and economic interests in the Canal Zone for over 20 years, went further, charging that Panama's Foreign Minister is a communist as red as your blood. Flood says, \"Juan Tack is the devil in the peace, the brains behind the operation. Tack is palsy walsy with Castro and the Reds, and he will do anything the Soviets tell him to do.\" Flood lashed out at the Kissinger-Tack agreement, calling it \"a blueprint for an abject surrender and a piece of diplomatic trickery.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Vietnam"
+        }
+      ],
+      "uuid": "69aea34b-9c8b-4154-aafd-a48c1f4cd16f"
+    },
+    {
+      "start_time": 415,
+      "end_time": 458,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thurmond and McClellan would like to see the United States investment in the zone increased. Thurmond thinks the United States could build a free trade port on Panama's Atlantic Coast, as an inducement to discourage the Panamanian drive for sovereignty. \"It is to Panama's advantage, really, that the United States should maintain control. Panama has fared very well from it. It has improved their economy and raised their standard of living. We pay big salaries down there,\" said Strom Thurmond. The United States pays Panama about $2 million a year for use of the canal, though the US takes in over 100 million annually in shipping revenue. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Vietnam"
+        }
+      ],
+      "uuid": "1363638c-e9c6-42ab-9fc3-203664081a80"
+    },
+    {
+      "start_time": 458,
+      "end_time": 480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to International Bulletin, the waterway is not all that is at stake in the battle over who controls the Canal Zone. The Pentagon has turned the entire zone into a virtual military garrison, complete with 14 bases, a Green Beret school, a counterinsurgency training center for pro-US Latin American military units, and 11,000 US troops. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Vietnam"
+        }
+      ],
+      "uuid": "41599da4-9d34-4731-8262-a4d78a388bb2"
+    },
+    {
+      "start_time": 480,
+      "end_time": 505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Panama wants the US military out, except for those military installations absolutely necessary for the defense of the canal. The eight point agreement supports the Panamanian position, and so does Congressman Les Aspin of Wisconsin, who said his staff was told by a State Department official that the only justification for the Southern Command, headquartered in the zone, is for an intervention force in the Western Hemisphere. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Vietnam"
+        }
+      ],
+      "uuid": "311947d4-9d42-442c-a692-768f2e63462c"
+    },
+    {
+      "start_time": 505,
+      "end_time": 547,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The last thing in the world we'd need to do\", said Aspin, \"is to start intervening militarily in the internal affairs of Latin American countries.\" Aspin has called for abolition of the entire Southern Command. Senator McGee voiced, \"The Senate liberal position that the US military presence in the zone is overblown, but that there is a realistic national security interest in the canal, even after closing down old France Field, there are 14 to 15 military installations in the area. That is much too much,\" says McGee. McGee concluded, \"Most of the military installations there are going to be the subject of negotiation with the thought of retaining only those that are basic to the international defense of the canal.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Vietnam"
+        }
+      ],
+      "uuid": "baff5014-70fd-49db-96ce-038d3e45d433"
+    },
+    {
+      "start_time": 547,
+      "end_time": 577,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The right wing opposes any decrease in the overwhelming United States military presence in the zone. McClellan said he thinks it is important, not only to the defense of the United States, but to the defense of the whole Western Hemisphere. Thurmond concurred, \"It is vital to our national defense. Most of the goods that went to Vietnam by boat, 80% of them went through the Panama Canal. It is vital to the free world that the United States keep control of the canal.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Vietnam"
+        }
+      ],
+      "uuid": "ab0650ee-4979-4f3a-9987-b14908efd0a8"
+    },
+    {
+      "start_time": 577,
+      "end_time": 626,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In 1964, says International bulletin, US troops shot and killed 20 Panamanian demonstrators and wounded more than 200, when they tried to raise their flag on Canal Zone territory. McGee and Mars fear a repetition of the incident, if a new treaty cannot be hammered out. Kissinger and his State Department want to avoid a confrontation with Panama that might jeopardize US ties with Latin America. Although critics have also suggested that Kissinger may be using right wing congressional opposition as a bargaining lever in the negotiations. Kissinger and liberals in Congress, like McGee, are prepared to acknowledge Panamanian sovereignty over the canal and zone, but they want to delay the actual date of the turnover as long as possible and to maintain as many US facilities in the zone as they can. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Vietnam"
+        }
+      ],
+      "uuid": "df5007fd-aed3-4a40-8e45-760f0ddea1d5"
+    },
+    {
+      "start_time": 626,
+      "end_time": 676,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Foreign ministers from 24 Latin American countries told Kissinger, in Washington last month, that Senate efforts to go back on the eight point agreement are unacceptable. Thurmond, Flood, and McClellan all say they won't be affected by the OAS policy or Panamanian blackmail. Even Senate liberals, like McGee, don't like the foreign heat. \"I don't think the OAS stand will influence the course of events here quite so much,\" McGee said. \"I think sometimes we're set back a little bit here by too many speeches in Latin America, that are publicly directed towards the Congress, but it was only after international pressure was brought to bear on the United States, beginning in 1973, that Washington moved to resolve the smoldering canal conflict.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Vietnam"
+        }
+      ],
+      "uuid": "62e9b982-70a5-41cd-8777-26581c9a11de"
+    },
+    {
+      "start_time": 676,
+      "end_time": 709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Panama's Chief of State Torrijos summed up Panamanian US relations this way, \"70 years of colonialism, 10 years of negotiations, five years of nationalist revolution. Result? No hits, no runs, no errors.\" He says, this is, \"the last chance for a peaceful settlement to the canal dispute and that the time has come for the US to recognize the basic Panamanian right to self-determination.\" This report on the US Senate debate on the Panama Canal Treaty from International Bulletin. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Vietnam"
+        }
+      ],
+      "uuid": "8ac51833-99bd-4a2f-846d-cd4fa92949a9"
+    },
+    {
+      "start_time": 709,
+      "end_time": 750,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to Claridad of San Juan, Puerto Rico, the United States is moving the controversial petrochemical superport back to the west coast of Puerto Rico. Last September, a large protest movement against building the port on the western coast prompted the colonial government of Puerto Rico to move the port to Mona Island. The government announced on March 14th, however, that the superport complex will be relocated from Mona to the west coast of Puerto Rico, because the United States Navy requires the islands of Monito, Desecheo, and Mona to continue and expand its military training in the Caribbean."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "dbe3872d-f2e9-4c1e-928a-34b454d87309"
+    },
+    {
+      "start_time": 750,
+      "end_time": 788,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Navy has indicated that they will move their target practice from the islands of Culebra and Vieques to the three uninhabited islands, in 1976. However, they will continue to use Culebra and Vieques as training grounds. This move is seen by observers as partly to service the growing needs of the Navy for more land and space for their target practice, and at the same time, in response to the continued fight that the 700 inhabitants of the island of Culebra have been waging to free their island from United States military maneuvers with live ammunition on their doorstep. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "5e7146ec-7b40-4fe3-a815-4b02d8769782"
+    },
+    {
+      "start_time": 788,
+      "end_time": 834,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Claridad states that the Puerto Rican Governor has already authorized the Fomento Industrial Corporation to establish direct coordination with the Navy and to try to harmonize the relocation of the naval operations with the proposed superport on the West Coast of Puerto Rico. Fomento has been ordered to initiate simultaneously further studies on procedures for a superport at the Western Coast locations. Plans of the colonial government for the superport were made public by the Puerto Rican independence movement in 1972 and '73. The superport would service the importation by super tankers of massive quantities of Middle East crude oil for refining on the eastern coast of the US. Severe environmental consequences for the island are likely. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "a55c20db-c03b-40d8-80a5-e6ebd54c726c"
+    },
+    {
+      "start_time": 834,
+      "end_time": 838,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This story from Claridad of San Juan, Puerto Rico. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Puerto Rico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "46735da9-cd2f-4979-a682-8dc241137c0f"
+    },
+    {
+      "start_time": 838,
+      "end_time": 870,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to Latin American Press Review, a weekly summary of events in Latin America, with special emphasis on translations from the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments may be sent to the group at 2434 Guadalupe Street, Austin, Texas. That's 2434 Guadalupe Street, Austin, Texas. Latin American Press Review is distributed by Communication Center, the University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a6f076a5-b208-4f7a-b4c7-e02877996785"
+    },
+    {
+      "start_time": 870,
+      "end_time": 881,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Views expressed are those of the Latin American Policy Alternatives Group and its sources and are not necessarily endorsed by the University of Texas or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9f055047-5e2c-4c16-b3e7-4cf3976afa67"
+    }
+  ],
   "set": "Default",
   "event_id": "59b188aa-f494-4aa3-89f4-565ee2299a1a",
   "source_id": "0532646b-c887-4c5b-aa21-887f2c1543c8"
