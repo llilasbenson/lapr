@@ -1,5 +1,700 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are listening to Latin American Press Review, a weekly summary of events in Latin America with special emphasis on translation from the Latin American press. This program is produced by the Latin American Policy Alternatives Group of Austin, Texas. This week's Latin American Press Review brings you a report on Ecuador's new flood of oil revenue. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7a83f9b9-361c-4812-b0e6-d72e67ef7ede"
+    },
+    {
+      "start_time": 24,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the failure of that revenue to offset her economic difficulties. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3a7aca78-fdd2-402c-a269-cd6ad3fb0988"
+    },
+    {
+      "start_time": 28,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Front page coverage from Excélsior on a Mexican economist's analysis of world economic trends. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "302a42b0-7ba0-4c79-a810-eb8fc93c4b14"
+    },
+    {
+      "start_time": 34,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And a report from the British News Weekly Latin America on how Mexico is affected by recent economic developments. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8673bba7-11d8-42de-afcc-b7e0441ad244"
+    },
+    {
+      "start_time": 41,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The London News Weekly Latin America reports on developments in Ecuador, Latin America's newest oil producing nation. By mid-1972, the pipeline connecting the rich oil fields of Ecuador's northeastern jungles to the shipping ports on its western shores was completed. This boosted Ecuador to the top of the list of Latin American oil exporting nations, second now only to Venezuela. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "bd66227a-aad1-4f8f-8851-63d77ae05bee"
+    },
+    {
+      "start_time": 69,
+      "end_time": 107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oil, which scarcely one year ago replaced bananas as Ecuador's leading export, is expected to bring a total 1974 revenue of over $700 million. In 1971, oil earnings were only $1 million. With world prices at attractive heights, Ecuador's fledgling state oil corporation obviously wants to get hold of as much oil for free dispersal abroad as it possibly can. At present, only the United States companies of Texaco and Gulf Oil are producing and drilling on any scale in Ecuador. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "830b9c2d-1784-44e8-b113-d6e2d1109c8a"
+    },
+    {
+      "start_time": 107,
+      "end_time": 140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No matter how tough and nationalistic the new oil terms might be, Gulf and Texaco seem confident that they can run a very profitable operation. Despite the flood of revenue from its oil bonanza, Ecuador's economic situation has not improved. In fact, quite the opposite has occurred. Ecuador, which continues to be classified as one of Latin America's four least developed nations, now faces an annual rate of inflation of 17%, unprecedented in recent Ecuadorian history. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "7f91ae74-2717-49ee-88e1-ed71f9d98751"
+    },
+    {
+      "start_time": 140,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ecuador's outdated social structure has virtually prevented the huge inflow of oil money from being readily absorbed. Ecuador's archaic tax system has long been criticized. The collection of taxes has been called abusive and unjust and Ecuador's allocation of tax revenue branded absolutely irrational. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "cf31ee54-7d50-41f1-b44e-790f3a025072"
+    },
+    {
+      "start_time": 161,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A small number of people control the majority of Ecuador's wealth. Less than 2% of Ecuador's population has cornered 25% of the country's total wealth. Unequal land distribution, a high illiteracy rate, and a lack of adequate healthcare continue to plague Ecuador's indians who comprise well over half of Ecuador's population. The mal-distribution of wealth is compounded by a sharp fall in agriculture production brought on by the resistance of Ecuador's large landowners to the present regime's haphazard attempts at agrarian reform. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "19ef00fb-2a83-46e9-9433-0c90e0d73e2d"
+    },
+    {
+      "start_time": 195,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While it is apparent that the Rodriguez Lara regime would like to control the new oil fortune and further Ecuador's economic development, recent events point toward strife and unrest. An increasing number of strikes and demonstrations staged by students, faculty, and trade unionists are expressions of discontent. It appears that rising expectations have resulted in frustration. This is clearly expressed in an Ecuadorian wall slogan, \"Why is there hunger if the oil is ours?\" This from Latin America, the British news weekly. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Ecuador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous people"
+        }
+      ],
+      "uuid": "34246045-b310-4f07-9e88-f0ad09f7ba1b"
+    },
+    {
+      "start_time": 232,
+      "end_time": 273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Mexican Daily Excélsior reports that Latin America is becoming poorer. This was the message delivered by Arturo Bonilla Sanchez, director of the Institute of Economic Research at the National Autonomous University of Mexico. He explained that the rising cost of imports, declining volume of exports, decreasing credit sources, and the absorption of enormous amounts of capital by multinational corporations are some of the factors which afflict the economies of Latin America. The situation is becoming increasingly critical. The impact of a downturn in a world economy will be stronger and more damaging to the developing countries. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "8ffbb833-9784-4a07-9673-102e43e4984c"
+    },
+    {
+      "start_time": 273,
+      "end_time": 319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bonilla Sanchez observed that Mexico is affected by the world's situation, not only because imports have become more expensive, but also because exports have fallen off. While in recent years the price of Latin American exports have risen 129%, the industrialized countries have increased their prices 148%. The phenomenon of worsening terms of trade is accentuated and growing in Latin America. The director stated that Latin American countries have been hurt by the devaluation of the United States dollar. U.S. dollars comprise the monetary reserves of most Latin American countries, among them Mexico. As a result, their reserves have lost value relative to gold. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "d81e9c8c-c9a1-4d50-819a-e32ffbeb720e"
+    },
+    {
+      "start_time": 319,
+      "end_time": 365,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The director of the Mexican Economic Research Institute discussed the reasons for the devaluation of the dollar. He said that the growing U.S. military expenditures to maintain military bases all over the world and protect the capitalistic system has caused a balance of payments deficits for the United States. A second cause of the dollar's devaluation has been the resurgence of competition of European countries, which has decreased the United States' share of world exports. At the same time, Latin America's participation in total world exports has dropped considerably in the last 20 years. It decreased from 12% of the world's total in 1950 to 4.3% in 1972. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "36689e5f-42b0-4e54-956d-a95a59e62ce4"
+    },
+    {
+      "start_time": 365,
+      "end_time": 392,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Multinationals have been responsible for the near crisis in the world economy. Multinational corporations have huge amounts of liquid capital on hand, which they can quickly move from one part of the world to another for the sake of speculation. By speculating, multinationals undercut the stability of nation's currencies. For example, recently, the Bank of England had to buy $1 billion to support the pound sterling. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "7d65ba20-0a50-46d6-ad54-c95f5e75f020"
+    },
+    {
+      "start_time": 392,
+      "end_time": 427,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another cause of the problems in the world economy, stated Bonilla Sanchez, is that the United States economy and those of developed industrial countries in general have a productive capacity superior to the purchasing capacity of their population. For healthy economic activity to continue, it is necessary to sell what one produces. If the people don't have sufficient income to pay for the production industry, banks, and merchants have to extend increasing amounts of credit to the consumer. If they don't, they will provoke a great crisis."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "63a78496-71c8-495a-800d-913722c12fcc"
+    },
+    {
+      "start_time": 427,
+      "end_time": 480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As a result, there's grown up a vast debt and credit system all based on paper. When there's no confidence between producers, consumers, and distributors in the validity of these documents, there are great problems. Bonilla Sanchez warned that a loss of confidence in the dollar, the paper on which all other financial paper is based, could have serious repercussions in the world economy. These repercussions would be the most serious in developing nations like those of Latin America. The director of the Economic Research Institute concluded that because imports are becoming more expensive for Latin America and exports are declining and the speculation of multinational corporations has led to a devaluation of currencies, which has the most damaging effect on Latin America, Latin America is actually becoming poorer. This from the Mexican daily, Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "a7247629-458e-42fc-b919-ad5118c6c710"
+    },
+    {
+      "start_time": 480,
+      "end_time": 519,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin America's correspondent on the scene reports that the threat of inflation, to which Mexicans have grown unaccustomed over the past 20 years, has not only given the government acute social problems, but has also brought it once again into direct conflict with the private sector. A recent Banco de México report confirmed what had been known for some time, that the inflation rate last year was the worst for over two decades. It said the country's real economic growth rate in 1973 was about 7%, while consumer prices as a whole rose by 21%. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "0082fde7-f8bf-4810-89ed-0d36d8f64fe2"
+    },
+    {
+      "start_time": 519,
+      "end_time": 566,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Government economists blame world conditions for much of this uncertainty and the phrase \"imported inflation\" has become the current apology. But although there is some truth in this, it is not the whole story. The bank reported an increase in wholesale prices of 25% last year and unofficial figures show rises for some basic necessities of over 50% in the past 12 months. There's little doubt that the government is worried by the capacity of the wholesalers and particularly the food merchants to charge higher than average increases to the consumer, but is unable to do much about it. The agencies in charge of price controls are understaffed and unwilling to run the risk of a full scale battle with the politically powerful business organizations and chambers of commerce. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "83fc3560-ed0e-4f20-8d11-ea20982d8fb5"
+    },
+    {
+      "start_time": 566,
+      "end_time": 597,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So far, the government has tried to alleviate rising prices for the average Mexican family by two separate policies, allowing substantial wage increases and preparing a program to distribute cheaper subsidized clothes and food. Although most officials consider wage increases as doing little more than keeping pace with the rise in the cost of living, and not even that, according to some labor leaders, private enterprise spokesmen are fearful of more wage rises. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "bb922d50-9739-435c-a586-80661025a981"
+    },
+    {
+      "start_time": 597,
+      "end_time": 637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Moreover, the increases in the price of electricity, petrol, and domestic gas granted at the end of last year have only just begun to work through, and there will probably be labor sector pressure for new concessions. The Minister of Labor, Porfirio Muñoz Ledo, recognizes this and at a meeting with labor leaders floated the idea of wage increases related to a cost of living indicator. The Confederación de Trabajadores de México is to hold its annual meeting next month and there are signs that it will both support this idea and call for collective contracts to be reviewed annually instead of every other year. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "e487962b-07f4-4cda-9622-4790417c6ad1"
+    },
+    {
+      "start_time": 637,
+      "end_time": 671,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The other leg of the government's anti-inflation policy has, if anything, created an even bigger fear in the private sector. Plans are under discussion to open state run shops selling cheap food, clothes, and other basic necessities often at subsidized prices. These plans have come under sharp attack from small businessmen as unfair competition. Some leaders see it as a way of evading the issue of forcing private industry to pay better wages, self-perpetuating a low wage, low productivity, and backward industry. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "b6b8b8bc-6edf-4bf0-8f27-bef13f24fb9a"
+    },
+    {
+      "start_time": 671,
+      "end_time": 723,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In a way, they are right of course. The government is not strong enough to challenge the private sector too firmly and becomes less able to do so with the passage of every year. President Luis Echeverría is in a particularly difficult position having sharply criticized the private sector's attitude as selfish and conservative. He has also displayed a more liberal attitude to the left than his predecessor and has shown open sympathy for the late President Allende. But since he could not back his words with deeds, Echeverría merely aroused the private sector's hostility without being able to curb or control it, laying himself open to a charge of demagoguery. If the government's immediate problem is inflation, however, the longer term difficulties are centered on the trade and balance of payments deficit. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "d4679c88-ac01-49a4-98ac-3816dfdedeb4"
+    },
+    {
+      "start_time": 723,
+      "end_time": 773,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In fact, the heart of Mexico's current economic situation is rooted in foreign trade. In order to develop industry, Mexico has had to import large quantities of heavy manufacturing equipment, chemicals, and raw materials from the United States. The value of these capital goods has quickly risen above the value of the mineral and agricultural products which Mexico exports, thus creating an unfavorable balance of trade. The Banco de México reports that imports last year increased 41% above 1972. Exports, however, increased their value by only 25%, leaving a trade deficit of almost $2 billion. The country cannot reduce its import bill without serious consequences for the country's development, however. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "1f1b1626-1a43-4266-8916-9de1eb111103"
+    },
+    {
+      "start_time": 773,
+      "end_time": 805,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In order to offset money lost through unfavorable trade, Mexico has encouraged foreign investment. Investment capital has flowed into manufacturing, which in turn increases the demand for capital goods for production. As Mexico becomes more dependent on imported goods from the United States, the balance of trade is thrown even further out of line. As the size of direct foreign investment increases, a larger share of the country's profits come under the control of outsiders who exert an increasing influence over investment patterns and capital allocation. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "a04359a7-b3b9-4066-a21a-af395b49f90b"
+    },
+    {
+      "start_time": 805,
+      "end_time": 832,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thus far, the economic policies of the Mexican government have not materially benefited the majority of the Mexican people. The standard of living for most Mexicans remains low, under employment plagues 30% of the total labor force, and industrial wages are only 55 cents per hour. The government's policies have really only served to increase the dependency of Mexico on the United States and to increase the power of their private sector. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "6e258961-2166-49f4-a852-07c88e2e3062"
+    },
+    {
+      "start_time": 832,
+      "end_time": 836,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This report from the British news weekly, Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "1d8262ad-d793-44b0-ad0c-3648e4d6a2dc"
+    },
+    {
+      "start_time": 836,
+      "end_time": 868,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to Latin American Press Review, a weekly summary of events in Latin America with special emphasis on translations from the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments may be sent to the group at 2434 Guadalupe Street, Austin, Texas. That's 2434 Guadalupe Street, Austin, Texas. Latin American Press Review is distributed by Communication Center, the University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bd24e309-42a4-464e-9ce1-9ac5d6fd5602"
+    },
+    {
+      "start_time": 868,
+      "end_time": 878,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Views expressed are those of the Latin American Policy Alternatives Group and its sources and are not necessarily endorsed by the University of Texas or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b34d634b-f574-418c-ba7f-eabea953fb55"
+    }
+  ],
   "set": "Default",
   "event_id": "4dcb3594-318e-41f1-bfe0-edfb713b5617",
   "source_id": "42a2c7d6-fe4e-4b5d-9416-82d933a3610e"
