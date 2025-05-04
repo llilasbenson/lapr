@@ -86,6 +86,39 @@
             },
             {
               "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "event",
+              "uuid": "c5b89397-9a5a-4ed2-aa4b-8b6b3351c72d",
+              "includes": [
+                "media",
+                "annotations"
+              ],
+              "start": 24,
+              "end": 406,
+              "file": "3a7e8c2a-1db0-477c-9d6e-71a8b2bcef2e",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
               "children": [
                 {
                   "text": "0:06:47-0:10:26",
@@ -96,6 +129,15 @@
                 }
               ],
               "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             },
             {
               "type": "paragraph",
@@ -196,6 +238,17 @@
         {
           "bold": true,
           "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "bold": true,
+          "textSize": "heading-three",
           "text": "Internal struggles and ideological divisions within Chile's Popular Unity government."
         }
       ]
@@ -212,6 +265,16 @@
       "file": "3a7e8c2a-1db0-477c-9d6e-71a8b2bcef2e",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "textSize": "heading-three",
           "text": ""
         }
       ]
@@ -247,6 +310,15 @@
       "children": [
         {
           "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-three",
           "text": "Upcoming Chile-US talks on financial disputes."
         }
       ]
@@ -271,8 +343,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Latin American nations oppose Britain's Organization of American States observer status.",
+          "text": "",
           "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": "Latin American nations oppose Britain's Organization of American States observer status."
         }
       ]
     },
@@ -296,8 +377,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "International Telephone and Telegraph Company's (ITT) interference in Chile's political landscape and US foreign policy to protect corporate investments.",
+          "text": "",
           "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": "International Telephone and Telegraph Company's (ITT) interference in Chile's political landscape and US foreign policy to protect corporate investments."
         }
       ]
     },
@@ -339,7 +429,7 @@
   "created_by": "rpr88",
   "title": "LAPR1973_03_22",
   "slug": "lapr19730322-2",
-  "updated_at": "2025-05-04T20:08:06.457Z",
+  "updated_at": "2025-05-04T20:50:10.191Z",
   "updated_by": "rpr88",
   "parent": "35f92ddd-2211-4591-bee1-c4625876da1c",
   "autogenerate": {
