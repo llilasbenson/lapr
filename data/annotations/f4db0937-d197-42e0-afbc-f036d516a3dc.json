@@ -1,5 +1,1033 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are listening to Latin American Press Review, a weekly summary of events in Latin America with special emphasis on translation from the Latin American press. This program is produced by the Latin American Policy Alternatives Group of Austin, Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8b84cebf-4ca1-48c0-9647-5a232d6ff436"
+    },
+    {
+      "start_time": 18,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From San Jose Costa Rica, Excélsior of Mexico City reports of rumors of a coup d'état. Recently, thousands of students staged a demonstration in the center of the capital of that country in protest of an increase in the cost of living and against a new extradition law. The National Guard maintained a state of alert to prevent possible trouble. Rumors were circulating with greater persistence of the possibility of a coup aided by the CIA. The country's most critical period in the last four years began recently when a group of legislators denounced in the National Assembly, \"the existence of plans for a coup d'état.\" Members of various parties accused the North American companies, Standard Fruit, Exxon and Texaco of promoting this coup. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "ae82ff94-441f-4bb4-b738-99330c839948"
+    },
+    {
+      "start_time": 61,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Without mentioning names, the politicians alleged that the plans of the coup relied on the blessing and aid of the CIA. A political leaders of various persuasions accused the US ambassador of inciting the students to stage uprisings. However, the US Embassy issued a communique in which it categorically denied that it was inciting or stimulating publicly or privately protests of any kind. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "38d0f816-8f50-4a7b-90e8-54dbaa928bf4"
+    },
+    {
+      "start_time": 90,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The factors which greatly deepened tension in this country, according to observers, are the increase in the price of basic necessities, the exclusion of public employees from a recent salary increase and a new extradition law, which the legislator recently approved. This law establishes that no foreigner can be extradited from Costa Rica, provided he has a Costa Rican passport. It is widely believed that this act was passed solely to predict Robert Vesco accused of stealing one quarter million dollars from US sources. Vesco has made great investments in Costa Rica and is an intimate friend of the president, José Figueres. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "dffec755-3ec1-498a-b245-e5bb5f376d0e"
+    },
+    {
+      "start_time": 126,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The situation is ripe for an uprising, said a presidential spokesman, especially while the Prime Minister is gone on a political tour of Latin America. This story from the Mexico City Daily, Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "27aa56ea-c1c5-4997-bb86-1ecfc0017ab3"
+    },
+    {
+      "start_time": 141,
+      "end_time": 162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior also reports that the Bertrand Russell Tribunal declared last week in Rome that the governments of Brazil, Chile, Uruguay, and Bolivia were guilty of repeated and systematic violations of human rights. The president of the tribunal added that the accused governments constitute a continuing crime against humanity. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Haiti"
+        },
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        }
+      ],
+      "uuid": "d7dd20cf-61e0-46ba-bef4-c862194e6111"
+    },
+    {
+      "start_time": 162,
+      "end_time": 202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The current Bertrand Russell Tribunal on repression in Brazil, Chile, and Latin America is a descendant of the Russell Tribunal on United States War crimes in Vietnam, which convened during the 1960's. The tribunal is an international jury composed of prominent intellectuals from Europe, Latin America, and the United States, including Jean Paul Sartre, former Dominican President, Juan Bosch, and Colombian writer, Gabriel García Márquez. During last week, it considered evidence presented by political refugees from Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Haiti"
+        },
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        }
+      ],
+      "uuid": "a823b749-a1f0-4565-bbeb-ab022784c71f"
+    },
+    {
+      "start_time": 202,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The tribunal concluded that civil law has been unknown in Brazil since the military coup in 1964, that there was political repression in Bolivia and that the Uruguayan military government used torture on its opponents. Concerning Chile, the tribunal's verdict labeled the current military government illegitimate. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Haiti"
+        },
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        }
+      ],
+      "uuid": "eba36159-d421-4eab-8c7d-9f05cbd5c1f2"
+    },
+    {
+      "start_time": 220,
+      "end_time": 241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The tribunal stated that the Uruguayan regime has lost all respect for human rights and has arrested people without charge in order to terrorize the population. For example, the tribunal cited the case of banning the newspaper Marcha and the arrest of the prize-winning writer, Juan Carlos Onetti. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Haiti"
+        },
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        }
+      ],
+      "uuid": "7acac3ff-7181-4e26-ad7f-146f14137141"
+    },
+    {
+      "start_time": 241,
+      "end_time": 281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The tribunal also affirmed that multinational companies, as well as what it called ruling classes in countries which are aligned with these firms are the major beneficiaries of these four regimes. The tribunal issued an appeal to the governments around the world to cut off all military and economic aid to these four South American countries and it urged a coordinated international campaign for the liberation of political prisoners. The tribunal will convene its next jury later this year to examine the role of the US government and multinational companies in Latin America, as well as to investigate cases of torture in other countries such as Paraguay, Guatemala, Haiti, the Dominican Republic, and Puerto Rico. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Haiti"
+        },
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        }
+      ],
+      "uuid": "3837285a-e0ba-4436-8528-00d447c331f5"
+    },
+    {
+      "start_time": 281,
+      "end_time": 309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In addition to the findings of the Bertrand Russell Tribunal, Mexico City's Excélsior reports the following on similar actions taken by the London-based organization, Amnesty International. At its April 1st general meeting in the British capital, the group called on General Ernesto Geisel, the recently installed president of Brazil to free all of Brazil's political prisoners. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Haiti"
+        },
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        }
+      ],
+      "uuid": "a8be542e-4899-48af-83ee-e0cfb9a16ac4"
+    },
+    {
+      "start_time": 309,
+      "end_time": 336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Amnesty International is a prestigious organization which has defended political prisoners in both communist and non-communist countries throughout the world. Amnesty International's letter to President Geisel was made public on the 10th anniversary of the military coup in Brazil, which facilitated the present regime's assumption of power. The letter also asks that Geisel will release information on some 210 political prisoners who died under what was termed mysterious circumstances following their arrest. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Haiti"
+        },
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        }
+      ],
+      "uuid": "886f24d2-2a7e-4c49-b6ff-b1087a6b79f7"
+    },
+    {
+      "start_time": 336,
+      "end_time": 373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Amnesty International, continues Excélsior, has long defended in any country, political prisoners that have not employed acts of violence in opposing their governments. The London group recently presented the same list of prisoners to the United Nations Commission on Human Rights. In closing its session, Amnesty International affirmed that it would continue to collect documentation, which would prove that the torture of political prisoners is still being carried out by the new Brazilian regime. That from the Mexico City daily, Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Paraguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Haiti"
+        },
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        }
+      ],
+      "uuid": "400f549c-16c9-4d6b-bac4-cf210a38af7b"
+    },
+    {
+      "start_time": 373,
+      "end_time": 399,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also, the New York Times reported that Britain announced recently that it would sell no more arms to Chile and would suspend all economic aid. The foreign secretary of the new labor government said that the government's policy was motivated by a desire to see democracy and human rights fully respected in Chile. That from the New York Times. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "bf58f941-90d7-42c7-8ff5-a18a4c583883"
+    },
+    {
+      "start_time": 399,
+      "end_time": 424,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The British News Weekly, Latin America recently ran the following background of current negotiations between the United States and Panama. On his recent whirlwind visit, Secretary of State Henry Kissinger and Panama's Foreign Minister signed an eight point agreement of principles providing for the eventual restoration of Panama's territorial sovereignty over the Panama Canal and the 550 square mile zone surrounding it. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "1040f543-5eee-47c5-8f23-0e225903bf5e"
+    },
+    {
+      "start_time": 424,
+      "end_time": 448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to this agreement, a new treaty will be negotiated that supersedes the existing one signed in 1903. The original treaty gave the US control of the canal \"in perpetuity\". The new treaty will contain a fixed termination date for US jurisdiction over the canal, likely to be about 30 years from now, and it will provide for Panama's participation in the administration, protection and defense of the waterway in the meantime. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "b71c64a6-f8f9-4689-99b7-27495d638cd4"
+    },
+    {
+      "start_time": 448,
+      "end_time": 484,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The agreement indicates that some progress has been made in the long stalemated negotiations over the canal, but enormous problems lie ahead. At the heart of these problems lies the US military presence in the canal zone, which the Pentagon is committed to maintaining. At the same time, political developments to the left and right of the government of Panamanian President, Omar Torrijos, which reflects problems created by the US military presence and economic penetration, threatened his government. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "9fe60fb5-85a8-4461-80f7-1ea6795a6f6b"
+    },
+    {
+      "start_time": 484,
+      "end_time": 505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Torrijos came to power in a military coup in 1968. Inspired by the Peruvian model of military nationalism, he has consistently spoken of the importance of Panamanian control of the canal and the country's other natural resources. Three years ago, he said, concerning the US presence in the canal zone, \"The Americans must pull out with their colonial tent.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "e443a0bd-9a44-4902-a3d5-fdb5b58a4f7c"
+    },
+    {
+      "start_time": 505,
+      "end_time": 564,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But under the Nixon Administration, US military activity in the zone has been greatly stepped up. Almost the entire US counterinsurgency force for Latin America, including military training centers and a jungle warfare school is housed in the zone. It is also the headquarters for the US Southern Command, SOUTHCOM, which coordinates all US military and intelligence activities throughout Latin America, supervises all US military assistance programs and maintains a communications and logistics network for US forces. It was originally created to defend the canal zone itself, but a State Department official recently told Congressman Les Aspin that the only justification for SOUTHCOM is for an intervention force in Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "05413343-5d79-47ba-91c5-90e9596a686d"
+    },
+    {
+      "start_time": 564,
+      "end_time": 596,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another important element of US military presence in Panama is the US Army School of the Americas. Many of the leaders of Chile's current military junta and the Chilean Director of Intelligence are graduates of this school, according to Latin America. Documents recently made available to the North American Congress on Latin America describe the activities of the Army School. According to the documents, the major purpose of the program is to train and select Latin Americans in curating out counterinsurgency missions for the repression of national liberation movements. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "cd78d725-a465-4bcf-96ad-806e39c7990b"
+    },
+    {
+      "start_time": 596,
+      "end_time": 625,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is a heavy emphasis on intelligence operations and interrogation techniques, as well as the teaching of US Army doctrine ideology. In response to the growing wave of guerilla activity in Latin American cities, new courses have been developed on urban guerilla warfare and sophisticated criminal investigation techniques. Classroom exercises range from the selection of labor union informers to methods of protecting leaders from assassination temps to the recovery and deactivation of explosive devices. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "6d53ba33-cb61-4d07-bbd6-d285349f765b"
+    },
+    {
+      "start_time": 625,
+      "end_time": 645,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because of the sensitive nature of these operations, it is unlikely that any other Latin American country would allow the Pentagon to set up operations within its borders. In a period of growing nationalist feelings, no Latin American regime could afford to so visibly compromise its integrity. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "35edfb35-22ae-4f3e-be7f-62223368bad0"
+    },
+    {
+      "start_time": 645,
+      "end_time": 674,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to Latin America, the growing importance of the military presence in the canal zone has deadlocked negotiations for some time, but growing pressure from the left in Panama has forced President Torrijos to step up the pace of the talks. That pressure peaked during Kissinger's visit when a government authorized demonstration by the Student Federation turned into a militantly anti-US confrontation led by the outlawed peoples party, the Communist Party of Panama. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "2da38379-8808-4267-9049-abd9efe94b0d"
+    },
+    {
+      "start_time": 674,
+      "end_time": 704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the same time, Torrijos is under increasing attack from the right in Panama. According to the New York Times, a growing sector of the national business community has become so disgusted with Torrijos' current domestic policies that they have withdrawn their support for him and hope that his treaty aims come to nothing, so as to further destabilize his government. Under Torrijos' rule, business has prospered in Panama. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "9c4022cc-6c27-4155-958a-ac5aaa867922"
+    },
+    {
+      "start_time": 704,
+      "end_time": 739,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are now 55 banking houses in the country with deposits of $1.5 billion. They're pumping $100 million a year into the economy, but businessmen have become increasingly disgruntled since October of last year when Torrijos ordered construction of low income housing and cut short a high rise building boom. This has led to anti-government demonstrations, including a march of the empty pots by middle and upper class women. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "5968443a-32bb-44f8-96e4-b77d5e0b3a57"
+    },
+    {
+      "start_time": 739,
+      "end_time": 773,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin America continues saying that Panamanian officials fear that the US may take part in new efforts to bring about a coup in concert with these right-wing forces if Torrijos succumbs to mounting leftist pressure. John Dean's senate testimony implicated Watergate plumber, E. Howard Hunt, in plans to assassinate Torrijos just after the US elections in 1972. The mission was scrapped, but Panamanian officials took it seriously enough to interrupt canal negotiations. In recent weeks, at least 11 right-wingers have been arrested on charges of plotting against the government. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "1a3da146-a455-46d5-bd19-7ed7bfd4fc05"
+    },
+    {
+      "start_time": 773,
+      "end_time": 807,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Like other nationalist leaders in Latin America, Torrijos is faced with a three edged problem. One, a growing socialist and anti-imperialist movement that is demanding that he live up to his nationalist principles. Two, a national bourgeoisie whose support is mercurial and divided because of its economic dependence on the United States. And three, the United States itself, which is dedicated to preserving and expanding its interest in Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "69ac26f2-ea3f-481a-9d33-2e5ce5edcf38"
+    },
+    {
+      "start_time": 807,
+      "end_time": 850,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Latin American military plays a central role throughout Latin America in maintaining a political stability that is favorable to the US and canal zone operations are important for developing the military's essential allegiance to capitalist ideology and the US itself. It is against this backdrop that the negotiations over the canal zone take place. The outcome of the negotiations and the political activities in Panama and the US that surround them will have a profound effect on the future of all Latin America. That report from the British News Weekly, Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        }
+      ],
+      "uuid": "c2c9c903-e8db-46fe-9072-472c9f29b820"
+    },
+    {
+      "start_time": 850,
+      "end_time": 881,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to Latin American Press Review, a weekly summary of events in Latin America with special emphasis on translations from the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments may be sent to the group at 2434 Guadalupe Street, Austin, Texas. That's 2434 Guadalupe Street, Austin, Texas. Latin American Press Review is distributed by Communication Center, The University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7f7e5922-af2c-43d7-837c-6241d66b2009"
+    },
+    {
+      "start_time": 881,
+      "end_time": 892,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Views expressed are those of the Latin American Policy Alternatives Group and its sources and are not necessarily endorsed by the University of Texas or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fc532ff8-1b27-4646-bb54-830086786b47"
+    }
+  ],
   "set": "Default",
   "event_id": "8ad9538a-e010-455a-b8b2-8b73bf42ba5d",
   "source_id": "6a14caf8-cbbf-4295-8aef-6757e8b761be"
