@@ -1,5 +1,1998 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the Latin American Press Review, a weekly selection and analysis of news and events in Latin America, as seen by leading world news sources, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group of Austin, Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d905cfeb-91c5-4e04-8df7-840f3b062f18"
+    },
+    {
+      "start_time": 20,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our stories this week include a report on the recent foreign minister's meeting in Mexico City, a story of right-wing rebellion in Córdoba, Argentina, an account of the appointment of John Hill as United States Ambassador to Argentina, and a report on press censorship in Uruguay. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        }
+      ],
+      "uuid": "a2b1d813-3927-4123-a6b4-8657578861cc"
+    },
+    {
+      "start_time": 38,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From the Mexico City daily, Excélsior. A block of countries refusing to give across the board backing to Henry Kissinger's international policy, began to take shape here as Latin America's foreign ministers, except for Cuba, arrived in Mexico City for the Organization of American States ministerial meeting. Three groups emerged early in the meeting. First, the nationalist independent group made up of Venezuela, Peru, Panama, and Argentina. Second, a moderate group headed by Mexico and Colombia. And third, the pro-U.S. group, headed by Brazil and made up of Uruguay, Bolivia, and Chile. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        }
+      ],
+      "uuid": "4b0906ec-9f2d-42d9-b550-7793595a66dc"
+    },
+    {
+      "start_time": 85,
+      "end_time": 121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The countries in the first group, who are opposed to any kind of U.S. paternalism in its relations to Latin America, were responsible for defeating Henry Kissinger's pre-conference proposals. Kissinger wanted to include on the agenda a discussion of the so-called energy crisis and of the world political situation. It is generally agreed that by refusing to take these subjects up, Latin America declared its independence in these matters. Kissinger will therefore be unable to speak for Latin America in post-conference discussions with other countries. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        }
+      ],
+      "uuid": "43b88d3a-ca0f-4215-841d-a8c3709dc908"
+    },
+    {
+      "start_time": 121,
+      "end_time": 154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Many analysts predicted that the Latin American nations would assert their independence even more strongly during the course of the meeting over such matters as United States intervention in Latin American affairs, control of the operations of multinational corporations, transfer of technology to developing countries, and the admission of Cuba to the Organization of American States. But according to editorials from the Mexico City daily Excélsior, the Latin American nations neither asserted much independence, nor won any meaningful concessions from the United States. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        }
+      ],
+      "uuid": "dc15fa7c-fff4-4421-9a19-e772da58a92a"
+    },
+    {
+      "start_time": 154,
+      "end_time": 187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The general reaction of the Latin American press to the Tlatelolco Conference was expressed by the scorn and derision in this editorial from Mexico City's Excélsior. As had been expected, the chancellor's meeting at Tlatelolco brought no concrete successful results, at least from the point of view of Latin America. Although a conference communique stated that there was acceptance of ideological pluralism, the meeting was weakened by the anachronistic U.S. economic blockade of Cuba. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        }
+      ],
+      "uuid": "def3858c-dfe4-4e29-afc2-a23701212191"
+    },
+    {
+      "start_time": 187,
+      "end_time": 216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The promises of non-intervention and economic cooperation resulted in nothing which did not already exist before the meeting. \"In fact,\" said Excélsior, \"the only concrete decision reached by the conference was a plan to convene another meeting in April in Atlanta.\" Excélsior concluded by pointing out that the main reaction of the news agencies covering the conference was that the meeting was the most chaotic of all meetings of the American states. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        }
+      ],
+      "uuid": "789efae1-0e8a-483d-b072-24bb71432658"
+    },
+    {
+      "start_time": 216,
+      "end_time": 243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Argentina, hundreds of residents fled the industrial city of Córdoba after a police rebellion that left the governor in jail and armed right-wing bands roaming the streets looking for leftists. Three persons were wounded in shooting incidents, police sources said. Bomb attacks were directed against two provincial officials and a judge but caused no injuries. One thousand people have been taken to police stations. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "994678e1-db19-431d-9510-eb4ecb99b0f0"
+    },
+    {
+      "start_time": 243,
+      "end_time": 287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La Opinión reports that most of the 10,000-man police force of the central Argentine province joined the rebellious chief of police, a right-wing Peronist who jailed Governor Ricardo Obregón, the deputy governor and several high officials yesterday. A police bulletin said the officials, all members of the leftist faction of President Juan Perón, badly divided political movement, had been arrested for allegedly supplying weapons to known Marxists. Rebellious policemen in uniform and carrying automatic weapons cordoned off five square blocks of downtown Córdoba, the nation's third-largest city, and remained in place. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "c9fd5168-6f5a-4330-8e40-cc927ebb0202"
+    },
+    {
+      "start_time": 287,
+      "end_time": 311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Plain-clothed policemen and armed bands of right-wing youths roamed the streets and broke into some homes. Witnesses said they were arresting leftists. La Opinión said roads out of the cities were jammed with people fleeing into the nearby hills, which are dotted with resort hotels. The downtown area was nearly deserted, with people heeding police warnings not to report to work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "e365c7ee-67a5-4b48-8d2f-92f16b4ddcb1"
+    },
+    {
+      "start_time": 311,
+      "end_time": 348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The revolt began when the governor ordered the ousting of the chief of police who refused to quit. Shortly before midnight, the rebel policeman entered government house and arrested the governor and several ministers and state legislators. Armed men identifying themselves as Peronist commandos of Civil Rebellion took over two radio stations and broadcast support for the police chief. They also broadcast messages from right-wing labor leaders and political leaders condemning the Obregón administration as being full of infiltrators. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "4b3dfd3d-7892-45c2-bf04-5b55d38cb175"
+    },
+    {
+      "start_time": 348,
+      "end_time": 387,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior of Mexico City reports that Argentine president, Juan Perón himself, supports the right-wing move for power. After accusing deposed Governor Obregón of fomenting public disturbances, Perón asked Congress to order federal control of the province of Cordoba. Federal police units reinforced from Buenos Aires as well as Army and Border Patrol troops are presently on alert. Spokesman for various non-Perónus parties, including the Radical Party and the Communist Party have denounced the takeover as a fascist coup and have voiced disapproval of Perón's plan to maintain order with federal troops. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "d3e554fc-b0db-4a74-bc1f-d5b5a6b49de9"
+    },
+    {
+      "start_time": 387,
+      "end_time": 423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Left-wing Peronists trade unions of Cordoba representing 60% of the area's labor force support the deposed governor. They have called the move by the police, a seditious act and have ordered their members to return to work. The leader of the Communist Party has charged CIA complicity in the takeover. He further states that this police action on the provincial level is in preparation for a right-wing coup on the national level, comparable to the recent coup in Chile. This report from Excélsior of Mexico City. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "fbf10b46-bf07-4fa5-8863-73c51e87b731"
+    },
+    {
+      "start_time": 423,
+      "end_time": 454,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The recent appointment of John Hill as United States Ambassador to Argentina, has drawn criticism in several Latin American nations. According to La Opinión of Argentina, the assignment has been condemned by the foreign minister of Venezuela, as well as by numerous political groups in Argentina. The Argentine coordinator of youth groups issued a statement last week, labeling Hill as an agent of the CIA with a well-known record of participating in military coups in other Latin American countries. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "0b1b729d-03d3-439b-bf27-972ef7449153"
+    },
+    {
+      "start_time": 454,
+      "end_time": 515,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to a release from the Cuban News Agency, Prensa Latina, Hill has followed a political career, particularly as a foreign service officer, while maintaining close contacts with corporate interest back home. Hill began as a clerk in the US Foreign Service in 1943, but was quickly promoted to vice counsel at Calcutta, India. In 1945, he worked with the rank of Captain as a State Department representative assigned to the US Army Headquarters and the China Burma India Theater at New Delhi. Actually, this job served as a cover for an intelligence assignment for the Super Secret Office of Strategic Services, the forerunner of the CIA. Throughout the rest of his career, he continued to work closely with the US intelligence community, including the CIA. A fact confirmed in a report in the congressional record, July 14th, 1970. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "afd44b6a-a0e9-4101-a05b-3991ed2940d7"
+    },
+    {
+      "start_time": 515,
+      "end_time": 549,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In 1949 continues Prensa Latina, Hill left government service to do a four-year stint as assistant vice president at the New York headquarters of W.R. Grace and Company, a US corporation with operations in 12 Latin American countries. In 1953, Secretary of State, John Foster Dulles appointed Hill as US Ambassador to Costa Rica. The following year, he was transferred to the same post in El Salvador. While stationed in Costa Rica, he did his best to protect the vast land holdings and related operations of the United Fruit Company. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "37a197d8-f89e-47a5-9065-d61f3fc23aa8"
+    },
+    {
+      "start_time": 549,
+      "end_time": 579,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In 1953, according to Prensa Latina, he personally took part in the negotiation of a contract between a United Fruit subsidiary and the Costa Rican government. He also helped organize the 1954 CIA overthrow of the Nationalist Arbenz' government, which threatened United Fruit's investments in Guatemala. In 1960, he was rewarded for his efforts by being elected to the board of directors of the United Fruit Company. He also served as a consultant for the company on international affairs. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "1de7b138-9a16-4e65-aa49-8b0a66822323"
+    },
+    {
+      "start_time": 579,
+      "end_time": 600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hill served briefly as assistant Secretary of State for congressional relations, 1956 to '57, during the height of the Cold War and the last years of the McCarthy period. He was then reassigned to the Foreign Service as ambassador to Mexico where he remained until 1961. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "f5a90077-a0fb-4022-8f28-3a4fd9b61032"
+    },
+    {
+      "start_time": 600,
+      "end_time": 639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Mexico, Hill developed a reputation for his anti-communism, accusing Castro of being a communist agent as early as 1958. Hill put on a sustained public relations campaign to bolster pro-US sentiment, but his efforts were set back when the Cuban Revolution found widespread support among Mexicans. In 1960, he forced the Mexican government to deny oil sales to Cuba. In return, he proposed to cut Cuba's sugar export quota to the United States and to raise Mexico's quota. Cuba's quota was cut shortly thereafter. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "2712a7d1-ec76-443c-96c3-110c998ac482"
+    },
+    {
+      "start_time": 639,
+      "end_time": 668,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hill left the Foreign service with the beginning of the Kennedy administration, according to Prensa Latina, and became involved in New Hampshire state politics. He took the lead from his close friend Richard Nixon and used this apparent retirement from political life to strengthen his business and political base. He became a director of United Fruit, Northeast Airlines, various mutual funds and other large corporations with substantial investments in Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "2adc8e44-e4c0-41f1-a1bd-6a02eafc4cbd"
+    },
+    {
+      "start_time": 668,
+      "end_time": 707,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hill's expertise in international issues prompted his appointment in 1965 to the chairmanship of the Republican National Committee Task Force on foreign policy, which operated as a think tank for policies to be implemented later under the Nixon administrations. In 1968, he also joined the task force on national security. In May 1973, Hill was appointed by Nixon as Assistant Secretary of Defense for International Security Affairs. This biography of the new U.S. ambassador to Argentina was compiled from the Cuban news agency Prensa Latina and the Argentine daily La Opinión."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Costa Rica"
+        },
+        {
+          "category": "Countries",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "Countries",
+          "tag": "Guatemala"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "58f980b8-cdbc-44be-849f-a6ee033550e3"
+    },
+    {
+      "start_time": 707,
+      "end_time": 733,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Uruguay, a correspondent for the Buenos Aires daily La Opinión reported recently that the distinguished Uruguayan weekly newspaper Marcha has been shut down indefinitely and its editor, 71-year-old economist Carlos Quijano, arrested. This is the culmination of a repressive campaign by the civilian military regime against the opposition press."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "fcc72a44-caa8-4a5f-993f-16ce477749ab"
+    },
+    {
+      "start_time": 733,
+      "end_time": 766,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Last September, the regime of Juan Maria Bordaberry decreed that all information about the Chilean political process had to come from Uruguayan government sources or from the Chilean military Junta. The tough conditions laid down by the state security law have forced Marcha to shut down several times in the last few years. After June 1973, Quijano had to reduce the weekly to three international pages and running only brief articles on the Uruguay situation. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "60238ae5-85d5-4ff7-b31f-89fa23846225"
+    },
+    {
+      "start_time": 766,
+      "end_time": 805,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In a story related to the closure of Marcha, almost three weeks have gone by since the arrest in Montevideo, Uruguay, of Juan Carlos Onetti, 64 years old, considered the country's best writer and ranked by many among the three or four leading novelists in Latin America, Onetti remains in jail. The charge against him is having participated in a literary jury that awarded first prize to a short story subsequently declared obscene and subversive by Uruguay's right-wing, military-controlled government. The story is based on the killing of a police in inspector by Uruguayan Tupamaro guerrillas about four years ago. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "e6f0389f-8462-4258-a032-d25c8226dc99"
+    },
+    {
+      "start_time": 805,
+      "end_time": 810,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This story on events in Uruguay from The New York Times. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "3a7e2f29-5ec8-43d6-9009-10b69f66fd49"
+    },
+    {
+      "start_time": 810,
+      "end_time": 843,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are listening to the Latin American Press Review, a weekly selection and analysis of news and events in Latin America, as seen by leading world news sources, with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions are welcome and may be sent to the group at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, the University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "039d6ce1-6687-48ab-9e29-2501528b8e3d"
+    },
+    {
+      "start_time": 843,
+      "end_time": 853,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The views expressed are solely those of the Latin American Policy Alternatives Group and its sources and should not be considered as being endorsed by UT Austin or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2bc3bbd8-a747-4956-a26a-8ae4b829607c"
+    },
+    {
+      "start_time": 853,
+      "end_time": 892,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our feature this week, taken from Excélsior of Mexico City and from a United Nations speech of Mrs. Hortensia Allende deals with international reaction to the policies of the military Junta of Chile. This government headed by General Augusto Pinochet came to power in a coup on September 11th, 1973. At this time, the democratically elected Marxist government of Salvador Allende was overthrown. Governments throughout the world are voicing opposition to the brutal repression, which has taken place in Chile since that time. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "fa930f4e-8e1b-4bf5-8f9a-8a9e46bd119a"
+    },
+    {
+      "start_time": 892,
+      "end_time": 936,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mexico City's Excélsior reports that the Mexican government, for example, has announced that it will withdraw its ambassador from Santiago. The Argentine government is also considerably annoyed with the Junta. After protests at the torture and execution of several Argentine citizens in Chile, there was an awkward border incident when Chilean Air Force planes machine-gunned a Jeep 12 miles inside Argentina. Next, a Chilean refugee was shot dead while in the garden of the Argentine embassy in Santiago; only hours later, the house of the Argentine cultural attache in Santiago was sprayed by gunfire. Nevertheless, the Argentine government continues trade with Chile, including arms, and has afforded some credits to the Junta. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "4e66a96e-e0b4-493c-aa1e-95a98e784c72"
+    },
+    {
+      "start_time": 936,
+      "end_time": 1012,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Indian ambassador in Chile issued a protest at the treatment of refugees in the Soviet Embassy in Santiago, which is now under Indian protection since the Soviet Union broke off diplomatic relations with the Junta. Cuba has frozen all Chilean credits and stocks in retaliation for the attempt by the Junta to lay its hands upon $10 million deposited in London by the Cuban government for the Popular Unity Government. The Prime minister of Holland, Excélsior reports, made a radio speech severely criticizing the Chilean Junta and praising the Popular Unity Government. He suggested possible forms of aid to the resistance in Chile. Although the People's Republic of China has maintained relations with the Junta, there seems to have been some break in communication. The Chinese ambassador was recalled at the end of October and requests for the acceptance of the new Chilean ambassador to Peking have so far met with no response. Surprisingly, reports Excélsior, there have even been criticisms of the Chilean Junta in Brazil, and these have not been censored in the Brazilian press. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "0198609f-802b-4a49-9bff-2fd0fb9920af"
+    },
+    {
+      "start_time": 1012,
+      "end_time": 1058,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The event which has drawn the most international attention to Chile recently was a speech made by Mrs. Hortensia Allende, a widow of Dr. Salvador Allende, who spoke before the United Nations Human Rights Commission in late February. It was the first time in the history of the United Nations that a representative of an opposition movement within a member state was permitted to address an official meeting of the UN. United Nations is restricted by law from discussing the internal affairs of its member nations, but the circumstances of the coup and the subsequent actions of the Junta have increasingly isolated it in the world and made the issue of Chile an international one. The following is an excerpt from the translation of the speech delivered at the UN Human Rights Commission. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "89d415b2-c5af-4465-9262-869a79190dda"
+    },
+    {
+      "start_time": 1058,
+      "end_time": 1111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I have not come to this tribunal distinguished delegates as the widow of the murdered President. I come before you as a representative of the International Democratic Federation of Women and above all, as a wife and mother of a destroyed Chilean home as has happened with so many others. I come before you representing hundreds of widows, thousands of orphans of a people robbed of their fundamental rights, of a nation's suffering from a state of war imposed by Pinochet's own troops, obedient servants of fascism that represents violations of each and every right, which according to the Declaration of Human Rights, all people should follow as common standards for their progress and whose compliance this commission is charged with safeguarding.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "e266023b-01cb-4d5f-8aca-441a0e616f04"
+    },
+    {
+      "start_time": 1111,
+      "end_time": 1181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mrs. Allende continues to describe how she feels. Each article of the UN Declaration of Human Rights is being violated in her country. According to these postulates universally accepted throughout the civilized world she says, all human beings are born free, equal in dignity and rights. In my country, whose whole tradition was dedicated not only to establishing but practicing these principles, such conditions are no longer being observed. There is discrimination against the rights and dignity of individuals because of their ideology. Liberty does not exist where man is subjected to the dictates of an ignorant armed minority. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "1407ff29-b269-43e6-83f4-6529691fa44e"
+    },
+    {
+      "start_time": 1181,
+      "end_time": 1218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The declaration establishes that every man has the right to life, liberty and security continues, Mrs. Allende. Distinguished delegates, I could spend days addressing you on the subject of how the fascist dictatorship in my country has outdone the worst of Hitler's Nazism. Summary executions, real or staged executions for the purpose of terrifying the victim. Executions of prisoners allegedly attempting to escape, slow death through lack of medical attention. Victims tortured to death are the order of the day under the military Junta. Genocide has been practiced in Chile. The exact figures will not be known until with the restoration of democracy in my country, the murderers are called to account. There will be another Nuremberg for them. According to numerous documented reports, the death toll is between 15 and 80,000. Within this framework, it seems unnecessary to refer to the other two rights enunciated in the Declaration of Human Rights, liberty and security do not exist in Chile. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "b696b250-41a5-488c-a1bd-5d54ffe5a2db"
+    },
+    {
+      "start_time": 1218,
+      "end_time": 1268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mrs. Allende continues, \"I would like to devote a special paragraph to the women of my country, who in different circumstances are today suffering the most humiliating and degrading oppression. Held in jails, concentration camps, or in women's houses of detention are the wives of the government ministers who, besides having their husbands imprisoned on Dawson Island, have had to spend long periods of time under house arrest, are the women members of parliament from the Popular Unity Government who have had to seek asylum and have been denied safe conduct passes. The most humble proletarian woman's husband has been fired from his job or is being persecuted, and she must wage a daily struggle for the survival of her family.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "dfe2b0e3-2bf0-4f24-a9f2-69f19480b8a8"
+    },
+    {
+      "start_time": 1268,
+      "end_time": 1295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The Declaration of Human Rights states that slavery is prohibited, as are cruel punishment and degrading treatment. Is there any worse slavery than that which forces man to be alienated from his thoughts? Today in Chile, we suffer that form of slavery imposed by ignorant and sectarian individuals who, when they could not conquer the spiritual strength of their victims, did not hesitate to cruelly and ferociously violate those rights.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "437054c3-d307-4438-918e-f35c2addb97d"
+    },
+    {
+      "start_time": 1295,
+      "end_time": 1363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mrs. Allende continues, \"The declaration assures for all mankind equal treatment before the law and respect for the privacy of their home. Without competent orders or formal accusation, many Chileans have been and are being dragged to military prisons, their homes broken into to be submitted to trials whose procedures appear in no law, not even in the military code. Countless Chileans, after five months of illegal procedures, remain in jail or in concentration camps without benefit of trial. The concept of equal protection before the law does not exist in Chile. The jurisdiction of the court is not determined by the law these days but according to the whim of the witch hunters. I wish to stress that if the 200 Dawson Island prisoners are kept there during the Antarctic winter, we will find no more than corpses come spring as the climatic conditions are intolerable to human life and four of the prisoners are already in the military hospital in Santiago.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "d8aa07c0-9c26-4a00-87b3-cd6e03347871"
+    },
+    {
+      "start_time": 1363,
+      "end_time": 1407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mrs. Allende said, \"The Junta has also violated the international law of asylum, turning the embassies into virtual prisons for all those to whom the Junta denies a safe conduct pass for having had some length with the Popular Unity Government. They have not respected diplomatic immunity, even daring to shoot those who have sought refuge in various embassies. Concrete cases involve the embassies of Cuba, Argentina, Honduras, and Sweden. Mail and telephone calls are monitored. Members of families are held as hostages. Moreover, the military Junta has taken official possession of all the goods of the parties of the Popular Unity Coalition, as well as the property of its leaders.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "86050eec-dcdb-462e-908d-91f4e044c6fb"
+    },
+    {
+      "start_time": 1407,
+      "end_time": 1446,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mrs. Allende continues, reminding the delegates, \"the Declaration of Human Rights establishes that all those accused of having committed a crime should be considered innocent until proven otherwise before a court. The murder of folk artist Victor Jara, the murders of various political and trade union leaders and thousands of others, the imprisonment of innumerable citizens arrested without charges, the ferocious persecution of members of the left, many of them having disappeared or executed, show that my country is not governed by law, but on the contrary, by the hollow will of sectors at the service of imperialism.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "3cb070e1-eaa5-4eff-bd83-f27dfadfd6d6"
+    },
+    {
+      "start_time": 1446,
+      "end_time": 1494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The declaration assures to all, freedom of thought, conscience, expression, religion and association. In Chile, the political parties of the left have been declared illegal. This even includes the moderate and right-wing parties, which are in recess and under control to such extent that the leaders of the Christian Democratic Party have expressed their total inconformity with the policies of the Junta. Freedom of the press has also been eliminated. The media opposed to the Junta has been closed, and only the right wing is permitted to operate, but not without censorship. Honest men who serve the press are in concentration camps or have disappeared under the barrages of the execution squads. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "2ffb4a4b-6a74-40f1-a77e-3f76fc4d0f30"
+    },
+    {
+      "start_time": 1494,
+      "end_time": 1532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Books have been burned publicly recalling the days of the Inquisition and Nazi fascism. These incidents have been reported by the world press. The comical errors of those who have read only the titles have resulted in ignorant generals reducing scientific books to ashes. Many ministers sympathetic to the sufferings of their people have been accused of being Marxist in spite of their orthodox militancy following Jesus' example. Masons and layman alike have been tortured simply for their beliefs. It is prohibited to think, free expression is forbidden. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "d3c44be4-7df6-4922-8c3b-c6e61bff9fd7"
+    },
+    {
+      "start_time": 1532,
+      "end_time": 1571,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mrs. Allende said the right to free education has also been wiped away. Thousands of students have been expelled for simply having belonged to a leftist party. Young people just a few months away from obtaining their degrees have been deprived of five or more years of higher education. University rectors have been replaced by generals, non-graduates themselves. Deans of faculties respond to orders of ballistics experts. These are not gratuitous accusations, but are all of them based on ethics issued by the military Junta itself. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "83ce9192-9132-44d3-90dc-c27a9ea6ab35"
+    },
+    {
+      "start_time": 1571,
+      "end_time": 1660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"In conclusion\", says Mrs. Allende, \"the Declaration of Human Rights recognizes the right of all men to free choice of employment, favorable working conditions, fair pay and job security. Workers must be permitted to organize freely in trade unions. Moreover, the Declaration of Human Rights states that people have the right to expect an adequate standard of living, health and wellbeing for themselves and their families. In Chile, the Central Workers Trade Union confederation, the CUT with 2,400,000 members, which on February 12th, 1974 marked 21 years of existence, has been outlawed. Trade unions have been dissolved except for the company unions. Unemployment, which under the Popular Unity Administration had shrunk to its lowest level, 3.2% is now more than 13%. In my country, the rights of the workers respected in the Declaration of Human Rights have ceased to exist.\" These excerpts were taken from the United Nations speech of Hortensia Allende, widow of Dr. Salvador Allende, leader of the former Popular Unity Government of Chile. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "England"
+        },
+        {
+          "category": "Countries",
+          "tag": "China"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Sweden"
+        },
+        {
+          "category": "Communities",
+          "tag": "Women"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (rural)"
+        },
+        {
+          "category": "Communities",
+          "tag": "Working class (urban)"
+        }
+      ],
+      "uuid": "dee25d3d-732a-4665-bb97-fb6fe51f992b"
+    },
+    {
+      "start_time": 1660,
+      "end_time": 1692,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to the Latin American Press Review, a weekly selection and analysis of news and events in Latin America, as seen by leading world news sources with special emphasis on the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments and suggestions are welcome and may be sent to the group at 2205 San Antonio Street, Austin, Texas. This program is distributed by Communication Center, the University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4e1ef614-7ad1-4fa3-98ab-a92b8edd0d20"
+    },
+    {
+      "start_time": 1692,
+      "end_time": 1703,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The views expressed are solely those of the Latin American Policy Alternatives Group and its sources and should not be considered as being endorsed by UT Austin or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9c260912-0e08-4bd6-aea9-e0b2f56657ac"
+    }
+  ],
   "event_id": "5a4b52ac-7d7b-4b90-8e1d-5dc4782be0dc",
   "set": "Correct Ann",
   "source_id": "6f510afe-26b8-40bc-a073-4399490167e0"
