@@ -1,5 +1,844 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are listening to Latin American Press Review, a weekly summary of events in Latin America with special emphasis on translation from the Latin American Press. This program is produced by the Latin American Policy Alternatives Group of Austin, Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2987f046-7a71-4966-877e-76618bdc90cc"
+    },
+    {
+      "start_time": 18,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This week we will have a report from the Peruvian weekly Latin American Press on Bolivia's latest efforts to regain a path to the sea, an article from the British Weekly Latin America about the controversy over the role of international development banks in US foreign policy, a report from the Mexican Daily Excélsior on loans to Brazil, and coverage from The New York Times of trials of political prisoners in Chile. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5ed92ad5-b8c7-4491-9ba5-84abac59cd5f"
+    },
+    {
+      "start_time": 43,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior of Mexico City reports that Henry Kissinger at the fourth session of the organization of American States stated that, \"The seemingly paternalistic policy of the United States was not at all meant to be detrimental to Latin American countries. Rather, the policy was a concise effort planned by the United States government to give preferential treatment to Latin American countries over the rest of the world.\" However, our recent report issued by the United States Senate Committee on Foreign Affairs has brought into question the generosity of United States foreign policy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Canada"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "7f736314-3ed5-454c-b2d6-6c625cbba179"
+    },
+    {
+      "start_time": 80,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latin America, the British news weekly reports that the main issue at the meeting of the executives of the Inter-American Development Bank will center on that report. The report examines the relationship of the United States and the multilateral development banks. In addition, it opens questions of political control over the lending policies of both the World Bank and the Inter-American Development Bank. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Canada"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "ea2337c3-8bc6-416a-9be6-59a8d5fac508"
+    },
+    {
+      "start_time": 104,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The official report states that for the most part, the banks have channeled funds to countries in which the United States has strategic and diplomatic interest. They also have refrained from lending to countries with which the United States has had investment disputes. The official report prepared by the Senate Committee on Foreign Affairs further asserted that a major issue in contemporary United States diplomacy concerns relations with countries expropriating United States-owned investments. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Canada"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "b8095b89-42d4-4d69-b42c-b0a15cd320e4"
+    },
+    {
+      "start_time": 134,
+      "end_time": 154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The report states that there are considerable similarities between the United States and the bank's views regarding uncompensated expropriation of foreign investments. While the banks are not direct instruments of American policy, they nevertheless have pursued policies generally compatible with those of the United States government. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Canada"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "8bada9ca-e6fb-4136-b85a-7aefbab2ad6e"
+    },
+    {
+      "start_time": 154,
+      "end_time": 186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another interesting fact emerged from the report. It seems that the Inter-American Development Bank employs 41 Cuban exiles among its staff, even though Cuba has never been a member of the bank. There are no Canadians, for instance, on the Inter-American Development Bank staff, even though Canada has been a member since 1972. Perhaps the fact that the Inter-American Development Bank was created as part of the Alliance for Progress and as a part of the United States response to the Cuban Revolution has something to do with the strong Cuban Exile presence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Canada"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "92aa04f6-1c18-495e-98fa-55c9376c9762"
+    },
+    {
+      "start_time": 186,
+      "end_time": 217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A report from the Mexican Daily Excélsior points out the United States use of international lending agencies as a virtual arm of the State Department. It has been revealed now that the Inter-American Development Bank, since its inception, has loaned one and a half billion dollars for economic development. In the year of 1973, Brazil alone obtained approximately $275 million from the bank. That loan given to Brazil constitutes the largest sum given to a country in Latin America in a single year. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Canada"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "0054a5a4-c4fd-4a45-951a-f8b39c6a3415"
+    },
+    {
+      "start_time": 217,
+      "end_time": 249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is also worthwhile to note that because of Brazil's favorable policy towards United States business, the capital investments of United States corporations have increased tenfold in recent years. Total US corporate capital investments in Brazil, number many billions of dollars. There is a direct relationship to friendliness of Latin American countries to US capital and their access to loans from supposedly autonomous international lending agencies, according to Excélsior of Mexico City, "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "United States"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "Canada"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        }
+      ],
+      "uuid": "71e71c68-313f-4f50-9502-a441672f9741"
+    },
+    {
+      "start_time": 249,
+      "end_time": 294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The New York Times reports on the trials of political prisoners in Chile. The lack of justice in Chile is concerning many Chileans. The focal point is the beginning of the first public trials of political prisoners. A military trial began recently for 57 Air Force officials and 10 civilians. It is the first open trial of political prisoners and the first for military officials suspected of Marxist sympathies. In the last few months however, military courts have tried hundreds of civilian political prisoners in closed courts. In this first open trial, the prosecutor is asking for the death penalty for six Air Force officials, life imprisonment for one civilian and sentences ranging from 18 months to 30 years for the rest. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "85479d30-a1f2-4d82-87fa-28a3af4968d1"
+    },
+    {
+      "start_time": 294,
+      "end_time": 328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The first defendant was accused of attending political meetings in 1972. The charge is dereliction of duty and carries a five-year imprisonment. Of the 67 suspects on trial, 63 were present in the courtroom. Of the defendants missing, an Air Force General died from the effects of his long interrogation by Junta police. Another died of gunshot wounds. Junta spokesman explained that his guard's gun, \"Suddenly went off without warning.\" Two others are now in mental hospitals, apparently driven insane by tortures. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "18e94a2f-195b-47e5-be0c-0e363ae9ce70"
+    },
+    {
+      "start_time": 328,
+      "end_time": 366,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In relation to torture, the prosecutor said confessions had been obtained from the accused, but defense attorneys have charged privately that the confessions were obtained by torture. \"According to my clients, they were all tortured through electricity and beatings into signing confessions,\" said Roberto Garretón, a defense attorney. Other lawyers made similar charges and said they would raise the issue of torture during the trials. According to church sources providing legal aid, there are numerous cases of arbitrary arrest. Persons are being detained indefinitely without formal charges or access to lawyers and their families. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "a1aaa06a-c7a5-4f94-abdf-b81390060a95"
+    },
+    {
+      "start_time": 366,
+      "end_time": 390,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The New York Times goes on to say that the judicial branch has steadily retreated before the growing power of the Junta. It has reached the point where civilian courts have virtually declared themselves incompetent to deal with the cases of thousands of people who have been placed under detention for political reasons, and the military courts appear to be violating the rules of the Military Code of Justice, according to lawyers familiar with some cases. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "e7200b66-6e28-4877-91c0-9bdd697ff34f"
+    },
+    {
+      "start_time": 390,
+      "end_time": 415,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The role of civilian courts began to change under a Allende government, which the President Junta overthrew. Only weeks before the coup, the president of the Supreme Court virtually legitimized a future military uprising. He expounded the thesis that the Allende government, although legally elected, had lost its legality by acting on the margin of the law. A few days after the coup, the Supreme Court president declared the court support of the Junta. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "d7d44fe8-fe03-47ae-91cd-969ee33f5cf3"
+    },
+    {
+      "start_time": 415,
+      "end_time": 443,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An appeals court judge has said that, \"There has been an unstated desire throughout the court system to try not to clash with the executive power.\" Most important, a number of Supreme Court decisions have effectively handcuffed the lower courts in dealing with the human rights of political prisoners. The most significant decision involved the case of a 15 year old boy. He was detained incommunicado without formal charges since last December. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "0e3adbe3-d711-43a8-86e0-d64b1d97d57b"
+    },
+    {
+      "start_time": 443,
+      "end_time": 466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was alleged that the boy had been a member of the Communist Party since the age of 11, and that he was being held, \"as a preventive measure,\" in defense of the state. The Supreme Court supported the Junta and declared that under the state of siege declared by the Junta, the authorities had the right to detain minors for whatever reason and for as long as they deemed necessary. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "ebc29037-29c1-4d4d-b977-6b52a71380ec"
+    },
+    {
+      "start_time": 466,
+      "end_time": 498,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A court of appeals judge noted that, \"Often we cannot even find out who made the arrest or where a person is being held.\" There's a pervasive feeling of helplessness in the face of the authoritarian Junta among lawyers and judges. In the recent trial of 63 Air Force officials and civilians, the first public trial, there are several key issues. Defense lawyers have noted that even under the state of siege, the Constitution does not allow a military court to try individuals for alleged crimes committed before the state of siege was put into effect. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "d7b1d90d-bd9b-4827-a53f-a793f5953910"
+    },
+    {
+      "start_time": 498,
+      "end_time": 517,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All of the accused are held responsible for acts done prior to the Junta taking power. Another key issue is that of the legitimacy of the former Allende government. The prosecution maintained that the accused had committed treason and sedition by establishing ties with civilian Marxists and aiding the enemy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "dbb426b9-8b05-4ff5-8ff5-ac3e361d025f"
+    },
+    {
+      "start_time": 517,
+      "end_time": 561,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The prosecution defines the enemy as the political parties that were members of the Allende government. Defense attorneys argue that if the enemy was the Allende government, the high military officials who were members of that government before they joined the coup may also be liable to charges of treason. It is believed that worldwide protest of the Juntas violation of human rights, such as the protest of the Secretary General of the United Nations is one of the reasons the trial is being held in public. United States lawyers representing the Lawyers Committee on Chile are observing the military trials in Chile. This story in the beginning of those military and civilian trials is taken from The New York Times. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "328ca21e-dfe0-45b6-89de-9dcefdc2e8eb"
+    },
+    {
+      "start_time": 561,
+      "end_time": 597,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The British Newsweek, Latin America reports on Bolivia's attempt to reclaim passage to the sea. The idea that Peru and Chile could be on the point of going to war seems absurd and it has formally been denied by the government's concerned, but there can be no doubt that the possibility exists of a serious confrontation over Bolivia's efforts to recover its lost coastline. The simplest solution to Bolivia's problem would be a corridor running down to Arica, but this would require the agreement of Peru. President Juan Velasco Alvarado seems to shut off any speculation over this point. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "f23a974c-2fc9-4a5e-b97d-d2e10c3d5935"
+    },
+    {
+      "start_time": 597,
+      "end_time": 635,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When he said last week, \"I do not believe any Peruvian would be in favor of giving Bolivia an outlet to the sea at Arica.\" He went on to say that Peru, on the other hand, did favor a solution by which Chile would return to Bolivia, a portion of the coastal strip around Antofagasta, which Bolivia lost in the War of the Pacific in 1879. He said this had been made quite clear in the communique after his meeting with President Hugo Banzer last year. Such a solution would have the additional advantage from previous point of view of cutting Chile's territory in two and perhaps reopening territorial questions which had seemed definitively settled by the Treaty of Ancon. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "aac93e67-4a8a-4ca1-9f4a-ec5a796035dd"
+    },
+    {
+      "start_time": 635,
+      "end_time": 671,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Velasco's words were less well received in La Paz, where it was argued by official spokesman that Peru was going back on the insurances given to Banzer last year. The Bolivians themselves were not entirely at one over the matter. President Banzer had to contradict the words of his defense minister who had spoken to the press of the armed forces having a secret treaty to obtain access to the sea. The Minister clearly hinted that this consisted of a military strategy, Banzer's assertion that Bolivia sought only a peaceful solution failed to calm the situation. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "d46171db-c995-47ef-a2fa-7e660994b67d"
+    },
+    {
+      "start_time": 671,
+      "end_time": 703,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Argentina has reacted somewhat curiously in the pages of the Buenos Aires press. La Opinión, which reflects the views of an important segment of Perón's cabinet, published a front page article on the subject signed by the North American futurologist, Herman Khan. Khan argued that the current tensions in Latin America were caused by Brazil's objective of opening a way to the Pacific. He said that if Brazil achieved its goal, Argentina would be shut into a situation of geopolitical isolation, and this prospect is intolerable to Buenos Aires. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "a60bac30-f45a-4d88-9c57-034493b2f303"
+    },
+    {
+      "start_time": 703,
+      "end_time": 733,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The various actors in the drama have different motives. Bolivia is making the running, but this is not new. Bolivian governments, particularly military governments, have long been devoted to this particular cause. They're probably anxious to take advantage of the present situation to keep the issue alive. In his context, it is probably in their interest to persuade the Bolivians to agree to Arica, even though they must know that this will be unwelcome to the Peruvian government. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "8d1e7a90-7a1d-4b22-9cf0-dc0f0cf3ae11"
+    },
+    {
+      "start_time": 733,
+      "end_time": 753,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Chileans are anxious to please the Brazilians and an international row with Peru could be a useful diversion from their domestic difficulties. The Brazilians are saying very little, but are certainly backing Bolivia's aspirations and could be said to stand to gain for any conflict between the Spanish speaking nations of South America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "0cf2c9db-1699-4659-ae7c-f654d1eae9ed"
+    },
+    {
+      "start_time": 753,
+      "end_time": 788,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is hard to see why the Argentines wish to escalate the situation, and it could be that it is no more than La Opinión's desire for exciting front page copy. It could also be, however, that the Argentine government is generally alarmed and is seeking to bring the issues out into the open before the situation deteriorates further. The United States, too, would seem at first sight to be anxious to reduce tension in the area, particularly since they have recently made peace with Peru. A limited war would be more likely than almost any other conceivable circumstance to lead to revolution in Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "39b80bda-cbe5-49fa-bc34-d92058fb2dae"
+    },
+    {
+      "start_time": 788,
+      "end_time": 833,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finally, the Peruvians are almost certainly honest in their desire to avoid conflict and ascribe the whole affair to an international anti-Peruvian plot. Perhaps a better way of explaining this situation in which countries are apparently preparing for a war, which none of them wants to fight, is to see the situation as a reflection of real underlying tensions among the nations of South America. The law of opposites led during the late 1960s to both Argentine and Andean responses to the challenge of Brazilian expansion. The uneasy equilibrium, which had been established on this basis was weakened by the Bolivian coup of August, 1971, and by last year's Uruguayan coup. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "39a9b378-e269-4d63-8b26-5c471e105d58"
+    },
+    {
+      "start_time": 833,
+      "end_time": 859,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was finally destroyed by the Chilean coup last September. This posed a direct threat to Argentina, which began to feel encircled by Brazilian client states. It also promised to change fundamentally the character of the Andean group. The current state of tension seems to reflect the difficulties encountered by various countries involved in adjusting to the radically altered situation. This from the British News weekly, Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Bolivia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Peru"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "11234afa-14d9-41fb-b8a3-3143bffacc6e"
+    },
+    {
+      "start_time": 859,
+      "end_time": 891,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to Latin American Press Review, a weekly summary of events in Latin America with special emphasis on translations from the Latin American Press. This program is produced by the Latin American Policy Alternatives Group. Comments may be sent to the group at 2434 Guadalupe Street, Austin, Texas. That's 2434 Guadalupe Street, Austin, Texas. Latin American Press Review is distributed by Communication Center, the University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7159581a-ff00-4614-aaf2-bc91b17d1c1b"
+    },
+    {
+      "start_time": 891,
+      "end_time": 901,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Views expressed are those of the Latin American Policy Alternatives Group and its sources, and are not necessarily endorsed by the University of Texas or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "25a528df-f9d6-4981-bbd9-65c52f2f1cd9"
+    }
+  ],
   "set": "Default",
   "event_id": "d2bc8eb1-4ed4-4db5-819d-10ab3a08dd9f",
   "source_id": "07b5a92d-e3fb-470b-aea8-504169e51a14"
