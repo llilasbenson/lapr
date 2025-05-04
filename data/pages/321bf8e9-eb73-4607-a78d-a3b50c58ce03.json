@@ -1,1 +1,184 @@
-{"content":[{"type":"paragraph","children":[{"text":""}]}],"title":"LAPR1974_01_24","parent":"35f92ddd-2211-4591-bee1-c4625876da1c","autogenerate":{"enabled":false,"type":"custom"},"slug":"lapr19740124","created_at":"2025-04-12T02:17:12.499Z","created_by":"rpr88","updated_at":"2025-04-12T02:17:12.499Z","updated_by":"rpr88"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Event Summary",
+                  "bold": true,
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I: ",
+                  "underline": true
+                },
+                {
+                  "text": "Comprehensive coverage of key developments in Latin America, focusing on Brazil's political transition, economic struggles, and international relations. It discusses the impending replacement of Brazil's military dictator, economic challenges including inflation and heavy price increases, and Brazil's dependence on imported oil. Reports of potential military invasions by Brazil in neighboring countries emphasize regional tensions. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " Insights into the energy crisis underscore the challenges faced by various Latin American countries and criticism towards transnational oil companies. Editorial opinions highlight the need for a renewed social pact to address global poverty and advocate for alternative growth models. Responses to the crisis include suggestions for direct negotiations with oil-producing countries and reflections on the geopolitical implications. Overall, the review portrays the multifaceted challenges and complex dynamics shaping Latin American societies amidst the global oil crisis."
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:00:22-0:06:54",
+                      "bold": true
+                    },
+                    {
+                      "text": " Brazil's military leadership shifts to Geisel amid rising inflation, oil crisis, and regional tensions."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:06:54-0:11:27",
+                      "bold": true
+                    },
+                    {
+                      "text": " Economists at Atlaya 74 conference debate growth models, inequality, and global resource distribution challenges."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:11:27-0:12:49",
+                      "bold": true
+                    },
+                    {
+                      "text": " A guerrilla-type offensive in Sinaloa highlights unrest over economic inequality and unresolved issues."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:12:49-0:13:41",
+                      "bold": true
+                    },
+                    {
+                      "text": " Panama's Omar Torrijos gains Argentinian support for canal sovereignty and Perón urges Latin American unity."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:14:24-0:27:14",
+                      "bold": true
+                    },
+                    {
+                      "text": " Latin America faces rising oil costs, inflation, and struggles for economic independence amid oil crisis pressures."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "LAPR1974_01_24",
+  "parent": "35f92ddd-2211-4591-bee1-c4625876da1c",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "lapr19740124",
+  "created_at": "2025-04-12T02:17:12.499Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-05-04T22:29:12.887Z",
+  "updated_by": "rpr88"
+}
