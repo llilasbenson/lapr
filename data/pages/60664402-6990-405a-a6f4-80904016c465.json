@@ -201,7 +201,17 @@
       "type": "paragraph",
       "children": [
         {
+          "link": "https://docs.google.com/spreadsheets/d/1VUOiV2xLPLtHhmsmk8T5JP5k9s_6_Gs7awBk2rhSxGU/edit?usp=sharing",
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "President Allende aims to consolidate his coalition into a single left-wing party amid economic challenges and ongoing debt negotiations with the U.S.",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -212,6 +222,9 @@
         "media",
         "annotations"
       ],
+      "start": 16,
+      "end": 150,
+      "file": "6181bbfa-ca7a-4f48-a97a-8d7e3c7b69ac",
       "children": [
         {
           "text": ""
@@ -222,11 +235,174 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "For a full list of annotations, visit the sheet created for "
-        },
+          "text": "Nixon nominated diplomat Jack Kubisch as Assistant Secretary of State for Inter-American Affairs, with his confirmation unlikely before the OAS meeting on Cuban sanctions.",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "f47dea54-b78f-4ab7-a890-06be7f559755",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "start": 150,
+      "end": 239,
+      "file": "6181bbfa-ca7a-4f48-a97a-8d7e3c7b69ac",
+      "children": [
         {
-          "text": "LAPR1973_03_29.",
-          "link": "https://docs.google.com/spreadsheets/d/1VUOiV2xLPLtHhmsmk8T5JP5k9s_6_Gs7awBk2rhSxGU/edit?usp=sharing"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Brazil's military expansion aims for regional dominance, nuclear research, arms manufacturing, causing alarm.",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "f47dea54-b78f-4ab7-a890-06be7f559755",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "start": 239,
+      "end": 389,
+      "file": "6181bbfa-ca7a-4f48-a97a-8d7e3c7b69ac",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Brazil and Paraguay's plans for the Itaipu Dam, criticized by Argentina for potential negative impacts on trade and control over the Paraná River.",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "f47dea54-b78f-4ab7-a890-06be7f559755",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "start": 389,
+      "end": 557,
+      "file": "6181bbfa-ca7a-4f48-a97a-8d7e3c7b69ac",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Political changes post-President Velasco Alvarado's illness, highlighting rising worker militancy and potential radicalization.",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "f47dea54-b78f-4ab7-a890-06be7f559755",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "start": 557,
+      "end": 858,
+      "file": "6181bbfa-ca7a-4f48-a97a-8d7e3c7b69ac",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": "Panamanian dissatisfaction with the Canal Zone Treaty and the UN meeting in Panama City, showcasing shifting alliances and nationalism in Latin America."
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "f47dea54-b78f-4ab7-a890-06be7f559755",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "start": 886,
+      "end": 1116,
+      "file": "6181bbfa-ca7a-4f48-a97a-8d7e3c7b69ac",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Panama's recent UN Security Council meeting, General Omar Torrijos challenges US control over the Panama Canal Zone and calls for a new treaty amid tensions.",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "f47dea54-b78f-4ab7-a890-06be7f559755",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "start": 1116,
+      "end": 1738,
+      "file": "6181bbfa-ca7a-4f48-a97a-8d7e3c7b69ac",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://docs.google.com/spreadsheets/d/1VUOiV2xLPLtHhmsmk8T5JP5k9s_6_Gs7awBk2rhSxGU/edit?usp=sharing",
+          "text": ""
         }
       ]
     }
@@ -240,6 +416,6 @@
   "slug": "1973-03-29",
   "created_at": "2025-03-12T23:05:22.254Z",
   "created_by": "rpr88",
-  "updated_at": "2025-04-17T17:04:13.062Z",
-  "updated_by": "llilasbenson"
+  "updated_at": "2025-05-04T20:41:10.979Z",
+  "updated_by": "rpr88"
 }
