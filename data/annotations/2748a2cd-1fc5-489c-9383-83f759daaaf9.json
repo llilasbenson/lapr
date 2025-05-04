@@ -1,5 +1,828 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are listening to Latin American Press Review, a weekly summary of events in Latin America with special emphasis on translation from the Latin American press. This program is produced by the Latin American Policy Alternatives Group of Austin, Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "447db14c-08af-455c-940c-3f0a98e0fb2a"
+    },
+    {
+      "start_time": 18,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Colombia, there will be few excuses for Alfonso López Michelsen if he fails to make a success of the administration he will form when he assumes office in August. Having won comfortably over half the votes in the recent elections, and with a Liberal majority in Congress, he has fully achieved the mandate he sought from the country. The only fly in the ointment was that although this was the first meaningful contest between Colombia's two traditional parties, the Liberals and Conservatives, since their National Front agreement was established 16 years ago, nearly half the electorate failed to vote. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "b2d2719f-6d23-4376-8a7a-9d4e98239e36"
+    },
+    {
+      "start_time": 58,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The fact is, however, that the electors were offered a significant choice between the reformism of López Michelsen, diluted or not, and the development a la Brazil of his Conservative rival Alvaro Gómez Hurtado. In an astute speech when his victory was announced, López Michelsen promised that despite his total victory, he would honor the agreement to share government posts between Liberals and Conservatives. But he strongly implied that he would be calling only on the moderate wing of the Conservative party, and in fact, the Liberals are jubilant that the reactionary Gómez Hurtado wing looks as if it may be finished forever. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "85b7d176-4711-466a-bf54-93b45dfd578f"
+    },
+    {
+      "start_time": 95,
+      "end_time": 119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What does seem clear is that López Michelsen succeeded in hitting exactly the right note in the current state of Latin American politics. It is evidently of some importance that another constitutional regime after Venezuela should have strengthened its position at a time when others further south are either looking shaky or have been violently overthrown."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "b4c72a7a-7d6f-4143-acf2-1a3e97d61607"
+    },
+    {
+      "start_time": 119,
+      "end_time": 157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But perhaps more important is the opening that López Michelsen has created at a time when similar political openings have emerged in such diverse countries as Mexico, Honduras, Brazil, and Argentina. Even if they're largely rhetoric in a number of cases, they are not without significance domestically. Clearly the talk of agrarian reform, a better distribution of wealth, a break between state and church, new divorce proposals and so on from López Michelsen has helped to create a new situation in Colombia, whether it is all carried through effectively or not. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "dfdb905a-7eae-4daa-b601-39919b1d3f8c"
+    },
+    {
+      "start_time": 157,
+      "end_time": 200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Equally important is the impact on the country's position abroad. The nationalism, which characterizes, say, the Acción Democrática government in neighboring Venezuela is likely to be closely reflected in Bogotá. Indeed, López Michelsen has referred to his friend, Venezuelan President Carlos Andres Perez, and the two country's policies are likely to be closely connected during the next four or five years. This must mean more power to the Andean group and rather stricter though perhaps more secure conditions for foreign companies operating in Colombia. Among other things, it may mean a review of such deals as the projects to develop the country's coal, gas, and oil reserves in conjunction with the United States and Brazil. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "44944da3-5ce7-4460-9dc7-45ee08270a7b"
+    },
+    {
+      "start_time": 200,
+      "end_time": 225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For Peru in particular, the Colombian election result must be wholly satisfying. Support from another Andean country will be very welcome at a time when external threats seem manifold. Panama and Venezuela, too, will be pleased. Prospects now look better than ever before for a settlement of the longstanding dispute between Colombia and Venezuela over territorial waters. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "b1538737-fb98-4706-b7e0-2051b435df76"
+    },
+    {
+      "start_time": 225,
+      "end_time": 255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One possible solution suggested by López Michelsen was the joint development by the two countries of the natural resources, mainly oil, under the seabed. If they work closely together, Colombia and Venezuela will clearly be an important political force in the Southern Caribbean, more so at a time when the major power in the area, the United States, is suffering from an almost daily decline of government. This, from the British news weekly, Latin America."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Countries",
+          "tag": "Honduras"
+        },
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Countries",
+          "tag": "Panama"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "6f5dc685-d779-43ef-9e98-9d6224e8c4d9"
+    },
+    {
+      "start_time": 255,
+      "end_time": 280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Excélsior of Mexico City reports that the Nicaraguan government has instituted censorship over the entire news media in that country. The action was taken in order to silence news reports of the strikes which are plaguing the country. The main strike in Nicaragua involves the country's hospital workers who have been out now for 42 days. Construction workers in Managua have also walked out in a show of solidarity with the hospital workers. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Nicaragua"
+        }
+      ],
+      "uuid": "14586809-7963-4a69-8217-0921262bada6"
+    },
+    {
+      "start_time": 280,
+      "end_time": 321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The censorship decree reflected the government's concern with the strike. It stated that censorship was imposed because the strikers and agitators are using all of the media, spoken, written in television, to promote new strikes and subversive activities. They have abused the freedom of speech that existed in Nicaragua, according to the government. The censorship order came from Nicaragua's ruling triumvirate, which has governed the country since the president stepped down in 1972. The decree is based on the suspension of constitutional guarantees ordered in 1972 after the earthquake in Managua. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Nicaragua"
+        }
+      ],
+      "uuid": "ec294c62-0901-4a24-a579-4301ce8259f2"
+    },
+    {
+      "start_time": 321,
+      "end_time": 356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So far, there have been no censors sent to television or radio stations, although the national director of information stated that according to the decree, all news about the strikes have been declared illegal. Newspapers, on the other hand, have been affected by Nicaragua censorship. The director of the Nicaraguan daily La Prensa denounced the government's action. He said officers of the National Guard, accompanied by a government lawyer, told him that they had orders to \"revise everything that is published, from the economic notices to editorials.\" The censors then immediately deleted all references to the strike. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Nicaragua"
+        }
+      ],
+      "uuid": "72535487-7b6a-423c-bd60-67dd78d19cee"
+    },
+    {
+      "start_time": 356,
+      "end_time": 372,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In protest to the censorship, La Prensa refused to publish a paper the next day. The paper's editor said that the newspaper has suspended operations indefinitely rather than submit to censorship. This story from the Mexico City daily, Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Nicaragua"
+        }
+      ],
+      "uuid": "29962a53-5871-4bef-b0f1-df833bd7234b"
+    },
+    {
+      "start_time": 372,
+      "end_time": 403,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also from Mexico City, the union of petrochemical workers has asked Mexican President Echeverria to nationalize Tamsa, a large chemical plant in Veracruz. Tamsa, the only Latin American industry which produces lead tetraethyl, has been completely operated by Mexican workers and technicians since 1964. Despite the fact that the personnel is Mexican however, the industry is controlled by the DuPont company, which has 49% of the capital in the plant. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "45b582e2-7cb6-47f9-96c4-63d42cda0eb7"
+    },
+    {
+      "start_time": 403,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A lengthy study concerning the proposed nationalization was recently delivered to Excélsior by Humberto De Leon, the former manager of the plant. De Leon asks why DuPont has been able to maintain such profitable Mexican investments under Mexican restraints on foreign interests. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "85cc0dd1-cdd5-407c-910e-10aaa36cc840"
+    },
+    {
+      "start_time": 420,
+      "end_time": 437,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to Mexican law, the industries in which DuPont has invested are required to have 51% Mexican control. A publication of the Bank of Commerce of Mexico, however, shows how DuPont has gotten around the restrictions of the Mexican government in the past. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "51e0d197-580a-4274-8efe-300f1767394e"
+    },
+    {
+      "start_time": 437,
+      "end_time": 488,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For example, in 1958, the Bank of Commerce aided DuPont in setting up Pigmentos y Productos Químicos. The bank set up a trust contract for 51% of the stock, and trustee shares were then issued and sold to Mexican citizens. The trustee shares however, were devoid of voting power, which was reserved specifically for the trustee, the Bank of Commerce. The agreement stated that DuPont would be in charge of all administrative and technical affairs of the plant. The bank's publication reports that the Bank of Commerce and DuPont have maintained a close relationship with absolutely no friction. This venture was so profitable for DuPont that it became a model for the company's other Mexican investments, including Tamsa, currently under strike. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "f850d92a-c83c-477a-8bea-4419211689b3"
+    },
+    {
+      "start_time": 488,
+      "end_time": 524,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De Leon's study explains why union workers favor nationalization of Tamsa. In the first place, all vital decisions are made by DuPont, even though PEMEX, Mexico's national petroleum company, is the majority stockholder. The study affirms that the administrative technical decisions come from the DuPont Latin American office under the direction of Frank B. Loretta, ex-president of the Bank of Commerce of Mexico. The workers feel that this practice prevents Mexican workers from taking initiative, stifles creativity, and makes it impossible for Mexicans to ever achieve technical control of the plant. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "def71b38-8eea-4ed4-89fb-ffeba009e7a6"
+    },
+    {
+      "start_time": 524,
+      "end_time": 556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another reason given for the nationalization is that DuPont takes thousands of dollars in profits out of Mexico every year despite the fact that the original investment by DuPont was recovered within the first five years of operation. Furthermore, PEMEX, the major stockholder, is required to pay large sums to DuPont for administrative assistance, technical assistance, and salaries of experts who are brought to Mexico. The union workers say that this money should be paid to people who work at the plant. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "7bcd55e3-1857-4b40-b638-d5d0a6362ea9"
+    },
+    {
+      "start_time": 556,
+      "end_time": 604,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The third reason for nationalization is that Mexico's workers do not want transnational companies directing the internal affairs of their country. De Leon's study reveals that DuPont frequently issues instructions for company officials to make political investigations in Mexico. The gravest question, says De Leon, is that the transnational business, in an almost imperceptible form, involves itself in social, economic, and political matters, which are neither directly concerned with their plants, nor with their production. The union workers state that political decisions about Mexico should be made by Mexicans. This story from the Mexico City daily, Excélsior. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Mexico"
+        }
+      ],
+      "uuid": "b8586954-1947-42ac-8e26-b737f807fb6b"
+    },
+    {
+      "start_time": 604,
+      "end_time": 635,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Christian Science Monitor reports that Chile is economically bankrupt with debts piling up, inflation spiraling, and a declining standard of living. To solve the problem, the military junta, which governs Chile, has proposed an austerity program involving higher taxes and hard work. International lending agencies are not convinced that such austerity will be enough and are cautiously waiting to see if the United States will send aid to support Chile. Chile's present economic difficulties can be summarized in four points. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "6d9a2443-5c39-432b-9bf0-0ca14d19b930"
+    },
+    {
+      "start_time": 635,
+      "end_time": 649,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "First, Chile's foreign debt of $5 billion is one of the two or three highest in the world. Five billion dollars represents $700 per person, more than the annual income of most Chileans. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "7cb81564-b499-4685-902a-5a5c8f51d845"
+    },
+    {
+      "start_time": 649,
+      "end_time": 665,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Second, inflation rose more than 700% in 1973 and is likely to go over 500% this year. This inflation particularly affects the lower income sector of the society, which in Chile amounts to about one-half of the population. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "ed11ea48-19af-4a38-9478-63da160538c9"
+    },
+    {
+      "start_time": 665,
+      "end_time": 677,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Third, the agricultural sector of the economy continues on significantly reduced production levels. This year, agriculture imports will total $500 million or more. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "518bb404-ad3a-46c3-9049-9fc98190ce87"
+    },
+    {
+      "start_time": 677,
+      "end_time": 683,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And fourth, all these other difficulties have arrived at the same time as price rises in petroleum products. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "d8337c06-30b8-4053-910d-ac4da1ab51e5"
+    },
+    {
+      "start_time": 683,
+      "end_time": 734,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The current high price of copper, Chile's main export, is the only bright spot in this otherwise gloomy economic picture. With the world price of copper presently at $1.20 a pound, Chile could earn one and a half billion dollars in 1974. But even with its copper, Chile desperately needs international loans, and the lending agencies are all waiting to see if the Nixon administration will extend aid. The administration has been accused in the past, both at home and abroad, of economic aggression against the fallen Marxist government of former President Salvador Allende. The Nixon administration does not want to openly sanction the new military leaders in Chile for fear that the same criticism will erupt again. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "b422786e-2d52-4810-853d-bf953e73c929"
+    },
+    {
+      "start_time": 734,
+      "end_time": 762,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And finally, Excélsior reports that in Caracas, the Venezuelan Senate has unanimously approved a declaration denouncing the Chilean military junta for the violation of human rights. The Senate called for an end to the persecutions, jailings, torture, and executions for political motives. Senator Miguel Otero Silva said, \"The Chilean drama has ceased to be a political affair and has turned into a moral outrage that concerns all of humanity.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "be688f69-6f37-4c8c-9e7a-8b7d0b1cba4d"
+    },
+    {
+      "start_time": 762,
+      "end_time": 792,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The senate also approved a proposal recommending that the Venezuelan ambassador to Chile be called home. The Senate later asked that the Chilean commercial attaché to Venezuela, Fernando Paredes, be declared persona non grata. The Senators indicated that Paredes had spoken insolently and disrespectfully against the Venezuelan Senate when they approved the repudiation of the Chilean junta. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        }
+      ],
+      "uuid": "51750af3-ef06-47d5-88ab-79f873528841"
+    },
+    {
+      "start_time": 792,
+      "end_time": 824,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to Latin American Press Review, a weekly summary of events in Latin America with special emphasis on translations from the Latin American press. This program is produced by the Latin American Policy Alternatives Group. Comments may be sent to the group at 2434 Guadalupe Street, Austin, Texas. That's 2434 Guadalupe Street, Austin, Texas. Latin American Press Review is distributed by Communication Center, the University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7dba20c7-5ab2-46a2-9030-d470ca5eacda"
+    },
+    {
+      "start_time": 824,
+      "end_time": 834,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Views expressed are those of the Latin American Policy Alternatives Group and its sources and are not necessarily endorsed by the University of Texas or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2762d720-8cad-47eb-bf88-2fea01e56a75"
+    }
+  ],
   "set": "Default",
   "event_id": "a765aa54-cc1e-4ea6-9edf-14e75843c4d0",
   "source_id": "430c8d92-e2e7-45da-a341-871d389a8d74"
