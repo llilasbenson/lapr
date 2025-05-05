@@ -1,1 +1,189 @@
-{"content":[{"type":"paragraph","align":"justify","children":[{"bold":true,"underline":true,"text":""}]},{"type":"grid","layout":[3,3],"children":[{"type":"column","children":[{"type":"image","url":"https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_mx_communist_party_01_12_001.jpg","size":"full","children":[{"text":""}]},{"type":"paragraph","align":"justify","children":[{"bold":true,"underline":true,"text":"Event Summary"}]},{"type":"paragraph","children":[{"text":"Part I:  "}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part II:  "}],"align":"justify"}]},{"type":"column","children":[{"type":"paragraph","children":[{"text":"Segment Summaries","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":""}],"align":"justify"}]}]},{"type":"paragraph","children":[{"text":""}]}],"title":"1974-02-07","parent":"34d25186-1fe4-42f0-b013-60effa02b1e5","autogenerate":{"enabled":false,"type":"custom"},"slug":"1974-02-07","created_at":"2025-04-12T02:18:14.924Z","created_by":"rpr88","updated_at":"2025-04-17T16:56:16.832Z","updated_by":"llilasbenson"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "bold": true,
+          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_mx_communist_party_01_12_001.jpg",
+              "size": "full",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Event Summary",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I:",
+                  "underline": true
+                },
+                {
+                  "text": " Discussions on US-Latin American relations prior to Henry Kissinger's visit. Mexican trade data reveals a significant trade deficit, prompting calls for a protectionist strategy. Venezuelan President-elect Carlos Andres Perez advocates for fair pricing of natural resources amidst economic oppression by developed countries. In Bolivia, government forces clash with peasants protesting price increases, indicating challenges to General Hugo Banzer's government. Similarly, in Chile, criticism of military rule grows despite censorship. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " The review also discusses the significance of David Alfaro Siqueiros, a prominent Mexican muralist, upon his death, with experts sharing differing perspectives on his legacy. The intersection of politics and art is explored, emphasizing Siqueiros's role in merging political activism with artistic expression. Concludes with reflections on contemporary muralism and the ongoing relevance of political themes in art."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "textSize": "heading-three"
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:00:22-0:07:14",
+                      "bold": true
+                    },
+                    {
+                      "text": " Kissinger's Latin America visit highlights trade deficits, resource protection, economic tensions, and US intervention concerns."
+                    }
+                  ],
+                  "align": "justify"
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:07:14-0:11:20",
+                      "bold": true
+                    },
+                    {
+                      "text": " Bolivian peasants' revolt against price hikes led to deadly government crackdowns and political unrest."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:11:20-0:14:02",
+                      "bold": true
+                    },
+                    {
+                      "text": " Chilean junta tightens press control, restricts political parties, and faces growing internal contradictions."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:14:45-0:28:07",
+                      "bold": true
+                    },
+                    {
+                      "text": " Experts discuss David Alfaro Siqueiros's impactful, politically charged mural art."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "7fca9143-64e8-45d2-b843-11dafa3318e7",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "1974-02-07",
+  "parent": "34d25186-1fe4-42f0-b013-60effa02b1e5",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "1974-02-07",
+  "created_at": "2025-04-12T02:18:14.924Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-05-05T04:48:24.810Z",
+  "updated_by": "rpr88"
+}
