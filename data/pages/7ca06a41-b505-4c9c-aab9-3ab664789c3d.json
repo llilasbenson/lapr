@@ -1,1 +1,224 @@
-{"content":[{"type":"paragraph","align":"justify","children":[{"bold":true,"underline":true,"text":""}]},{"type":"grid","layout":[3,3],"children":[{"type":"column","children":[{"type":"image","url":"https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_sarno_eduardo_10_26_008.jpg","size":"full","children":[{"text":""}]},{"type":"paragraph","align":"justify","children":[{"bold":true,"underline":true,"text":"Event Summary"}]},{"type":"paragraph","children":[{"text":"Part I:  "}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part II:  "}],"align":"justify"}]},{"type":"column","children":[{"type":"paragraph","children":[{"text":"Segment Summaries","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":""}],"align":"justify"}]}]},{"type":"paragraph","children":[{"text":""}]}],"title":"1974-02-21","parent":"34d25186-1fe4-42f0-b013-60effa02b1e5","autogenerate":{"enabled":false,"type":"custom"},"slug":"1974-02-21","created_at":"2025-04-12T02:21:08.452Z","created_by":"rpr88","updated_at":"2025-04-17T17:00:56.664Z","updated_by":"llilasbenson"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "bold": true,
+          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_sarno_eduardo_10_26_008.jpg",
+              "size": "full",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Event Summary",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I:",
+                  "underline": true
+                },
+                {
+                  "text": " The Latin American Press Review examines the aftermath of President Salvador Allende's overthrow in Chile, highlighting severe repression against journalists and dissenting voices. It discusses economic challenges faced by the military junta, including difficulties in stabilizing the economy and discontent due to rising prices. The report also covers political unrest in Argentina, where leftist guerrilla groups threaten escalation, and tensions rise over a kidnapped Exxon manager. Latin American countries seek access to affordable technology but face US rejection, leading to costly dependency. La Opinión addresses political violence in the region, emphasizing its roots in marginalized groups' struggles against existing power structures. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " The Latin American Press Review examines Brazil's recent presidential election victory of General Ernesto Geisel, highlighting the continuation of strict military control over the political landscape. Speculation arises regarding potential changes in economic policies, given Brazil's renowned economic growth and reliance on foreign investment. Le Monde attributes Brazil's economic boom to industrial expansion and increased foreign capital, while Business Week predicts Brazil to become the world's next super exporter due to phenomenal export growth. However, challenges persist, including agricultural shortcomings and inflation, prompting scrutiny of Brazil's economic strategies. Opinião underscores the contrast between Brazil's economic growth and harsh living conditions for the majority, raising questions about development. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "textSize": "heading-three"
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:00:22-0:01:48",
+                      "bold": true
+                    },
+                    {
+                      "text": " Chilean journalists face severe repression under the military regime, with executions, imprisonments, and censorship."
+                    }
+                  ],
+                  "align": "justify"
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:01:48-0:06:34",
+                      "bold": true
+                    },
+                    {
+                      "text": " Chilean junta faces economic struggles, political dissent, inflation, and eroded support from Christian Democrats."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:06:34-0:08:39",
+                      "bold": true
+                    },
+                    {
+                      "text": " Argentine guerrillas escalate attacks, fueling political division and violence.."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:08:39-0:12:20",
+                      "bold": true
+                    },
+                    {
+                      "text": " Latin American countries seek cheaper technology from the US, but face resistance and dependency."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:12:20-0:14:01",
+                      "bold": true
+                    },
+                    {
+                      "text": " Political violence in Latin America stems from social inequities, with ruling groups defending power."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:14:45-0:27:36",
+                      "bold": true
+                    },
+                    {
+                      "text": " Brazil's economy faces challenges despite growth, with inequality and political control under Geisel's leadership."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "32d0c2e0-6702-4843-b7b9-a0e5a9f721d6",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "1974-02-21",
+  "parent": "34d25186-1fe4-42f0-b013-60effa02b1e5",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "1974-02-21",
+  "created_at": "2025-04-12T02:21:08.452Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-05-05T05:09:15.541Z",
+  "updated_by": "rpr88"
+}
