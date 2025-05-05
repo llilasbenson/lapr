@@ -1,1 +1,198 @@
-{"content":[{"type":"paragraph","align":"justify","children":[{"bold":true,"underline":true,"text":""}]},{"type":"grid","layout":[3,3],"children":[{"type":"column","children":[{"type":"image","url":"https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_sarno_eduardo_04_04_01.jpg","size":"full","children":[{"text":""}]},{"type":"paragraph","align":"justify","children":[{"bold":true,"underline":true,"text":"Event Summary"}]},{"type":"paragraph","children":[{"text":"Part I:  "}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part II:  "}],"align":"justify"}]},{"type":"column","children":[{"type":"paragraph","children":[{"text":"Segment Summaries","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":""}],"align":"justify"}]}]},{"type":"paragraph","children":[{"text":""}]}],"title":"1974-02-13","parent":"34d25186-1fe4-42f0-b013-60effa02b1e5","autogenerate":{"enabled":false,"type":"custom"},"slug":"1974-02-13","created_at":"2025-04-12T02:18:40.270Z","created_by":"rpr88","updated_at":"2025-04-17T16:57:16.416Z","updated_by":"llilasbenson"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "bold": true,
+          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_sarno_eduardo_04_04_01.jpg",
+              "size": "full",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Event Summary",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I:",
+                  "underline": true
+                },
+                {
+                  "text": " Discussions between Latin American foreign ministers and US Secretary of State Henry Kissinger, focus on key issues such as the role of US multinational corporations, Latin America's technological dependency on the US, and the restoration of Panama's sovereignty over the canal zone. Speculation regarding a potential shift in Cuba's attitude towards the US is also addressed, alongside calls for a change in US policy towards Cuba. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " The analysis provides insights into Argentina's political landscape, highlighting Juan Perón's influential career and the challenges he faces in maintaining power amid economic and social conflicts. Tensions between left-wing factions and the Perónist trade union hierarchy are explored, alongside the emergence of new left-wing organizations and recent urban guerrilla activity. Lastly, reports of massive Brazilian military maneuvers in the Amazonian region raise concerns among neighboring countries, particularly Venezuela, with allegations of Brazilian expansionist plans sparking calls for inquiries into Brazilian penetration of Venezuelan territory. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "textSize": "heading-three"
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:00:22-0:08:01",
+                      "bold": true
+                    },
+                    {
+                      "text": " Latin American ministers meet Kissinger, discussing U.S. corporations, Panama Canal, Cuba embargo, and technology."
+                    }
+                  ],
+                  "align": "justify"
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:08:01-0:10:12",
+                      "bold": true
+                    },
+                    {
+                      "text": " The U.S. appears to ease Cuba’s blockade, revealing corporate dependency on foreign profits."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:10:12-0:14:17",
+                      "bold": true
+                    },
+                    {
+                      "text": " Brazil's military maneuvers spark regional tensions, with allegations of expansionism and territorial infiltration."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:15:01-0:28:35",
+                      "bold": true
+                    },
+                    {
+                      "text": " Juan Perón's political return highlighted Argentina's social unrest, economic challenges, and ideological conflicts."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "55f1b1ad-6fe1-4368-b386-d4d8e1e4f436",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "1974-02-13",
+  "parent": "34d25186-1fe4-42f0-b013-60effa02b1e5",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "1974-02-13",
+  "created_at": "2025-04-12T02:18:40.270Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-05-05T04:59:42.708Z",
+  "updated_by": "rpr88"
+}
