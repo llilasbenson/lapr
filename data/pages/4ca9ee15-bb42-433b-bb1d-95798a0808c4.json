@@ -1,1 +1,181 @@
-{"content":[{"type":"paragraph","align":"justify","children":[{"bold":true,"underline":true,"text":""}]},{"type":"grid","layout":[3,3],"children":[{"type":"column","children":[{"type":"image","url":"https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_misc_ph_06_109_001.jpg","size":"full","children":[{"text":""}]},{"type":"paragraph","align":"justify","children":[{"bold":true,"underline":true,"text":"Event Summary"}]},{"type":"paragraph","children":[{"text":"Part I:  "}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part II:  "}],"align":"justify"}]},{"type":"column","children":[{"type":"paragraph","children":[{"text":"Segment Summaries","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":""}],"align":"justify"}]}]},{"type":"paragraph","children":[{"text":""}]}],"title":"1974-03-07","autogenerate":{"enabled":false,"type":"custom"},"slug":"1974-03-07","created_at":"2025-04-12T02:21:54.858Z","created_by":"rpr88","updated_at":"2025-04-17T16:54:17.002Z","updated_by":"llilasbenson","parent":"34d25186-1fe4-42f0-b013-60effa02b1e5"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "bold": true,
+          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_misc_ph_06_109_001.jpg",
+              "size": "full",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Event Summary",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I:",
+                  "underline": true
+                },
+                {
+                  "text": " The Latin American Press Review delved into several key events this week across Latin America. It covered the OAS meeting of foreign ministers in Mexico City, where Latin American nations asserted their independence from US influence. Additionally, it discussed a right-wing rebellion in Córdoba, Argentina, and the controversial appointment of John Hill as US Ambassador to Argentina, which drew criticism for his alleged CIA ties and involvement in past military coups. The report also highlighted press censorship in Uruguay, exemplified by the closure of the newspaper Marcha and the arrest of its editor. These stories were sourced from a variety of outlets, including Prensa Latina, La Opinión, and The New York Times. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " The Latin American Press Review provided comprehensive coverage of international reactions to the military Junta in Chile following its seizure of power in 1973. Countries like Mexico and Argentina expressed opposition through measures such as withdrawing ambassadors and protesting human rights abuses. Cuba froze Chilean assets in response to attempts to access funds deposited by the previous government. The Netherlands' Prime Minister criticized the Junta and offered support to Chilean resistance. Mrs. Hortensia Allende, widow of Salvador Allende, delivered a poignant address to the United Nations Human Rights Commission, condemning the Junta's violations of human rights. She highlighted various abuses, including summary executions, torture, and the suppression of liberties. Allende emphasized the dire situation in Chile under the military dictatorship, including the oppression faced by women, arbitrary arrests, censorship, and erosion of workers' rights. Her speech underscored the global attention drawn to the plight of Chileans suffering under the Junta's rule. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "textSize": "heading-three"
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:00:20-0:03:36",
+                      "bold": true
+                    },
+                    {
+                      "text": " Latin American nations debated U.S. policies at a chaotic OAS meeting, yielding minimal outcomes."
+                    }
+                  ],
+                  "align": "justify"
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:03:36-0:07:03",
+                      "bold": true
+                    },
+                    {
+                      "text": " Police rebellion in Córdoba, Argentina, sparks chaos, arrests, clashes, and accusations of right-wing coup."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:07:03-0:11:47",
+                      "bold": true
+                    },
+                    {
+                      "text": " John Hill's appointment as U.S. Ambassador to Argentina sparks controversy due to his CIA ties."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:11:47-0:13:30",
+                      "bold": true
+                    },
+                    {
+                      "text": " Uruguay's regime shuts down Marcha newspaper, arrests editor Carlos Quijano and writer Juan Carlos Onetti."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:14:13-0:27:40",
+                      "bold": true
+                    },
+                    {
+                      "text": " Hortensia Allende’s UN speech denounces Chile’s Junta for widespread human rights violations."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "1974-03-07",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "1974-03-07",
+  "created_at": "2025-04-12T02:21:54.858Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-05-05T05:39:06.613Z",
+  "updated_by": "rpr88",
+  "parent": "34d25186-1fe4-42f0-b013-60effa02b1e5"
+}
