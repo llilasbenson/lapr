@@ -1,1 +1,200 @@
-{"content":[{"type":"paragraph","children":[{"text":""}]}],"title":"LAPR1974_02_28","parent":"34d25186-1fe4-42f0-b013-60effa02b1e5","autogenerate":{"enabled":false,"type":"custom"},"slug":"lapr19740228","created_at":"2025-04-12T02:21:30.441Z","created_by":"rpr88","updated_at":"2025-04-12T02:21:30.441Z","updated_by":"rpr88"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Event Summary",
+                  "bold": true,
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I: ",
+                  "underline": true
+                },
+                {
+                  "text": "The Latin American Press Review covers Peru's compensation to U.S. companies, Nixon's attempts to resolve investment disputes, controversy over Joseph Jova's appointment as U.S. ambassador to Mexico, and Chile's military junta's suspension of political activities. Additionally, the International League of Women for Peace and Liberty reports on secret military tribunals in Chile sentencing former officials to death. There's a surge in U.S. arms sales to Latin America and controversy surrounding American police training programs abroad. In Argentina, collaboration between right-wing terrorist groups and the government leads to internal conflicts within the Peronist movement, driving moderates towards radical factions. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " Christopher Roper discusses U.S. foreign policy towards Latin America, highlighting his newsletter's independence and reliance on Latin American sources. Roper critiques U.S. media for their government-centric perspectives and limited interactions in the region. He suggests a shift in Latin American views towards the U.S., with desires for improved relations with Cuba and potential policy changes. Roper notes Kissinger's efforts to redirect focus from divisive issues and Nixon's ties hindering policy shifts towards Cuba. He expresses skepticism about resolving disputes over expropriation in Peru due to intertwined interests and Peru's reluctance influenced by events in Chile. The discussion underscores historical challenges in U.S.-Latin American relations, with potential complexities persisting."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:00:20-0:03:22",
+                      "bold": true
+                    },
+                    {
+                      "text": " Peru's military government compensates U.S. companies $76 million for expropriated assets"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:03:22-0:05:26",
+                      "bold": true
+                    },
+                    {
+                      "text": " Henry Kissinger's meeting in Mexico City with Latin American foreign ministers sparked protests over Joseph Jova's controversial appointment as U.S. ambassador."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:05:27-0:08:09",
+                      "bold": true
+                    },
+                    {
+                      "text": " Chile's military junta led by Pinochet suspends political activities, plans extended rule, and intensifies security against Marxism."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:08:11-0:11:06",
+                      "bold": true
+                    },
+                    {
+                      "text": " Increased U.S. arms sales to Latin America followed by controversial police training programs scrutiny."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:11:06-0:14:09",
+                      "bold": true
+                    },
+                    {
+                      "text": " Reports from Argentina highlight the conflict between left-wing revolutionary groups and a government aligned with right-wing forces."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:14:52-0:27:45",
+                      "bold": true
+                    },
+                    {
+                      "text": " Christopher Roper discusses U.S. foreign policy towards Latin America from a Latin American perspective."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "b2725c8f-a153-4642-b26a-7290bc537c7d",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "LAPR1974_02_28",
+  "parent": "34d25186-1fe4-42f0-b013-60effa02b1e5",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "lapr19740228",
+  "created_at": "2025-04-12T02:21:30.441Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-05-05T05:24:10.908Z",
+  "updated_by": "rpr88"
+}
