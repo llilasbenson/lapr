@@ -25,12 +25,158 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "text": "Table of contents",
+                  "link": "",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "link": "https://llilasbenson.github.io/lapr/pages/about/",
+                  "text": "About"
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "text": "Key Programs in the Collection",
+                  "link": "https://llilasbenson.github.io/lapr/pages/key-programs-in-the-collection/"
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "text": "How to Use Tags",
+                  "link": "https://llilasbenson.github.io/lapr/pages/how-to-use-tags/"
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "text": "Annotated Programs",
+                  "link": "https://llilasbenson.github.io/lapr/pages/annotated-programs/"
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "text": "Radio Programs List"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "As part of the Latin American Programs of the Longhorn Radio Network, the Latin American Press Review radio program covered all of Latin America and the Caribbean, airing from 1973 to 1974. Divided into two segments, each program began with a news segment that highlighted a variety of reports from across Latin America, while the second half consisted of interviews or discussions with a variety of groups and/or individuals. A diverse number of topics were covered including human rights abuses, economic conditions, music, popular culture, and the history and politics of the region."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Originally processed in 2010, digital reformatting of analog reel-to-reel audiotapes is ongoing. The annotations cover the programs released between 1973 to 1974."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Citation: "
+                },
+                {
+                  "type": "link",
+                  "url": "https://txarchives.org/utlac/finding_aids/00317.xml",
+                  "children": [
+                    {
+                      "text": "Latin American Programs of the Longhorn Radio Network, Nettie Lee Benson Latin American Collection, University of Texas Libraries, The University of Texas at Austin."
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n\n\n\n\n"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "created_at": "2025-02-10T21:14:32.928Z",
   "created_by": "llilasbenson",
   "title": "Latin American Press Review Radio Collection",
-  "updated_at": "2025-05-04T22:32:22.240Z",
+  "updated_at": "2025-05-05T04:09:15.460Z",
   "updated_by": "rpr88",
   "autogenerate": {
     "enabled": false,
