@@ -4,6 +4,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "The Latin American Press Review Collection’s radio programs offer a wide range of rich and expansive information on events that occurred in Latin America during the 1970’s. When approaching how to best display the richness of the information in these programs, annotations were created to display the major subjects and topics included throughout. In the programs included throughout the webpage, annotations were created of the "
         },
         {
@@ -26,8 +34,9 @@
       "type": "paragraph",
       "children": [
         {
+          "bold": true,
           "text": "Countries",
-          "bold": true
+          "textSize": "heading-four"
         }
       ]
     },
@@ -44,7 +53,8 @@
       "children": [
         {
           "bold": true,
-          "text": "Communities"
+          "text": "Communities",
+          "textSize": "heading-four"
         }
       ]
     },
@@ -110,96 +120,6 @@
           "text": ""
         }
       ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "code": true,
-          "text": "<html>"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "code": true,
-          "text": "<body>"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "code": true,
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "code": true,
-          "text": "<h1>LAPR Digital Map</h1>"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "code": true,
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "code": true,
-          "text": "<iframe src=\"https://www.arcgis.com/apps/mapviewer/index.html?webmap=d99f22ff6e9d46d5b5945d9931dd398b\" title=\"LAPR Digital Map\">"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "code": true,
-          "text": "</iframe>"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "code": true,
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "code": true,
-          "text": "</body>"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "code": true,
-          "text": "</html>"
-        }
-      ]
     }
   ],
   "title": "Annotated Programs",
@@ -210,6 +130,6 @@
   "slug": "annotated-programs",
   "created_at": "2025-03-12T02:25:41.951Z",
   "created_by": "rpr88",
-  "updated_at": "2025-04-26T00:56:09.352Z",
+  "updated_at": "2025-05-05T04:27:51.623Z",
   "updated_by": "rpr88"
 }
