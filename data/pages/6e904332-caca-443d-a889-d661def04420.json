@@ -30,6 +30,15 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "grid",
       "layout": [
         3,
@@ -55,28 +64,6 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "Right Wing Terrorism in Central America",
-                      "italic": true,
-                      "link": "https://llilasbenson.github.io/lapr/pages/lapr19730524/",
-                      "color": "#165eac"
-                    }
-                  ]
-                },
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "The Plight of the Mapuche Indians in Southern Chile",
-                      "italic": true,
-                      "link": "https://llilasbenson.github.io/lapr/pages/lapr19731004/",
-                      "color": "#165eac"
-                    }
-                  ]
-                },
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
                       "text": "Popular Armies in Argentina",
                       "italic": true,
                       "link": "https://llilasbenson.github.io/lapr/pages/lapr19731206/"
@@ -90,16 +77,6 @@
                       "text": "Interview with Bob Hudner",
                       "italic": true,
                       "link": "https://llilasbenson.github.io/lapr/pages/lapr19730509/"
-                    }
-                  ]
-                },
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "Interview with a Brazilian Exile",
-                      "italic": true,
-                      "link": "https://llilasbenson.github.io/lapr/pages/lapr19730621/"
                     }
                   ]
                 }
@@ -117,26 +94,6 @@
             {
               "type": "bulleted-list",
               "children": [
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "Art and Literature in Latin America",
-                      "italic": true,
-                      "link": "https://llilasbenson.github.io/lapr/pages/lapr19730712/"
-                    }
-                  ]
-                },
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "Culture in Cuba",
-                      "italic": true,
-                      "link": "https://llilasbenson.github.io/lapr/pages/lapr19730726/"
-                    }
-                  ]
-                },
                 {
                   "type": "list-item",
                   "children": [
@@ -225,36 +182,6 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "The Mexican Economy",
-                      "italic": true,
-                      "link": "https://llilasbenson.github.io/lapr/pages/lapr19730816/"
-                    }
-                  ]
-                },
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "The World Food Situation",
-                      "italic": true,
-                      "link": "https://llilasbenson.github.io/lapr/pages/lapr19730906/"
-                    }
-                  ]
-                },
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "Four Views of Multinationals",
-                      "italic": true,
-                      "link": "https://llilasbenson.github.io/lapr/pages/lapr19731115/"
-                    }
-                  ]
-                },
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
                       "text": "Oil in Venezuela",
                       "italic": true,
                       "link": "https://llilasbenson.github.io/lapr/pages/lapr19731120/"
@@ -275,16 +202,6 @@
             {
               "type": "bulleted-list",
               "children": [
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "The Politics of Ecology",
-                      "italic": true,
-                      "link": "https://llilasbenson.github.io/lapr/pages/lapr19730419/"
-                    }
-                  ]
-                },
                 {
                   "type": "list-item",
                   "children": [
@@ -328,16 +245,6 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "Illegal Aliens in the U.S. with Dr. Jorge Bustamante",
-                      "italic": true,
-                      "link": "https://llilasbenson.github.io/lapr/pages/lapr19730601/"
-                    }
-                  ]
-                },
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
                       "text": "Latin-American Aliens in the U.S.",
                       "italic": true,
                       "link": "https://llilasbenson.github.io/lapr/pages/lapr19730628/"
@@ -368,26 +275,6 @@
             {
               "type": "bulleted-list",
               "children": [
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "Six month news wrap-up: Chile and Uruguay & Six month news wrap-up: Brazil and Argentina",
-                      "italic": true,
-                      "link": "https://llilasbenson.github.io/lapr/pages/lapr19730830/"
-                    }
-                  ]
-                },
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "News wrap-ups: Bolivia and Argentina  ",
-                      "italic": true,
-                      "link": "https://llilasbenson.github.io/lapr/pages/lapr19731213/"
-                    }
-                  ]
-                },
                 {
                   "type": "list-item",
                   "children": [
@@ -567,6 +454,6 @@
   "slug": "key-programs-in-the-collection",
   "created_at": "2025-03-12T02:19:38.157Z",
   "created_by": "rpr88",
-  "updated_at": "2025-04-17T17:20:51.235Z",
-  "updated_by": "llilasbenson"
+  "updated_at": "2025-05-06T06:20:26.532Z",
+  "updated_by": "rpr88"
 }
