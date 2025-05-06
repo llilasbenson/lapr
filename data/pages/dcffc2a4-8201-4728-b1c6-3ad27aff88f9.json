@@ -1,1 +1,205 @@
-{"content":[{"type":"paragraph","children":[{"text":""}]},{"type":"grid","layout":[3,3],"children":[{"type":"column","children":[{"type":"paragraph","children":[{"text":"Event Summary","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part I:","underline":true},{"text":" In Venezuela, there are debates over oil production cutbacks to preserve reserves, with key figures like Dr. Juan Pablo Perez Alfonzo advocating for reductions due to insufficient reserves. In El Salvador, the People's Revolutionary Army (ERP) stages an attack, aiming to arm the people for a socialist revolution, reflecting ongoing political unrest. Regarding the Panama Canal Treaty negotiations, Ellsworth Bunker's visit brings optimism, although tensions persist over US control. Panama seeks a new treaty for sovereignty over the Canal Zone and a defined end date by 1994, while also considering US military bases for canal defense. Mexico proposes expanding the Rio Treaty's definition of attack to include economic aggression, highlighting regional tensions. Meanwhile, the US plans to address energy development at the Inter-American Conference, while European analysts warn of potential economic catastrophe in Latin America due to oil scarcity. Additionally, the Guyana Weekly New Nation reports on CARICOM's resolution opposing the significant reduction of the region's sugar quota by the US, emphasizing the need for solidarity among Third World nations against external pressures. "}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part II:","underline":true},{"text":" The Latin American Press Review interviews Dr. Richard Schaedel, a UT Austin anthropology professor, about his recent trip to Chile. He discusses the impact of the military takeover on Chile's social science community, noting department abolishments and human rights violations. Dr. Schaedel estimates the death toll at 3,000 to 5,000 and highlights challenges in verifying figures. He emphasizes the importance of documenting atrocities and plans to share his findings with the Kennedy Committee. Dr. Schaedel also talks about the junta's political and economic direction, mentioning a move towards a corporatist model akin to Spain's. The junta suppresses Marxist literature and revises the educational curriculum. Efforts in the US and Europe aim to assist displaced academics, though many are expected to seek opportunities abroad. This interview sheds light on the challenges facing Chile's social sciences post-coup."}],"align":"justify"}]},{"type":"column","children":[{"type":"paragraph","children":[{"text":"Segment Summaries","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:00:21-0:04:19","bold":true},{"text":" Venezuela may reduce oil production to preserve reserves, impacting U.S. oil supply concerns."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:04:19-0:06:02","bold":true},{"text":" A guerrilla group in El Salvador attacked an armory, killing three and stealing weapons."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:06:02-0:11:36","bold":true},{"text":" The Panama Canal dispute centers on treaty revisions, US sovereignty, military bases, and financial disagreements."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:11:36-0:13:30","bold":true},{"text":" Mexico proposed expanding the Rio Treaty to include economic aggression, while rejecting U.S. sovereignty motions."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:13:30-0:14:23","bold":true},{"text":" CARICOM opposes US sugar quota cuts, citing retaliation for Caribbean countries' independent policies."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:15:07-0:28:32","bold":true},{"text":" Dr. Richard Schaedel discusses his recent fact-finding trip to Chile, focusing on academic persecution."}],"align":"justify"},{"type":"paragraph","children":[{"text":""}]}]}]},{"type":"paragraph","children":[{"text":""}]},{"type":"event","uuid":"36a89994-a234-4d5c-8600-ea687f741b62","includes":["media","annotations"],"children":[{"text":""}]},{"type":"paragraph","children":[{"text":""}]}],"title":"LAPR1973_12_10","parent":"34d25186-1fe4-42f0-b013-60effa02b1e5","autogenerate":{"enabled":false,"type":"custom"},"slug":"lapr19731210","created_at":"2025-03-28T23:13:37.137Z","created_by":"rpr88","updated_at":"2025-04-12T02:00:58.290Z","updated_by":"rpr88"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Event Summary",
+                  "bold": true,
+                  "underline": true
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I:",
+                  "underline": true
+                },
+                {
+                  "text": " In Venezuela, there are debates over oil production cutbacks to preserve reserves, with key figures like Dr. Juan Pablo Perez Alfonzo advocating for reductions due to insufficient reserves. In El Salvador, the People's Revolutionary Army (ERP) stages an attack, aiming to arm the people for a socialist revolution, reflecting ongoing political unrest. Regarding the Panama Canal Treaty negotiations, Ellsworth Bunker's visit brings optimism, although tensions persist over US control. Panama seeks a new treaty for sovereignty over the Canal Zone and a defined end date by 1994, while also considering US military bases for canal defense. Mexico proposes expanding the Rio Treaty's definition of attack to include economic aggression, highlighting regional tensions. Meanwhile, the US plans to address energy development at the Inter-American Conference, while European analysts warn of potential economic catastrophe in Latin America due to oil scarcity. Additionally, the Guyana Weekly New Nation reports on CARICOM's resolution opposing the significant reduction of the region's sugar quota by the US, emphasizing the need for solidarity among Third World nations against external pressures. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " The Latin American Press Review interviews Dr. Richard Schaedel, a UT Austin anthropology professor, about his recent trip to Chile. He discusses the impact of the military takeover on Chile's social science community, noting department abolishments and human rights violations. Dr. Schaedel estimates the death toll at 3,000 to 5,000 and highlights challenges in verifying figures. He emphasizes the importance of documenting atrocities and plans to share his findings with the Kennedy Committee. Dr. Schaedel also talks about the junta's political and economic direction, mentioning a move towards a corporatist model akin to Spain's. The junta suppresses Marxist literature and revises the educational curriculum. Efforts in the US and Europe aim to assist displaced academics, though many are expected to seek opportunities abroad. This interview sheds light on the challenges facing Chile's social sciences post-coup."
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "underline": true
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:00:21-0:04:19",
+                  "bold": true
+                },
+                {
+                  "text": " Venezuela may reduce oil production to preserve reserves, impacting U.S. oil supply concerns."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:04:19-0:06:02",
+                  "bold": true
+                },
+                {
+                  "text": " A guerrilla group in El Salvador attacked an armory, killing three and stealing weapons."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:06:02-0:11:36",
+                  "bold": true
+                },
+                {
+                  "text": " The Panama Canal dispute centers on treaty revisions, US sovereignty, military bases, and financial disagreements."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:11:36-0:13:30",
+                  "bold": true
+                },
+                {
+                  "text": " Mexico proposed expanding the Rio Treaty to include economic aggression, while rejecting U.S. sovereignty motions."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:13:30-0:14:23",
+                  "bold": true
+                },
+                {
+                  "text": " CARICOM opposes US sugar quota cuts, citing retaliation for Caribbean countries' independent policies."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:15:07-0:28:32",
+                  "bold": true
+                },
+                {
+                  "text": " Dr. Richard Schaedel discusses his recent fact-finding trip to Chile, focusing on academic persecution."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "36a89994-a234-4d5c-8600-ea687f741b62",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "1973_12_10",
+  "parent": "34d25186-1fe4-42f0-b013-60effa02b1e5",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "19731210",
+  "created_at": "2025-03-28T23:13:37.137Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-05-06T05:42:00.805Z",
+  "updated_by": "rpr88"
+}
