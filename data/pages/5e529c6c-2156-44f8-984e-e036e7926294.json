@@ -1,1 +1,249 @@
-{"content":[{"type":"paragraph","children":[{"text":""}]},{"type":"grid","layout":[3,3],"children":[{"type":"column","children":[{"type":"paragraph","children":[{"text":"Event Summary","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part I:","underline":true},{"text":" In Puerto Rico, a university strike resulted in notable concessions for faculty, students, and workers, granting them a voice in university governance. In Honduras, 20,000 teachers protested against a new law limiting press freedom. Uruguay grapples with political unrest as the government suppresses opposition parties and unions, including the occupation of the university and outlawing leftist groups. In Argentina, Ford Motor Company evacuated its American executives amid threats from guerrilla factions following the assassination of one of its executives, raising security concerns for both local and foreign businesses. "}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part II:","underline":true},{"text":" In Argentina, political unrest persists despite Perón's return, with guerrilla warfare escalating after General Onganía's authoritarian rule. The closure of sugar mills sparked protests, leading to the emergence of the People's Revolutionary Army (ERP). Despite government promises, guerrilla activity surged, challenging the military regime. The ERP, a prominent guerrilla group, funded itself through bank robberies, redistributing wealth to the lower class. Their actions aimed to improve conditions for workers by targeting corporate and government entities. This analysis was provided by Dr. James Petras, a respected scholar specializing in Latin American affairs."}],"align":"justify"}]},{"type":"column","children":[{"type":"paragraph","children":[{"text":"Segment Summaries","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:00:22-0:03:20","bold":true},{"text":" Latin America is divided on the effects of Arab oil production cuts, with some nations self-sufficient, while others face potential energy shortages."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:03:20-0:04:12","bold":true},{"text":" International tensions arose when Chilean military assaulted Swedish and French ambassadors during an arrest."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:04:12-0:04:37","bold":true},{"text":" A French group protested missing Chilean doctors, and the U.S. replaced a Black military attaché."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:04:37-0:05:04","bold":true},{"text":" Daniel Vergara, former Unidad Popular minister, died of gangrene in a Chilean prison camp."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:05:04-0:05:36","bold":true},{"text":" Chile agrees to pay $300 million to Kennecott Copper and discusses Pepsi Cola's bottling plans."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:05:36-0:07:40","bold":true},{"text":" The 25-day strike at the University of Puerto Rico won students and workers significant policy participation rights."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:07:40-0:08:34","bold":true},{"text":" In Honduras, 20,000 teachers support protests against the controversial gag law restricting news distribution."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:08:34-0:12:32","bold":true},{"text":" Uruguay's military government has suppressed opposition, outlawed political parties, and restricted media freedoms."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:12:32-0:14:00","bold":true},{"text":" Ford evacuated its American executives in Argentina after death threats from guerrillas, heightening security concerns."}],"align":"justify"},{"type":"paragraph","children":[{"text":"0:14:45-0:27:43","bold":true},{"text":" Argentina faces escalating class struggle and guerrilla warfare following Perón's return and military repression."}],"align":"justify"}]}]},{"type":"paragraph","children":[{"text":""}]},{"type":"event","uuid":"d1f268ec-de7f-4912-b56e-d0a92ff95298","includes":["media","annotations"],"children":[{"text":""}]},{"type":"paragraph","children":[{"text":""}]}],"title":"LAPR1973_12_06","parent":"34d25186-1fe4-42f0-b013-60effa02b1e5","autogenerate":{"enabled":false,"type":"custom"},"slug":"lapr19731206","created_at":"2025-03-28T23:01:36.348Z","created_by":"rpr88","updated_at":"2025-04-12T02:00:29.148Z","updated_by":"rpr88"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Event Summary",
+                  "bold": true,
+                  "underline": true
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I:",
+                  "underline": true
+                },
+                {
+                  "text": " In Puerto Rico, a university strike resulted in notable concessions for faculty, students, and workers, granting them a voice in university governance. In Honduras, 20,000 teachers protested against a new law limiting press freedom. Uruguay grapples with political unrest as the government suppresses opposition parties and unions, including the occupation of the university and outlawing leftist groups. In Argentina, Ford Motor Company evacuated its American executives amid threats from guerrilla factions following the assassination of one of its executives, raising security concerns for both local and foreign businesses. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " In Argentina, political unrest persists despite Perón's return, with guerrilla warfare escalating after General Onganía's authoritarian rule. The closure of sugar mills sparked protests, leading to the emergence of the People's Revolutionary Army (ERP). Despite government promises, guerrilla activity surged, challenging the military regime. The ERP, a prominent guerrilla group, funded itself through bank robberies, redistributing wealth to the lower class. Their actions aimed to improve conditions for workers by targeting corporate and government entities. This analysis was provided by Dr. James Petras, a respected scholar specializing in Latin American affairs."
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "underline": true
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:00:22-0:03:20",
+                  "bold": true
+                },
+                {
+                  "text": " Latin America is divided on the effects of Arab oil production cuts, with some nations self-sufficient, while others face potential energy shortages."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:03:20-0:04:12",
+                  "bold": true
+                },
+                {
+                  "text": " International tensions arose when Chilean military assaulted Swedish and French ambassadors during an arrest."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:04:12-0:04:37",
+                  "bold": true
+                },
+                {
+                  "text": " A French group protested missing Chilean doctors, and the U.S. replaced a Black military attaché."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:04:37-0:05:04",
+                  "bold": true
+                },
+                {
+                  "text": " Daniel Vergara, former Unidad Popular minister, died of gangrene in a Chilean prison camp."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:05:04-0:05:36",
+                  "bold": true
+                },
+                {
+                  "text": " Chile agrees to pay $300 million to Kennecott Copper and discusses Pepsi Cola's bottling plans."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:05:36-0:07:40",
+                  "bold": true
+                },
+                {
+                  "text": " The 25-day strike at the University of Puerto Rico won students and workers significant policy participation rights."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:07:40-0:08:34",
+                  "bold": true
+                },
+                {
+                  "text": " In Honduras, 20,000 teachers support protests against the controversial gag law restricting news distribution."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:08:34-0:12:32",
+                  "bold": true
+                },
+                {
+                  "text": " Uruguay's military government has suppressed opposition, outlawed political parties, and restricted media freedoms."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:12:32-0:14:00",
+                  "bold": true
+                },
+                {
+                  "text": " Ford evacuated its American executives in Argentina after death threats from guerrillas, heightening security concerns."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:14:45-0:27:43",
+                  "bold": true
+                },
+                {
+                  "text": " Argentina faces escalating class struggle and guerrilla warfare following Perón's return and military repression."
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "d1f268ec-de7f-4912-b56e-d0a92ff95298",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "1973_12_06",
+  "parent": "34d25186-1fe4-42f0-b013-60effa02b1e5",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "19731206",
+  "created_at": "2025-03-28T23:01:36.348Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-05-06T05:41:41.959Z",
+  "updated_by": "rpr88"
+}
