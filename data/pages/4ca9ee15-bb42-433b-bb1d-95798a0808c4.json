@@ -165,6 +165,27 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "event",
+      "uuid": "5a4b52ac-7d7b-4b90-8e1d-5dc4782be0dc",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "1974-03-07",
@@ -175,7 +196,7 @@
   "slug": "1974-03-07",
   "created_at": "2025-04-12T02:21:54.858Z",
   "created_by": "rpr88",
-  "updated_at": "2025-05-05T05:39:06.613Z",
+  "updated_at": "2025-05-06T05:49:33.731Z",
   "updated_by": "rpr88",
   "parent": "34d25186-1fe4-42f0-b013-60effa02b1e5"
 }
