@@ -1,1 +1,174 @@
-{"content":[{"type":"paragraph","children":[{"text":""}]}],"title":"LAPR1974_03_14","parent":"34d25186-1fe4-42f0-b013-60effa02b1e5","autogenerate":{"enabled":false,"type":"custom"},"slug":"lapr19740314","created_at":"2025-04-12T02:23:00.131Z","created_by":"rpr88","updated_at":"2025-04-12T02:23:00.131Z","updated_by":"rpr88"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Event Summary",
+                  "underline": true,
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I:",
+                  "underline": true
+                },
+                {
+                  "text": " A comprehensive examination of Brazil's growing influence across Latin America. It highlights Brazil's diplomatic, economic, and political engagement in countries like Chile, Bolivia, and Uruguay, where Brazilian investments and partnerships have surged, often coinciding with right-wing coups or military-backed regimes. In Argentina, the tacit support of President Juan Perón has fueled a right-wing police coup in Córdoba, leading to federal intervention and resistance from leftist groups. Reports from the New York Times and Mexican daily Excelsior suggest that the events in Córdoba could signal a broader crackdown on left-wing Peronist governments across multiple provinces. In Guatemala, the recent presidential election saw all candidates being high-ranking army officers, raising concerns about military influence and electoral legitimacy. Despite a decline in violence, opposition groups dispute the election results and face censorship for dissenting views, underscoring ongoing political tensions in the region. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " A discussion on Brazilian economic expansion in relation to US-Latin American dynamics. Brazil, leveraging its ties with the US, invests in neighboring countries' raw material production and influences right-wing coups, leading to concerns and regional shifts. Opposition to Bolivia's integration into Brazil emphasizes maintaining Bolivia's independence, while Brazilian expansionism affects democratic institutions in countries like Uruguay and Chile. Brazil's focus on Africa for resources and investment reflects its aim to represent the Third World. Growing economic ties with Nigeria signal a shift in global trade, with plans to expand influence beyond South America by increasing trade with Black African countries."
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "underline": true,
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:00:20-0:04:03",
+                      "bold": true
+                    },
+                    {
+                      "text": " Four Latin American leaders from military regimes attend Brazil's presidential inauguration, showcasing Brazil's growing influence."
+                    }
+                  ],
+                  "align": "justify"
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:04:03-0:11:57",
+                      "bold": true
+                    },
+                    {
+                      "text": " Right-wing police staged a coup in Córdoba, supported by President Perón, targeting left-wing Peronists."
+                    }
+                  ],
+                  "align": "justify"
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:11:57-0:14:23",
+                      "bold": true
+                    },
+                    {
+                      "text": " Guatemala's presidential election saw army officers running, with violence and fraud influencing results."
+                    }
+                  ],
+                  "align": "justify"
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:15:09-0:29:15",
+                      "bold": true
+                    },
+                    {
+                      "text": " Brazil's economic expansion in Latin America and Africa, fueled by political influence and investments."
+                    }
+                  ],
+                  "align": "justify"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "c1a177b6-9e7f-4a61-8673-abd5b1a7be51",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "1974_03_14",
+  "parent": "34d25186-1fe4-42f0-b013-60effa02b1e5",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "19740314",
+  "created_at": "2025-04-12T02:23:00.131Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-05-06T05:30:56.328Z",
+  "updated_by": "rpr88"
+}
