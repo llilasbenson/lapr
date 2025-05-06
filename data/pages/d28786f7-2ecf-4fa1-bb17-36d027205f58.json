@@ -1,1 +1,198 @@
-{"content":[{"type":"paragraph","children":[{"text":""}]},{"type":"grid","layout":[3,3],"children":[{"type":"column","children":[{"type":"paragraph","children":[{"text":"Event Summary","bold":true,"textSize":"heading-four"}]},{"type":"paragraph","children":[{"text":"Part I:","underline":true},{"text":" US-Panama negotiations over the Panama Canal, with General Omar Torrijos emphasizing Panama's desire for sovereignty. President Nixon's proposal to Congress includes concessions, but Panama seeks elimination of US bases. Peru's expropriation of Cerro de Pasco Corporation's assets indicates a move towards economic nationalization, despite earlier apprehensions. Critics question US ambassador appointments due to CIA ties. Brazil's interest in Black Africa is driven by economic needs, but its ties with Portugal and South Africa complicate relations. "}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part II:","underline":true},{"text":" A critical analysis of Brazil's economic model, highlighting social and political consequences. The military elite's pursuit of growth prioritizes foreign interests, exacerbating inequality and repression of the poor. The program underscores the need for inclusive economic policies and concludes by inviting feedback, emphasizing its role in providing Latin American news analysis."}],"align":"justify"}]},{"type":"column","children":[{"type":"paragraph","children":[{"text":"Segment Summaries","bold":true,"textSize":"heading-four"}]},{"type":"bulleted-list","children":[{"type":"list-item","children":[{"text":"0:00:22-0:03:32","bold":true},{"text":" The U.S. and Panama agreed on a partial canal treaty, but sovereignty remains contested."}]},{"type":"list-item","children":[{"text":"0:03:32-0:07:52","bold":true},{"text":" Peru expropriated Cerro de Pasco to nationalize mining, despite risks, outdated facilities, and US relations."}]},{"type":"list-item","children":[{"text":"0:07:52-0:11:50","bold":true},{"text":" Latin American officials criticize Nixon's ambassador choices for CIA ties and imperialist involvement in coups."}]},{"type":"list-item","children":[{"text":"0:11:50-0:13:39","bold":true},{"text":" Brazil's growing interest in Black Africa aims to secure new markets and reliable raw materials."}]},{"type":"list-item","children":[{"text":"0:14:23-0:27:48 ","bold":true},{"text":"The Brazilian economic model prioritizes rapid industrial growth but worsens poverty, inequality, and repression."}]}]},{"type":"paragraph","children":[{"text":""}]}]}]},{"type":"paragraph","children":[{"text":""}]},{"type":"paragraph","children":[{"text":""}]},{"type":"event","uuid":"558fac59-e192-4987-95b0-e9b330da9537","includes":["media","annotations"],"children":[{"text":""}]},{"type":"paragraph","children":[{"text":""}]}],"title":"LAPR1974_01_17","parent":"34d25186-1fe4-42f0-b013-60effa02b1e5","autogenerate":{"enabled":false,"type":"custom"},"slug":"lapr19740117","created_at":"2025-04-12T02:14:41.031Z","created_by":"rpr88","updated_at":"2025-05-04T22:19:00.574Z","updated_by":"rpr88"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Event Summary",
+                  "bold": true,
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I:",
+                  "underline": true
+                },
+                {
+                  "text": " US-Panama negotiations over the Panama Canal, with General Omar Torrijos emphasizing Panama's desire for sovereignty. President Nixon's proposal to Congress includes concessions, but Panama seeks elimination of US bases. Peru's expropriation of Cerro de Pasco Corporation's assets indicates a move towards economic nationalization, despite earlier apprehensions. Critics question US ambassador appointments due to CIA ties. Brazil's interest in Black Africa is driven by economic needs, but its ties with Portugal and South Africa complicate relations. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " A critical analysis of Brazil's economic model, highlighting social and political consequences. The military elite's pursuit of growth prioritizes foreign interests, exacerbating inequality and repression of the poor. The program underscores the need for inclusive economic policies and concludes by inviting feedback, emphasizing its role in providing Latin American news analysis."
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:00:22-0:03:32",
+                      "bold": true
+                    },
+                    {
+                      "text": " The U.S. and Panama agreed on a partial canal treaty, but sovereignty remains contested."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:03:32-0:07:52",
+                      "bold": true
+                    },
+                    {
+                      "text": " Peru expropriated Cerro de Pasco to nationalize mining, despite risks, outdated facilities, and US relations."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:07:52-0:11:50",
+                      "bold": true
+                    },
+                    {
+                      "text": " Latin American officials criticize Nixon's ambassador choices for CIA ties and imperialist involvement in coups."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:11:50-0:13:39",
+                      "bold": true
+                    },
+                    {
+                      "text": " Brazil's growing interest in Black Africa aims to secure new markets and reliable raw materials."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:14:23-0:27:48 ",
+                      "bold": true
+                    },
+                    {
+                      "text": "The Brazilian economic model prioritizes rapid industrial growth but worsens poverty, inequality, and repression."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "558fac59-e192-4987-95b0-e9b330da9537",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "1974_01_17",
+  "parent": "34d25186-1fe4-42f0-b013-60effa02b1e5",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "19740117",
+  "created_at": "2025-04-12T02:14:41.031Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-05-06T05:43:31.796Z",
+  "updated_by": "rpr88"
+}
