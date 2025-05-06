@@ -47,32 +47,52 @@
               ]
             },
             {
-              "type": "paragraph",
+              "type": "bulleted-list",
               "children": [
                 {
-                  "link": "https://llilasbenson.github.io/lapr/pages/about/",
-                  "text": "About",
-                  "textSize": "heading-four"
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "link": "https://llilasbenson.github.io/lapr/pages/about/",
+                      "text": "About"
+                    }
+                  ]
                 },
                 {
-                  "text": "Key Programs in the Collection",
-                  "link": "https://llilasbenson.github.io/lapr/pages/key-programs-in-the-collection/",
-                  "textSize": "heading-four"
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Key Programs in the Collection",
+                      "link": "https://llilasbenson.github.io/lapr/pages/key-programs-in-the-collection/"
+                    }
+                  ]
                 },
                 {
-                  "text": "How to Use Tags",
-                  "link": "https://llilasbenson.github.io/lapr/pages/how-to-use-tags/",
-                  "textSize": "heading-four"
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "How to Use Tags",
+                      "link": "https://llilasbenson.github.io/lapr/pages/how-to-use-tags/"
+                    }
+                  ]
                 },
                 {
-                  "text": "Annotated Programs",
-                  "link": "https://llilasbenson.github.io/lapr/pages/annotated-programs/",
-                  "textSize": "heading-four"
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Annotated Programs",
+                      "link": "https://llilasbenson.github.io/lapr/pages/annotated-programs/"
+                    }
+                  ]
                 },
                 {
-                  "text": "Radio Programs List",
-                  "link": "https://llilasbenson.github.io/lapr/pages/radio-programs-list/",
-                  "textSize": "heading-four"
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Radio Programs List",
+                      "link": "https://llilasbenson.github.io/lapr/pages/radio-programs-list/"
+                    }
+                  ]
                 }
               ]
             }
@@ -162,7 +182,7 @@
   "created_at": "2025-02-10T21:14:32.928Z",
   "created_by": "llilasbenson",
   "title": "Latin American Press Review Radio Collection",
-  "updated_at": "2025-05-06T04:15:56.633Z",
+  "updated_at": "2025-05-06T05:50:39.808Z",
   "updated_by": "rpr88",
   "autogenerate": {
     "enabled": false,
