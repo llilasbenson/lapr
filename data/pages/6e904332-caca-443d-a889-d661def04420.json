@@ -65,8 +65,8 @@
                   "children": [
                     {
                       "text": "Popular Armies in Argentina",
-                      "italic": true,
-                      "link": ""
+                      "link": "",
+                      "italic": true
                     }
                   ]
                 },
@@ -75,8 +75,8 @@
                   "children": [
                     {
                       "text": "Interview with Bob Hudner",
-                      "italic": true,
-                      "link": ""
+                      "link": "",
+                      "italic": true
                     }
                   ]
                 },
@@ -84,23 +84,29 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "",
-                      "link": ""
-                    },
-                    {
-                      "type": "link",
-                      "url": "https://llilasbenson.github.io/lapr/pages/lapr19731004/",
-                      "children": [
-                        {
-                          "italic": true,
-                          "text": "",
-                          "link": ""
-                        }
-                      ]
-                    },
-                    {
                       "text": "Interview with a Brazilian Exile",
-                      "link": ""
+                      "link": "",
+                      "italic": true
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "link": "",
+                      "text": "Right Wing Terrorism in Central America",
+                      "italic": true
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "link": "",
+                      "text": "The Plight of the Mapuche Indians in Southern Chile",
+                      "italic": true
                     }
                   ]
                 }
@@ -179,8 +185,8 @@
                   "children": [
                     {
                       "text": "I.T.T. in Chile",
-                      "italic": true,
-                      "link": ""
+                      "link": "",
+                      "italic": true
                     }
                   ]
                 },
@@ -189,8 +195,8 @@
                   "children": [
                     {
                       "text": "An Interview with Economist David Barkin",
-                      "italic": true,
-                      "link": ""
+                      "link": "",
+                      "italic": true
                     }
                   ]
                 },
@@ -199,8 +205,8 @@
                   "children": [
                     {
                       "text": "An Economist on Chile",
-                      "italic": true,
-                      "link": ""
+                      "link": "",
+                      "italic": true
                     }
                   ]
                 },
@@ -209,8 +215,8 @@
                   "children": [
                     {
                       "text": "Oil in Venezuela",
-                      "italic": true,
-                      "link": ""
+                      "link": "",
+                      "italic": true
                     }
                   ]
                 },
@@ -218,7 +224,8 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "The Mexican Economy"
+                      "text": "The Mexican Economy",
+                      "italic": true
                     }
                   ]
                 },
@@ -226,7 +233,8 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "The World Food Situation"
+                      "text": "The World Food Situation",
+                      "italic": true
                     }
                   ]
                 }
@@ -250,8 +258,8 @@
                   "children": [
                     {
                       "text": "Indians in Paraguay",
-                      "italic": true,
-                      "link": ""
+                      "link": "",
+                      "italic": true
                     }
                   ]
                 },
@@ -260,8 +268,20 @@
                   "children": [
                     {
                       "text": "Puerto Rico",
-                      "italic": true,
-                      "link": ""
+                      "link": "",
+                      "italic": true
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "The Politics of Ecology",
+                      "italic": true
+                    },
+                    {
+                      "text": "\n\n\n"
                     }
                   ]
                 }
@@ -290,8 +310,17 @@
                   "children": [
                     {
                       "text": "Latin-American Aliens in the U.S.",
-                      "italic": true,
-                      "link": ""
+                      "link": "",
+                      "italic": true
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Illegal Aliens in the U.S. with Dr. Jorge Bustamante",
+                      "italic": true
                     }
                   ]
                 },
@@ -300,8 +329,17 @@
                   "children": [
                     {
                       "text": "Illegal Aliens in the U.S. (Same as \"Illegal Aliens in the U.S. with Dr. Jorge Bustamante\")",
-                      "italic": true,
-                      "link": ""
+                      "link": "",
+                      "italic": true
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Four Views of Multinationals",
+                      "italic": true
                     }
                   ]
                 }
@@ -310,6 +348,9 @@
             {
               "type": "paragraph",
               "children": [
+                {
+                  "text": "\n"
+                },
                 {
                   "text": "News Wrap-ups",
                   "bold": true,
@@ -325,8 +366,8 @@
                   "children": [
                     {
                       "text": "1973 News wrap-ups: Peru and Brazil (15:00)",
-                      "italic": true,
-                      "link": ""
+                      "link": "",
+                      "italic": true
                     }
                   ]
                 },
@@ -335,8 +376,35 @@
                   "children": [
                     {
                       "text": "News wrap-up: Uruguay & News wrap-up: Chile ",
-                      "italic": true,
-                      "link": ""
+                      "link": "",
+                      "italic": true
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Six month news wrap-up: Chile and Uruguay ",
+                      "italic": true
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Six month news wrap-up: Brazil and Argentina",
+                      "italic": true
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "News wrap-ups: Bolivia and Argentina ",
+                      "italic": true
                     }
                   ]
                 }
@@ -500,6 +568,6 @@
   "slug": "key-programs-in-the-collection",
   "created_at": "2025-03-12T02:19:38.157Z",
   "created_by": "rpr88",
-  "updated_at": "2025-05-06T15:38:18.338Z",
+  "updated_at": "2025-05-11T20:35:59.549Z",
   "updated_by": "rpr88"
 }
