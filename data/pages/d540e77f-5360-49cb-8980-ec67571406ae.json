@@ -103,27 +103,39 @@
                   "align": "justify",
                   "children": [
                     {
-                      "text": "0:03:26Peru and Ecuador accuse the US of exploiting Latin America via international banking systems."
+                      "text": "0:03:26-0:04:17",
+                      "bold": true
+                    },
+                    {
+                      "text": " Peru and Ecuador accuse the US of exploiting Latin America via international banking systems."
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "align": "justify",
-              "children": [
+                },
                 {
-                  "text": "Uruguay faces economic decline, political repression, military control, and widespread emigration amidst unrest."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "align": "justify",
-              "children": [
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:04:17-0:09:38",
+                      "bold": true
+                    },
+                    {
+                      "text": " Uruguay faces economic decline, political repression, military control, and widespread emigration amidst unrest."
+                    }
+                  ]
+                },
                 {
-                  "text": "Jose Toha, ex-Chilean minister, likely assassinated while imprisoned under Chile’s military dictatorship."
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:09:38-0:13:12",
+                      "bold": true
+                    },
+                    {
+                      "text": " Jose Toha, ex-Chilean minister, likely assassinated while imprisoned under Chile’s military dictatorship."
+                    }
+                  ]
                 }
               ]
             },
@@ -147,6 +159,27 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "event",
+      "uuid": "a6ad5583-ae30-4d7b-8d52-5a74f11c3a15",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "1974-03-21",
@@ -158,6 +191,6 @@
   "slug": "1974-03-21",
   "created_at": "2025-04-12T02:23:20.237Z",
   "created_by": "rpr88",
-  "updated_at": "2025-05-14T03:39:02.598Z",
+  "updated_at": "2025-05-14T03:41:21.465Z",
   "updated_by": "rpr88"
 }
