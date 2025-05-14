@@ -155,7 +155,7 @@
               "align": "justify",
               "children": [
                 {
-                  "text": "Segment summaries and Annotations were created using ChatGPT-4o and were closely reviewed for accuracy."
+                  "text": "Segment summaries and annotations were created using ChatGPT-4o and Voyant Tools, and were closely reviewed for accuracy."
                 }
               ]
             }
@@ -211,6 +211,6 @@
   "slug": "about",
   "created_at": "2025-04-17T02:29:49.857Z",
   "created_by": "rpr88",
-  "updated_at": "2025-05-14T06:03:20.577Z",
+  "updated_at": "2025-05-14T06:11:35.339Z",
   "updated_by": "rpr88"
 }
