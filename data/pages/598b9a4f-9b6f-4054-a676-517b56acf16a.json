@@ -7,6 +7,153 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Event Summary",
+                  "bold": true,
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I:",
+                  "underline": true
+                },
+                {
+                  "text": " The Latin American Press Review highlights significant developments across the region: Excelsior's report from Mexico City unveils rumors of a potential coup d'état in Costa Rica amid student protests against economic hardships and a controversial extradition law, with accusations of involvement by North American companies and the CIA escalating tensions. Meanwhile, the Bertrand Russell Tribunal in Rome condemns governments in Brazil, Chile, Uruguay, and Bolivia for systematic human rights violations, urging global action to end support for these regimes and free political prisoners. Amnesty International adds its voice, calling on Brazil's President Geisel to release political detainees and disclose information on suspicious deaths in custody, reiterating its commitment to defending prisoners worldwide. In a related development, Britain halts arms sales and economic aid to Chile, citing concerns over democracy and human rights. These events underscore the ongoing struggle for human rights and democracy in Latin America, amidst political turmoil and international scrutiny. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " The British News Weekly, Latin America, sheds light on the ongoing negotiations between the United States and Panama regarding the Panama Canal. Recent discussions, marked by an agreement of principles signed by Secretary of State Henry Kissinger and Panama's Foreign Minister, aim to restore Panama's territorial sovereignty over the canal and its surrounding zone, superseding the existing treaty signed in 1903. However, challenges arise from the substantial US military presence in the canal zone and political pressures faced by Panamanian President Omar Torrijos, who advocates for Panamanian control over the canal. Leftist and right-wing forces in Panama exert conflicting pressures on Torrijos, complicating negotiations. The outcome of these talks, along with political dynamics in Panama and the US, holds significant implications for Latin America's future."
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:00:18-0:02:21",
+                      "bold": true
+                    },
+                    {
+                      "text": " Rumors of a CIA-backed coup emerge in Costa Rica amid protests."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:02:21-0:06:13",
+                      "bold": true
+                    },
+                    {
+                      "text": " Bertrand Russell Tribunal and Amnesty International condemn Latin American regimes for systematic human rights violations."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:06:13-0:06:39",
+                      "bold": true
+                    },
+                    {
+                      "text": " Britain halts arms sales and aid to Chile, citing human rights concerns."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:06:39-0:14:10",
+                      "bold": true
+                    },
+                    {
+                      "text": " Negotiations over the Panama Canal reflect US-Panama tensions and nationalist pressures."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "8ad9538a-e010-455a-b8b2-8b73bf42ba5d",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "1974-04-10",
@@ -18,6 +165,6 @@
   "slug": "1974-04-10",
   "created_at": "2025-04-12T02:24:38.492Z",
   "created_by": "rpr88",
-  "updated_at": "2025-05-11T20:24:53.907Z",
+  "updated_at": "2025-05-14T04:19:34.297Z",
   "updated_by": "rpr88"
 }
