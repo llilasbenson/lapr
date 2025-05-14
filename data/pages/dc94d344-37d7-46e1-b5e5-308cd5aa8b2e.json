@@ -1,1 +1,176 @@
-{"content":[{"type":"paragraph","align":"justify","children":[{"bold":true,"underline":true,"text":""}]},{"type":"grid","layout":[3,3],"children":[{"type":"column","children":[{"type":"image","url":"https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_sarno_eduardo_10_18_001.jpg","size":"full","children":[{"text":""}]},{"type":"paragraph","align":"justify","children":[{"bold":true,"underline":true,"text":"Event Summary"}]},{"type":"paragraph","children":[{"text":"Part I:  "}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part II:  "}],"align":"justify"}]},{"type":"column","children":[{"type":"paragraph","children":[{"text":"Segment Summaries","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":""}],"align":"justify"}]}]},{"type":"paragraph","children":[{"text":""}]}],"title":"1974-03-28","parent":"34d25186-1fe4-42f0-b013-60effa02b1e5","autogenerate":{"enabled":false,"type":"custom"},"slug":"1974-03-28","created_at":"2025-04-12T02:23:49.819Z","created_by":"rpr88","updated_at":"2025-04-17T16:59:46.147Z","updated_by":"llilasbenson"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "bold": true,
+          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_sarno_eduardo_10_18_001.jpg",
+              "size": "full",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Event Summary",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I:",
+                  "underline": true
+                },
+                {
+                  "text": " The Latin American Press Review provides insights into recent events across the region, focusing on the fraudulent presidential elections in Guatemala, the power shifts in Brazil and Venezuela, and Brazilian support for the military coup in Chile. In Guatemala, allegations of election fraud marred the victory claim by General Eugene Laugerud, sparking protests and criticism of the authoritarian regime's tactics. Mexico City's Excelsior condemns the regime's violent suppression of dissent, exemplified by the murder of Edward Guerra, a former guerrilla. Excelsior's commentary extends to Brazil, where General Ernesto Geisel assumes the presidency, marking the continuation of military rule. The subdued inauguration contrasts with the presence of right-wing leaders, suggesting Brazil's role as a bulwark against progressive movements. The article underscores Brazil's economic growth, yet highlights its unequal distribution of wealth. Speculation on Brazilian influence in Chile's 1973 coup further underscores regional power dynamics."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " Dr. Depaiva, a mining engineer and key figure in a Rio de Janeiro anti-communist think tank, admits to aiding Chilean businessmen in preparing for President Allende's overthrow. Brazilian involvement in Chile's coup involved private and business interests, but there's no evidence of official government involvement. The coup in Chile mirrors Brazil's 1964 military takeover, with similar strategies and actors involved. Dr. Depaiva's recipe for destabilization involves economic chaos, fear of communism, and organizing mass demonstrations. The influence of Brazilian tactics is evident in Chile's anti-Allende efforts, including the creation of organizations like Poder Femenino, which mobilized women against leftist policies. Financial support from abroad, including from Chileans abroad and international business interests, played a significant role in destabilizing Allende's government. This report highlights the connections between Brazil's past coup and Chile's recent military takeover, as reported by the Washington Post."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "textSize": "heading-four"
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:00:39-0:02:49",
+                      "bold": true
+                    },
+                    {
+                      "text": " Fraudulent Guatemalan elections spark protests, repression, and ongoing authoritarian control under right-wing regime."
+                    }
+                  ],
+                  "align": "justify"
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:02:49-0:06:08",
+                      "bold": true
+                    },
+                    {
+                      "text": " Political shifts in Latin America highlight contested elections, military regimes, inequality, and U.S. influence."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:06:08-0:14:05",
+                      "bold": true
+                    },
+                    {
+                      "text": " Brazil's 1964 coup served as a model for Chile's 1973 military overthrow of Allende."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "ce64659c-ff83-483d-920c-85ae14446d3d",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "1974-03-28",
+  "parent": "34d25186-1fe4-42f0-b013-60effa02b1e5",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "1974-03-28",
+  "created_at": "2025-04-12T02:23:49.819Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-05-14T03:59:43.799Z",
+  "updated_by": "rpr88"
+}
