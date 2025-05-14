@@ -1,1 +1,163 @@
-{"content":[{"type":"paragraph","align":"justify","children":[{"bold":true,"underline":true,"text":""}]},{"type":"grid","layout":[3,3],"children":[{"type":"column","children":[{"type":"image","url":"https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_uruguayan_prop_03_11_001.jpg","size":"full","children":[{"text":""}]},{"type":"paragraph","align":"justify","children":[{"bold":true,"underline":true,"text":"Event Summary"}]},{"type":"paragraph","children":[{"text":"Part I:  "}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part II:  "}],"align":"justify"}]},{"type":"column","children":[{"type":"paragraph","children":[{"text":"Segment Summaries","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":""}],"align":"justify"}]}]},{"type":"paragraph","children":[{"text":""}]}],"title":"1974-03-21","parent":"34d25186-1fe4-42f0-b013-60effa02b1e5","autogenerate":{"enabled":false,"type":"custom"},"slug":"1974-03-21","created_at":"2025-04-12T02:23:20.237Z","created_by":"rpr88","updated_at":"2025-04-17T17:01:44.987Z","updated_by":"llilasbenson"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "bold": true,
+          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_uruguayan_prop_03_11_001.jpg",
+              "size": "full",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "Event Summary",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I:",
+                  "underline": true
+                },
+                {
+                  "text": " The Latin American Press Review this week covers the impact of multinational corporations on Mexican shipping and agricultural exports, Uruguay's current state post-military takeover, and reports on the harsh treatment of political prisoners by the Chilean junta. In Mexico, there are concerns about high tariffs imposed by multinational shipping companies, prompting shipping through Brownsville, Texas. Fraud in Mexican agricultural exports is also highlighted, with allegations of foreign companies evading export duties. Ambassadors from Peru and Ecuador accuse the US of protecting its interests through international banks. In Uruguay, there's a growing military influence, with expectations of them assuming absolute control soon. Economic decline, rising prices, and the repression of the Tupamaros guerrilla movement characterize Uruguay's situation, leading to the dissolution of democratic institutions and press censorship. These reports are sourced from Mexico City's leading Daily Excelsior. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " Uruguayan University's rector and deans have been replaced after two months in jail on subversion charges, alongside notable figures like novelist Juan Carlos Onetti. Political prisoners in Uruguay are on the rise, with estimates doubling over the past year. Uruguay's economic and political crises have led to a surge in emigration among its skilled class. The military blames civilian politicians and leftists for the country's problems, while businesses call for tax reforms. Uruguay's economic downturn, exacerbated by the oil crisis, has led to public discontent and a loss of faith in the military regime. In Chile, the death of former Minister Jose Toha in military custody raises suspicions of foul play, with conflicting official accounts. Reports of brutal treatment by the Chilean junta emerge, along with restrictions on political activities in unions. These events reflect the ongoing political turmoil and human rights abuses in Latin America, as reported by various news sources."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "textSize": "heading-four"
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:00:18-0:03:26",
+                      "bold": true
+                    },
+                    {
+                      "text": " Mexico faces shipping and agricultural exploitation by industrialized nations, seeking UN intervention and legislative controls."
+                    }
+                  ],
+                  "align": "justify"
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:03:26Peru and Ecuador accuse the US of exploiting Latin America via international banking systems."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "Uruguay faces economic decline, political repression, military control, and widespread emigration amidst unrest."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "Jose Toha, ex-Chilean minister, likely assassinated while imprisoned under Chile’s military dictatorship."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "1974-03-21",
+  "parent": "34d25186-1fe4-42f0-b013-60effa02b1e5",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "1974-03-21",
+  "created_at": "2025-04-12T02:23:20.237Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-05-14T03:39:02.598Z",
+  "updated_by": "rpr88"
+}
