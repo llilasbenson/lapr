@@ -22,6 +22,54 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": "Project Development",
+                  "bold": true
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "This project was developed by Rebekah Ramos, Graduate Student Technician at the LLILAS Benson Digital Scholarship Lab during the 2024-2025 academic year."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "bold": true
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Images"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "Images included on individual program pages were compiled by LLILAS Benson interns Ash Catalan, Adrian Fernandez, and Josue Soto. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": ""
                 }
               ],
@@ -32,7 +80,39 @@
               "align": "justify",
               "children": [
                 {
-                  "text": "This project was developed by Rebekah Ramos, Graduate Student Technician at the LLILAS Benson Digital Scholarship Lab. "
+                  "text": "Financing and Tech Suppor",
+                  "bold": true
+                },
+                {
+                  "text": "t"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "Financing and technical support for the project was provided by the AVAnnotate Mellon Foundation funded project."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "Project Documentation",
+                  "bold": true
                 }
               ]
             },
@@ -40,19 +120,44 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Images included on individual program pages were compiled by LLILAS Benson interns Ash Catalan, Adrian Fernandez, and Josue Soto. "
+                  "text": "Audio Transcription Processing and Annotation Guide for the project can be found "
+                },
+                {
+                  "text": "here",
+                  "link": "https://repositories.lib.utexas.edu/items/1cc44e25-4173-4763-b2d0-dc08ab1f00cb"
+                },
+                {
+                  "text": "."
                 }
-              ],
-              "align": "justify"
+              ]
             },
             {
               "type": "paragraph",
+              "align": "justify",
               "children": [
                 {
-                  "text": "Financing and technical support for the project was provided by the AVAnnotate Mellon Foundation funded project."
+                  "text": ""
                 }
-              ],
-              "align": "justify"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "AI Use",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "Segment summaries and Annotations were created using ChatGPT-4o and were closely reviewed for accuracy."
+                }
+              ]
             }
           ]
         },
@@ -106,6 +211,6 @@
   "slug": "about",
   "created_at": "2025-04-17T02:29:49.857Z",
   "created_by": "rpr88",
-  "updated_at": "2025-04-17T17:19:46.137Z",
-  "updated_by": "llilasbenson"
+  "updated_at": "2025-05-14T06:03:20.577Z",
+  "updated_by": "rpr88"
 }
