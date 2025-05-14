@@ -4,7 +4,158 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "",
+          "underline": true,
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Event Summary",
+                  "bold": true,
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I: ",
+                  "underline": true
+                },
+                {
+                  "text": "The Latin American Press Review discusses Ecuador's oil revenue boom and its failure to alleviate economic issues, alongside warnings from Arturo Bonilla Sanchez about Latin America's worsening economic situation. Factors include rising import costs, declining exports, and the devaluation of the US dollar, exacerbated by multinational corporations' speculative activities. These challenges pose significant risks to the region's economy, particularly for developing nations like those in Latin America. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " Mexico grapples with soaring inflation, sparking social discord and clashes with the private sector, as government measures struggle to curb rising prices. Efforts to alleviate inflation include wage hikes and subsidized goods distribution, yet these initiatives raise concerns of unfair competition and perpetuate low-wage industries. President Luis Echeverría's critiques of the private sector strain relations further, but the government lacks the authority to effectively challenge private interests. The nation's economic woes are compounded by a trade deficit and heavy reliance on imports for industrial growth, exacerbated by increasing foreign investment. Despite these policies, a majority of Mexicans endure low living standards, widespread underemployment, and meager industrial wages, heightening Mexico's reliance on the United States and reinforcing the dominance of the private sector."
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "textSize": "heading-four"
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:00:41-0:03:52",
+                      "bold": true
+                    },
+                    {
+                      "text": " Ecuador's oil boom boosted revenue, but inequality, inflation, and unrest persist."
+                    }
+                  ],
+                  "align": "justify"
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:03:52-0:08:00",
+                      "bold": true
+                    },
+                    {
+                      "text": " Latin America faces worsening poverty due to trade imbalances, dollar devaluation, and multinational exploitation."
+                    }
+                  ],
+                  "align": "justify"
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:08:00-0:13:56",
+                      "bold": true
+                    },
+                    {
+                      "text": " Inflation in Mexico causes social issues, conflicts with private sector, and worsens trade deficit."
+                    }
+                  ],
+                  "align": "justify"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "underline": true,
+          "bold": true,
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "4dcb3594-318e-41f1-bfe0-edfb713b5617",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         }
       ]
     }
@@ -18,6 +169,6 @@
   "slug": "1974-04-04",
   "created_at": "2025-04-12T02:24:11.732Z",
   "created_by": "rpr88",
-  "updated_at": "2025-05-11T20:24:26.810Z",
+  "updated_at": "2025-05-14T04:11:02.239Z",
   "updated_by": "rpr88"
 }
