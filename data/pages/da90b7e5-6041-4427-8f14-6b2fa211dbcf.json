@@ -1,1 +1,143 @@
-{"content":[{"type":"paragraph","align":"justify","children":[{"bold":true,"underline":true,"text":""}]},{"type":"grid","layout":[3,3],"children":[{"type":"column","children":[{"type":"image","url":"https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_horman_05_10_004.jpg","size":"full","children":[{"text":""}]},{"type":"paragraph","align":"justify","children":[{"bold":true,"underline":true,"text":"Event Summary"}]},{"type":"paragraph","children":[{"text":"Part I:  "}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part II:  "}],"align":"justify"}]},{"type":"column","children":[{"type":"paragraph","children":[{"text":"Segment Summaries","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":""}],"align":"justify"}]}]},{"type":"paragraph","children":[{"text":""}]}],"title":"1974-06-13","parent":"34d25186-1fe4-42f0-b013-60effa02b1e5","autogenerate":{"enabled":false,"type":"custom"},"slug":"1974-06-13","created_at":"2025-04-12T02:29:23.521Z","created_by":"rpr88","updated_at":"2025-04-17T16:53:09.536Z","updated_by":"llilasbenson"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "bold": true,
+          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_horman_05_10_004.jpg",
+              "size": "full",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Event Summary",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I:",
+                  "underline": true
+                },
+                {
+                  "text": " The Latin American Press Review highlights events in Argentina, Chile, and the Dominican Republic. In Argentina, commemorations of the Cordo Baso, a popular rebellion in 1969, spark bomb explosions, police actions, and strikes in Cordoba. Leftist forces, both Peronist and non-Peronist, are involved, indicating a deepening struggle between left and right in the country. Meanwhile, in Chile, consumers face soaring prices, disrupting the military junta's anti-inflation efforts. Additionally, a French television documentary reveals conditions in Chilean concentration camps post-coup, drawing international attention. American jurists and theologians, following a tour of Chile, condemn the military regime's destruction of democratic institutions and accuse the Nixon administration of supporting the junta over civilian governance. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "bold": true
+                },
+                {
+                  "text": " Ramsey Clark, in an interview with Excélsior, condemns the erosion of democracy in Chile under the military junta, citing a reign of terror marked by torture and violations of human rights. He urges the U.S. government to cease collaboration with the Chilean regime. In the Dominican Republic, President Joaquin Balaguer's reelection to a third term is met with discontent. Despite his paternalistic image, Balaguer's regime faces criticism for electoral irregularities, with a significant boycott of the polls by opposition supporters. Balaguer's reelection is seen as maintaining the status quo, with discontent brewing beneath the surface."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "textSize": "heading-four"
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Political violence and leftist uprisings in Argentina mark the anniversary of the Córdobazo."
+                    }
+                  ],
+                  "align": "justify"
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Chile's rising costs, military junta actions, and international criticism of human rights violations."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "In the Dominican Republic, President Balaguer's controversial re-election faced protests and boycotts."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "1974-06-13",
+  "parent": "34d25186-1fe4-42f0-b013-60effa02b1e5",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "1974-06-13",
+  "created_at": "2025-04-12T02:29:23.521Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-05-15T05:22:00.500Z",
+  "updated_by": "rpr88"
+}
