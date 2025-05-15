@@ -1,1 +1,188 @@
-{"content":[{"type":"paragraph","align":"justify","children":[{"bold":true,"underline":true,"text":""}]},{"type":"grid","layout":[3,3],"children":[{"type":"column","children":[{"type":"image","url":"https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_uruguayan_prop_03_12_001.jpg","size":"full","children":[{"text":""}]},{"type":"paragraph","align":"justify","children":[{"bold":true,"underline":true,"text":"Event Summary"}]},{"type":"paragraph","children":[{"text":"Part I:  "}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part II:  "}],"align":"justify"}]},{"type":"column","children":[{"type":"paragraph","children":[{"text":"Segment Summaries","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":""}],"align":"justify"}]}]},{"type":"paragraph","children":[{"text":""}]}],"title":"1974-05-30","parent":"34d25186-1fe4-42f0-b013-60effa02b1e5","autogenerate":{"enabled":false,"type":"custom"},"slug":"1974-05-30","created_at":"2025-04-12T02:28:42.245Z","created_by":"rpr88","updated_at":"2025-04-17T17:02:38.420Z","updated_by":"llilasbenson"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "bold": true,
+          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_uruguayan_prop_03_12_001.jpg",
+              "size": "full",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Event Summary",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I: The Latin American Press Review offers a comprehensive overview of recent developments in Latin America. In the Dominican Republic, Joaquin Balaguer's victory in contentious presidential elections is marred by allegations of fraud, raising the specter of civil unrest amidst economic struggles. Meanwhile, a controversial treaty between Bolivia and Brazil raises concerns over Brazilian expansionism, triggering protests and accusations of compromising Bolivia's sovereignty. Uruguay witnesses government reshuffling, signaling a potential shift towards increased military influence, while the Chilean Junta undergoes restructuring amid international scrutiny. These reports shed light on the intricate political, economic, and social dynamics shaping the region. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "Part II: Recent reports suggest a looming military coup in Uruguay, with the resignation of General Hugo Chiappe indicating internal disagreements within the armed forces. President Juan Bordaberry faces pressure to restructure his cabinet and economic policy, potentially undermining Uruguay's democratic tradition. Meanwhile, in Chile, the interior minister's decision to commute the death penalty of Socialist Party members signals a shift towards centralization within the Junta, consolidating military control. International relations strain as Chile faces criticism and sanctions from countries like Colombia, Venezuela, and England, with accusations of human rights abuses and violations of international agreements. These developments underscore the complex political and diplomatic challenges facing Latin America."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "textSize": "heading-four"
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:00:44-0:02:45",
+                      "bold": true
+                    },
+                    {
+                      "text": " Joaquin Balaguer wins Dominican elections amid allegations and protests."
+                    }
+                  ],
+                  "align": "justify"
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:02:45-0:08:13",
+                      "bold": true
+                    },
+                    {
+                      "text": " Brazil and Bolivia signed an economic treaty, sparking protests over Brazilian influence and Bolivian sovereignty."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:08:13-0:10:51",
+                      "bold": true
+                    },
+                    {
+                      "text": " Uruguay faces potential military coup."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:10:51-0:14:14",
+                      "bold": true
+                    },
+                    {
+                      "text": " Chile’s military Junta centralizes power and faces international backlash over human rights violations."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "8fe97128-2d99-49ee-8440-5aafcd38a2a1",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "1974-05-30",
+  "parent": "34d25186-1fe4-42f0-b013-60effa02b1e5",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "1974-05-30",
+  "created_at": "2025-04-12T02:28:42.245Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-05-15T05:13:02.096Z",
+  "updated_by": "rpr88"
+}
