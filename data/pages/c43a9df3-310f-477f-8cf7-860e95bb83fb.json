@@ -1,1 +1,161 @@
-{"content":[{"type":"paragraph","children":[{"text":""}]},{"type":"grid","layout":[3,3],"children":[{"type":"column","children":[{"type":"image","url":"https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_f1569_c2_t66_1973_001.jpg","size":"full","children":[{"text":""}]},{"type":"paragraph","align":"justify","children":[{"bold":true,"underline":true,"text":"Event Summary"}]},{"type":"paragraph","children":[{"text":"Part I:  "}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part II:  "}],"align":"justify"}]},{"type":"column","children":[{"type":"paragraph","children":[{"text":"Segment Summaries","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":""}],"align":"justify"}]}]},{"type":"paragraph","children":[{"text":""}]}],"title":"1974-05-09","parent":"34d25186-1fe4-42f0-b013-60effa02b1e5","autogenerate":{"enabled":false,"type":"custom"},"slug":"1974-05-09","created_at":"2025-04-12T02:26:59.368Z","created_by":"rpr88","updated_at":"2025-04-17T16:50:49.288Z","updated_by":"llilasbenson"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_f1569_c2_t66_1973_001.jpg",
+              "size": "full",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Event Summary",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I:",
+                  "underline": true
+                },
+                {
+                  "text": " President Carlos Pérez plans to nationalize US-dominated industries in Venezuela, aiming to prevent price hikes and increase wages. Meanwhile, US Senate opposition to negotiating a new Panama Canal treaty reflects concerns about relinquishing US control over the canal, with some senators advocating for increased US investment in the zone to maintain control. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " The debate in the US Senate centers on the military presence in the Panama Canal Zone, with Panama seeking reduced US military presence. Meanwhile, plans to relocate a petrochemical superport in Puerto Rico are underway due to Navy requirements and local opposition. This is from International Bulletin and Claridad of San Juan, Puerto Rico, part of the Latin American Press Review."
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "textSize": "heading-four"
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:00:35-0:02:08",
+                      "bold": true
+                    },
+                    {
+                      "text": " President Pérez announced plans to nationalize foreign companies, including iron ore and department stores."
+                    }
+                  ],
+                  "align": "justify"
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:02:08-0:11:49",
+                      "bold": true
+                    },
+                    {
+                      "text": " Senate opposition to a new Panama Canal treaty reignites tensions between the U.S. and Panama."
+                    }
+                  ],
+                  "align": "justify"
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "0:11:49-0:13:58",
+                      "bold": true
+                    },
+                    {
+                      "text": " The U.S. relocates Puerto Rico's petrochemical superport to the west coast amid military concerns."
+                    }
+                  ],
+                  "align": "justify"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "1974-05-09",
+  "parent": "34d25186-1fe4-42f0-b013-60effa02b1e5",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "1974-05-09",
+  "created_at": "2025-04-12T02:26:59.368Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-05-15T04:20:18.929Z",
+  "updated_by": "rpr88"
+}
