@@ -42,62 +42,37 @@
                 {
                   "text": "Table of contents",
                   "link": "",
+                  "textSize": "heading-one"
+                },
+                {
+                  "link": "https://llilasbenson.github.io/lapr/pages/about/",
+                  "text": "About",
+                  "bold": true,
                   "textSize": "heading-two"
-                }
-              ]
-            },
-            {
-              "type": "bulleted-list",
-              "children": [
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "link": "https://llilasbenson.github.io/lapr/pages/about/",
-                      "text": "About",
-                      "bold": true
-                    }
-                  ]
                 },
                 {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "Key Programs in the Collection",
-                      "link": "https://llilasbenson.github.io/lapr/pages/key-programs-in-the-collection/",
-                      "bold": true
-                    }
-                  ]
+                  "text": "Key Programs in the Collection",
+                  "link": "https://llilasbenson.github.io/lapr/pages/key-programs-in-the-collection/",
+                  "bold": true,
+                  "textSize": "heading-two"
                 },
                 {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "How to Use Tags",
-                      "link": "https://llilasbenson.github.io/lapr/pages/how-to-use-tags/",
-                      "bold": true
-                    }
-                  ]
+                  "text": "How to Use Tags",
+                  "link": "https://llilasbenson.github.io/lapr/pages/how-to-use-tags/",
+                  "bold": true,
+                  "textSize": "heading-two"
                 },
                 {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "Annotated Programs",
-                      "link": "https://llilasbenson.github.io/lapr/pages/annotated-programs/",
-                      "bold": true
-                    }
-                  ]
+                  "text": "Annotated Programs",
+                  "link": "https://llilasbenson.github.io/lapr/pages/annotated-programs/",
+                  "bold": true,
+                  "textSize": "heading-two"
                 },
                 {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "Radio Programs List",
-                      "link": "https://llilasbenson.github.io/lapr/pages/radio-programs-list/",
-                      "bold": true
-                    }
-                  ]
+                  "text": "Radio Programs List",
+                  "link": "https://llilasbenson.github.io/lapr/pages/radio-programs-list/",
+                  "bold": true,
+                  "textSize": "heading-two"
                 }
               ]
             }
@@ -187,7 +162,7 @@
   "created_at": "2025-02-10T21:14:32.928Z",
   "created_by": "llilasbenson",
   "title": "Latin American Press Review Radio Collection",
-  "updated_at": "2025-05-14T06:10:33.364Z",
+  "updated_at": "2025-05-15T04:28:54.091Z",
   "updated_by": "rpr88",
   "autogenerate": {
     "enabled": false,
