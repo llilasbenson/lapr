@@ -1,1 +1,206 @@
-{"content":[{"type":"paragraph","align":"justify","children":[{"bold":true,"underline":true,"text":""}]},{"type":"grid","layout":[3,3],"children":[{"type":"column","children":[{"type":"image","url":"https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_misc_ph_09_144_001.jpg","size":"full","children":[{"text":""}]},{"type":"paragraph","align":"justify","children":[{"bold":true,"underline":true,"text":"Event Summary"}]},{"type":"paragraph","children":[{"text":"Part I:  "}],"align":"justify"},{"type":"paragraph","children":[{"text":"Part II:  "}],"align":"justify"}]},{"type":"column","children":[{"type":"paragraph","children":[{"text":"Segment Summaries","bold":true,"underline":true}],"align":"justify"},{"type":"paragraph","children":[{"text":""}],"align":"justify"}]}]},{"type":"paragraph","children":[{"text":""}]}],"title":"1974-05-16","parent":"34d25186-1fe4-42f0-b013-60effa02b1e5","autogenerate":{"enabled":false,"type":"custom"},"slug":"1974-05-16","created_at":"2025-04-12T02:27:40.693Z","created_by":"rpr88","updated_at":"2025-04-17T16:55:22.676Z","updated_by":"llilasbenson"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "bold": true,
+          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_misc_ph_09_144_001.jpg",
+              "size": "full",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Event Summary",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I:",
+                  "underline": true
+                },
+                {
+                  "text": " The Latin American Press Review presents a comprehensive overview of current affairs in the region. It begins by discussing Cuba's enactment of a new family statute, aimed at redefining familial roles within a socialist framework, emphasizing gender equality and altering legal norms surrounding marriage, divorce, and parental obligations. Transitioning to Chile, the report from the Argentine daily, La Nación, sheds light on the post-military coup conditions in Chilean slums, detailing the hardships faced by residents due to economic turmoil, rising unemployment, and political repression under military rule. Lastly, the review touches upon diplomatic developments between Russia and Argentina, notably President Perón's upcoming visit to the Soviet Union, signaling potential advancements in bilateral relations and economic cooperation. "
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "Part II: ",
+                  "underline": true
+                },
+                {
+                  "text": "The excerpt covers Argentina's diplomatic shifts towards Cuba and the Soviet Union, showcasing Perón's pursuit of independence from the United States while facing internal opposition from left-wing factions. Additionally, it highlights the volatile political climate in the Dominican Republic ahead of the presidential elections, marked by allegations of fraud and demands for political prisoners' release, within a historical context of authoritarian rule and US intervention.  "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "textSize": "heading-four"
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:00:50-0:02:56",
+                      "bold": true
+                    },
+                    {
+                      "text": " The Cuban family statute promotes women's liberation, regulates marriage, and family equality."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:02:56-0:05:57",
+                      "bold": true
+                    },
+                    {
+                      "text": " Military control tightened in Chile’s slums post-coup, worsening unemployment and food prices."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:05:57-0:10:07",
+                      "bold": true
+                    },
+                    {
+                      "text": " Perón plans a Soviet visit, balancing Argentina's diplomacy with internal leftist conflicts."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "0:10:07-0:14:21",
+                      "bold": true
+                    },
+                    {
+                      "text": " The Dominican Republic faces violent protests and strikes ahead of disputed presidential elections."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "uuid": "d59f4b9d-195a-4bff-aad7-0605d1a4416b",
+              "includes": [
+                "media",
+                "annotations"
+              ],
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "1974-05-16",
+  "parent": "34d25186-1fe4-42f0-b013-60effa02b1e5",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "1974-05-16",
+  "created_at": "2025-04-12T02:27:40.693Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-05-15T04:48:44.069Z",
+  "updated_by": "rpr88"
+}
