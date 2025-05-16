@@ -145,6 +145,32 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "lapr_avannotate_images/utblac_f1569_c2_t66_1973_001.jpg",
+      "caption": "",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "1974-05-09",
@@ -156,6 +182,6 @@
   "slug": "1974-05-09",
   "created_at": "2025-04-12T02:26:59.368Z",
   "created_by": "rpr88",
-  "updated_at": "2025-05-16T01:22:20.418Z",
+  "updated_at": "2025-05-16T01:43:05.631Z",
   "updated_by": "rpr88"
 }
