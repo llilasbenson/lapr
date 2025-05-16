@@ -9,6 +9,32 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/d441e2ea7018496319c2b78cd75cd320577a0890/lapr_avannotate_images/utblac_f1569_c2_t66_1973_001.jpg",
+      "caption": "Eduardo Sarno Collection of Leftist Movements in Brazil, Nettie Lee Benson Latin American Collection",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "grid",
       "layout": [
         3,
@@ -18,16 +44,6 @@
         {
           "type": "column",
           "children": [
-            {
-              "type": "image",
-              "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_f1569_c2_t66_1973_001.jpg",
-              "size": "full",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
             {
               "type": "paragraph",
               "align": "justify",
@@ -155,9 +171,12 @@
       ]
     },
     {
-      "type": "image",
-      "url": "lapr_avannotate_images/utblac_f1569_c2_t66_1973_001.jpg",
-      "caption": "",
+      "uuid": "59b188aa-f494-4aa3-89f4-565ee2299a1a",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "file": "0532646b-c887-4c5b-aa21-887f2c1543c8",
       "children": [
         {
           "text": ""
@@ -182,6 +201,6 @@
   "slug": "1974-05-09",
   "created_at": "2025-04-12T02:26:59.368Z",
   "created_by": "rpr88",
-  "updated_at": "2025-05-16T01:43:05.631Z",
+  "updated_at": "2025-05-16T01:55:11.143Z",
   "updated_by": "rpr88"
 }
