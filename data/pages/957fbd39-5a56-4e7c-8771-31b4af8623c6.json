@@ -43,8 +43,7 @@
                   "link": "",
                   "text": "TABLE OF CONTENTS",
                   "bold": true,
-                  "underline": true,
-                  "textSize": "heading-one"
+                  "textSize": "heading-two"
                 }
               ]
             },
@@ -55,7 +54,7 @@
                   "link": "https://llilasbenson.github.io/lapr/pages/about/",
                   "bold": true,
                   "text": "About",
-                  "textSize": "heading-three"
+                  "textSize": "heading-four"
                 }
               ]
             },
@@ -66,7 +65,7 @@
                   "link": "https://llilasbenson.github.io/lapr/pages/key-programs-in-the-collection/",
                   "bold": true,
                   "text": "Key Programs in the Collection",
-                  "textSize": "heading-three"
+                  "textSize": "heading-four"
                 }
               ]
             },
@@ -77,7 +76,7 @@
                   "link": "https://llilasbenson.github.io/lapr/pages/how-to-use-tags/",
                   "bold": true,
                   "text": "How to Use Tags",
-                  "textSize": "heading-three"
+                  "textSize": "heading-four"
                 }
               ]
             },
@@ -88,7 +87,7 @@
                   "link": "https://llilasbenson.github.io/lapr/pages/annotated-programs/",
                   "bold": true,
                   "text": "Annotated Programs",
-                  "textSize": "heading-three"
+                  "textSize": "heading-four"
                 }
               ]
             },
@@ -99,7 +98,7 @@
                   "link": "https://llilasbenson.github.io/lapr/pages/radio-programs-list/",
                   "bold": true,
                   "text": "Radio Programs List",
-                  "textSize": "heading-three"
+                  "textSize": "heading-four"
                 }
               ]
             }
@@ -189,7 +188,7 @@
   "created_at": "2025-02-10T21:14:32.928Z",
   "created_by": "llilasbenson",
   "title": "Latin American Press Review Radio Collection",
-  "updated_at": "2025-05-16T05:06:58.927Z",
+  "updated_at": "2025-05-17T04:28:15.853Z",
   "updated_by": "rpr88",
   "autogenerate": {
     "enabled": false,
