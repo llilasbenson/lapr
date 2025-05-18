@@ -24,7 +24,7 @@
                 {
                   "text": "Event Summary",
                   "bold": true,
-                  "underline": true
+                  "textSize": "heading-four"
                 }
               ],
               "align": "justify"
@@ -66,7 +66,7 @@
                 {
                   "text": "Segment Summaries",
                   "bold": true,
-                  "underline": true
+                  "textSize": "heading-four"
                 }
               ],
               "align": "justify"
@@ -175,16 +175,7 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "event",
-      "uuid": "af6c0892-5316-4910-95d0-9b85f18ef8fa",
+      "uuid": "9c1c80cf-b4d8-4d24-a3e9-8ec726ae5dbe",
       "includes": [
         "media",
         "annotations"
@@ -213,6 +204,6 @@
   "slug": "1973-07-19",
   "created_at": "2025-03-19T01:19:01.480Z",
   "created_by": "rpr88",
-  "updated_at": "2025-05-10T05:09:14.647Z",
+  "updated_at": "2025-05-18T18:27:13.116Z",
   "updated_by": "rpr88"
 }
