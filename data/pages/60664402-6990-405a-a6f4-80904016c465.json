@@ -1,1 +1,246 @@
-{"content":[{"type":"paragraph","children":[{"text":"","bold":true,"underline":true}]},{"type":"grid","layout":[3,3],"children":[{"type":"column","children":[{"type":"image","url":"https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_f1569_c2_t66_1973_002.jpg","size":"full","children":[{"text":""}]},{"type":"paragraph","children":[{"bold":true,"underline":true,"text":"Event Summary"}]},{"type":"paragraph","children":[{"text":"Part I: News shorts","underline":true}],"align":"left"},{"type":"paragraph","align":"justify","children":[{"text":"In Chile, President Allende proposes consolidating the ruling coalition into a single left-wing party following recent elections that strengthened the position of communists and socialists. Economic challenges, including debt negotiations with the US, loom large for Chile. In the US, Jack Kubisch's nomination as Assistant Secretary of State for Inter-American Affairs signals a reinvigoration of diplomacy in the region. Brazil's increasing militarization raises concerns about democracy and its pursuit of advanced military capabilities, including nuclear energy and missile construction. Reports highlight arms factories' proposals for napalm production and foreign firms offering military technology. Tensions between Brazil and Paraguay over the Itaipu Dam project are underscored, with Argentina criticizing its potential impact. The election of Argentina's Peronista Party heightens tensions with Brazil and could lead to alliances against Brazil in Latin America. Political developments in Peru following President Velasco Alvarado's illness and leg amputation raise questions about the government's ideological direction amidst growing popular mobilization. Panamanian discontent with the Canal Zone treaty reflects changing alliances and growing nationalism in Latin America. The failure of US policies in March is outlined, including Salvador Allende's strengthened position in Chile and President Luis Echeverría Álvarez of Mexico's upcoming trip signaling a desire for greater independence from Washington."}]},{"type":"paragraph","children":[{"text":"Part II: I.T.T. in Chile","underline":true}],"align":"justify"},{"type":"paragraph","align":"justify","children":[{"text":"In Lima, Peru's Prime Minister assumes leadership amidst General Alvarado's illness, advocating for non-alignment and economic rights. Ecuador asserts control over its maritime resources, while Venezuela's inclusion in the Andean group challenges Brazil's influence. Argentina's Peronist victory worries US interests. Panama confronts US control over the Canal Zone, seeking jurisdiction and neutralization. Despite US resistance, Panama orchestrates a UN challenge to US dominance. Torrijos denounces US control, demanding a renegotiated treaty. Economic challenges persist in Panama due to debt and reliance on the canal. Negotiating a new treaty is vital, with Panama pushing for shared profits and military neutrality. Torrijos is satisfied with UN support but plans further negotiations."}]}]},{"type":"column","children":[{"type":"paragraph","children":[{"text":"Segment Summaries","bold":true,"underline":true,"textSize":"heading-three"}],"align":"justify"},{"type":"paragraph","align":"justify","children":[{"text":"0:00:16-0:02:30","bold":true},{"text":" President Allende aims to consolidate his coalition into a single left-wing party amid economic challenges and ongoing debt negotiations with the U.S."}]},{"type":"paragraph","align":"justify","children":[{"text":"0:02:30-0:03:59","bold":true},{"text":" Nixon nominated diplomat Jack Kubisch as Assistant Secretary of State for Inter-American Affairs, with his confirmation unlikely before the OAS meeting on Cuban sanctions."}]},{"type":"paragraph","align":"justify","children":[{"text":"0:03:59-0:06:29","bold":true},{"text":" Brazil's military expansion aims for regional dominance, nuclear research, arms manufacturing, causing alarm."}]},{"type":"paragraph","align":"justify","children":[{"text":"0:06:29-0:09:17","bold":true},{"text":" Brazil and Paraguay's plans for the Itaipu Dam, criticized by Argentina for potential negative impacts on trade and control over the Paraná River."}]},{"type":"paragraph","align":"justify","children":[{"text":"0:09:17-0:14:18","bold":true},{"text":" Political changes post-President Velasco Alvarado's illness, highlighting rising worker militancy and potential radicalization."}]},{"type":"paragraph","align":"justify","children":[{"text":"0:14:46-0:18:36 ","bold":true},{"text":"Panamanian dissatisfaction with the Canal Zone Treaty and the UN meeting in Panama City, showcasing shifting alliances and nationalism in Latin America."}]},{"type":"paragraph","align":"justify","children":[{"text":"0:18:36-0:28:58","bold":true},{"text":" Panama's recent UN Security Council meeting, General Omar Torrijos challenges US control over the Panama Canal Zone and calls for a new treaty amid tensions."}]},{"type":"paragraph","children":[{"text":""}]}]}]},{"type":"paragraph","children":[{"text":""}]},{"type":"event","uuid":"f47dea54-b78f-4ab7-a890-06be7f559755","includes":["media","annotations"],"children":[{"text":""}]},{"type":"paragraph","children":[{"text":""}]}],"title":"1973-03-29","parent":"34d25186-1fe4-42f0-b013-60effa02b1e5","autogenerate":{"enabled":false,"type":"custom"},"slug":"1973-03-29","created_at":"2025-03-12T23:05:22.254Z","created_by":"rpr88","updated_at":"2025-05-04T20:58:42.767Z","updated_by":"rpr88"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "bold": true,
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Event Summary",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part I: ",
+                  "underline": true
+                },
+                {
+                  "text": "In Chile, President Allende proposes consolidating the ruling coalition into a single left-wing party following recent elections that strengthened the position of communists and socialists. Economic challenges, including debt negotiations with the US, loom large for Chile. In the US, Jack Kubisch's nomination as Assistant Secretary of State for Inter-American Affairs signals a reinvigoration of diplomacy in the region. Brazil's increasing militarization raises concerns about democracy and its pursuit of advanced military capabilities, including nuclear energy and missile construction. Reports highlight arms factories' proposals for napalm production and foreign firms offering military technology. Tensions between Brazil and Paraguay over the Itaipu Dam project are underscored, with Argentina criticizing its potential impact. The election of Argentina's Peronista Party heightens tensions with Brazil and could lead to alliances against Brazil in Latin America. Political developments in Peru following President Velasco Alvarado's illness and leg amputation raise questions about the government's ideological direction amidst growing popular mobilization. Panamanian discontent with the Canal Zone treaty reflects changing alliances and growing nationalism in Latin America. The failure of US policies in March is outlined, including Salvador Allende's strengthened position in Chile and President Luis Echeverría Álvarez of Mexico's upcoming trip signaling a desire for greater independence from Washington."
+                }
+              ],
+              "align": "left"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Part II:",
+                  "underline": true
+                },
+                {
+                  "text": " In Lima, Peru's Prime Minister assumes leadership amidst General Alvarado's illness, advocating for non-alignment and economic rights. Ecuador asserts control over its maritime resources, while Venezuela's inclusion in the Andean group challenges Brazil's influence. Argentina's Peronist victory worries US interests. Panama confronts US control over the Canal Zone, seeking jurisdiction and neutralization. Despite US resistance, Panama orchestrates a UN challenge to US dominance. Torrijos denounces US control, demanding a renegotiated treaty. Economic challenges persist in Panama due to debt and reliance on the canal. Negotiating a new treaty is vital, with Panama pushing for shared profits and military neutrality. Torrijos is satisfied with UN support but plans further negotiations."
+                }
+              ],
+              "align": "justify"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Segment Summaries",
+                  "bold": true,
+                  "textSize": "heading-four"
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "0:00:16-0:02:30",
+                  "bold": true,
+                  "color": "#000000"
+                },
+                {
+                  "text": " President Allende aims to consolidate his coalition into a single left-wing party amid economic challenges and ongoing debt negotiations with the U.S."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "0:02:30-0:03:59",
+                  "bold": true
+                },
+                {
+                  "text": " Nixon nominated diplomat Jack Kubisch as Assistant Secretary of State for Inter-American Affairs, with his confirmation unlikely before the OAS meeting on Cuban sanctions."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "0:03:59-0:06:29",
+                  "bold": true
+                },
+                {
+                  "text": " Brazil's military expansion aims for regional dominance, nuclear research, arms manufacturing, causing alarm."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "0:06:29-0:09:17",
+                  "bold": true
+                },
+                {
+                  "text": " Brazil and Paraguay's plans for the Itaipu Dam, criticized by Argentina for potential negative impacts on trade and control over the Paraná River."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "0:09:17-0:14:18",
+                  "bold": true
+                },
+                {
+                  "text": " Political changes post-President Velasco Alvarado's illness, highlighting rising worker militancy and potential radicalization."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "0:14:46-0:18:36 ",
+                  "bold": true
+                },
+                {
+                  "text": "Panamanian dissatisfaction with the Canal Zone Treaty and the UN meeting in Panama City, showcasing shifting alliances and nationalism in Latin America."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "0:18:36-0:28:58",
+                  "bold": true
+                },
+                {
+                  "text": " Panama's recent UN Security Council meeting, General Omar Torrijos challenges US control over the Panama Canal Zone and calls for a new treaty amid tensions."
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_f1569_c2_t66_1973_002.jpg",
+              "caption": "Nettie Lee Benson Latin American Collection, University of Texas Libraries, The University of Texas at Austin",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "f47dea54-b78f-4ab7-a890-06be7f559755",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "1973-03-29",
+  "parent": "34d25186-1fe4-42f0-b013-60effa02b1e5",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "1973-03-29",
+  "created_at": "2025-03-12T23:05:22.254Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-05-18T17:38:02.433Z",
+  "updated_by": "rpr88"
+}
