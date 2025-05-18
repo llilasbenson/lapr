@@ -23,8 +23,8 @@
               "children": [
                 {
                   "text": "Event Summary",
-                  "underline": true,
-                  "bold": true
+                  "bold": true,
+                  "textSize": "heading-four"
                 }
               ],
               "align": "justify"
@@ -66,7 +66,7 @@
                 {
                   "text": "Segment Summaries",
                   "bold": true,
-                  "underline": true
+                  "textSize": "heading-four"
                 }
               ],
               "align": "justify"
@@ -214,7 +214,7 @@
   "created_by": "rpr88",
   "title": "1973-08-01",
   "slug": "1973-08-01",
-  "updated_at": "2025-05-10T05:09:53.934Z",
+  "updated_at": "2025-05-18T18:32:11.776Z",
   "updated_by": "rpr88",
   "parent": "34d25186-1fe4-42f0-b013-60effa02b1e5",
   "autogenerate": {
