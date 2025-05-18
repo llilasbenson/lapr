@@ -24,7 +24,7 @@
                 {
                   "text": "Event Summary",
                   "bold": true,
-                  "textSize": "heading-three"
+                  "textSize": "heading-four"
                 }
               ]
             },
@@ -65,106 +65,101 @@
                 {
                   "text": "Segment Summaries",
                   "bold": true,
-                  "textSize": "heading-three"
+                  "textSize": "heading-four"
                 }
               ],
               "align": "justify"
             },
             {
-              "type": "bulleted-list",
+              "type": "paragraph",
               "children": [
                 {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "0:00:17-0:03:53",
-                      "bold": true
-                    },
-                    {
-                      "text": " In Mexico City, five students were killed and others injured in Puebla, leading to a national outcry and the deposition the governor amidst escalating violence and political tension."
-                    }
-                  ],
-                  "align": "justify"
+                  "text": "0:00:17-0:03:53",
+                  "bold": true
                 },
                 {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "0:03:53-0:08:10",
-                      "bold": true
-                    },
-                    {
-                      "text": " Nixon's annual policy review revealed no new initiatives for Latin America, highlighting strained relations with US positions on key regional issues."
-                    }
-                  ],
-                  "align": "justify"
-                },
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "0:08:10-0:08:37",
-                      "bold": true
-                    },
-                    {
-                      "text": " Fidel Castro's May 1st speech declared no improvement in US-Cuba relations while the US acts as a regional policeman and reasserted Cuba's claim to Guantanamo."
-                    }
-                  ],
-                  "align": "justify"
-                },
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "0:08:37-0:09:30",
-                      "bold": true
-                    },
-                    {
-                      "text": " Venezuela is dissatisfied with the US suspension of hemispheric trade preferences on fuel oil imports."
-                    }
-                  ],
-                  "align": "justify"
-                },
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "0:09:30-0:12:06",
-                      "bold": true
-                    },
-                    {
-                      "text": " US counsel was kidnapped and released in Mexico, with the kidnappers' political statement published in major media."
-                    }
-                  ],
-                  "align": "justify"
-                },
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "0:12:06-0:14:41",
-                      "bold": true
-                    },
-                    {
-                      "text": " Censorship in Brazil amidst presidential succession tensions, with authorities cracking down on the press and extending control to foreign publications and live broadcasts."
-                    }
-                  ],
-                  "align": "justify"
-                },
-                {
-                  "type": "list-item",
-                  "children": [
-                    {
-                      "text": "0:15:05-0:28:44",
-                      "bold": true
-                    },
-                    {
-                      "text": " Argentina's history, Peronism's rise, and the challenges facing the Cámpora government, emphasizing Peronism's role."
-                    }
-                  ],
-                  "align": "justify"
+                  "text": " In Mexico City, five students were killed and others injured in Puebla, leading to a national outcry and the deposition the governor amidst escalating violence and political tension."
                 }
-              ]
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:03:53-0:08:10",
+                  "bold": true
+                },
+                {
+                  "text": " Nixon's annual policy review revealed no new initiatives for Latin America, highlighting strained relations with US positions on key regional issues."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:08:10-0:08:37",
+                  "bold": true
+                },
+                {
+                  "text": " Fidel Castro's May 1st speech declared no improvement in US-Cuba relations while the US acts as a regional policeman and reasserted Cuba's claim to Guantanamo."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:08:37-0:09:30",
+                  "bold": true
+                },
+                {
+                  "text": " Venezuela is dissatisfied with the US suspension of hemispheric trade preferences on fuel oil imports."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:09:30-0:12:06",
+                  "bold": true
+                },
+                {
+                  "text": " US counsel was kidnapped and released in Mexico, with the kidnappers' political statement published in major media."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:12:06-0:14:41",
+                  "bold": true
+                },
+                {
+                  "text": " Censorship in Brazil amidst presidential succession tensions, with authorities cracking down on the press and extending control to foreign publications and live broadcasts."
+                }
+              ],
+              "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "0:15:05-0:28:44",
+                  "bold": true
+                },
+                {
+                  "text": " Argentina's history, Peronism's rise, and the challenges facing the Cámpora government, emphasizing Peronism's role."
+                }
+              ],
+              "align": "justify"
             }
           ]
         }
@@ -209,6 +204,6 @@
   "slug": "1973-05-17",
   "created_at": "2025-03-15T16:53:07.177Z",
   "created_by": "rpr88",
-  "updated_at": "2025-05-08T22:11:50.662Z",
+  "updated_at": "2025-05-18T17:57:17.778Z",
   "updated_by": "rpr88"
 }
