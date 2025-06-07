@@ -129,26 +129,6 @@
           "text": ""
         }
       ]
-    },
-    {
-      "uuid": "856c6c2b-c52f-4fc1-89b3-17079a05d342",
-      "includes": [
-        "media",
-        "annotations"
-      ],
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
     }
   ],
   "title": "1974-06-06",
@@ -160,6 +140,6 @@
   "slug": "1974-06-06",
   "created_at": "2025-04-12T02:29:04.218Z",
   "created_by": "rpr88",
-  "updated_at": "2025-05-15T05:18:01.258Z",
+  "updated_at": "2025-06-07T03:05:49.332Z",
   "updated_by": "rpr88"
 }
