@@ -51,10 +51,8 @@
               "type": "paragraph",
               "children": [
                 {
-                  "link": "https://llilasbenson.github.io/lapr/pages/about/",
-                  "bold": true,
-                  "text": "About",
-                  "textSize": "heading-four"
+                  "link": "",
+                  "text": "About"
                 }
               ]
             },
@@ -62,32 +60,8 @@
               "type": "paragraph",
               "children": [
                 {
-                  "link": "https://llilasbenson.github.io/lapr/pages/key-programs-in-the-collection/",
-                  "bold": true,
-                  "text": "Key Programs in the Collection",
-                  "textSize": "heading-four"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "link": "https://llilasbenson.github.io/lapr/pages/how-to-use-tags/",
-                  "bold": true,
-                  "text": "How to Use Tags",
-                  "textSize": "heading-four"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "link": "https://llilasbenson.github.io/lapr/pages/annotated-programs/",
-                  "bold": true,
                   "text": "Annotated Programs",
-                  "textSize": "heading-four"
+                  "link": ""
                 }
               ]
             },
@@ -95,10 +69,42 @@
               "type": "paragraph",
               "children": [
                 {
-                  "link": "https://llilasbenson.github.io/lapr/pages/radio-programs-list/",
-                  "bold": true,
-                  "text": "Radio Programs List",
-                  "textSize": "heading-four"
+                  "text": "Key Programs in the Collection"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "How to Use Tags",
+                  "link": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "link": "",
+                  "text": "Radio Programs List"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Additional Resources"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "link": "",
+                  "text": "Index"
                 }
               ]
             }
@@ -188,7 +194,7 @@
   "created_at": "2025-02-10T21:14:32.928Z",
   "created_by": "llilasbenson",
   "title": "Latin American Press Review Radio Collection",
-  "updated_at": "2025-05-17T04:28:15.853Z",
+  "updated_at": "2025-06-08T16:23:13.388Z",
   "updated_by": "rpr88",
   "autogenerate": {
     "enabled": false,
