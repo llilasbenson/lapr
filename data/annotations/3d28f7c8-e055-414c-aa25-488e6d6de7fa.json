@@ -1,1 +1,775 @@
-{"annotations":[],"set":"Default","event_id":"ba80d948-11b1-4295-ae03-3bcc0a34c6c6","source_id":"2ce836bc-38b5-4109-9232-2db982ec86de"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are listening to Latin American Press Review, a weekly summary of events in Latin America, with special emphasis on translation from the Latin American press. This program is produced by the Latin American Policy Alternatives Group of Austin, Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6dc9341d-ea9d-4353-be58-c5ee5889012f"
+    },
+    {
+      "start_time": 18,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This week's Latin American Press Review features stories on Argentina, Chile, and the Dominican Republic. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "01574e1d-c5bc-49c4-87df-5db1a2384f3e"
+    },
+    {
+      "start_time": 27,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Uruguayan weekly, Marcha, recently reopened after a 10-week government ban, reports on her Argentine neighbor. \"Bomb explosions, police assassinations, political kidnappings, and strikes in the Argentine province of Córdoba marked the fifth anniversary of the Cordobazo, the popular rebellion of 1969. Leftist forces in other parts of the country also celebrated the occasion with similar activities. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "95b1e9d6-50c1-41b9-aa4e-802e0eba7342"
+    },
+    {
+      "start_time": 54,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Although police deactivated at least 30 bombs in Córdoba and Buenos Aires, more than 40 explosions occurred in various businesses, government offices, and factories. Several of the bombs exploded in Fiat and Renault automobile plants. In Córdoba, a heavily armed group machine-gunned the front of a government office, wounding two policemen in the attack. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "d3b46cf3-dd19-4865-8034-ca54ad6400b2"
+    },
+    {
+      "start_time": 77,
+      "end_time": 117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In still another confrontation, a policeman was killed. Strikes paralyzed the entire city. Even the radio stations and newspapers were closed down. Officials believed that the activities were initiated by both Peronist and non-Peronist leftist groups. Leaflets distributed by the Peronist armed forces were found in many of the automobile factories. One of the incidents was clearly the work of the People's Revolutionary Army, the ERP, a non-Peronist group. The guerrillas captured a police station 30 miles from Buenos Aires. After taking a large quantity of arms and uniforms, they set fire to the station and fled. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "5dd0e49a-2f2b-48b1-a13d-0fa7b612ab7c"
+    },
+    {
+      "start_time": 117,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rightist Peronist forces responded to the celebration with numerous attacks on the headquarters of leftist groups. Three members of one socialist party were kidnapped and killed. At least nine attacks were made on leftist party headquarters in Córdoba and nearby provinces. Three offices were burned. These recent events in Córdoba may be of crucial importance in the struggle between the left and the right in Argentina. Since the time of the Cordobazo in 1969, the area has been a center of leftist activity. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "b2b089e4-f65b-44cd-948e-74743465dd1b"
+    },
+    {
+      "start_time": 151,
+      "end_time": 190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The workers of Córdoba, Argentina's most recently industrialized city, have no tradition of paternalistic Peronist trade unionism. The rebellion began in 1969 in the Fiat plants, when workers seized factories and threatened to burn them down after the military dictator, Onganía, tried to add four hours to the workweek and refused to negotiate with the union. This action by 8,000 auto workers led to sit-downs in all of Córdoba's major plants. Students joined workers in barricading the city. The Cordobazo ended only after thousands of deaths, injuries and arrests. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "341e014c-295a-47f3-892b-96fe480d143b"
+    },
+    {
+      "start_time": 190,
+      "end_time": 221,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Cordobazo of 1969 initiated a surge of leftist activity all over the country. Since that time, left-Wing Peronists and revolutionary socialists have organized at least five urban guerrilla groups. The most important of these, the People's Revolutionary Army has claimed responsibility for the assassination of some of the top Peronist labor bureaucrats. As the Argentine situation becomes more chaotic, "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "bedb7da5-0e3f-4333-8aad-4b7b5441f8e8"
+    },
+    {
+      "start_time": 221,
+      "end_time": 248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Perón's crackdown on the left becomes more severe. His most recent act was the creation of a new Secretary of Security to centralize all functions of internal vigilance. The new agency, headed by the man who was chief of federal police under the former military dictatorship, will deal especially with guerrilla activity. Perón also continues to replace moderate officials with hardliners. Many observers fear that a right wing military coup in Argentina is not far in the future. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "a947c0db-c37a-45fd-a872-ab5c60fd6951"
+    },
+    {
+      "start_time": 248,
+      "end_time": 284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is especially significant that a rightist takeover recently occurred in Córdoba, the very province which has the strongest leftist tradition. On the last day of February, right wing police in Córdoba arrested the provincial governor for sympathy with Marxist infiltrators and placed the city under martial law. Perón obviously sympathetic to the takeover, replace the governor with a rightist. Some observers feel that this action was a test. If such a police takeover is effective in Córdoba, the same thing is likely to happen in the country as a whole. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "c3051688-7a48-4e95-a04f-16a8dc043c96"
+    },
+    {
+      "start_time": 284,
+      "end_time": 330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The recent events connected with the anniversary of the Cordobazo take on a greater importance in the context of the history of the area. The number of left-wing Peronist groups involved in the week's activities is of particular significance. These groups appear to be drawing closer and closer to a final break with Perón. Non Peronist guerrilla groups such as the ERP have long expressed the hope that the left wing of the Perran movement will join them in organizing a unified revolutionary party with workers support. Whether or not this alliance is formed will be an important factor in determining the future of Argentina. This story from the Uruguayan paper, Marcha. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Argentina"
+        }
+      ],
+      "uuid": "e5ec68a8-ac98-44c6-95af-65aec8543c77"
+    },
+    {
+      "start_time": 330,
+      "end_time": 363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Argentine daily, El Nacional, reports that recently consumers in Chile began to pay twice as much as they formally had for bread, milk, oil, and cigarettes. These price increases constituted a major setback for the ruling military junta's anti-inflationary program. The cost of living has risen 87% in the first four months of 1974 in comparison with 34% for the same period last year. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "1731252e-705e-4d82-80b5-e379d58cf1a0"
+    },
+    {
+      "start_time": 363,
+      "end_time": 378,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When the Marxist government of President Salvador Allende was in power. Perhaps to ease the impact of these announced price increases, the junta promised Chilean workers a wage increase in July. Also, as a part of its anti inflation campaign, the junta announced that it was laying off some 100,000 government employees. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "ec83e054-4f48-46e8-bd13-091124cf053d"
+    },
+    {
+      "start_time": 378,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also, the Peruvian newspaper, La Prensa, reports that a short film shown last week on French television offered the first glimpse inside what are the concentration camps established in Chile after the coup last September 11th. The film was dedicated to Chile by the newscaster. Before the camera, various prisoners declared, \"We want our freedom, our only crime is being socialists.\" The brief sequence ended with the Declaration of General Augusto Pinochet, chief of the military junta. \"In our country,\" said the general, \"There are no political prisoners. We are only detaining certain people.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "a10b2bb5-b227-4b6a-93c1-c579965c99f4"
+    },
+    {
+      "start_time": 419,
+      "end_time": 445,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also, Excelsior of Mexico City reports that a commission of American jurists and theologians, recently back from a fact-finding tour of Chile, have concluded that the democratic institutions of that country have been destroyed by the present military government. A member of the commission, former Attorney General Ramsey Clark, accused the Nixon administration of being one of the principal supporters of the junta. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "3d78458a-877b-4c87-9808-dfaf25f323be"
+    },
+    {
+      "start_time": 445,
+      "end_time": 467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He said the administration gives the impression of being more comfortable with military regimes than with democratic governments. As evidence, Clark noted that the Nixon government now grants to the military junta the financial credits that it systematically denied to the civilian government of former President Salvador Allende. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "64f0c8b3-473a-4061-91d6-4b3ac357a636"
+    },
+    {
+      "start_time": 467,
+      "end_time": 501,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In an exclusive Excelsior interview held in New York on June the eighth, the former Attorney General stated, \"In Chile democracy has clearly given way to tyranny. Since the military coup, the junta has fabricated its own set of laws and decrees. These laws then are altered at the junta's, slightest whims, and are applied retroactively. Chile is gripped by a reign of terror in which torture has become the key weapon. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "be5f3789-9fbb-4324-acf7-ffc02b5ce663"
+    },
+    {
+      "start_time": 501,
+      "end_time": 517,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Furthermore, the military government has violated countlessly each and every article in the Declaration of Human Rights.\" Clark also noted, reports Mexico's Excelsior, that, \"As worldwide support for the Chilean military regime continues to erode, tremendously powerful foreign economic interests have stepped up their efforts to stimulate the crippled Chilean economy.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "d4512c75-f354-401a-ba84-ef26d4fb1090"
+    },
+    {
+      "start_time": 517,
+      "end_time": 557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All of us, continued Clark, \"Have the obligation to ask the United States government and its Congress not to collaborate with a government which practices tyranny using the weapons which we have sold them.\" In concluding his statement, Clark warned, \"If the Chilean people continue to be deprived of the most basic rights and guarantees, civil war is sure to come to that country.\" These statements are a result of an extensive fact-finding tour of Chile, which Ramsey Clark completed only three weeks ago. Clark is presently director of the World Council of Churches, a member of Amnesty International, and President of the American Civil Liberties Union. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "efcad0d4-19c3-44a8-8178-0be458ab8e4c"
+    },
+    {
+      "start_time": 557,
+      "end_time": 568,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This story on Chile was compiled from the Argentine daily El Nacional, the Mexico City daily Excelsior, and the Lima, Peru daily La Prensa. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Chile"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "dc662910-76ae-4f72-b469-a382d8a1b498"
+    },
+    {
+      "start_time": 568,
+      "end_time": 599,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finally, we have a reporter from the Christian Science Monitor's firsthand account of conditions in the Dominican Republic. \"Every morning in Santa Domingo in the Dominican Republic, a crowd of ragged poor wait patiently outside President Joaquin Balaguer's modest suburban home for handouts of food or anything else available. Soldiers and police with automatic rifles mingled with the crowd, keeping order and eavesdropping on conversations.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "6bcf22eb-58a9-4004-a5c2-c992b23f687e"
+    },
+    {
+      "start_time": 599,
+      "end_time": 630,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soon after 10:00 a.m., the crowds were pushed back and President Balaguer, his face hidden behind curtains in a huge black limousine, swept through the iron gates on his way to the national palace. There was scattered applause. Then the crowds moved slowly back to the shade of the almond trees and resumed their vigil for charity. Dr. Balaguer, who completely dominates local politics, was recently reelected to his third successive term as president of the Dominican Republic. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "69a4eabf-187d-40c7-bf81-5a1fac5a430e"
+    },
+    {
+      "start_time": 630,
+      "end_time": 671,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was not a popular decision. Dr. Balaguer is cool and aloof, a conservative in a country crying out for change, an autocratic ruler in a country that still remembers the brutal dictatorship of Raphael Trujillo between 1930 and '61. The Trujillo era, in fact, continues. The image is better and the instruments are less crude, but the same people are still in power. Dr. Balaguer himself first came to the fore as the immediate successor of General Trujillo, after the old dictator was assassinated by some of his closest aides in 1961, when the country was rapidly disintegrating. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "58f0e2da-f90a-496c-9546-e4be3287b869"
+    },
+    {
+      "start_time": 671,
+      "end_time": 709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Within months, Dr. Balaguer was overthrown and forced into exile in New York. During his absence, the politics of chaos assumed complete control of the Dominican Republic. In perhaps the first free elections in the country's 120 years of independence, the left-leaning Juan Bosch won the presidency, but was ousted by the army within eight months. Then in April 1965, when a group of liberal army officers tried to reinstall him, a civil war broke out and the United States sent in a 24,000 man marine occupation force to prevent another Cuba. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "ea3b4c42-3fcc-4ea4-82b6-00d7fa56849e"
+    },
+    {
+      "start_time": 709,
+      "end_time": 736,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Throughout this period, Dr. Balaguer kept his hands clean, and he returned only when peace was restored more than a year later, to run against Professor Bosch in the June 1966 elections. Chosen by domestic conservatives and blessed by Washington, Dr. Balaguer won the election and has since been reelected twice, in 1970 and '74. His public image is paternalistic. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "91313260-a6ee-46d0-825e-fb38267d031d"
+    },
+    {
+      "start_time": 736,
+      "end_time": 761,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rather than allowing institutions and ministries to function normally, he personally cares for the population like a worried grandfather, and rather than attacking the basic causes of poverty and underdevelopment, he gives out food, sewing machines, bicycles, and even money to the crowds that gather before his home. The armed forces, meanwhile, have remained loyal because of senior officers' privileges. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "7c3b8405-5daf-42a3-8914-91b5c8ba9d16"
+    },
+    {
+      "start_time": 761,
+      "end_time": 803,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Businessmen have also seen the economy booming and have smiled contentedly. Dr. Balaguer's reelection was therefore a foregone conclusion. But strangely, during the two months before the May 16th polls, discontent with the regime was not only awakened, but it took the shape of support for one of the opposition groups, a coalition of left and right known as the Santiago Agreement. Its candidate, a liberal cattle rancher called Antonio Guzman continued to draw ever-larger crowds. Soon the government became concerned and the armed forces were mobilized to campaign openly, illegally, and threateningly for the president. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "71d11fb1-c76c-4bd8-a56e-9c02809219ba"
+    },
+    {
+      "start_time": 803,
+      "end_time": 830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finally, in a last minute move, the supposedly independent central electoral board revised the voting regulations in such a way that multiple voting by government supporters would be facilitated. Less than 12 hours before the polls opened, the Santiago agreement decided to boycott the elections and called for the abstention of its supporters, To demonstrate to the world that Balaguer was reelected illegitimately.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "96eac9cc-11e0-456c-92cb-d584d99ae354"
+    },
+    {
+      "start_time": 830,
+      "end_time": 859,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "About 50% of the 2 million registered voters adhered to the boycott, while thousands of others spoiled their ballots in protest at the government. The boycott had been a success. Dr. Balaguer will nevertheless be sworn in for his third successive term on July the first. As in 1970, he has promised a government of, \"National unity,\" and has publicly invited members of the opposition to collaborate with him, but this is considered more tactic than policy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "1e0dcb0f-5cdd-4c6d-a143-db75f4f8c5fa"
+    },
+    {
+      "start_time": 859,
+      "end_time": 862,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This from the Christian Science Monitor. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Countries",
+          "tag": "Dominican Republic"
+        },
+        {
+          "category": "Countries",
+          "tag": "Cuba"
+        },
+        {
+          "category": "Countries",
+          "tag": "United States"
+        }
+      ],
+      "uuid": "f4b4dcb5-483e-4c8d-9a93-67a83010e59c"
+    },
+    {
+      "start_time": 862,
+      "end_time": 894,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have been listening to Latin American Press Review, a weekly summary of events in Latin America with special emphasis on translations from the Latin American Press. This program is produced by the Latin American Policy Alternatives Group. Comments may be sent to the group at 2434 Guadalupe Street, Austin, Texas. That's 2434 Guadalupe Street, Austin, Texas. Latin American Press Review is distributed by Communication Center, the University of Texas at Austin. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "56174b1d-8314-4cf7-9673-e60e6bd455be"
+    },
+    {
+      "start_time": 894,
+      "end_time": 904,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Views expressed are those of the Latin American Policy Alternatives Group and its sources and are not necessarily endorsed by the University of Texas or this station. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "50d1d9c7-8240-4f8e-b726-b81328906cad"
+    }
+  ],
+  "set": "Default",
+  "event_id": "ba80d948-11b1-4295-ae03-3bcc0a34c6c6",
+  "source_id": "2ce836bc-38b5-4109-9232-2db982ec86de"
+}
