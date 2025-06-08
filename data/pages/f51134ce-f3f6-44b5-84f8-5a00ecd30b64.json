@@ -1,0 +1,131 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Map of Countries",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Visit the following "
+        },
+        {
+          "text": "link",
+          "link": "https://www.arcgis.com/apps/mapviewer/index.html?webmap=d99f22ff6e9d46d5b5945d9931dd398b"
+        },
+        {
+          "text": " to see a digital map of all the countries featured throughout the digitized Latin American Press Review Radio Collection."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Timeline of Events in Latin America",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Visit the following "
+        },
+        {
+          "text": "link",
+          "link": "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ZpOu41wpoB2nUwF9dWoU2O8r0Zv2YfmSRxNVnsRfPSk&font=Default&lang=en&initial_zoom=2&width=100%25&height=650"
+        },
+        {
+          "text": " to see a digital timeline of important events in Latin America during 1973-1974. Some of these events were further explored throughout the radio programs. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Project Documentation",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Audio Transcription Processing and Annotation Guide for the project can be found "
+        },
+        {
+          "type": "link",
+          "url": "https://repositories.lib.utexas.edu/items/1cc44e25-4173-4763-b2d0-dc08ab1f00cb",
+          "children": [
+            {
+              "text": "here"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Additional Resources",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "additional-resources-2",
+  "created_at": "2025-06-08T01:08:09.005Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-06-08T01:08:09.005Z",
+  "updated_by": "rpr88"
+}
