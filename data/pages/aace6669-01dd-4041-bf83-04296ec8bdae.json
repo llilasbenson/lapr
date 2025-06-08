@@ -111,40 +111,6 @@
               "align": "justify",
               "children": [
                 {
-                  "text": "Project Documentation",
-                  "bold": true
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Audio Transcription Processing and Annotation Guide for the project can be found "
-                },
-                {
-                  "text": "here",
-                  "link": "https://repositories.lib.utexas.edu/items/1cc44e25-4173-4763-b2d0-dc08ab1f00cb"
-                },
-                {
-                  "text": "."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "align": "justify",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "align": "justify",
-              "children": [
-                {
                   "text": "AI Use",
                   "bold": true
                 }
@@ -211,6 +177,6 @@
   "slug": "about",
   "created_at": "2025-04-17T02:29:49.857Z",
   "created_by": "rpr88",
-  "updated_at": "2025-05-14T06:11:35.339Z",
+  "updated_at": "2025-06-08T01:08:31.334Z",
   "updated_by": "rpr88"
 }
