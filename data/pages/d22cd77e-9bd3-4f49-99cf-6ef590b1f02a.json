@@ -157,10 +157,59 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "0:14:31-0:28:06",
+          "bold": true
+        },
+        {
+          "text": " International Telephone and Telegraph Company's (ITT) interference in Chile's political landscape and US foreign policy to protect corporate investments."
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "c5b89397-9a5a-4ed2-aa4b-8b6b3351c72d",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "start": 871,
+      "end": 1686,
+      "file": "3a7e8c2a-1db0-477c-9d6e-71a8b2bcef2e",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "0:14:31-0:28:06",
+          "bold": true
+        },
+        {
+          "text": " International Telephone and Telegraph Company's (ITT) interference in Chile's political landscape and US foreign policy to protect corporate investments."
+        }
+      ]
     },
     {
       "type": "event",
@@ -222,7 +271,7 @@
   "created_by": "rpr88",
   "title": "1973-03-22",
   "slug": "1973-03-22",
-  "updated_at": "2025-05-18T17:27:39.737Z",
+  "updated_at": "2025-06-13T18:33:56.658Z",
   "updated_by": "rpr88",
   "parent": "34d25186-1fe4-42f0-b013-60effa02b1e5",
   "autogenerate": {
