@@ -29,96 +29,10 @@
     {
       "type": "grid",
       "layout": [
-        3,
-        3
+        4,
+        2
       ],
       "children": [
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "link": "",
-                  "text": "TABLE OF CONTENTS",
-                  "bold": true,
-                  "textSize": "heading-two"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "link": "https://llilasbenson.github.io/lapr/pages/about/",
-                  "text": "About",
-                  "textSize": "heading-four"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Annotated Programs",
-                  "link": "https://llilasbenson.github.io/lapr/pages/annotated-programs/",
-                  "textSize": "heading-four"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Key Programs in the Collection",
-                  "link": "https://llilasbenson.github.io/lapr/pages/key-programs-in-the-collection/",
-                  "textSize": "heading-four"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "How to Use Tags",
-                  "link": "https://llilasbenson.github.io/lapr/pages/how-to-use-tags/",
-                  "textSize": "heading-four"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "link": "https://llilasbenson.github.io/lapr/pages/radio-programs-list/",
-                  "text": "Radio Programs List",
-                  "textSize": "heading-four"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Additional Resources",
-                  "link": "https://llilasbenson.github.io/lapr/pages/additional-resources/",
-                  "textSize": "heading-four"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "link": "https://llilasbenson.github.io/lapr/tags/",
-                  "text": "Index",
-                  "textSize": "heading-four"
-                }
-              ]
-            }
-          ]
-        },
         {
           "type": "column",
           "children": [
@@ -159,6 +73,24 @@
               "align": "justify"
             },
             {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_misc_ph_06_109_001.jpg",
+              "caption": "Miscellaneous Photographs at the Benson Latin American Collection, Nettie Lee Benson Latin American Collection, University of Texas Libraries, The University of Texas at Austin.",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "paragraph",
               "children": [
                 {
@@ -178,12 +110,159 @@
                 }
               ],
               "align": "justify"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "TABLE OF CONTENTS",
+                  "bold": true,
+                  "textSize": "heading-three"
+                }
+              ]
             },
             {
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\n\n\n\n\n"
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://llilasbenson.github.io/lapr/pages/about/",
+                  "children": [
+                    {
+                      "text": "About"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://llilasbenson.github.io/lapr/pages/annotated-programs/",
+                  "children": [
+                    {
+                      "text": "Annotated Programs"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://llilasbenson.github.io/lapr/pages/key-programs-in-the-collection/",
+                  "children": [
+                    {
+                      "text": "Key Programs in the Collection"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://llilasbenson.github.io/lapr/pages/how-to-use-tags/",
+                  "children": [
+                    {
+                      "text": "How to Use Tags"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://llilasbenson.github.io/lapr/pages/radio-programs-list/",
+                  "children": [
+                    {
+                      "text": "Radio Programs List"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://llilasbenson.github.io/lapr/pages/additional-resources/",
+                  "children": [
+                    {
+                      "text": "Additional Resources"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://llilasbenson.github.io/lapr/tags/",
+                  "children": [
+                    {
+                      "text": "Index"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
                 }
               ]
             }
@@ -203,7 +282,7 @@
   "created_at": "2025-02-10T21:14:32.928Z",
   "created_by": "llilasbenson",
   "title": "Latin American Press Review Radio Collection",
-  "updated_at": "2025-06-08T16:32:48.205Z",
+  "updated_at": "2025-06-20T15:43:41.400Z",
   "updated_by": "rpr88",
   "autogenerate": {
     "enabled": false,
