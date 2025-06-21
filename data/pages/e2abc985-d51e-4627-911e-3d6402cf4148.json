@@ -1,0 +1,148 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "underline": true,
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "underline": true,
+          "bold": true,
+          "text": "Event Summary"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Part I:",
+          "underline": true
+        },
+        {
+          "text": " Panama exerts diplomatic pressure on US through the UN Security Council meeting in 1971 regarding Panamanian sovereignty and jurisdiction over the Canal Zone; Internal struggles and ideological divisions within Chile's Popular Unity government; Brazilian Bishops denounce human rights violations and discrimination under military government; Upcoming Chile-US talks on financial disputes; Latin American nations oppose Britain's Organization of American States observer status."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Part II:",
+          "underline": true
+        },
+        {
+          "text": " This week's feature delves into the ongoing conflict between multinational corporations and Latin American nationalist governments, using the case of ITT's involvement in Chile as a focal point. The recent resurgence of ITT's secret memorandums has underscored the immense influence these corporations wield in the region. Senate hearings revealed ITT's extensive efforts to protect its investments in Chile, including lobbying the Nixon Administration and potentially supporting a coup against President Allende. Despite these efforts, ITT failed to prevent Allende's election. The situation highlights the complex dynamics between corporations and governments in Latin America, with nationalist sentiments often challenging corporate interest."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Segment Summaries",
+          "underline": true,
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "c5b89397-9a5a-4ed2-aa4b-8b6b3351c72d",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "start": 24,
+      "end": 1686,
+      "file": "3a7e8c2a-1db0-477c-9d6e-71a8b2bcef2e",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "c5b89397-9a5a-4ed2-aa4b-8b6b3351c72d",
+      "includes": [
+        "media",
+        "annotations",
+        "label"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "1973-03-22-draft",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "1973-03-22-draft",
+  "created_at": "2025-06-21T17:41:34.068Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-06-21T17:41:34.068Z",
+  "updated_by": "tanyaclement"
+}
