@@ -14,9 +14,18 @@
       "type": "paragraph",
       "children": [
         {
-          "underline": true,
+          "text": "March 22, 1973",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "bold": true,
-          "text": "Event Summary"
+          "text": "Event Summary",
+          "textSize": "heading-two"
         }
       ]
     },
@@ -29,6 +38,14 @@
         },
         {
           "text": " Panama exerts diplomatic pressure on US through the UN Security Council meeting in 1971 regarding Panamanian sovereignty and jurisdiction over the Canal Zone; Internal struggles and ideological divisions within Chile's Popular Unity government; Brazilian Bishops denounce human rights violations and discrimination under military government; Upcoming Chile-US talks on financial disputes; Latin American nations oppose Britain's Organization of American States observer status."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -57,8 +74,8 @@
       "children": [
         {
           "text": "Segment Summaries",
-          "underline": true,
-          "bold": true
+          "bold": true,
+          "textSize": "heading-two"
         }
       ]
     },
@@ -90,18 +107,16 @@
       "type": "paragraph",
       "children": [
         {
-          "bold": true,
-          "underline": true,
-          "text": ""
+          "text": "March 22, 1973",
+          "textSize": "heading-two"
         }
       ]
     },
     {
-      "uuid": "c5b89397-9a5a-4ed2-aa4b-8b6b3351c72d",
+      "uuid": "0069bc3f-fcae-4527-99c0-e25cc1a04d0f",
       "includes": [
         "media",
-        "annotations",
-        "label"
+        "annotations"
       ],
       "type": "event",
       "children": [
@@ -143,6 +158,6 @@
   "slug": "1973-03-22-draft",
   "created_at": "2025-06-21T17:41:34.068Z",
   "created_by": "tanyaclement",
-  "updated_at": "2025-06-21T17:41:34.068Z",
+  "updated_at": "2025-06-21T20:16:52.438Z",
   "updated_by": "tanyaclement"
 }
