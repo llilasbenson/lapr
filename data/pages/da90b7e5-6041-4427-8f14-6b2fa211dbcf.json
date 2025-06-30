@@ -22,16 +22,6 @@
           "type": "column",
           "children": [
             {
-              "type": "image",
-              "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_horman_05_10_004.jpg",
-              "size": "full",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "paragraph",
               "align": "justify",
               "children": [
@@ -127,6 +117,33 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/llilasbenson/live_project_thumbnails/refs/heads/master/lapr_avannotate_images/utblac_horman_05_10_004.jpg",
+              "caption": "Joyce Horman and Edmund Horman Papers, Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         }
@@ -171,6 +188,6 @@
   "slug": "1974-06-13",
   "created_at": "2025-04-12T02:29:23.521Z",
   "created_by": "rpr88",
-  "updated_at": "2025-06-30T07:12:21.435Z",
+  "updated_at": "2025-06-30T07:22:55.570Z",
   "updated_by": "rpr88"
 }
