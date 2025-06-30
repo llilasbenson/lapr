@@ -91,7 +91,11 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "Political violence and leftist uprisings in Argentina mark the anniversary of the Córdobazo."
+                      "text": "0:00:27-0:05:30",
+                      "bold": true
+                    },
+                    {
+                      "text": " Political violence and leftist uprisings in Argentina mark the anniversary of the Córdobazo."
                     }
                   ],
                   "align": "justify"
@@ -101,7 +105,11 @@
                   "align": "justify",
                   "children": [
                     {
-                      "text": "Chile's rising costs, military junta actions, and international criticism of human rights violations."
+                      "text": "0:05:30-0:09:28",
+                      "bold": true
+                    },
+                    {
+                      "text": " Chile's rising costs, military junta actions, and international criticism of human rights violations."
                     }
                   ]
                 },
@@ -110,7 +118,11 @@
                   "align": "justify",
                   "children": [
                     {
-                      "text": "In the Dominican Republic, President Balaguer's controversial re-election faced protests and boycotts."
+                      "text": "0:09:28-0:14:22",
+                      "bold": true
+                    },
+                    {
+                      "text": " In the Dominican Republic, President Balaguer's controversial re-election faced protests and boycotts."
                     }
                   ]
                 }
@@ -159,6 +171,6 @@
   "slug": "1974-06-13",
   "created_at": "2025-04-12T02:29:23.521Z",
   "created_by": "rpr88",
-  "updated_at": "2025-06-20T15:34:04.465Z",
+  "updated_at": "2025-06-30T07:12:21.435Z",
   "updated_by": "rpr88"
 }
