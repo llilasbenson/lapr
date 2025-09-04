@@ -97,6 +97,36 @@
           ]
         },
         {
+          "text": ".\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Data",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "You can download the project's annotations through the"
+        },
+        {
+          "type": "link",
+          "url": "https://dataverse.tdl.org/dataverse/speakout",
+          "children": [
+            {
+              "text": "Texas Data Repository",
+              "link": "https://dataverse.tdl.org/dataverse/lrn"
+            }
+          ]
+        },
+        {
           "text": "."
         }
       ]
@@ -126,6 +156,6 @@
   "slug": "additional-resources",
   "created_at": "2025-06-08T01:08:04.494Z",
   "created_by": "rpr88",
-  "updated_at": "2025-06-08T01:08:04.494Z",
-  "updated_by": "rpr88"
+  "updated_at": "2025-09-04T20:39:13.561Z",
+  "updated_by": "llilasbenson"
 }
